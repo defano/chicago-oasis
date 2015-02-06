@@ -1,4 +1,4 @@
-(function(index, $, undefined) {
+(function (index, $) {
 
 	var year = 2007;
 	var geo = "neighborhood";
@@ -68,6 +68,16 @@
 	};
 
 	index.init = function() {
+        
+		// Fire it off; build polys when complete
+		$.ajax({
+			url : 'https://api.mongolab.com/api/1/databases/heroku_app33701173/collections/ChicagoAccessiblity/?apiKey=bHScF9QLGaI7sPGM5B6HVAjlGVZLLs0Z',
+			dataType : 'json',
+			success : function(data) {
+                console.log(data);
+            }
+		});
+        
 		initYearSlider();
 		initBusinessDropdown();
 		initGeoRadio();
