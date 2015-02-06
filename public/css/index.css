@@ -1,0 +1,67 @@
+.main-content {
+	width: 100%;
+	overflow: hidden;
+}
+
+.control-panel {
+	float: left;
+	padding-left: 20px;
+	padding-bottom: 70px;
+	width: 35%;
+	height: 100%;
+	display: table;
+}
+
+.map-panel {
+	float: right;
+	height: 100%;
+	padding-bottom: 70px;
+	padding-left: 20px;
+	width: 65%;
+}
+
+.indented {
+	margin-left: 20px;
+}
+
+.vert-break {
+	margin-top: 25px;
+}
+
+.big-vert-break {
+	margin-top: 50px;
+}
+
+#map-canvas {
+	height: 100%;
+	margin: 0px 20px 0px 0px;
+	padding: 0px;
+}
+
+.slider-panel {
+	width: 100%;
+}
+
+div.info-panel>p {
+	text-align: justify;
+}
+
+.area-subtitle {
+	margin-top: -8px;
+	color: grey;
+	font-style: italic;
+}
+
+body {
+	padding-bottom: 70px;
+}
+
+.float-bottom {
+	display: table-row;
+	vertical-align: bottom;
+	height: 1px;
+}
+
+.area-name {
+	text-transform: capitalize;
+}

@@ -1,0 +1,102 @@
+<html>
+
+<head>
+    <title>Desert Chicago</title>
+    <link rel="stylesheet" type="text/css" href="/lib/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="/lib/bootstrap/dist/css/bootstrap-theme.css">
+    <link rel="stylesheet" type="text/css" href="/lib/bootstrap-multiselect/dist/css/bootstrap-multiselect.css">
+    <link rel="stylesheet" type="text/css" href="/lib/seiyria-bootstrap-slider/css/bootstrap-slider.css">
+
+    <link rel="stylesheet" type="text/css" href="/css/header.css">
+    <link rel="stylesheet" type="text/css" href="/css/index.css">
+
+    <script type="text/javascript" src="/lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/lib/bootstrap-multiselect/dist/js/bootstrap-multiselect.js"></script>
+    <script type="text/javascript" src="/lib/seiyria-bootstrap-slider/js/bootstrap-slider.js"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+    
+    <script type="text/javascript" src="/js/index.js"></script>
+    <script type="text/javascript" src="/js/index-boot.js"></script>
+    <script type="text/javascript" src="/js/maps.js"></script>
+    <script type="text/javascript" src="/js/maps-boot.js"></script>
+
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="./">Desert Chicago <span
+				class="navbar-subtitle"> neighborhood data haboob</span></a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="statistics"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span> Statistics</a>
+                    </li>
+                    <li><a href="about"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        <div class="control-panel float-bottom-container">
+            <div class="well">
+                <h4>Show deserts of</h4>
+                <div class="indented">
+                    <select id="business-multiselect" multiple="multiple">
+                        <option value="Grocery">Grocery</option>
+                        <option value="Pharmacy">Pharmacy</option>
+                        <option value="Tavern">Tavern</option>
+                        <option value="Bearded men in skinny jeans">Bearded men in skinny jeans</option>
+                    </select>
+                </div>
+                <h4 class="vert-break">Within each</h4>
+                <div class="btn-group indented" data-toggle="buttons">
+                    <label class="btn btn-primary active">
+                        <input type="radio" name="neighborhood" id="neighborhood-radio"> Neighborhood
+                    </label>
+                    <label class="btn btn-primary">
+                        <input type="radio" name="census" id="census-radio" checked="checked"> Census Tract
+                    </label>
+                </div>
+                <h4 class="vert-break">For calendar year</h4>
+                <div class="indented">
+                    <input id="year-slider" type="text" value="2007" data-handle="round" data-slider-min="2000" data-slider-max="2014" data-slider-step="1" data-slider-value="2007" data-slider-orientation="horizontal" data-slider-selection="after" data-slider-tooltip="hide"><span id="year-value" class="label label-default indented">2007</span>
+                </div>
+            </div>
+            <div class="big-vert-break info-panel float-bottom">
+                <h3>
+            <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> <span class="area-name">LINCOLN PARK</span>
+        </h3>
+                <p class="area-subtitle">Least deserted</p>
+                <p>
+                    In 2007, <span class="area-name">Lincoln Park</span> had an average of <b>3 grocery stores within one mile</b> of every resident, 5 grocery stores within two miles, and 9 grocery stores within three miles.
+                </p>
+                <p>By comparison, residents city-wide had 2.1 grocery stores within one mile, 4 grocery stores within two miles, and 6 grocery stores within three miles.</p>
+                <br>
+                <p>
+                    <span class="area-name">Lincoln Park</span> is the <b>4th wealthiest</b> community in Chicago and the <b>2nd least deserted</b> for food.
+                </p>
+            </div>
+        </div>
+        <div class="map-panel">
+            <div id="map-canvas"></div>
+        </div>
+    </div>
+
+    <nav class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="container-fluid">
+            <div class="navbar-header navbar-right">
+                <a class="navbar-brand" href="http://www.stagrp.com"> <img alt="STA Group" src="img/sta-group-logo.png" style="height: 22px;">
+                </a>
+            </div>
+        </div>
+    </nav>
+
+</body>
+
+</html>

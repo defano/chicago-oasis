@@ -1,7 +1,6 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Desert Chicago",
+  "description": "Neighborhood data haboob.",
   "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+    "keywords": ["chicago", "desert"]
 }

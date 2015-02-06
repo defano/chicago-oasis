@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.1.2",
-  "description": "A sample Node.js app using Express 4",
+  "name": "desert-chicago",
+  "version": "0.0.1",
+  "description": "A neighborhood data haboob",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -17,9 +17,9 @@
     "url": "https://github.com/heroku/node-js-getting-started"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "chicago",
+    "desert",
+    "food"
   ],
   "license": "MIT"
 }
