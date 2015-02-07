@@ -1,6 +1,3 @@
-.main-content {
-}
-
 .control-panel {
     float: left;
     padding-left: 20px;
@@ -8,13 +5,13 @@
     width: 35%;
     height: calc(100% - 2px);
     display: table;
+    min-width: 350px;
 }
 
 .map-panel {
-    float: right;
     padding-left: 20px;
     padding-right: 20px;
-    width: 65%;
+    overflow: auto;
 }
 
 .indented {
@@ -31,6 +28,7 @@
 
 #map-canvas {
     height: calc(100% - 70px);
+    width: 100%;
 }
 
 .slider-panel {
