@@ -78,7 +78,7 @@
         console.log("Showing " + business + " across " + geo + " for year " + year);
     };
 
-    index.init = function () {
+    index.init = function () {    
         initBusinessMarkerRadios();
         initYearSlider();
         initBusinessDropdown();

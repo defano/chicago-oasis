@@ -13,6 +13,8 @@
     // for rendering
     var communitiesReady = false;
     var censusReady = false;
+
+    var circle = null;
     
     function queryFusionTable(tableId, successCallback) {
 
@@ -124,6 +126,10 @@
                 });
             });
 
+            google.maps.event.addListener(poly, 'click', function (event) {
+                drawCircle(event.latLng, 1000);
+            });
+
             polys.push(poly);
         }
 
@@ -138,6 +144,24 @@
                 coordinates[i][0]));
         }
         return newCoordinates;
+    }
+
+    function drawCircle(centerLatLng, radius) {
+        if (circle) circle.setMap(null);
+        
+        var circleOptions = {
+            strokeColor: '#ffffff',
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillColor: '#4491BB',
+            fillOpacity: 0.35,
+            map: map,
+            center: centerLatLng,
+            radius: radius,
+            zIndex:google.maps.Marker.MAX_ZINDEX + 1 
+        };
+
+        circle = new google.maps.Circle(circleOptions);
     }
 
     maps.init = function () {
