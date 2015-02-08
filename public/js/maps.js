@@ -95,10 +95,10 @@
 
             if (geometries) {
                 for (var j in geometries) {
-                    newCoordinates.push(constructNewCoordinates(geometries[j]));
+                    newCoordinates.push(getPolygonCoordinates(geometries[j]));
                 }
             } else {
-                newCoordinates = constructNewCoordinates(rows[i][1]['geometry']);
+                newCoordinates = getPolygonCoordinates(rows[i][1]['geometry']);
             }
 
             var poly = new google.maps.Polygon({
@@ -136,7 +136,7 @@
         successCallback(polys);
     }
 
-    function constructNewCoordinates(polygon) {
+    function getPolygonCoordinates(polygon) {
         var newCoordinates = [];
         var coordinates = polygon['coordinates'][0];
         for (var i in coordinates) {
