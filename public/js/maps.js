@@ -15,7 +15,7 @@
     var censusReady = false;
 
     var circle = null;
-    
+
     function queryFusionTable(tableId, successCallback) {
 
         // Construct the Fusion Table query
@@ -45,25 +45,21 @@
         map = new google.maps.Map(document.getElementById('map-canvas'),
             options);
 
-        queryFusionTable(COMMUNITY_AREAS_TABLE, onCommunityPolysReady);
-        queryFusionTable(CENSUS_TRACTS_TABLE, onCensusPolysReady);
+        queryFusionTable(CENSUS_TRACTS_TABLE, function (polys) {
+            censusPolys = polys;
+            censusReady = true;
+        });
+        
+        queryFusionTable(COMMUNITY_AREAS_TABLE, function (polys) {
+            communityPolys = polys;
+            communitiesReady = true;
+            showPolys(communityPolys);
+        });
     }
 
     maps.getMap = function () {
         return map;
     };
-
-    function onCensusPolysReady(polys) {
-        censusPolys = polys;
-        censusReady = true;
-    }
-
-    function onCommunityPolysReady(polys) {
-        communityPolys = polys;
-        communitiesReady = true;
-
-        showPolys(communityPolys);
-    }
 
     function getWeightForArea(areaId) {
         // TODO: Query datasource for accessibility index
@@ -148,7 +144,7 @@
 
     function drawCircle(centerLatLng, radius) {
         if (circle) circle.setMap(null);
-        
+
         var circleOptions = {
             strokeColor: '#ffffff',
             strokeOpacity: 0.8,
@@ -158,7 +154,7 @@
             map: map,
             center: centerLatLng,
             radius: radius,
-            zIndex:google.maps.Marker.MAX_ZINDEX + 1 
+            zIndex: google.maps.Marker.MAX_ZINDEX + 1
         };
 
         circle = new google.maps.Circle(circleOptions);

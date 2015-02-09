@@ -79,6 +79,10 @@
     };
 
     index.init = function () {    
+        
+        var boom;
+        console.log("YO: " + json.fetch("licenses.json"));
+        
         initBusinessMarkerRadios();
         initYearSlider();
         initBusinessDropdown();
