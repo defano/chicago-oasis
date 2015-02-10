@@ -1,14 +1,13 @@
 (function (index, $) {
 
-    json.fetch = function (file) {
+    json.fetch = function (file, callback) {
         var rxdata = null;
         
         $.ajax({
-            async: "false",
             url: '/json/' + file,
             dataType: 'json',
-            success: function (data) {
-                rxdata = data;
+            success: function(data) {
+                callback(data);
             }
         });
         

@@ -29,6 +29,12 @@
             filterPlaceholder: 'Business Type',
             includeSelectAllOption: true
         });
+
+        json.fetch("licenses.json", function (data) {
+            console.log("here!: " + data);
+            $("#business-multiselect").multiselect('dataprovider', data);
+        });
+
     }
 
     function initYearSlider() {
@@ -78,11 +84,8 @@
         console.log("Showing " + business + " across " + geo + " for year " + year);
     };
 
-    index.init = function () {    
-        
-        var boom;
-        console.log("YO: " + json.fetch("licenses.json"));
-        
+    index.init = function () {
+
         initBusinessMarkerRadios();
         initYearSlider();
         initBusinessDropdown();
