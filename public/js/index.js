@@ -31,10 +31,8 @@
         });
 
         json.fetch("licenses.json", function (data) {
-            console.log("here!: " + data);
             $("#business-multiselect").multiselect('dataprovider', data);
         });
-
     }
 
     function initYearSlider() {
@@ -77,15 +75,21 @@
     index.update = function () {
         if (geo == "census") {
             maps.showCensusTracts();
+            
+            // TODO: Load dataset based on current UI selections
+            maps.setCensusData("grocery-tracts.json");
         } else {
             maps.showCommunities();
+
+            // TODO: Load dataset based on current UI selections
+            maps.setCommunityData(null);
         }
 
         console.log("Showing " + business + " across " + geo + " for year " + year);
     };
 
     index.init = function () {
-
+        
         initBusinessMarkerRadios();
         initYearSlider();
         initBusinessDropdown();

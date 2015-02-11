@@ -5,6 +5,8 @@
     var COMMUNITY_AREAS_TABLE = '19403tp7_IakdCX0soN031hMap7jPZV3uPbNhI9ME';
     var API_KEY = 'AIzaSyB_Idpo8GuOvdaIU7VtOsk7pTargR6rEFw';
 
+    var METERS_PER_MILE = 1609.34;
+    
     var communityPolys; // community area polygons
     var censusPolys; // census tract polygons
     var map = null; // Google map object
@@ -49,7 +51,7 @@
             censusPolys = polys;
             censusReady = true;
         });
-        
+
         queryFusionTable(COMMUNITY_AREAS_TABLE, function (polys) {
             communityPolys = polys;
             communitiesReady = true;
@@ -60,11 +62,6 @@
     maps.getMap = function () {
         return map;
     };
-
-    function getWeightForArea(areaId) {
-        // TODO: Query datasource for accessibility index
-        return Math.random() + .25;
-    }
 
     function showPolys(polys) {
         polys.forEach(function (poly) {
@@ -103,13 +100,12 @@
                 strokeOpacity: 1,
                 strokeWeight: 2,
                 fillColor: '#DB944D',
-                fillOpacity: getWeightForArea(areaId),
                 areaId: areaId,
-                areaName: areaName
+                areaName: areaName,
             });
 
             google.maps.event.addListener(poly, 'mouseover', function () {
-                $(".area-name").html(this.areaName);
+                $(".area-name").html(this.areaName + " (" + this.fillOpacity + ")");
                 this.setOptions({
                     strokeOpacity: 1,
                     strokeWeight: 6,
@@ -123,7 +119,7 @@
             });
 
             google.maps.event.addListener(poly, 'click', function (event) {
-                drawCircle(event.latLng, 1000);
+                drawCircle(event.latLng, METERS_PER_MILE * 1);
             });
 
             polys.push(poly);
@@ -159,7 +155,15 @@
 
         circle = new google.maps.Circle(circleOptions);
     }
-
+    
+    function renderData (polys, data) {
+        polys.forEach (function (thisPoly) {
+            thisPoly.setOptions({
+                fillOpacity: data[thisPoly.areaId] && data[thisPoly.areaId]['ACCESS_INDEX'] * 5
+            });
+        });
+    }
+    
     maps.init = function () {
         initialize();
     };
@@ -172,7 +176,7 @@
         return communitiesReady;
     };
 
-    maps.showCommunities = function () {
+    maps.showCommunities = function (withDataset) {
         if (maps.areCommunitiesReady()) {
             showPolys(communityPolys);
             hidePolys(censusPolys);
@@ -184,6 +188,18 @@
             showPolys(censusPolys);
             hidePolys(communityPolys);
         }
+    };
+
+    maps.setCommunityData = function (datafile) {
+        json.fetch(datafile, function (data) {
+            renderData(communityPolys, data);
+        });
+    };
+    
+    maps.setCensusData = function (datafile) {
+        json.fetch(datafile, function (data) {
+            renderData(censusPolys, data);
+        });
     };
 
 }(window.maps = window.maps || {}, jQuery));
