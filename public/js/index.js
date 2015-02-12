@@ -72,10 +72,20 @@
         });
     }
 
+    function initPopovers() {
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        });
+
+        $(function () {
+            $('[data-toggle="popover"]').popover()
+        });
+    }
+
     index.update = function () {
         if (geo == "census") {
             maps.showCensusTracts();
-            
+
             // TODO: Load dataset based on current UI selections
             maps.setCensusData("grocery-tracts.json");
         } else {
@@ -89,12 +99,12 @@
     };
 
     index.init = function () {
-        
         initBusinessMarkerRadios();
         initYearSlider();
         initBusinessDropdown();
         initGeoRadio();
         initBusinessMultiselect();
+        initPopovers();
     };
 
 }(window.index = window.index || {}, jQuery));
