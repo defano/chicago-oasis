@@ -1,17 +1,14 @@
 (function (index, $) {
 
     json.fetch = function (file, callback) {
-        var rxdata = null;
-        
         $.ajax({
             url: '/json/' + file,
             dataType: 'json',
-            success: function(data) {
+            success: function (data) {
                 callback(data);
-            }
+            },
+            error: function (xhr, status, error) {console.log("Request failed for " + file + " with status: " + status + ", " + error);}
         });
-        
-        return rxdata;
     }
 
 }(window.json = window.json || {}, jQuery));

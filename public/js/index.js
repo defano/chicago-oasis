@@ -1,25 +1,19 @@
 (function (index, $) {
 
-    var year = 2007;
-    var geo = "neighborhood";
-    var business = "Food";
-
+    /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
+     */
     function initGeoRadio() {
         $('#neighborhood-radio').change(function () {
-            if ($(this).is(':checked')) {
-                geo = "neighborhood";
-                index.update();
-            }
+            index.update();
         });
 
         $('#census-radio').change(function () {
-            if ($(this).is(':checked')) {
-                geo = "census";
-                index.update();
-            }
+            index.update();
         });
     }
 
+    /* Initialize the business license multiselect drop-down with data fetched from the server.
+     */
     function initBusinessMultiselect() {
         $('#business-multiselect').multiselect({
             buttonClass: 'desert-multiselect-button btn btn-primary',
@@ -33,6 +27,10 @@
         json.fetch("licenses.json", function (data) {
             $("#business-multiselect").multiselect('dataprovider', data);
         });
+
+        $('#business-multiselect').change(function () {
+            index.update();
+        });
     }
 
     function initYearSlider() {
@@ -45,30 +43,7 @@
         // But only fire the update function once user has made a selection
         $("#year-slider").slider().on('slideStop', function (event) {
             $("#year-value").text(event.value);
-            year = event.value;
             index.update();
-        });
-    }
-
-    function initBusinessDropdown() {
-        $(".dropdown-menu li a").click(
-            function () {
-                $("#business-dropdown").html(
-                    $(this).text() + " <span class='caret'></span>");
-                business = $(this).text();
-                index.update();
-            });
-    }
-
-    function initBusinessMarkerRadios() {
-        $('#show-business-markers').change(function () {
-            if ($(this).is(":checked")) {
-                $("#critical-businesses").attr('disabled', false);
-                $("#all-businesses").attr('disabled', false);
-            } else {
-                $("#critical-businesses").attr('disabled', true);
-                $("#all-businesses").attr('disabled', true);
-            }
         });
     }
 
@@ -82,29 +57,57 @@
         });
     }
 
-    index.update = function () {
-        if (geo == "census") {
-            maps.showCensusTracts();
+    function initCriticalBusiness() {
+        $("#show-critical-businesses").change(function () {
+            index.update();
+        });
+    }
 
-            // TODO: Load dataset based on current UI selections
-            maps.setCensusData("grocery-tracts.json");
+    function getSelectedBusiness() {
+        return $('#business-multiselect').val();
+    }
+
+    function getSelectedYear() {
+        return $("#year-slider").val();
+    }
+
+    function getAreaType() {
+        return $('#neighborhood-radio').is(':checked') ? "neighborhood" : "census";
+    }
+
+    /*
+     * Invoked when a user makes a UI selection that affects map rendering
+     */
+    index.update = function () {
+        var dataset = getAreaType() + "-" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+        console.log(dataset);
+
+        // Update polygons and shading
+        // TODO: Cache this result and only fetch/update when required
+        if (getAreaType() == "census") {
+            maps.showCensusTracts();
+            maps.setCensusData(dataset);
         } else {
             maps.showCommunities();
-
-            // TODO: Load dataset based on current UI selections
-            maps.setCommunityData(null);
+            maps.setCommunityData(dataset);
         }
 
-        console.log("Showing " + business + " across " + geo + " for year " + year);
+        // Update critical business markers
+        // TODO: Cache this result and only fetch/update when required
+        if ($("#show-critical-businesses").is(':checked')) {
+            var datafile = "critical-" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+            maps.showMarkers(datafile);
+        } else {
+            maps.hideMarkers();
+        }
     };
 
     index.init = function () {
-        initBusinessMarkerRadios();
         initYearSlider();
-        initBusinessDropdown();
         initGeoRadio();
         initBusinessMultiselect();
         initPopovers();
+        initCriticalBusiness();
     };
 
 }(window.index = window.index || {}, jQuery));

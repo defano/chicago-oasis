@@ -6,7 +6,7 @@
     var API_KEY = 'AIzaSyB_Idpo8GuOvdaIU7VtOsk7pTargR6rEFw';
 
     var METERS_PER_MILE = 1609.34;
-    
+
     var communityPolys; // community area polygons
     var censusPolys; // census tract polygons
     var map = null; // Google map object
@@ -17,6 +17,7 @@
     var censusReady = false;
 
     var circle = null;
+    var markers = [];
 
     function queryFusionTable(tableId, successCallback) {
 
@@ -155,15 +156,15 @@
 
         circle = new google.maps.Circle(circleOptions);
     }
-    
-    function renderData (polys, data) {
-        polys.forEach (function (thisPoly) {
+
+    function renderData(polys, data) {
+        polys.forEach(function (thisPoly) {
             thisPoly.setOptions({
                 fillOpacity: data[thisPoly.areaId] && data[thisPoly.areaId]['ACCESS_INDEX'] * 5
             });
         });
     }
-    
+
     maps.init = function () {
         initialize();
     };
@@ -190,12 +191,41 @@
         }
     };
 
+    function renderMarkers(places) {
+        places.forEach(function (place) {
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(place.lat, place.lng),
+                title: place.name,
+                map: map
+            });
+
+            markers.push(marker);
+        });
+    };
+
+    maps.showMarkers = function (datafile) {
+        maps.hideMarkers();
+        json.fetch(datafile, function (places) {
+            renderMarkers(places);
+        });
+    };
+
+    maps.hideMarkers = function () {
+        if (markers != null) {
+            markers.forEach(function (thisMarker) {
+                thisMarker.setMap(null);
+            });
+        }
+
+        markers = [];
+    };
+
     maps.setCommunityData = function (datafile) {
         json.fetch(datafile, function (data) {
             renderData(communityPolys, data);
         });
     };
-    
+
     maps.setCensusData = function (datafile) {
         json.fetch(datafile, function (data) {
             renderData(censusPolys, data);

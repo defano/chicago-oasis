@@ -1,80 +1,80 @@
 [{
         "title": "Animal Care",
         "label": "Animal Care",
-        "value": "Animal Care License"
+        "value": "animal-care"
     },
     {
         "title": "Bike Messenger",
         "label": "Bike Messenger",
-        "value": "Bicycle Messenger Service"
+        "value": "bicycle-messenger"
     },
     {
         "title": "Grocery",
         "label": "Grocery",
-        "value": "Grocery"
+        "value": "grocery"
     },
     {
         "title": "Manufacturing",
         "label": "Manufacturing",
-        "value": "Manufacturing Establishments"
+        "value": "manufacturing"
     },
     {
         "title": "Massage",
         "label": "Massage",
-        "value": "Massage Establishment"
+        "value": "massage"
     },
     {
         "title": "Not-for-Profit",
         "label": "Not-for-Profit",
-        "value": "Not-For-Profit Club"
+        "value": "not-for-profit-club"
     },
     {
         "title": "Parking Garage",
         "label": "Parking Garage",
-        "value": "Public Garage"
+        "value": "public-garage"
     },
     {
         "title": "Pawnbroker",
         "label": "Pawnbroker",
-        "value": "Pawnbroker"
+        "value": "pawnbroker"
     },
     {
         "title": "Peddler",
         "label": "Peddler",
-        "value": "Peddler License"
+        "value": "peddler"
     },
     {
         "title": "Raffle",
         "label": "Raffle",
-        "value": "Raffles"
+        "value": "raffles"
     },
     {
         "title": "Restaurant & Grocery",
         "label": "Restaurant & Grocery",
-        "value": "Retail Food Establishment"
+        "value": "retail-food"
     },
     {
         "title": "Shared Kitchen",
         "label": "Shared Kitchen",
-        "value": "Food - Shared Kitchen|Food - Shared Kitchen - Supplemental|Food - Shared Kitchen Long-Term User|Food - Shared Kitchen Short-Term User"
+        "value": "shared-kitchen"
     },
     {
         "title": "Tavern",
-        "labellabellabel": "Tavern",
-        "value": "Tavern"
+        "label": "Tavern",
+        "value": "tavern"
     },
     {
         "title": "Tobacco",
-        "labellabel": "Tobacco",
-        "value": "Tobacco Retail Over Counter"
+        "label": "Tobacco",
+        "value": "tobacco"
     },
     {
         "title": "Valet Parking",
         "label": "Valet Parking",
-        "value": "Valet Parking Operator"
+        "value": "valet-parking-operator"
     },
     {
         "title": "Weapons & Explosives",
         "label": "Weapons & Explosives",
-        "value": "Explosives|Weapons Dealer"
+        "value": "weapons"
     }]
