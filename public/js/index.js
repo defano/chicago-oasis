@@ -3,10 +3,10 @@
     /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
      */
     function initGeoRadio() {
+        // Trigger update on user selection
         $('#neighborhood-radio').change(function () {
             index.update();
         });
-
         $('#census-radio').change(function () {
             index.update();
         });
@@ -24,17 +24,20 @@
             includeSelectAllOption: true
         });
 
+        // Fetch license list from server and update the multiselect accordingly
         json.fetch("licenses.json", function (data) {
             $("#business-multiselect").multiselect('dataprovider', data);
         });
 
+        // Trigger update on any user selection
         $('#business-multiselect').change(function () {
             index.update();
         });
     }
 
+    /* Initialize the year slider; trigger events based on user interaction
+    */
     function initYearSlider() {
-
         // Continually update the label...
         $("#year-slider").slider().on('slide', function (event) {
             $("#year-value").text(event.value);

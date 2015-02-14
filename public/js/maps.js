@@ -16,8 +16,8 @@
     var communitiesReady = false;
     var censusReady = false;
 
-    var circle = null;
-    var markers = [];
+    var circle = null;  // handle to circle drawn on map
+    var markers = [];   // handle to markers drawn on map
 
     function queryFusionTable(tableId, successCallback) {
 
