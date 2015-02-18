@@ -36,7 +36,7 @@
     }
 
     /* Initialize the year slider; trigger events based on user interaction
-    */
+     */
     function initYearSlider() {
         // Continually update the label...
         $("#year-slider").slider().on('slide', function (event) {
@@ -50,6 +50,8 @@
         });
     }
 
+    /* "Turn on" any popovers or tooltips defined on the page
+     */
     function initPopovers() {
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
@@ -60,9 +62,15 @@
         });
     }
 
+    /* Wire up event handling for the "Show critical businesses" checkbox
+     */
     function initCriticalBusiness() {
         $("#show-critical-businesses").change(function () {
             index.update();
+        });
+
+        $("#relative-shading").change(function () {
+            maps.setRelativePolygonShading($("#relative-shading").is(":checked"));
         });
     }
 
@@ -75,7 +83,7 @@
     }
 
     function getAreaType() {
-        return $('#neighborhood-radio').is(':checked') ? "neighborhood" : "census";
+        return $('#neighborhood-radio').is(":checked") ? "neighborhood" : "census";
     }
 
     /*

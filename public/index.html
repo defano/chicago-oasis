@@ -54,10 +54,10 @@
                 <h4 class="vert-break">Within each</h4>
                 <div class="btn-group indented" data-toggle="buttons">
                     <label class="btn btn-primary active">
-                        <input type="radio" name="neighborhood" id="neighborhood-radio"> Neighborhood
+                        <input type="radio" name="geo-area" id="neighborhood-radio" checked="checked"/> Neighborhood
                     </label>
                     <label class="btn btn-primary">
-                        <input type="radio" name="census" id="census-radio" checked="checked"> Census Tract
+                        <input type="radio" name="geo-area" id="census-radio"/> Census Tract
                     </label>
                 </div>
                 <h4 class="vert-break">For calendar year</h4>
@@ -68,8 +68,14 @@
                 <hr/>
                 <div class="checkbox">
                     <input type="checkbox" id="show-critical-businesses">
-                    <label for="show-critical-businesses" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="bottom" data-content="A critical business is defined as one whose demise would create a desert for a large population of residents.">
+                    <label for="show-critical-businesses" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="A business is considered 'critical' if its demise would create a desert for a large population of residents.">
                         Show critical businesses on map
+                    </label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" id="relative-shading">
+                    <label for="relative-shading" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="When checked, census tracts and community areas will be shaded to show desertifaction relative to the areas currently visible on the map (rather than the city as a whole).">
+                        Relative shading
                     </label>
                 </div>
 
