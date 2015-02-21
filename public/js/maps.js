@@ -11,10 +11,11 @@
     var activeGeography = "communities";
     var communityPolys = []; // community area polygons
     var censusPolys = []; // census tract polygons
-    var communityData = {};
-    var censusData = [];
+    var communityData = {}; // current community desertification data
+    var censusData = []; // current census desertification data
 
-    var relativeShadingEnabled = false;
+    // When true, polygons are shaded relative only to other visible polygons
+    var relativeShadingEnabled = false; 
 
     var map = null; // Google map object
 
