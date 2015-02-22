@@ -207,7 +207,7 @@
     }
 
     function getMinIndex(polys, data) {
-        var min = Number.MAX_SAFE_INTEGER;
+        var min = Number.MAX_VALUE;
         polys.forEach(function (thisPoly) {
             if (data[thisPoly.areaId] && data[thisPoly.areaId].ACCESS_INDEX < min) {
                 min = data[thisPoly.areaId].ACCESS_INDEX;
