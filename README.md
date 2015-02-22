@@ -119,11 +119,3 @@ Each of these files should define a single array containing zero or more "marker
 - Why is the boundary data in a Fusion Table? It shouldn't be. There's no good reason for this other than legacy: When we started development the notion was that we'd use Fusion Tables as our primary database. We eventually migrated the other data away from Fusion, but haven't gotten around to moving the polygons out. 
 
 - How are the polygons shaded? 
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
