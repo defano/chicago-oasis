@@ -99,7 +99,7 @@ The `ACCESS_INDEX` property should contain a numeric value representing the rela
 
 A critical business is one whose demise would create a desert for a significant population (i.e., it's the only business of a given type for quite some distance).
 
-To render markers on the map illustrating critical businesses for each license type and year, we use a file for each license type for each year. These files should be named critical-{business}-{year}.json where {business} and {year} are defined the same as for accessibility indices. There is no need to partition this data on a per-tract or per-community basis; the marker list is valid for the entire city.
+To render markers on the map illustrating critical businesses for each license type and year, we use a file for each license type for each year. These files should be named `critical-{business}-{year}.json` where `{business}` and `{year}` are defined the same as for accessibility indices. There is no need to partition this data on a per-tract or per-community basis; the marker list is valid for the entire city.
  
 Each of these files should define a single array containing zero or more "marker" objects consisting of a latitude, longitude and business name. For example:
 
