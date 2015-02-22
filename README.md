@@ -114,8 +114,8 @@ Each of these files should define a single array containing zero or more "marker
 
 ### FAQs
 
-- How were the community and census tract Fusion tables created? The City of Chicago Data Portal (HERE) provides this information in KML format (keyhole markup language, an XML schema used to represent geo-spacial data). Unfortunately, KML isn't particularly friendly for applications like ours. The metadata associated with each area (for example, the neighborhood name or census tract id) is stored in an HTML fragment that CDATA'd in the XML. In order to create a more useable representation, we wrote a small Groovy script to export the useful bits into CSV format, which was then uploaded to Fusion.
+- **How were the community and census tract Fusion tables created?** The City of Chicago Data Portal (HERE) provides this information in KML format (keyhole markup language, an XML schema used to represent geo-spacial data). Unfortunately, KML isn't particularly friendly for applications like ours. The metadata associated with each area (for example, the neighborhood name or census tract id) is stored in an HTML fragment that CDATA'd in the XML. In order to create a more useable representation, we wrote a small Groovy script to export the useful bits into CSV format, which was then uploaded to Fusion.
 
-- Why is the boundary data in a Fusion Table? It shouldn't be. There's no good reason for this other than legacy: When we started development the notion was that we'd use Fusion Tables as our primary database. We eventually migrated the other data away from Fusion, but haven't gotten around to moving the polygons out. 
+- **Why is the boundary data in a Fusion Table?** It shouldn't be. There's no good reason for this other than legacy: When we started development the notion was that we'd use Fusion Tables as our primary database. We eventually migrated the other data away from Fusion, but haven't gotten around to moving the polygons out. 
 
-- How are the polygons shaded? 
+- **How are the polygons shaded?** 
