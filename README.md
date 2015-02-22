@@ -1,10 +1,10 @@
 # Desert Chicago
 
-A visualization of business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago.
+A visualization of Chicago business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago's online data portal.
 
 Desert Chicago is a trivial [Node.js](http://nodejs.org/) application; it uses the Express framework for routing requests to static resources but otherwise doesn't expose web services or consume external data sources (like a database). 
 
-The application's user interface is based on Bootstrap/jQuery and makes use of the awesome-bootstrap-checkbox, bootstrap-multiselect, and seiyra-bootstrap-slider plugins. 
+The application's user interface is based on Bootstrap/jQuery and makes use of the `awesome-bootstrap-checkbox`, `bootstrap-multiselect`, and `seiyra-bootstrap-slider` plugins. 
 
 ## Running the App
 
@@ -32,7 +32,7 @@ $ cf push desert-chicago-njs
 
 ### Deploying to Heroku
 
-This GitHub repository is configured for continuous delivery to Heroku; any changes pushed to the master branch will result in the app being  redeployed on the Heroku cloud.
+This GitHub repository is configured for continuous delivery to Heroku; any changes pushed to the master branch will result in the app being redeployed on the Heroku cloud.
 
 That said, you can fork this code and deploy it to your own Heroku environment. Make sure you have the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed:
 
@@ -56,20 +56,20 @@ The application utilizes three datasets:
 
 As the application initializes, it queries two Google Fusion tables to fetch the neighborhood and census tract polygons that it will render on the map.
 
-This data consists of one table for census tracts, and another for community areas. Each table has three columns: ID, NAME and GEOMETRY. For both tables, the GEOMETRY column contains a "MultiGeometry" KML fragment representing the area's polygon boundary and centroid (see the FAQs for a discussion of how this was created). For the census table, the ID column represents the 10-digit census tract number (a nationally-unique value). The NAME column contains the more human-readable, dotted-decimal tract name (unique only within the ciy). Within the community table, the NAME and ID columns both contain the officially recoginized community name (for example, "LINCOLN PARK" or "DOUGLAS").
+This data consists of one table for census tracts, and another for community areas. Each table has three columns: `ID`, `NAME` and `GEOMETRY`. For both tables, the `GEOMETRY` column contains a "MultiGeometry" KML fragment representing the area's polygon boundary and centroid (see the FAQs for a discussion of how this was created). For the census table, the `ID` column represents the 10-digit census tract number (a nationally-unique value). The `NAME` column contains the more human-readable, dotted-decimal tract name (unique only within the ciy). Within the community table, the `NAME` and `ID` columns both contain the officially recoginized community name (for example, "LINCOLN PARK" or "DOUGLAS").
 
 See the FAQs for a discussion of how this data was created.
 
 #### Desertification Indicies
 
-Each time the user changes the selection of business, year, and geography type, the app attempts to fetch a statically published JSON-formatted file whose name is programmatically constructed as {geo-type}-{business}-{year}.json.
+Each time the user changes the selection of business, year, and geography type, the app attempts to fetch a statically published JSON-formatted file whose name is programmatically constructed as `{geo-type}-{business}-{year}.json`.
  
 Where:
-- Geo-type type is either 'census' or 'neighborhood'.
-- Business is one of the following (each representing a selection in the drop-down): 'animal-care', 'bicycle-messenger', 'grocery', 'manufacturing', 'massage', 'not-for-profit-club', 'public-garage', 'pawnbroker', 'peddler', 'raffles', 'retail-food', 'shared-kitchen', 'tavern', 'tobacco', 'valet-parking-operator',  or 'weapons'.
-- Year is the selected four digit year, for example '2007'
+- Geo-type type is either `census` or `neighborhood`.
+- Business is one of the following (each representing a selection in the drop-down): `animal-care`, `bicycle-messenger`, `grocery`, `manufacturing`, `massage`, `not-for-profit-club`, `public-garage`, `pawnbroker`, `peddler`, `raffles`, `retail-food`, `shared-kitchen`, `tavern`, `tobacco`, `valet-parking-operator`,  or `weapons`.
+- Year is the selected four digit year, for example `2007`
 
-Example filenames would be: 'neighborhood-animal-care-2007.json', 'census-grocery-2013.json', and 'census-peddler-2004.json'.
+Example filenames would be: `neighborhood-animal-care-2007.json`, `census-grocery-2013.json`, and `census-peddler-2004.json`.
  
 Each of these files are formatted as a JSON “dictionary” object containing a property whose name matches every area ID in the given geography type (i.e., corresponding to every row in the aforementioned boundary Fusion tables). For census files, there should be 801 entries with properties named after the 10-digit tract identifier like ‘17031842400’; for neighborhood files, there should be 77 entries with properties like “EDISON PARK” and “ENGLEWOOD”. Each area ID property holds a reference to an object containing desertification information about the corresponding area. The app joins this desertification data with the area boundary (fetched from Fusion Tables) using the area ID as the foreign key.
  
@@ -93,7 +93,7 @@ For example, a neighborhood data file would look like:
 }
 ``` 
 
-The "ACCESS_INDEX" property should contain a numeric value representing the relative level of desertification for the corresponding area relative to every other area. The ACCESS_INDEX values are an abstract (they have no units) relative measure of business accessibility in the corresponding area and may contain any numeric value in the range of 0..MAX_SAFE_INT. At runtime, the application will determine the range of values in the dataset and, for each area, calculate its percent penetration into the range. This "penetration" value is then used to assign a shade. 
+The `ACCESS_INDEX` property should contain a numeric value representing the relative level of desertification for the corresponding area relative to every other area. The `ACCESS_INDEX` values are an abstract (they have no units) relative measure of business accessibility in the corresponding area and may contain any numeric value in the range of 0..MAX_INT. At runtime, the application will determine the range of values in the dataset and, for each area, calculate its percent penetration into the range. This "penetration" value is then used to assign a shade. 
 
 #### Critical Business Lists
 
