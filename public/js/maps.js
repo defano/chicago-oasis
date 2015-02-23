@@ -15,7 +15,7 @@
     var censusData = []; // current census desertification data
 
     // When true, polygons are shaded relative only to other visible polygons
-    var relativeShadingEnabled = false; 
+    var relativeShadingEnabled = false;
 
     var map = null; // Google map object
 
@@ -170,7 +170,7 @@
     }
 
     /* Filter a given set of polygons returning an array containing only those currently visible
-     * on the map. 
+     * on the map.
      */
     function getVisiblePolygons(polys) {
         var visiblePolys = [];
@@ -220,10 +220,10 @@
     /* Re-shade visible polygons (may change opacity on when relative shading is enabled).
      */
     function refreshPolygonShading() {
-        
+
         var activePolygons = (activeGeography == "census") ? censusPolys : communityPolys;
         var activeDataset = (activeGeography == "census") ? censusData : communityData;
-        
+
         if (relativeShadingEnabled) {
             activePolygons = getVisiblePolygons(activePolygons);
         }
@@ -346,18 +346,18 @@
         communityData = {};
 
         // Generate fake data
-        communityPolys.forEach(function (thisPoly) {
-            communityData[thisPoly.areaId] = {
-                "ACCESS_INDEX": Math.random()
-            };
-        });
-        shadePolygons(communityPolys, communityData);
+        //        communityPolys.forEach(function (thisPoly) {
+        //            communityData[thisPoly.areaId] = {
+        //                "ACCESS_INDEX": Math.random()
+        //            };
+        //        });
+        //        shadePolygons(communityPolys, communityData);
 
-        // TODO: Uncomment to fetch real data
-        //        json.fetch(datafile, function (data) {
-        //              communityData = data;
-        //            shadePolygons(communityPolys, data);
-        //        });       
+        //         TODO: Uncomment to fetch real data
+        json.fetch(datafile, function (data) {
+            communityData = data;
+            shadePolygons(communityPolys, data);
+        });
 
         activeGeography = "communities";
     };
@@ -366,18 +366,18 @@
         censusData = {};
 
         // Generate fake data
-        censusPolys.forEach(function (thisPoly) {
-            censusData[thisPoly.areaId] = {
-                "ACCESS_INDEX": Math.random()
-            };
-        });
-        shadePolygons(censusPolys, censusData);
-
-        // TODO: Uncomment to fetch real data
-        //        json.fetch(datafile, function (data) {
-        //              censusData = data;
-        //            shadePolygons(censusPolys, data);
+        //        censusPolys.forEach(function (thisPoly) {
+        //            censusData[thisPoly.areaId] = {
+        //                "ACCESS_INDEX": Math.random()
+        //            };
         //        });
+        //        shadePolygons(censusPolys, censusData);
+
+        //         TODO: Uncomment to fetch real data
+        json.fetch(datafile, function (data) {
+            censusData = data;
+            shadePolygons(censusPolys, data);
+        });
 
         activeGeography = "census";
     };

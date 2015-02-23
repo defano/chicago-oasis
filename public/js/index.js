@@ -83,14 +83,14 @@
     }
 
     function getAreaType() {
-        return $('#neighborhood-radio').is(":checked") ? "neighborhood" : "census";
+        return $('#neighborhood-radio').is(":checked") ? "commareas" : "tracts";
     }
-
+    
     /*
      * Invoked when a user makes a UI selection that affects map rendering
      */
     index.update = function () {
-        var dataset = getAreaType() + "-" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+        var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
         console.log(dataset);
 
         // Update polygons and shading
