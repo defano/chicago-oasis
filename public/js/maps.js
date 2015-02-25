@@ -197,10 +197,9 @@
 
     function getMaxIndex(polys, data) {
         var max = 0;
-        polys.forEach(function (thisPoly) {
-            if (data[thisPoly.areaId] && data[thisPoly.areaId].ACCESS_INDEX > max) {
-                max = data[thisPoly.areaId].ACCESS_INDEX;
-            };
+        polys.forEach(function (poly) {
+            var index = getIndexForArea(poly.areaId, data);
+            if (index > max) max = index;
         });
 
         return max;
@@ -208,10 +207,9 @@
 
     function getMinIndex(polys, data) {
         var min = Number.MAX_VALUE;
-        polys.forEach(function (thisPoly) {
-            if (data[thisPoly.areaId] && data[thisPoly.areaId].ACCESS_INDEX < min) {
-                min = data[thisPoly.areaId].ACCESS_INDEX;
-            };
+        polys.forEach(function (poly) {
+            var index = getIndexForArea(poly.areaId, data);
+            if (index < min) min = index;
         });
 
         return min;
@@ -225,10 +223,31 @@
         var activeDataset = (activeGeography == "census") ? censusData : communityData;
 
         if (relativeShadingEnabled) {
+
+            // Blank polygons that are not visible 
+            activePolygons.forEach(function (thisPoly) {
+                thisPoly.setOptions({
+                    fillOpacity: 0
+                });
+            });
+
             activePolygons = getVisiblePolygons(activePolygons);
         }
 
         shadePolygons(activePolygons, activeDataset);
+    }
+
+    function getIndexForArea(areaId, data) {
+        var areaProperty = (activeGeography == "census") ? "TRACT" : "COMMUNITY_AREA";
+        var index = undefined;
+
+        data.forEach(function (record) {
+            if (record[areaProperty] == areaId) {
+                index = record.ACCESS1;
+            }
+        });
+
+        return index;
     }
 
     function shadePolygons(polys, data) {
@@ -237,25 +256,29 @@
         var max = getMaxIndex(polys, data);
         var min = getMinIndex(polys, data);
 
-        // Blank polygons that are not visible 
         polys.forEach(function (thisPoly) {
-            thisPoly.setOptions({
-                fillOpacity: 0
-            });
-        });
+            var index = getIndexForArea(thisPoly.areaId, data);
 
-        // Shade visible polys relative to others
-        getVisiblePolygons(polys).forEach(function (thisPoly) {
-            var index = data[thisPoly.areaId] && data[thisPoly.areaId].ACCESS_INDEX;
-            thisPoly.setOptions({
-                fillOpacity: getOpacityBucket((index - min) / (max - min))
-            });
+            // No data available--color polygon in red
+            if (index == undefined) {
+                thisPoly.setOptions({
+                    fillOpacity: 0.4,
+                    fillColor: "#ff0000"
+                });
+            } 
+            
+            // Shade polygon based on bucket value
+            else {
+                thisPoly.setOptions({
+                    fillOpacity: getOpacityBucket((index - min) / (max - min))
+                });
+            }
         });
     }
 
     function getOpacityBucket(value) {
         var bucketCount = 5;
-        return Math.round(value / (1 / bucketCount)) * (1 / bucketCount);
+        return 1 - Math.round(value / (1 / bucketCount)) * (1 / bucketCount);
     }
 
     function renderMarkers(places) {
@@ -339,21 +362,13 @@
 
     maps.setRelativePolygonShading = function (isRelativeShadingEnabled) {
         relativeShadingEnabled = isRelativeShadingEnabled;
+        refreshPolygonShading();
     };
 
     maps.setCommunityData = function (datafile) {
 
         communityData = {};
 
-        // Generate fake data
-        //        communityPolys.forEach(function (thisPoly) {
-        //            communityData[thisPoly.areaId] = {
-        //                "ACCESS_INDEX": Math.random()
-        //            };
-        //        });
-        //        shadePolygons(communityPolys, communityData);
-
-        //         TODO: Uncomment to fetch real data
         json.fetch(datafile, function (data) {
             communityData = data;
             shadePolygons(communityPolys, data);
@@ -365,15 +380,6 @@
     maps.setCensusData = function (datafile) {
         censusData = {};
 
-        // Generate fake data
-        //        censusPolys.forEach(function (thisPoly) {
-        //            censusData[thisPoly.areaId] = {
-        //                "ACCESS_INDEX": Math.random()
-        //            };
-        //        });
-        //        shadePolygons(censusPolys, censusData);
-
-        //         TODO: Uncomment to fetch real data
         json.fetch(datafile, function (data) {
             censusData = data;
             shadePolygons(censusPolys, data);

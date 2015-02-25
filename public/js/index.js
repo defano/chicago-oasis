@@ -91,11 +91,10 @@
      */
     index.update = function () {
         var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
-        console.log(dataset);
 
         // Update polygons and shading
         // TODO: Cache this result and only fetch/update when required
-        if (getAreaType() == "census") {
+        if (getAreaType() == "tracts") {
             maps.showCensusTracts();
             maps.setCensusData(dataset);
         } else {
