@@ -319,27 +319,252 @@
         "value": "motor-vehicle-services-license"
     },
     {
-        "title": "Consumption on Premises - Incidental Activity",
-        "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "title": "Music and Dance",
+        "label": "Music and Dance",
+        "value": "music-and-dance"
     },
     {
-        "title": "Consumption on Premises - Incidental Activity",
-        "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "title": "Night Care Privilege",
+        "label": "Night Care Privilege",
+        "value": "night-care-privilege"
     },
     {
-        "title": "Consumption on Premises - Incidental Activity",
-        "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "title": "Not-for-Profit Club",
+        "label": "Not-for-Profit Club",
+        "value": "not-for-profit-club"
     },
     {
-        "title": "Consumption on Premises - Incidental Activity",
-        "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "title": "Outdoor Patio",
+        "label": "Outdoor Patio",
+        "value": "outdoor-patio"
     },
     {
-        "title": "Consumption on Premises - Incidental Activity",
-        "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "title": "Package Goods",
+        "label": "Package Goods",
+        "value": "package-goods"
+    },
+    {
+        "title": "Pawnbroker",
+        "label": "Pawnbroker",
+        "value": "pawnbroker"
+    },
+    {
+        "title": "Peddler (Fruits and Vegetables)",
+        "label": "Peddler (Fruits and Vegetables)",
+        "value": "peddler-food-fruits-and-vegtables-only"
+    },
+    {
+        "title": "Peddler (Fruits and Vegetables, Special)",
+        "label": "Peddler (Fruits and Vegetables, Special)",
+        "value": "peddlerfood---fruits-and-vegetables-only---special"
+    },
+    {
+        "title": "Peddler",
+        "label": "Peddler",
+        "value": "peddler-license"
+    },
+    {
+        "title": "Peddler (Non-Food)",
+        "label": "Peddler (Non-Food)",
+        "value": "peddler-non-food"
+    },
+    {
+        "title": "Peddler (Non-Food, Special)",
+        "label": "Peddler (Non-Food, Special)",
+        "value": "peddler-non-food-special"
+    },
+    {
+        "title": "Performing Arts Venue",
+        "label": "Performing Arts Venue",
+        "value": "performing-arts-venue"
+    },
+    {
+        "title": "Pet Shop",
+        "label": "Pet Shop",
+        "value": "pet-shop"
+    },
+    {
+        "title": "Private Booting Operation",
+        "label": "Private Booting Operation",
+        "value": "private-booting-operation"
+    },
+    {
+        "title": "Produce Merchant",
+        "label": "Produce Merchant",
+        "value": "produce-merchant"
+    },
+    {
+        "title": "Public Garage",
+        "label": "Public Garage",
+        "value": "public-garage"
+    },
+    {
+        "title": "Amusement",
+        "label": "Amusement",
+        "value": "public-place-of-amusement"
+    },
+    {
+        "title": "Raffle",
+        "label": "Raffle",
+        "value": "raffles"
+    },
+    {
+        "title": "Regulated Business",
+        "label": "Regulated Business",
+        "value": "regulated-business-license"
+    },
+    {
+        "title": "Repossessor (Class A)",
+        "label": "Repossessor (Class A)",
+        "value": "repossessor-class-a"
+    },
+    {
+        "title": "Repossessor (Class B)",
+        "label": "Repossessor (Class B)",
+        "value": "repossessor-class-b"
+    },
+    {
+        "title": "Repossessor Employee (Class B)",
+        "label": "Repossessor Employee (Class B)",
+        "value": "repossessor-class-b-employee"
+    },
+    {
+        "title": "Residential Real Estate Developer",
+        "label": "Residential Real Estate Developer",
+        "value": "residential-real-estate-developer"
+    },
+    {
+        "title": "Retail Computing Center",
+        "label": "Retail Computing Center",
+        "value": "retail-computing-center"
+    },
+    {
+        "title": "Retail Food License for Dog Friendly Area",
+        "label": "Retail Food License for Dog Friendly Area",
+        "value": "retail-food-est.-supplemental-license-for-dog-friendly-areas"
+    },
+    {
+        "title": "Retail Food Establishment",
+        "label": "Retail Food Establishment",
+        "value": "retail-food-establishment"
+    },
+    {
+        "title": "Riverwalk Venue Liquor License",
+        "label": "Riverwalk Venue Liquor License",
+        "value": "riverwalk-venue-liquor-license"
+    },
+    {
+        "title": "Scavenger",
+        "label": "Scavenger",
+        "value": "scavenger-private"
+    },
+    {
+        "title": "Secondhand Dealer (Childrens Products)",
+        "label": "Secondhand Dealer (Childrens Products)",
+        "value": "secondhand-dealer---childrens-products"
+    },
+    {
+        "title": "Secondhand Dealer (Incl. Valuables)",
+        "label": "Secondhand Dealer (Incl. Valuables)",
+        "value": "secondhand-dealer-includes-valuable-objects"
+    },
+    {
+        "title": "Secondhand Dealer (No Valuables)",
+        "label": "Secondhand Dealer (No Valuables)",
+        "value": "secondhand-dealer-no-valuable-objects"
+    },
+    {
+        "title": "Single Room Occupancy (Class I)",
+        "label": "Single Room Occupancy (Class I)",
+        "value": "single-room-occupancy-class-i"
+    },
+    {
+        "title": "Single Room Occupancy (Class II)",
+        "label": "Single Room Occupancy (Class II)",
+        "value": "single-room-occupancy-class-ii"
+    },
+    {
+        "title": "Special Event (Beer & Wine)",
+        "label": "Special Event (Beer & Wine)",
+        "value": "special-event-beer-and-wine"
+    },
+    {
+        "title": "Special Event (Food)",
+        "label": "Special Event (Food)",
+        "value": "special-event-food"
+    },
+    {
+        "title": "Street Performer",
+        "label": "Street Performer",
+        "value": "street-performer"
+    },
+    {
+        "title": "Tavern",
+        "label": "Tavern",
+        "value": "tavern"
+    },
+    {
+        "title": "Taxicab Dispatch",
+        "label": "Taxicab Dispatch",
+        "value": "taxicab-two-way-dispatch-service-license"
+    },
+    {
+        "title": "Tire Facility (100-1000 Tires)",
+        "label": "Tire Facility (100-1000 Tires)",
+        "value": "tire-facilty-class-i-100---1000-tires"
+    },
+    {
+        "title": "Tire Facility (1000-5000 tires)",
+        "label": "Tire Facility (1000-5000 tires)",
+        "value": "tire-facility-class-ii-1001---5000-tires"
+    },
+    {
+        "title": "Tire Facility (5000 or more tires)",
+        "label": "Tire Facility (5000 or more tires)",
+        "value": "tire-facility-class-iii-5001---more-tires"
+    },
+    {
+        "title": "Tobacco Dealer (Wholesale)",
+        "label": "Tobacco Dealer (Wholesale)",
+        "value": "tobacco-dealer-wholesale"
+    },
+    {
+        "title": "Tobacco Dealer (Retail)",
+        "label": "Tobacco Dealer (Retail)",
+        "value": "tobacco-retail-over-counter"
+    },
+    {
+        "title": "Tobacco Sampler",
+        "label": "Tobacco Sampler",
+        "value": "tobacco-sampler"
+    },
+    {
+        "title": "Tobacco Vending Machine",
+        "label": "Tobacco Vending Machine",
+        "value": "tobacco-vending-machine-operator"
+    },
+    {
+        "title": "Vacation Rental",
+        "label": "Vacation Rental",
+        "value": "vacation-rental"
+    },
+    {
+        "title": "Valet Parking Operator",
+        "label": "Valet Parking Operator",
+        "value": "valet-parking-operator"
+    },
+    {
+        "title": "Veterinary Hospital",
+        "label": "Veterinary Hospital",
+        "value": "veterinary-hospital"
+    },
+    {
+        "title": "Weapons Dealer",
+        "label": "Weapons Dealer",
+        "value": "weapons-dealer"
+    },
+    {
+        "title": "Wholesale Food Establishment",
+        "label": "Wholesale Food Establishment",
+        "value": "wholesale-food-establishment"
     }]
