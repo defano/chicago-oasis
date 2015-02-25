@@ -1,12 +1,162 @@
 [{
-        "title": "Animal Care",
-        "label": "Animal Care",
-        "value": "animal-care"
+        "title": "Accessory Garage",
+        "label": "Accessory Garage",
+        "value": "accessory-garage"
     },
     {
-        "title": "Bike Messenger",
-        "label": "Bike Messenger",
-        "value": "bicycle-messenger"
+        "title": "Affiliation",
+        "label": "Affiliation",
+        "value": "affiliation"
+    },
+    {
+        "title": "Animal Care Facility",
+        "label": "Animal Care Facility",
+        "value": "animal-care-facility"
+    },
+    {
+        "title": "Animal Exhibition",
+        "label": "Animal Exhibition",
+        "value": "animal-exhibition"
+    },
+    {
+        "title": "Assisted Living Shared Housing",
+        "label": "Assisted Living Shared Housing",
+        "value": "assisted-livingshared-housing-establishment"
+    },
+    {
+        "title": "Auctioneer",
+        "label": "Auctioneer",
+        "value": "auctioneer"
+    },
+    {
+        "title": "Automatic Amusement Device Operator",
+        "label": "Automatic Amusement Device Operator",
+        "value": "automatic-amusement-device-operator"
+    },
+    {
+        "title": "Bed and Breakfast",
+        "label": "Bed and Breakfast",
+        "value": "bed-and-breakfast-establishment"
+    },
+    {
+        "title": "Bike Messenger Service",
+        "label": "Bike Messenger Service",
+        "value": "bicycle-messenger-service"
+    },
+    {
+        "title": "Board-up Work",
+        "label": "Board-up Work",
+        "value": "board-up-work"
+    },
+    {
+        "title": "Body Piercing",
+        "label": "Body Piercing",
+        "value": "body-piercing"
+    },
+    {
+        "title": "Broker",
+        "label": "Broker",
+        "value": "broker"
+    },
+    {
+        "title": "Caterers Liquor License",
+        "label": "Caterers Liquor License",
+        "value": "caterers-liquor-license"
+    },
+    {
+        "title": "Childrens Activities Facilities",
+        "label": "Childrens Activities Facilities",
+        "value": "childrens-activities-facilities"
+    },
+    {
+        "title": "Childrens Services Facility",
+        "label": "Childrens Services Facility",
+        "value": "childrens-services-facility-license"
+    },
+    {
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
+    },
+    {
+        "title": "Day Care Center (ages 2-6)",
+        "label": "Day Care Center (ages 2-6)",
+        "value": "day-care-center-2---6-years"
+    },
+    {
+        "title": "Day Care Center (ages 0-6)",
+        "label": "Day Care Center (ages 0-6)",
+        "value": "day-care-center-under-2-and-2---6-years"
+    },
+    {
+        "title": "Day Care Center (ages 0-2)",
+        "label": "Day Care Center (ages 0-2)",
+        "value": "day-care-center-under-2-years"
+    },
+    {
+        "title": "Day Labor Agency",
+        "label": "Day Labor Agency",
+        "value": "day-labor-agency"
+    },
+    {
+        "title": "Electronic Equipment Repair",
+        "label": "Electronic Equipment Repair",
+        "value": "electronic-equipment-repair"
+    },
+    {
+        "title": "Emerging Business",
+        "label": "Emerging Business",
+        "value": "emerging-business"
+    },
+    {
+        "title": "Expediter (Class A)",
+        "label": "Expediter (Class A)",
+        "value": "expediter---class-a"
+    },
+    {
+        "title": "Expediter (Class B)",
+        "label": "Expediter (Class B)",
+        "value": "expediter---class-b"
+    },
+    {
+        "title": "Expediter Employee (Class B)",
+        "label": "Expediter Employee (Class B)",
+        "value": "expediter---class-b-employee"
+    },
+    {
+        "title": "Explosives",
+        "label": "Explosives",
+        "value": "explosives"
+    },
+    {
+        "title": "Explosives (Certificate of Fitness)",
+        "label": "Explosives (Certificate of Fitness)",
+        "value": "explosives-certificate-of-fitness"
+    },
+    {
+        "title": "Filling / Gas Station",
+        "label": "Filling / Gas Station",
+        "value": "filling-station"
+    },
+    {
+        "title": "Shared Kitchen (Supplemental)",
+        "label": "Shared Kitchen (Supplemental)",
+        "value": "food---shared-kitchen---supplemental"
+    },
+    {
+        "title": "Shared Kitchen",
+        "label": "Shared Kitchen",
+        "value": "food---shared-kitchen"
+    },
+    {
+        "title": "Shared Kitchen (Long-Term User)",
+        "label": "Shared Kitchen (Long-Term User)",
+        "value": "food---shared-kitchen-long-term-user"
+    },
+    {
+        "title": "Shared Kitchen (Short-Term User)",
+        "label": "Shared Kitchen (Short-Term User)",
+        "value": "food---shared-kitchen-short-term-user"
     },
     {
         "title": "Grocery",
@@ -14,67 +164,182 @@
         "value": "grocery"
     },
     {
-        "title": "Manufacturing",
-        "label": "Manufacturing",
-        "value": "manufacturing"
+        "title": "Grooming Facility",
+        "label": "Grooming Facility",
+        "value": "grooming-facility"
+    },
+    {
+        "title": "Guard Dog Service",
+        "label": "Guard Dog Service",
+        "value": "guard-dog-service"
+    },
+    {
+        "title": "Hazardous Materials",
+        "label": "Hazardous Materials",
+        "value": "hazardous-materials"
+    },
+    {
+        "title": "Heliport",
+        "label": "Heliport",
+        "value": "heliports"
+    },
+    {
+        "title": "Home Occupation",
+        "label": "Home Occupation",
+        "value": "home-occupation"
+    },
+    {
+        "title": "Home Repair",
+        "label": "Home Repair",
+        "value": "home-repair"
+    },
+    {
+        "title": "Hospital",
+        "label": "Hospital",
+        "value": "hospital"
+    },
+    {
+        "title": "Hotel",
+        "label": "Hotel",
+        "value": "hotel"
+    },
+    {
+        "title": "Humane Society",
+        "label": "Humane Society",
+        "value": "humane-society"
+    },
+    {
+        "title": "Itinerant Merchant",
+        "label": "Itinerant Merchant",
+        "value": "itinerant-merchant"
+    },
+    {
+        "title": "Itinerant Merchant (Class I)",
+        "label": "Itinerant Merchant (Class I)",
+        "value": "itinerant-merchant-class-i"
+    },
+    {
+        "title": "Itinerant Merchant (Class II)",
+        "label": "Itinerant Merchant (Class II)",
+        "value": "itinerant-merchant-class-ii"
+    },
+    {
+        "title": "Junk Peddler",
+        "label": "Junk Peddler",
+        "value": "junk-peddler"
+    },
+    {
+        "title": "Kennels and Catteries",
+        "label": "Kennels and Catteries",
+        "value": "kennels-and-catteries"
+    },
+    {
+        "title": "Laboratories",
+        "label": "Laboratories",
+        "value": "laboratories"
+    },
+    {
+        "title": "Late Hour",
+        "label": "Late Hour",
+        "value": "late-hour"
+    },
+    {
+        "title": "Laundry (Late Hour)",
+        "label": "Laundry (Late Hour)",
+        "value": "laundry-late-hour"
+    },
+    {
+        "title": "License Broker",
+        "label": "License Broker",
+        "value": "license-broker"
+    },
+    {
+        "title": "License Manager",
+        "label": "License Manager",
+        "value": "license-manager"
+    },
+    {
+        "title": "Limited Business License",
+        "label": "Limited Business License",
+        "value": "limited-business-license"
+    },
+    {
+        "title": "Liquor Airport Pushcart",
+        "label": "Liquor Airport Pushcart",
+        "value": "liquor-airport-pushcart-license"
+    },
+    {
+        "title": "Long-Term Care Facility",
+        "label": "Long-Term Care Facility",
+        "value": "long-term-care-facility"
+    },
+    {
+        "title": "Manufacturing Establishment",
+        "label": "Manufacturing Establishment",
+        "value": "manufacturing-establishments"
     },
     {
         "title": "Massage",
         "label": "Massage",
-        "value": "massage"
+        "value": "massage-establishment"
     },
     {
-        "title": "Not-for-Profit",
-        "label": "Not-for-Profit",
-        "value": "not-for-profit-club"
+        "title": "Mobile Food Dispenser",
+        "label": "Mobile Food Dispenser",
+        "value": "mobile-food-dispenser"
     },
     {
-        "title": "Parking Garage",
-        "label": "Parking Garage",
-        "value": "public-garage"
+        "title": "Mobile Food License",
+        "label": "Mobile Food License",
+        "value": "mobile-food-license"
     },
     {
-        "title": "Pawnbroker",
-        "label": "Pawnbroker",
-        "value": "pawnbroker"
+        "title": "Mobile Frozen Desserts Dispenser (Non-Motorized)",
+        "label": "Mobile Frozen Desserts Dispenser (Non-Motorized)",
+        "value": "mobile-frozen-desserts-dispenser---non-motorized"
     },
     {
-        "title": "Peddler",
-        "label": "Peddler",
-        "value": "peddler"
+        "title": "Motor Vehicle Repair (Engine Only, Class II)",
+        "label": "Motor Vehicle Repair (Engine Only, Class II)",
+        "value": "motor-vehicle-repair--engine-only-class-ii"
     },
     {
-        "title": "Raffle",
-        "label": "Raffle",
-        "value": "raffles"
+        "title": "Motor Vehicle Repair (Engine & Body, Class III)",
+        "label": "Motor Vehicle Repair (Engine & Body, Class III)",
+        "value": "motor-vehicle-repair-enginebodyclass-iii"
     },
     {
-        "title": "Restaurant & Grocery",
-        "label": "Restaurant & Grocery",
-        "value": "retail-food"
+        "title": "Motor Vehicle Repair (Specialty, Class I)",
+        "label": "Motor Vehicle Repair (Specialty, Class I)",
+        "value": "motor-vehicle-repair-specialtyclass-i"
     },
     {
-        "title": "Shared Kitchen",
-        "label": "Shared Kitchen",
-        "value": "shared-kitchen"
+        "title": "Motor Vehicle Services",
+        "label": "Motor Vehicle Services",
+        "value": "motor-vehicle-services-license"
     },
     {
-        "title": "Tavern",
-        "label": "Tavern",
-        "value": "tavern"
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
     },
     {
-        "title": "Tobacco",
-        "label": "Tobacco",
-        "value": "tobacco"
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
     },
     {
-        "title": "Valet Parking",
-        "label": "Valet Parking",
-        "value": "valet-parking-operator"
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
     },
     {
-        "title": "Weapons & Explosives",
-        "label": "Weapons & Explosives",
-        "value": "weapons"
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
+    },
+    {
+        "title": "Consumption on Premises - Incidental Activity",
+        "label": "Consumption on Premises - Incidental Activity",
+        "value": "consumption-on-premises---incidental-activity"
     }]
