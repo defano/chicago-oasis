@@ -1,5 +1,7 @@
 (function (index, $) {
 
+    var multiselectData = undefined;
+    
     /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
      */
     function initGeoRadio() {
@@ -26,6 +28,7 @@
 
         // Fetch license list from server and update the multiselect accordingly
         json.fetch("licenses.json", function (data) {
+            multiselectData = data;
             $("#business-multiselect").multiselect('dataprovider', data);
         });
 
@@ -86,12 +89,41 @@
         return $('#neighborhood-radio').is(":checked") ? "commareas" : "tracts";
     }
     
+    function updateSliderRange () {
+        var selectedBusiness = getSelectedBusiness();
+        var min = 0;
+        var max = 0;
+
+        multiselectData.forEach(function (record) {
+            if (record.value == selectedBusiness) {
+                min = record["min-year"];
+                max = record["max-year"];
+            }
+        });    
+        
+        var selectedYear = $("#year-slider").slider("getValue");
+        
+        $("#year-slider").slider("setAttribute", "min", min);
+        $("#year-slider").slider("setAttribute", "max", max);
+        
+        if (selectedYear > max) 
+            $("#year-slider").slider("setValue", max);
+        
+        if (selectedYear < min)
+            $("#year-slider").slider("setValue", min);   
+        
+         $("#year-value").text($("#year-slider").slider("getValue"));
+    }
+    
     /*
      * Invoked when a user makes a UI selection that affects map rendering
      */
     index.update = function () {
-        var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
 
+        updateSliderRange();
+        
+        var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+        
         // Update polygons and shading
         // TODO: Cache this result and only fetch/update when required
         if (getAreaType() == "tracts") {

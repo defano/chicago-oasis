@@ -1,570 +1,799 @@
 [{
         "title": "Accessory Garage",
         "label": "Accessory Garage",
-        "value": "accessory-garage"
+        "value": "accessory-garage",
+        "min-year": 2002, 
+        "max-year": 2015
     },
     {
         "title": "Affiliation",
         "label": "Affiliation",
-        "value": "affiliation"
+        "value": "affiliation",
+        "min-year": 2012, 
+        "max-year": 2014
     },
     {
         "title": "Animal Care Facility",
         "label": "Animal Care Facility",
-        "value": "animal-care-facility"
+        "value": "animal-care-facility",
+        "min-year": 2007, 
+        "max-year": 2015        
     },
     {
         "title": "Animal Exhibition",
         "label": "Animal Exhibition",
-        "value": "animal-exhibition"
+        "value": "animal-exhibition",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Assisted Living Shared Housing",
         "label": "Assisted Living Shared Housing",
-        "value": "assisted-livingshared-housing-establishment"
+        "value": "assisted-livingshared-housing-establishment",
+        "min-year": 2009, 
+        "max-year": 2013        
     },
     {
         "title": "Auctioneer",
         "label": "Auctioneer",
-        "value": "auctioneer"
+        "value": "auctioneer",
+        "min-year": 2004, 
+        "max-year": 2013        
     },
     {
         "title": "Automatic Amusement Device Operator",
         "label": "Automatic Amusement Device Operator",
-        "value": "automatic-amusement-device-operator"
+        "value": "automatic-amusement-device-operator",
+        "min-year": 2005, 
+        "max-year": 2013        
     },
     {
         "title": "Bed and Breakfast",
         "label": "Bed and Breakfast",
-        "value": "bed-and-breakfast-establishment"
+        "value": "bed-and-breakfast-establishment",
+        "min-year": 2005, 
+        "max-year": 2014
+        
     },
     {
         "title": "Bike Messenger Service",
         "label": "Bike Messenger Service",
-        "value": "bicycle-messenger-service"
+        "value": "bicycle-messenger-service",
+        "min-year": 2008, 
+        "max-year": 2014        
     },
     {
         "title": "Board-up Work",
         "label": "Board-up Work",
-        "value": "board-up-work"
+        "value": "board-up-work",
+        "min-year": 2005, 
+        "max-year": 2013        
     },
     {
         "title": "Body Piercing",
         "label": "Body Piercing",
-        "value": "body-piercing"
+        "value": "body-piercing",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Broker",
         "label": "Broker",
-        "value": "broker"
+        "value": "broker",
+        "min-year": 1995, 
+        "max-year": 2013        
     },
     {
         "title": "Caterers Liquor License",
         "label": "Caterers Liquor License",
-        "value": "caterers-liquor-license"
+        "value": "caterers-liquor-license",
+        "min-year": 2005, 
+        "max-year": 2015        
     },
     {
         "title": "Childrens Activities Facilities",
         "label": "Childrens Activities Facilities",
-        "value": "childrens-activities-facilities"
+        "value": "childrens-activities-facilities",
+        "min-year": 2010, 
+        "max-year": 2015        
     },
     {
         "title": "Childrens Services Facility",
         "label": "Childrens Services Facility",
-        "value": "childrens-services-facility-license"
+        "value": "childrens-services-facility-license",
+        "min-year": 2010, 
+        "max-year": 2015        
     },
     {
         "title": "Consumption on Premises - Incidental Activity",
         "label": "Consumption on Premises - Incidental Activity",
-        "value": "consumption-on-premises---incidental-activity"
+        "value": "consumption-on-premises---incidental-activity",
+        "min-year": 1998, 
+        "max-year": 2015        
     },
     {
         "title": "Day Care Center (ages 2-6)",
         "label": "Day Care Center (ages 2-6)",
-        "value": "day-care-center-2---6-years"
+        "value": "day-care-center-2---6-years",
+        "min-year": 2004, 
+        "max-year": 2013        
     },
     {
         "title": "Day Care Center (ages 0-6)",
         "label": "Day Care Center (ages 0-6)",
-        "value": "day-care-center-under-2-and-2---6-years"
+        "value": "day-care-center-under-2-and-2---6-years",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Day Care Center (ages 0-2)",
         "label": "Day Care Center (ages 0-2)",
-        "value": "day-care-center-under-2-years"
+        "value": "day-care-center-under-2-years",
+        "min-year": 2004, 
+        "max-year": 2013        
     },
     {
         "title": "Day Labor Agency",
         "label": "Day Labor Agency",
-        "value": "day-labor-agency"
+        "value": "day-labor-agency",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Electronic Equipment Repair",
         "label": "Electronic Equipment Repair",
-        "value": "electronic-equipment-repair"
+        "value": "electronic-equipment-repair",
+        "min-year": 1997, 
+        "max-year": 2014        
     },
     {
         "title": "Emerging Business",
         "label": "Emerging Business",
-        "value": "emerging-business"
+        "value": "emerging-business",
+        "min-year": 2014, 
+        "max-year": 2015        
     },
     {
         "title": "Expediter (Class A)",
         "label": "Expediter (Class A)",
-        "value": "expediter---class-a"
+        "value": "expediter---class-a",
+        "min-year": 2008, 
+        "max-year": 2013        
     },
     {
         "title": "Expediter (Class B)",
         "label": "Expediter (Class B)",
-        "value": "expediter---class-b"
+        "value": "expediter---class-b",
+        "min-year": 2009, 
+        "max-year": 2013        
     },
     {
         "title": "Expediter Employee (Class B)",
         "label": "Expediter Employee (Class B)",
-        "value": "expediter---class-b-employee"
+        "value": "expediter---class-b-employee",
+        "min-year": 2009, 
+        "max-year": 2013        
     },
     {
         "title": "Explosives",
         "label": "Explosives",
-        "value": "explosives"
+        "value": "explosives",
+        "min-year": 2006, 
+        "max-year": 2014        
     },
     {
         "title": "Explosives (Certificate of Fitness)",
         "label": "Explosives (Certificate of Fitness)",
-        "value": "explosives-certificate-of-fitness"
+        "value": "explosives-certificate-of-fitness",
+        "min-year": 2004, 
+        "max-year": 2014        
     },
     {
         "title": "Filling / Gas Station",
         "label": "Filling / Gas Station",
-        "value": "filling-station"
+        "value": "filling-station",
+        "min-year": 1996, 
+        "max-year": 2015        
     },
     {
         "title": "Shared Kitchen (Supplemental)",
         "label": "Shared Kitchen (Supplemental)",
-        "value": "food---shared-kitchen---supplemental"
+        "value": "food---shared-kitchen---supplemental",
+        "min-year": 2011, 
+        "max-year": 2015        
     },
     {
         "title": "Shared Kitchen",
         "label": "Shared Kitchen",
-        "value": "food---shared-kitchen"
+        "value": "food---shared-kitchen",
+        "min-year": 2011, 
+        "max-year": 2014        
     },
     {
         "title": "Shared Kitchen (Long-Term User)",
         "label": "Shared Kitchen (Long-Term User)",
-        "value": "food---shared-kitchen-long-term-user"
+        "value": "food---shared-kitchen-long-term-user",
+        "min-year": 2011, 
+        "max-year": 2015        
     },
     {
         "title": "Shared Kitchen (Short-Term User)",
         "label": "Shared Kitchen (Short-Term User)",
-        "value": "food---shared-kitchen-short-term-user"
+        "value": "food---shared-kitchen-short-term-user",
+        "min-year": 2011, 
+        "max-year": 2014        
     },
     {
         "title": "Grocery",
         "label": "Grocery",
-        "value": "grocery"
+        "value": "grocery",
+        "min-year": 2006, 
+        "max-year": 2015        
     },
     {
         "title": "Grooming Facility",
         "label": "Grooming Facility",
-        "value": "grooming-facility"
+        "value": "grooming-facility",
+        "min-year": 2007, 
+        "max-year": 2013        
     },
     {
         "title": "Guard Dog Service",
         "label": "Guard Dog Service",
-        "value": "guard-dog-service"
+        "value": "guard-dog-service",
+        "min-year": 2007, 
+        "max-year": 2008        
     },
     {
         "title": "Hazardous Materials",
         "label": "Hazardous Materials",
-        "value": "hazardous-materials"
+        "value": "hazardous-materials",
+        "min-year": 1997, 
+        "max-year": 2015        
     },
     {
         "title": "Heliport",
         "label": "Heliport",
-        "value": "heliports"
+        "value": "heliports",
+        "min-year": 2006, 
+        "max-year": 2015        
     },
     {
         "title": "Home Occupation",
         "label": "Home Occupation",
-        "value": "home-occupation"
+        "value": "home-occupation",
+        "min-year": 1997, 
+        "max-year": 2014        
     },
     {
         "title": "Home Repair",
         "label": "Home Repair",
-        "value": "home-repair"
+        "value": "home-repair",
+        "min-year": 1996, 
+        "max-year": 2014        
     },
     {
         "title": "Hospital",
         "label": "Hospital",
-        "value": "hospital"
+        "value": "hospital",
+        "min-year": 2006, 
+        "max-year": 2014        
     },
     {
         "title": "Hotel",
         "label": "Hotel",
-        "value": "hotel"
+        "value": "hotel",
+        "min-year": 2003, 
+        "max-year": 2014        
     },
     {
         "title": "Humane Society",
         "label": "Humane Society",
-        "value": "humane-society"
+        "value": "humane-society",
+        "min-year": 2006, 
+        "max-year": 2013        
     },
     {
         "title": "Itinerant Merchant",
         "label": "Itinerant Merchant",
-        "value": "itinerant-merchant"
+        "value": "itinerant-merchant",
+        "min-year": 2013, 
+        "max-year": 2013        
     },
     {
         "title": "Itinerant Merchant (Class I)",
         "label": "Itinerant Merchant (Class I)",
-        "value": "itinerant-merchant-class-i"
+        "value": "itinerant-merchant-class-i",
+        "min-year": 2007, 
+        "max-year": 2011        
     },
     {
         "title": "Itinerant Merchant (Class II)",
         "label": "Itinerant Merchant (Class II)",
-        "value": "itinerant-merchant-class-ii"
+        "value": "itinerant-merchant-class-ii",
+        "min-year": 2008, 
+        "max-year": 2012        
     },
     {
         "title": "Junk Peddler",
         "label": "Junk Peddler",
-        "value": "junk-peddler"
+        "value": "junk-peddler",
+        "min-year": 1996, 
+        "max-year": 2014        
     },
     {
         "title": "Kennels and Catteries",
         "label": "Kennels and Catteries",
-        "value": "kennels-and-catteries"
+        "value": "kennels-and-catteries",
+        "min-year": 2005, 
+        "max-year": 2008        
     },
     {
         "title": "Laboratories",
         "label": "Laboratories",
-        "value": "laboratories"
+        "value": "laboratories",
+        "min-year": 1998, 
+        "max-year": 2013
     },
     {
         "title": "Late Hour",
         "label": "Late Hour",
-        "value": "late-hour"
+        "value": "late-hour",
+        "min-year": 2005, 
+        "max-year": 2015        
     },
     {
         "title": "Laundry (Late Hour)",
         "label": "Laundry (Late Hour)",
-        "value": "laundry-late-hour"
+        "value": "laundry-late-hour",
+        "min-year": 2002, 
+        "max-year": 2013        
     },
     {
         "title": "License Broker",
         "label": "License Broker",
-        "value": "license-broker"
+        "value": "license-broker",
+        "min-year": 2011, 
+        "max-year": 2014        
     },
     {
         "title": "License Manager",
         "label": "License Manager",
-        "value": "license-manager"
+        "value": "license-manager",
+        "min-year": 2012, 
+        "max-year": 2014        
     },
     {
         "title": "Limited Business License",
         "label": "Limited Business License",
-        "value": "limited-business-license"
+        "value": "limited-business-license",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Liquor Airport Pushcart",
         "label": "Liquor Airport Pushcart",
-        "value": "liquor-airport-pushcart-license"
+        "value": "liquor-airport-pushcart-license",
+        "min-year": 2012, 
+        "max-year": 2015        
     },
     {
         "title": "Long-Term Care Facility",
         "label": "Long-Term Care Facility",
-        "value": "long-term-care-facility"
+        "value": "long-term-care-facility",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Manufacturing Establishment",
         "label": "Manufacturing Establishment",
-        "value": "manufacturing-establishments"
+        "value": "manufacturing-establishments",
+        "min-year": 1996, 
+        "max-year": 2015        
     },
     {
         "title": "Massage",
         "label": "Massage",
-        "value": "massage-establishment"
+        "value": "massage-establishment",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Mobile Food Dispenser",
         "label": "Mobile Food Dispenser",
-        "value": "mobile-food-dispenser"
+        "value": "mobile-food-dispenser",
+        "min-year": 1997, 
+        "max-year": 2013        
     },
     {
         "title": "Mobile Food License",
         "label": "Mobile Food License",
-        "value": "mobile-food-license"
+        "value": "mobile-food-license",
+        "min-year": 2012, 
+        "max-year": 2015        
     },
     {
         "title": "Mobile Frozen Desserts Dispenser (Non-Motorized)",
         "label": "Mobile Frozen Desserts Dispenser (Non-Motorized)",
-        "value": "mobile-frozen-desserts-dispenser---non-motorized"
+        "value": "mobile-frozen-desserts-dispenser---non-motorized",
+        "min-year": 2006, 
+        "max-year": 2013        
     },
     {
         "title": "Motor Vehicle Repair (Engine Only, Class II)",
         "label": "Motor Vehicle Repair (Engine Only, Class II)",
-        "value": "motor-vehicle-repair--engine-only-class-ii"
+        "value": "motor-vehicle-repair--engine-only-class-ii",
+        "min-year": 1995, 
+        "max-year": 2014        
     },
     {
         "title": "Motor Vehicle Repair (Engine & Body, Class III)",
         "label": "Motor Vehicle Repair (Engine & Body, Class III)",
-        "value": "motor-vehicle-repair-enginebodyclass-iii"
+        "value": "motor-vehicle-repair-enginebodyclass-iii",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Motor Vehicle Repair (Specialty, Class I)",
         "label": "Motor Vehicle Repair (Specialty, Class I)",
-        "value": "motor-vehicle-repair-specialtyclass-i"
+        "value": "motor-vehicle-repair-specialtyclass-i",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Motor Vehicle Services",
         "label": "Motor Vehicle Services",
-        "value": "motor-vehicle-services-license"
+        "value": "motor-vehicle-services-license",
+        "min-year": 2012, 
+        "max-year": 2015        
     },
     {
         "title": "Music and Dance",
         "label": "Music and Dance",
-        "value": "music-and-dance"
+        "value": "music-and-dance",
+        "min-year": 2005, 
+        "max-year": 2015        
     },
     {
         "title": "Night Care Privilege",
         "label": "Night Care Privilege",
-        "value": "night-care-privilege"
+        "value": "night-care-privilege",
+        "min-year": 2005, 
+        "max-year": 2013        
     },
     {
         "title": "Not-for-Profit Club",
         "label": "Not-for-Profit Club",
-        "value": "not-for-profit-club"
+        "value": "not-for-profit-club",
+        "min-year": 2004, 
+        "max-year": 2015        
     },
     {
         "title": "Outdoor Patio",
         "label": "Outdoor Patio",
-        "value": "outdoor-patio"
+        "value": "outdoor-patio",
+        "min-year": 1998, 
+        "max-year": 2015        
     },
     {
         "title": "Package Goods",
         "label": "Package Goods",
-        "value": "package-goods"
+        "value": "package-goods",
+        "min-year": 2005, 
+        "max-year": 2015        
     },
     {
         "title": "Pawnbroker",
         "label": "Pawnbroker",
-        "value": "pawnbroker"
+        "value": "pawnbroker",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Peddler (Fruits and Vegetables)",
         "label": "Peddler (Fruits and Vegetables)",
-        "value": "peddler-food-fruits-and-vegtables-only"
+        "value": "peddler-food-fruits-and-vegtables-only",
+        "min-year": 2000, 
+        "max-year": 2013        
     },
     {
         "title": "Peddler (Fruits and Vegetables, Special)",
         "label": "Peddler (Fruits and Vegetables, Special)",
-        "value": "peddlerfood---fruits-and-vegetables-only---special"
+        "value": "peddlerfood---fruits-and-vegetables-only---special",
+        "min-year": 2005, 
+        "max-year": 2013        
     },
     {
         "title": "Peddler",
         "label": "Peddler",
-        "value": "peddler-license"
+        "value": "peddler-license",
+        "min-year": 2012, 
+        "max-year": 2015        
     },
     {
         "title": "Peddler (Non-Food)",
         "label": "Peddler (Non-Food)",
-        "value": "peddler-non-food"
+        "value": "peddler-non-food",
+        "min-year": 1999, 
+        "max-year": 2014        
     },
     {
         "title": "Peddler (Non-Food, Special)",
         "label": "Peddler (Non-Food, Special)",
-        "value": "peddler-non-food-special"
+        "value": "peddler-non-food-special",
+        "min-year": 2001, 
+        "max-year": 2014        
     },
     {
         "title": "Performing Arts Venue",
         "label": "Performing Arts Venue",
-        "value": "performing-arts-venue"
+        "value": "performing-arts-venue",
+        "min-year": 2006, 
+        "max-year": 2015        
     },
     {
         "title": "Pet Shop",
         "label": "Pet Shop",
-        "value": "pet-shop"
+        "value": "pet-shop",
+        "min-year": 2000, 
+        "max-year": 2013        
     },
     {
         "title": "Private Booting Operation",
         "label": "Private Booting Operation",
-        "value": "private-booting-operation"
+        "value": "private-booting-operation",
+        "min-year": 2006, 
+        "max-year": 2012        
     },
     {
         "title": "Produce Merchant",
         "label": "Produce Merchant",
-        "value": "produce-merchant"
+        "value": "produce-merchant",
+        "min-year": 2012, 
+        "max-year": 2013        
     },
     {
         "title": "Public Garage",
         "label": "Public Garage",
-        "value": "public-garage"
+        "value": "public-garage",
+        "min-year": 1996, 
+        "max-year": 2015        
     },
     {
         "title": "Amusement",
         "label": "Amusement",
-        "value": "public-place-of-amusement"
+        "value": "public-place-of-amusement",
+        "min-year": 1997, 
+        "max-year": 2015        
     },
     {
         "title": "Raffle",
         "label": "Raffle",
-        "value": "raffles"
+        "value": "raffles",
+        "min-year": 2003, 
+        "max-year": 2015        
     },
     {
         "title": "Regulated Business",
         "label": "Regulated Business",
-        "value": "regulated-business-license"
+        "value": "regulated-business-license",
+        "min-year": 2012, 
+        "max-year": 2015        
     },
     {
         "title": "Repossessor (Class A)",
         "label": "Repossessor (Class A)",
-        "value": "repossessor-class-a"
+        "value": "repossessor-class-a",
+        "min-year": 2009, 
+        "max-year": 2012        
     },
     {
         "title": "Repossessor (Class B)",
         "label": "Repossessor (Class B)",
-        "value": "repossessor-class-b"
+        "value": "repossessor-class-b",
+        "min-year": 2009, 
+        "max-year": 2012        
     },
     {
         "title": "Repossessor Employee (Class B)",
         "label": "Repossessor Employee (Class B)",
-        "value": "repossessor-class-b-employee"
+        "value": "repossessor-class-b-employee",
+        "min-year": 2009, 
+        "max-year": 2012        
     },
     {
         "title": "Residential Real Estate Developer",
         "label": "Residential Real Estate Developer",
-        "value": "residential-real-estate-developer"
+        "value": "residential-real-estate-developer",
+        "min-year": 2004, 
+        "max-year": 2015        
     },
     {
         "title": "Retail Computing Center",
         "label": "Retail Computing Center",
-        "value": "retail-computing-center"
+        "value": "retail-computing-center",
+        "min-year": 2002, 
+        "max-year": 2013        
     },
     {
         "title": "Retail Food License for Dog Friendly Area",
         "label": "Retail Food License for Dog Friendly Area",
-        "value": "retail-food-est.-supplemental-license-for-dog-friendly-areas"
+        "value": "retail-food-est.-supplemental-license-for-dog-friendly-areas",
+        "min-year": 2008, 
+        "max-year": 2013        
     },
     {
         "title": "Retail Food Establishment",
         "label": "Retail Food Establishment",
-        "value": "retail-food-establishment"
+        "value": "retail-food-establishment",
+        "min-year": 1996, 
+        "max-year": 2015        
     },
     {
         "title": "Riverwalk Venue Liquor License",
         "label": "Riverwalk Venue Liquor License",
-        "value": "riverwalk-venue-liquor-license"
+        "value": "riverwalk-venue-liquor-license",
+        "min-year": 2008, 
+        "max-year": 2013        
     },
     {
         "title": "Scavenger",
         "label": "Scavenger",
-        "value": "scavenger-private"
+        "value": "scavenger-private",
+        "min-year": 2003, 
+        "max-year": 2013        
     },
     {
         "title": "Secondhand Dealer (Childrens Products)",
         "label": "Secondhand Dealer (Childrens Products)",
-        "value": "secondhand-dealer---childrens-products"
+        "value": "secondhand-dealer---childrens-products",
+        "min-year": 2006, 
+        "max-year": 2013        
     },
     {
         "title": "Secondhand Dealer (Incl. Valuables)",
         "label": "Secondhand Dealer (Incl. Valuables)",
-        "value": "secondhand-dealer-includes-valuable-objects"
+        "value": "secondhand-dealer-includes-valuable-objects",
+        "min-year": 2005, 
+        "max-year": 2015        
     },
     {
         "title": "Secondhand Dealer (No Valuables)",
         "label": "Secondhand Dealer (No Valuables)",
-        "value": "secondhand-dealer-no-valuable-objects"
+        "value": "secondhand-dealer-no-valuable-objects",
+        "min-year": 2011, 
+        "max-year": 2015        
     },
     {
         "title": "Single Room Occupancy (Class I)",
         "label": "Single Room Occupancy (Class I)",
-        "value": "single-room-occupancy-class-i"
+        "value": "single-room-occupancy-class-i",
+        "min-year": 2003, 
+        "max-year": 2013        
     },
     {
         "title": "Single Room Occupancy (Class II)",
         "label": "Single Room Occupancy (Class II)",
-        "value": "single-room-occupancy-class-ii"
+        "value": "single-room-occupancy-class-ii",
+        "min-year": 2005, 
+        "max-year": 2013        
     },
     {
         "title": "Special Event (Beer & Wine)",
         "label": "Special Event (Beer & Wine)",
-        "value": "special-event-beer-and-wine"
+        "value": "special-event-beer-and-wine",
+        "min-year": 2008, 
+        "max-year": 2010        
     },
     {
         "title": "Special Event (Food)",
         "label": "Special Event (Food)",
-        "value": "special-event-food"
+        "value": "special-event-food",
+        "min-year": 2008, 
+        "max-year": 2010        
     },
     {
         "title": "Street Performer",
         "label": "Street Performer",
-        "value": "street-performer"
+        "value": "street-performer",
+        "min-year": 2000, 
+        "max-year": 2014        
     },
     {
         "title": "Tavern",
         "label": "Tavern",
-        "value": "tavern"
+        "value": "tavern",
+        "min-year": 2002, 
+        "max-year": 2015        
     },
     {
         "title": "Taxicab Dispatch",
         "label": "Taxicab Dispatch",
-        "value": "taxicab-two-way-dispatch-service-license"
+        "value": "taxicab-two-way-dispatch-service-license",
+        "min-year": 2012, 
+        "max-year": 2014        
     },
     {
         "title": "Tire Facility (100-1000 Tires)",
         "label": "Tire Facility (100-1000 Tires)",
-        "value": "tire-facilty-class-i-100---1000-tires"
+        "value": "tire-facilty-class-i-100---1000-tires",
+        "min-year": 2002, 
+        "max-year": 2015        
     },
     {
         "title": "Tire Facility (1000-5000 tires)",
         "label": "Tire Facility (1000-5000 tires)",
-        "value": "tire-facility-class-ii-1001---5000-tires"
+        "value": "tire-facility-class-ii-1001---5000-tires",
+        "min-year": 2005, 
+        "max-year": 2014        
     },
     {
         "title": "Tire Facility (5000 or more tires)",
         "label": "Tire Facility (5000 or more tires)",
-        "value": "tire-facility-class-iii-5001---more-tires"
+        "value": "tire-facility-class-iii-5001---more-tires",
+        "min-year": 2004, 
+        "max-year": 2013        
     },
     {
         "title": "Tobacco Dealer (Wholesale)",
         "label": "Tobacco Dealer (Wholesale)",
-        "value": "tobacco-dealer-wholesale"
+        "value": "tobacco-dealer-wholesale",
+        "min-year": 2004, 
+        "max-year": 2015        
     },
     {
         "title": "Tobacco Dealer (Retail)",
         "label": "Tobacco Dealer (Retail)",
-        "value": "tobacco-retail-over-counter"
+        "value": "tobacco-retail-over-counter",
+        "min-year": 1995, 
+        "max-year": 2015        
     },
     {
         "title": "Tobacco Sampler",
         "label": "Tobacco Sampler",
-        "value": "tobacco-sampler"
+        "value": "tobacco-sampler",
+        "min-year": 2006, 
+        "max-year": 2015        
     },
     {
         "title": "Tobacco Vending Machine",
         "label": "Tobacco Vending Machine",
-        "value": "tobacco-vending-machine-operator"
+        "value": "tobacco-vending-machine-operator",
+        "min-year": 2006, 
+        "max-year": 2011        
     },
     {
         "title": "Vacation Rental",
         "label": "Vacation Rental",
-        "value": "vacation-rental"
+        "value": "vacation-rental",
+        "min-year": 2011, 
+        "max-year": 2013        
     },
     {
         "title": "Valet Parking Operator",
         "label": "Valet Parking Operator",
-        "value": "valet-parking-operator"
+        "value": "valet-parking-operator",
+        "min-year": 2011, 
+        "max-year": 2014        
     },
     {
         "title": "Veterinary Hospital",
         "label": "Veterinary Hospital",
-        "value": "veterinary-hospital"
+        "value": "veterinary-hospital",
+        "min-year": 2000, 
+        "max-year": 2013        
     },
     {
         "title": "Weapons Dealer",
         "label": "Weapons Dealer",
-        "value": "weapons-dealer"
+        "value": "weapons-dealer",
+        "min-year": 2006, 
+        "max-year": 2013        
     },
     {
         "title": "Wholesale Food Establishment",
         "label": "Wholesale Food Establishment",
-        "value": "wholesale-food-establishment"
+        "value": "wholesale-food-establishment",
+        "min-year": 1996, 
+        "max-year": 2015        
     }]
