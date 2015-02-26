@@ -133,11 +133,11 @@
             maps.showCommunities();
             maps.setCommunityData(dataset);
         }
-
+        
         // Update critical business markers
         // TODO: Cache this result and only fetch/update when required
         if ($("#show-critical-businesses").is(':checked')) {
-            var datafile = "critical-" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+            var datafile = "critical/critical-" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
             maps.showMarkers(datafile);
         } else {
             maps.hideMarkers();

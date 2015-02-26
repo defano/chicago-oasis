@@ -284,7 +284,7 @@
     function renderMarkers(places) {
         places.forEach(function (place) {
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(place.lat, place.lng),
+                position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 title: place.name,
                 map: map
             });
