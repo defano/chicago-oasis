@@ -121,7 +121,9 @@
             // In order to draw circles, we need to capture click events. Since the poly will float
             // above the map, we can't attach this listener to the map object itself.
             google.maps.event.addListener(poly, 'click', function (event) {
-                drawCircle(event.latLng, METERS_PER_MILE * 1);
+                if (activeGeography == "census") {
+                    drawCircle(event.latLng, METERS_PER_MILE * 1);
+                }
             });
 
             // Squirrel away this poly
@@ -293,7 +295,7 @@
             });
 
             var contentString = place.DOING_BUSINESS_AS_NAME;
-            
+
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
             });
