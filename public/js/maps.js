@@ -294,10 +294,27 @@
                 title: place.DOING_BUSINESS_AS_NAME
             });
 
-            var contentString = place.DOING_BUSINESS_AS_NAME;
+            var contentString = '<div id="content" style="width:150px;height:200px;"></div>' //place.DOING_BUSINESS_AS_NAME;
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
+            });
+
+            var pano = null;
+            google.maps.event.addListener(infowindow, 'domready', function () {
+                if (pano != null) {
+                    pano.setVisible(false);
+                }
+                pano = new google.maps.StreetViewPanorama(document.getElementById("content"), {
+                    position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
+                    navigationControl: false,
+                    enableCloseButton: false,
+                    addressControl: false,
+                    linksControl: false,
+                    panControl: false,
+                    zoomControl: false
+                });
+                pano.setVisible(true);
             });
 
             google.maps.event.addListener(marker, 'click', function () {
