@@ -18,6 +18,7 @@
     var relativeShadingEnabled = false;
 
     var map = null; // Google map object
+    var visibleInfoWindow = undefined;
 
     // Predicates to indicate whether community area / census polys are ready
     // for rendering
@@ -265,8 +266,8 @@
                     fillOpacity: 0.4,
                     fillColor: "#ff0000"
                 });
-            } 
-            
+            }
+
             // Shade polygon based on bucket value
             else {
                 thisPoly.setOptions({
@@ -286,7 +287,21 @@
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 title: place.name,
-                map: map
+                animation: google.maps.Animation.DROP,
+                map: map,
+                title: place.DOING_BUSINESS_AS_NAME
+            });
+
+            var contentString = place.DOING_BUSINESS_AS_NAME;
+            
+            var infowindow = new google.maps.InfoWindow({
+                content: contentString
+            });
+
+            google.maps.event.addListener(marker, 'click', function () {
+                if (visibleInfoWindow) visibleInfoWindow.close();
+                visibleInfoWindow = infowindow;
+                infowindow.open(map, marker);
             });
 
             markers.push(marker);
