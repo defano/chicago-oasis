@@ -1,3 +1,9 @@
+.multiselect-container {
+    max-height: 400px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
 .control-panel {
     float: left;
     padding-left: 20px;
