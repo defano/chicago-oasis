@@ -324,9 +324,11 @@
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
                 
+                var popAtRisk = place.POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+                
                 $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
                 $("#infowindow-address").text(place.ADDRESS);
-                $("#infowindow-description").text("If this business were to close, a population of " + place.POP_AT_RISK + " would be without access to this type of business or service.");                
+                $("#infowindow-description").text("If this business were to close, a population of " + popAtRisk + " would live more than a mile away from a competing business.");                
             });
 
             markers.push(marker);
