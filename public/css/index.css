@@ -1,3 +1,11 @@
+.vcr-buttons {
+    padding-top: 10px;
+}
+
+#year-value {
+    font-size: 14px;
+}
+
 #infowindow-pano {
     height: 200px;
     width: 125px;
@@ -33,7 +41,7 @@
     float: left;
     padding-left: 20px;
     padding-bottom: 70px;
-    width: 35%;
+    width: 375px;
     height: calc(100% - 2px);
     display: table;
     min-width: 350px;
