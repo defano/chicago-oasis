@@ -1,3 +1,28 @@
+#infowindow-pano {
+    height: 200px;
+    width: 125px;
+    float: left;
+}
+
+#infowindow-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#infowindow-address {
+    color: gray;
+}
+
+#infowindow-text {
+    width: 300px;
+    padding-left: 15px;
+    float:right;
+}
+
+#infowindow-description {
+    padding-top: 10px;
+}
+
 .multiselect-container {
     max-height: 400px;
     overflow: hidden;

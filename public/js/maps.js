@@ -294,18 +294,20 @@
                 title: place.DOING_BUSINESS_AS_NAME
             });
 
-            var contentString = '<div id="content" style="width:150px;height:200px;"></div>' //place.DOING_BUSINESS_AS_NAME;
+            var contentString = '<div id="infowindow-pano"></div><div id="infowindow-text"><div id="infowindow-title"></div><div id="infowindow-address"></div><div id="infowindow-description"></div></div>' //place.DOING_BUSINESS_AS_NAME;
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
             });
 
+            $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
+            
             var pano = null;
             google.maps.event.addListener(infowindow, 'domready', function () {
                 if (pano != null) {
                     pano.setVisible(false);
                 }
-                pano = new google.maps.StreetViewPanorama(document.getElementById("content"), {
+                pano = new google.maps.StreetViewPanorama(document.getElementById("infowindow-pano"), {
                     position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                     navigationControl: false,
                     enableCloseButton: false,
@@ -321,6 +323,10 @@
                 if (visibleInfoWindow) visibleInfoWindow.close();
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
+                
+                $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
+                $("#infowindow-address").text(place.ADDRESS);
+                $("#infowindow-description").text("If this business were to close, a population of " + place.POP_AT_RISK + " would be without access to this type of business or service.");                
             });
 
             markers.push(marker);
