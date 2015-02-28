@@ -205,7 +205,6 @@
     }
 
     function polyMouseoverCallback(areaType, areaName, poly, record) {
-        console.log(record);
         if (activeAreaType != areaType) {
             activeAreaType = areaType;
             $("#info-panel").load(areaType === "census" ? "tract-report.html" : "community-report.html");
@@ -225,6 +224,7 @@
             $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
             $(".business-type").text(getSelectedBusinessLabel());
             $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+            $(".citywide-per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", "CHICAGO").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", areaName));
         }
     }
