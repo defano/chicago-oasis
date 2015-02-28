@@ -28,6 +28,8 @@
     var circle = null; // handle to circle drawn on map
     var markers = []; // handle to markers drawn on map
 
+    var polyMouseoverCallback = undefined;
+
     function queryFusionTable(tableId, successCallback) {
 
         // Construct the Fusion Table query
@@ -99,14 +101,16 @@
 
             // Handle mouseover events on this poly
             google.maps.event.addListener(poly, 'mouseover', function () {
-                // TODO: Just for fun; replaces all instances of area name with mouseover'd selection
-                $(".area-name").html(this.areaName + " (" + this.fillOpacity + ")");
-
                 // Make shape outline bold
                 this.setOptions({
                     strokeOpacity: 1,
                     strokeWeight: 6,
                 });
+
+                if (polyMouseoverCallback) {
+                    var data = (activeGeography === "census") ? censusData : communityData;
+                    polyMouseoverCallback(activeGeography, this.areaName, this, getAreaData(this.areaId, data));
+                }
             });
 
             // Handle mouseout events on this poly
@@ -240,17 +244,22 @@
         shadePolygons(activePolygons, activeDataset);
     }
 
-    function getIndexForArea(areaId, data) {
+    function getAreaData(areaId, data) {
         var areaProperty = (activeGeography == "census") ? "TRACT" : "COMMUNITY_AREA";
-        var index = undefined;
+        var foundRecord = undefined;
 
         data.forEach(function (record) {
             if (record[areaProperty] == areaId) {
-                index = record.ACCESS1;
+                foundRecord = record;
             }
         });
 
-        return index;
+        return foundRecord;
+    };
+
+    function getIndexForArea(areaId, data) {
+        var areaData = getAreaData(areaId, data);
+        return areaData && getAreaData(areaId, data)["ACCESS1"];
     }
 
     function shadePolygons(polys, data) {
@@ -294,14 +303,14 @@
                 title: place.DOING_BUSINESS_AS_NAME
             });
 
-            var contentString = '<div id="infowindow-pano"></div><div id="infowindow-text"><div id="infowindow-title"></div><div id="infowindow-address"></div><div id="infowindow-description"></div></div>' //place.DOING_BUSINESS_AS_NAME;
+            var contentString = '<div id="infowindow-pano"></div><div id="infowindow-text"><div id="infowindow-title"></div><div id="infowindow-address"></div><div id="infowindow-description"></div></div>';
 
             var infowindow = new google.maps.InfoWindow({
                 content: contentString
             });
 
             $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
-            
+
             var pano = null;
             google.maps.event.addListener(infowindow, 'domready', function () {
                 if (pano != null) {
@@ -323,12 +332,12 @@
                 if (visibleInfoWindow) visibleInfoWindow.close();
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
-                
+
                 var popAtRisk = place.POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
-                
+
                 $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
                 $("#infowindow-address").text(place.ADDRESS);
-                $("#infowindow-description").text("If this business were to close, a population of " + popAtRisk + " would live more than a mile away from a competing business.");                
+                $("#infowindow-description").text("If this business were to close, a population of " + popAtRisk + " would live more than a mile away from a competing business.");
             });
 
             markers.push(marker);
@@ -433,5 +442,9 @@
     maps.getMap = function () {
         return map;
     };
+
+    maps.setPolyMouseoverCallback = function (callback) {
+        polyMouseoverCallback = callback;
+    }
 
 }(window.maps = window.maps || {}, jQuery));

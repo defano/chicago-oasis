@@ -4,6 +4,8 @@
     var minYear = 0;
     var maxYear = 0;
     var playStopped = true;
+    var activeAreaType = undefined;
+    var socioeconomicData = undefined;
 
     /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
      */
@@ -82,6 +84,11 @@
 
     function getSelectedBusiness() {
         return $('#business-multiselect').val();
+    }
+
+    function getSelectedBusinessLabel() {
+        console.log($('#business-multiselect > .btn-group').html());
+        return $('#business-multiselect > .btn-group').find('button').text();
     }
 
     function getSelectedYear() {
@@ -171,7 +178,59 @@
                 stopSlider();
             }
         });
+    }
 
+    function getDesertClassDescription(opacity) {
+        if (opacity == undefined) return "(no data available)";
+
+        if (opacity > 0.8) return "neighborhoods with the very lowest levels of access";
+        else if (opacity > 0.6) return "neighborhoods with poor access";
+        else if (opacity > 0.4) return "neighborhoods with fair accessiblity";
+        else if (opacity > 0.2) return "neighborhoods with good accessibility";
+        else return "neighborhoods with the highest accessiblity";
+    }
+
+    function getDesertClass(opacity) {
+        if (opacity == undefined) return "(no data available)";
+
+        if (opacity > 0.8) return "most deserted";
+        else if (opacity > 0.6) return "largely deserted";
+        else if (opacity > 0.4) return "somewhat accessible";
+        else if (opacity > 0.2) return "largely accessible";
+        else return "most accessible";
+    }
+
+    function getSocioeconomicIndicator(indicator, forArea) {
+        return socioeconomicData[forArea.toUpperCase()][indicator];
+    }
+
+    function polyMouseoverCallback(areaType, areaName, poly, record) {
+        console.log(record);
+        if (activeAreaType != areaType) {
+            activeAreaType = areaType;
+            $("#info-panel").load(areaType === "census" ? "tract-report.html" : "community-report.html");
+        }
+
+        if (areaType === "census") {
+            $(".year").text(getSelectedYear);
+            $(".area-name").text(areaName);
+            $(".desert-class").text(getDesertClass(poly.fillOpacity));
+            $(".business-one-mile").text(record["ONE_MILE"]);
+            $(".business-two-mile").text(record["TWO_MILE"]);
+            $(".business-three-mile").text(record["THREE_MILE"]);
+        } else {
+            $(".year").text(getSelectedYear);
+            $(".area-name").text(areaName);
+            $(".desert-class").text(getDesertClass(poly.fillOpacity));
+            $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
+            $(".business-type").text(getSelectedBusinessLabel());
+            $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+            $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", areaName));
+        }
+    }
+
+    function initMouseoverCallback() {
+        maps.setPolyMouseoverCallback(polyMouseoverCallback);
     }
 
     /*
@@ -210,6 +269,11 @@
         initPopovers();
         initCriticalBusiness();
         initVcrButtons();
+        initMouseoverCallback();
+
+        json.fetch("socioeconomic.json", function (data) {
+            socioeconomicData = data;
+        });
     };
 
 }(window.index = window.index || {}, jQuery));

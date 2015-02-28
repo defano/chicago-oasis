@@ -24,7 +24,7 @@
 #infowindow-text {
     width: 300px;
     padding-left: 15px;
-    float:right;
+    float: right;
 }
 
 #infowindow-description {
@@ -81,7 +81,7 @@ div.info-panel>p {
 .area-subtitle {
     margin-top: -8px;
     color: grey;
-    font-style: italic;
+    text-transform: uppercase;
 }
 
 body {
