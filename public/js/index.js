@@ -102,7 +102,6 @@
     function incrementSliderValue() {
         var currentYear = $("#year-slider").slider("getValue");
 
-        console.log("current: " + currentYear + " max: " + maxYear);
         if (currentYear < maxYear) {
             updateSliderValue(currentYear + 1);
         }
@@ -122,6 +121,7 @@
 
         $("#year-slider").slider("setAttribute", "min", minYear);
         $("#year-slider").slider("setAttribute", "max", maxYear);
+        $("#year-slider").slider("setValue", selectedYear);
 
         if (selectedYear > maxYear)
             $("#year-slider").slider("setValue", maxYear);

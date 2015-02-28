@@ -23,7 +23,7 @@
     <script type="text/javascript" src="/js/maps.js"></script>
     <script type="text/javascript" src="/js/maps-boot.js"></script>
     <script type="text/javascript" src="/js/json.js"></script>
-    
+
 </head>
 
 <body>
@@ -54,32 +54,35 @@
                 <h4 class="vert-break">Within each</h4>
                 <div class="btn-group indented" data-toggle="buttons">
                     <label class="btn btn-primary active">
-                        <input type="radio" name="geo-area" id="neighborhood-radio" checked="checked"/> Neighborhood
+                        <input type="radio" name="geo-area" id="neighborhood-radio" checked="checked" /> Neighborhood
                     </label>
                     <label class="btn btn-primary">
-                        <input type="radio" name="geo-area" id="census-radio"/> Census Tract
+                        <input type="radio" name="geo-area" id="census-radio" /> Census Tract
                     </label>
                 </div>
                 <h4 class="vert-break">For calendar year</h4>
                 <div class="indented">
                     <input id="year-slider" type="text" value="2007" data-handle="round" data-slider-min="2000" data-slider-max="2014" data-slider-step="1" data-slider-value="2007" data-slider-orientation="horizontal" data-slider-selection="after" data-slider-tooltip="hide"><span id="year-value" class="label label-default indented">2007</span>
                     <div class="vcr-buttons">
-                        <button type="button" id="fast-backwards" class="btn"><span class="glyphicon glyphicon-fast-backward"></span></button>  
-                        <button type="button" id="play" class="btn"><span id="play-icon" class="glyphicon glyphicon-play"></span></button>
-                        <button type="button" id="fast-forwards" class="btn"><span class="glyphicon glyphicon-fast-forward"></span></button>
+                        <button type="button" id="fast-backwards" class="btn"><span class="glyphicon glyphicon-fast-backward"></span>
+                        </button>
+                        <button type="button" id="play" class="btn"><span id="play-icon" class="glyphicon glyphicon-play"></span>
+                        </button>
+                        <button type="button" id="fast-forwards" class="btn"><span class="glyphicon glyphicon-fast-forward"></span>
+                        </button>
                     </div>
                 </div>
 
                 <hr/>
                 <div class="checkbox">
                     <input type="checkbox" id="show-critical-businesses">
-                    <label for="show-critical-businesses" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="A business is considered 'critical' if its demise would create a desert for a large population of residents.">
+                    <label for="show-critical-businesses" data-delay="750" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="A business is considered 'critical' if its demise would create a desert for a large population of residents.">
                         Show critical businesses on map
                     </label>
                 </div>
                 <div class="checkbox">
                     <input type="checkbox" id="relative-shading">
-                    <label for="relative-shading" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="Shade areas relative only to others visible on the map (rather than the city as a whole).">
+                    <label for="relative-shading" data-delay="750" data-trigger="hover focus" data-container="body" data-toggle="popover" data-placement="right" data-content="Shade areas relative only to others visible on the map (rather than the city as a whole).">
                         Relative shading
                     </label>
                 </div>
