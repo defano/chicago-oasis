@@ -6,6 +6,7 @@
     var playStopped = true;
     var activeAreaType = undefined;
     var socioeconomicData = undefined;
+    var multiselectReady = false;
 
     /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
      */
@@ -35,6 +36,8 @@
         json.fetch("licenses.json", function (data) {
             multiselectData = data;
             $("#business-multiselect").multiselect('dataprovider', data);
+            $("#business-multiselect").multiselect('select', 'grocery');
+            index.update();
         });
 
         // Trigger update on any user selection
@@ -84,11 +87,6 @@
 
     function getSelectedBusiness() {
         return $('#business-multiselect').val();
-    }
-
-    function getSelectedBusinessLabel() {
-        console.log($('#business-multiselect > .btn-group').html());
-        return $('#business-multiselect > .btn-group').find('button').text();
     }
 
     function getSelectedYear() {
@@ -222,7 +220,6 @@
             $(".area-name").text(areaName);
             $(".desert-class").text(getDesertClass(poly.fillOpacity));
             $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
-            $(".business-type").text(getSelectedBusinessLabel());
             $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             $(".citywide-per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", "CHICAGO").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", areaName));

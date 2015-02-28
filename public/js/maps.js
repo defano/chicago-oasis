@@ -369,6 +369,7 @@
             communityPolys = polys;
             communitiesReady = true;
             showPolys(communityPolys);
+            shadePolygons(communityPolys, communityData);
         });
     };
 
@@ -417,7 +418,6 @@
     };
 
     maps.setCommunityData = function (datafile) {
-
         communityData = {};
 
         json.fetch(datafile, function (data) {
