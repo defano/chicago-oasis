@@ -1,3 +1,16 @@
+.circle-infowindow {
+    width: 200px;
+    height: 100px;
+}
+
+.circle-radius {
+    width: 100%;
+    font-size: 14px;
+    color: gray;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
 .vcr-buttons {
     padding-top: 10px;
 }

@@ -25,7 +25,7 @@
     var communitiesReady = false;
     var censusReady = false;
 
-    var circle = null; // handle to circle drawn on map
+    var circles = []; // handle to circle drawn on map
     var markers = []; // handle to markers drawn on map
 
     var polyMouseoverCallback = undefined;
@@ -109,7 +109,7 @@
 
                 if (polyMouseoverCallback) {
                     var data = (activeGeography === "census") ? censusData : communityData;
-                    polyMouseoverCallback(activeGeography, this.areaName, this, getAreaData(this.areaId, data));
+                    polyMouseoverCallback(activeGeography, this.areaName, this, getRecordForArea(this.areaId, data));
                 }
             });
 
@@ -126,7 +126,7 @@
             // above the map, we can't attach this listener to the map object itself.
             google.maps.event.addListener(poly, 'click', function (event) {
                 if (activeGeography == "census") {
-                    drawCircle(event.latLng, METERS_PER_MILE * 1);
+                    renderCircles(event.latLng, this.areaId);
                 }
             });
 
@@ -154,12 +154,38 @@
         return newCoordinates;
     }
 
-    /* Render circle on map at the given lat/lng and radius (in meters).
-     * TODO: Draw concentric circles
-     */
-    function drawCircle(centerLatLng, radius) {
-        // Remove existing circle
-        if (circle) circle.setMap(null);
+    function renderCircles(centerLatLng, areaId) {
+        removeCircles();
+        closeInfowindow();
+
+        for (i = 3; i > 0; i--) {
+            var circle = getNewCircle(centerLatLng, i);
+
+            google.maps.event.addListener(circle, 'mouseover', function (event) {
+
+                var areaRecord = getRecordForArea(areaId, censusData);
+                var businessCount = undefined;
+                if (this.radiusMiles == 3) businessCount = areaRecord["THREE_MILE"];
+                else if (this.radiusMiles == 2) businessCount = areaRecord["TWO_MILE"];
+                else if (this.radiusMiles == 1) businessCount = areaRecord["ONE_MILE"];
+
+                var infowindow = new google.maps.InfoWindow({
+                    position: event.latLng,
+                    content: "<div class='circle-infowindow'><div class='circle-radius'>" + this.radiusMiles + " mile radius</div><div class='circle-description'>There are " + businessCount + " businesses of the selected type within a " + this.radiusMiles + " mile radius of the encircled location.</div></div>"
+                });
+
+                // Hide any visible infowindows
+                closeInfowindow();
+
+                infowindow.open(map);
+                visibleInfoWindow = infowindow;
+            });
+
+            circles.push(circle);
+        }
+    }
+
+    function getNewCircle(centerLatLng, radiusMiles) {
 
         var circleOptions = {
             strokeColor: '#ffffff',
@@ -169,11 +195,22 @@
             fillOpacity: 0.35,
             map: map,
             center: centerLatLng,
-            radius: radius,
-            zIndex: google.maps.Marker.MAX_ZINDEX + 1
+            radius: radiusMiles * METERS_PER_MILE,
+            zIndex: google.maps.Marker.MAX_ZINDEX + 1,
+            radiusMiles: radiusMiles
         };
 
-        circle = new google.maps.Circle(circleOptions);
+        return new google.maps.Circle(circleOptions);
+    }
+
+    function removeCircles() {
+        circles.forEach(function (thisCircle) {
+            thisCircle.setMap(null);
+        });
+    }
+
+    function closeInfowindow() {
+        if (visibleInfoWindow) visibleInfoWindow.close();
     }
 
     /* Filter a given set of polygons returning an array containing only those currently visible
@@ -244,7 +281,7 @@
         shadePolygons(activePolygons, activeDataset);
     }
 
-    function getAreaData(areaId, data) {
+    function getRecordForArea(areaId, data) {
         var areaProperty = (activeGeography == "census") ? "TRACT" : "COMMUNITY_AREA";
         var foundRecord = undefined;
 
@@ -258,8 +295,8 @@
     };
 
     function getIndexForArea(areaId, data) {
-        var areaData = getAreaData(areaId, data);
-        return areaData && getAreaData(areaId, data)["ACCESS1"];
+        var areaData = getRecordForArea(areaId, data);
+        return areaData && getRecordForArea(areaId, data)["ACCESS1"];
     }
 
     function shadePolygons(polys, data) {
@@ -329,7 +366,7 @@
             });
 
             google.maps.event.addListener(marker, 'click', function () {
-                if (visibleInfoWindow) visibleInfoWindow.close();
+                closeInfowindow();
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
 
@@ -382,6 +419,9 @@
     };
 
     maps.showCommunities = function (withDataset) {
+        closeInfowindow();
+        removeCircles();
+
         if (this.areCommunitiesReady()) {
             showPolys(communityPolys);
             hidePolys(censusPolys);
@@ -389,6 +429,9 @@
     };
 
     maps.showCensusTracts = function () {
+        closeInfowindow();
+        removeCircles();
+
         if (this.areCensusTractsReady()) {
             showPolys(censusPolys);
             hidePolys(communityPolys);

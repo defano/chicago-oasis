@@ -51,13 +51,10 @@
     function initYearSlider() {
         // Continually update the label...
         $("#year-slider").slider().on('slide', function (event) {
-            $("#year-value").text(event.value);
-        });
-
-        // But only fire the update function once user has made a selection
-        $("#year-slider").slider().on('slideStop', function (event) {
-            $("#year-value").text(event.value);
-            index.update();
+            if (event.value != $("#year-value").text()) {
+                $("#year-value").text(event.value);
+                index.update();
+            }
         });
     }
 
@@ -208,17 +205,15 @@
             $("#info-panel").load(areaType === "census" ? "tract-report.html" : "community-report.html");
         }
 
+        $(".year").text(getSelectedYear);
+        $(".area-name").text(areaName);
+        $(".desert-class").text(getDesertClass(poly.fillOpacity));
+
         if (areaType === "census") {
-            $(".year").text(getSelectedYear);
-            $(".area-name").text(areaName);
-            $(".desert-class").text(getDesertClass(poly.fillOpacity));
             $(".business-one-mile").text(record["ONE_MILE"]);
             $(".business-two-mile").text(record["TWO_MILE"]);
             $(".business-three-mile").text(record["THREE_MILE"]);
         } else {
-            $(".year").text(getSelectedYear);
-            $(".area-name").text(areaName);
-            $(".desert-class").text(getDesertClass(poly.fillOpacity));
             $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
             $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             $(".citywide-per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", "CHICAGO").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
