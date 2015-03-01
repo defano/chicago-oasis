@@ -270,9 +270,7 @@
 
             // Blank polygons that are not visible 
             activePolygons.forEach(function (thisPoly) {
-                thisPoly.setOptions({
-                    fillOpacity: 0
-                });
+                thisPoly.setMap(null);
             });
 
             activePolygons = getVisiblePolygons(activePolygons);
@@ -322,6 +320,8 @@
                     fillOpacity: getOpacityBucket((index - min) / (max - min))
                 });
             }
+
+            thisPoly.setMap(map);
         });
     }
 
