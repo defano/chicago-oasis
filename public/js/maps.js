@@ -8,6 +8,11 @@
     var METERS_PER_MILE = 1609.34;
     var CHICAGO = new google.maps.LatLng(41.8369, -87.6847);
 
+    var NO_DATA_COLOR = "#666666";
+    var AREA_COLOR = '#6699FF';
+    var CIRCLE_COLOR = '#000066';
+    var OUTLINE_COLOR = '#FFFFFF';
+    
     var activeGeography = "communities";
     var communityPolys = []; // community area polygons
     var censusPolys = []; // census tract polygons
@@ -90,10 +95,10 @@
 
             var poly = new google.maps.Polygon({
                 paths: newCoordinates,
-                strokeColor: '#ffffff',
+                strokeColor: OUTLINE_COLOR,
                 strokeOpacity: 1,
                 strokeWeight: 2,
-                fillColor: '#DB944D',
+                fillColor: AREA_COLOR,
                 areaId: areaId,
                 areaName: areaName,
                 centroid: centroid
@@ -188,10 +193,10 @@
     function getNewCircle(centerLatLng, radiusMiles) {
 
         var circleOptions = {
-            strokeColor: '#ffffff',
+            strokeColor: OUTLINE_COLOR,
             strokeOpacity: 0.8,
             strokeWeight: 2,
-            fillColor: '#4491BB',
+            fillColor: CIRCLE_COLOR,
             fillOpacity: 0.35,
             map: map,
             center: centerLatLng,
@@ -310,7 +315,7 @@
             if (index == undefined) {
                 thisPoly.setOptions({
                     fillOpacity: 0.4,
-                    fillColor: "#ff0000"
+                    fillColor: NO_DATA_COLOR
                 });
             }
 
@@ -327,7 +332,10 @@
 
     function getOpacityBucket(value) {
         var bucketCount = 5;
-        return 1 - Math.round(value / (1 / bucketCount)) * (1 / bucketCount);
+        var bucket = Math.round(value / (1 / bucketCount)) * (1 / bucketCount);
+        
+        // Don't shade anything as 0 or 1 (makes map hard to read)
+        return (bucket == 0) ? 0.05 : (bucket == 1) ? .95 : bucket;
     }
 
     function renderMarkers(places) {

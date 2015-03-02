@@ -178,21 +178,21 @@
     function getDesertClassDescription(opacity) {
         if (opacity == undefined) return "(no data available)";
 
-        if (opacity > 0.8) return "neighborhoods with the very lowest levels of access";
-        else if (opacity > 0.6) return "neighborhoods with poor access";
-        else if (opacity > 0.4) return "neighborhoods with fair accessiblity";
-        else if (opacity > 0.2) return "neighborhoods with good accessibility";
-        else return "neighborhoods with the highest accessiblity";
+        if (opacity >= 0.8) return "neighborhoods with the highest accessiblity";
+        else if (opacity >= 0.6) return "neighborhoods with good accessibility";
+        else if (opacity >= 0.4) return "neighborhoods with fair accessiblity";
+        else if (opacity >= 0.2) return "neighborhoods with poor access";
+        else return "neighborhoods with the very lowest levels of access";
     }
 
     function getDesertClass(opacity) {
         if (opacity == undefined) return "(no data available)";
-
-        if (opacity > 0.8) return "most deserted";
-        else if (opacity > 0.6) return "largely deserted";
-        else if (opacity > 0.4) return "somewhat accessible";
-        else if (opacity > 0.2) return "largely accessible";
-        else return "most accessible";
+        
+        if (opacity >= 0.8) return "most accessible";
+        else if (opacity >= 0.6) return "largely accessible";
+        else if (opacity >= 0.4) return "somewhat accessible";
+        else if (opacity >= 0.2) return "largely deserted";
+        else return "most deserted";
     }
 
     function getSocioeconomicIndicator(indicator, forArea) {
