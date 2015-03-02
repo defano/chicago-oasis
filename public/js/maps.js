@@ -13,12 +13,15 @@
     var CIRCLE_COLOR = '#000066';
     var OUTLINE_COLOR = '#FFFFFF';
     
+    var MARKER_ANIMATION = google.maps.Animation.DROP;
+    
     var activeGeography = "communities";
     var communityPolys = []; // community area polygons
     var censusPolys = []; // census tract polygons
     var communityData = {}; // current community desertification data
     var censusData = []; // current census desertification data
-
+    var markerAnimationEnabled = true;
+    
     // When true, polygons are shaded relative only to other visible polygons
     var relativeShadingEnabled = false;
 
@@ -343,9 +346,9 @@
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 title: place.name,
-                animation: google.maps.Animation.DROP,
                 map: map,
-                title: place.DOING_BUSINESS_AS_NAME
+                title: place.DOING_BUSINESS_AS_NAME,
+                animation: (markerAnimationEnabled) ? MARKER_ANIMATION : null
             });
 
             var contentString = '<div id="infowindow-pano"></div><div id="infowindow-text"><div id="infowindow-title"></div><div id="infowindow-address"></div><div id="infowindow-description"></div></div>';
@@ -468,6 +471,10 @@
         refreshPolygonShading();
     };
 
+    maps.enableMarkerAnimation = function (enable) {
+        markerAnimationEnabled = enable;
+    }
+    
     maps.setCommunityData = function (datafile) {
         communityData = {};
 

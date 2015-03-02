@@ -56,6 +56,14 @@
                 index.update();
             }
         });
+
+        $("#year-slider").slider().on('slideStart', function (event) {
+            maps.enableMarkerAnimation(false);
+        });        
+        
+        $("#year-slider").slider().on('slideStop', function (event) {
+            maps.enableMarkerAnimation(true);
+        });
     }
 
     /* "Turn on" any popovers or tooltips defined on the page
@@ -74,6 +82,7 @@
      */
     function initCriticalBusiness() {
         $("#show-critical-businesses").change(function () {
+            maps.enableMarkerAnimation(true);
             index.update();
         });
 
@@ -138,20 +147,20 @@
         playStopped = true;
         $("#play-icon").removeClass("glyphicon-stop");
         $("#play-icon").addClass("glyphicon-play");
+        maps.enableMarkerAnimation(true);
     }
 
     function playSlider() {
         var currentYear = $("#year-slider").slider("getValue");
-
+        maps.enableMarkerAnimation(false);
+        
         if (!playStopped && currentYear < maxYear) {
             $("#play-icon").removeClass("glyphicon-play");
             $("#play-icon").addClass("glyphicon-stop");
             incrementSliderValue();
             setTimeout(playSlider, 750);
         } else {
-            $("#play-icon").removeClass("glyphicon-stop");
-            $("#play-icon").addClass("glyphicon-play");
-            playStopped = true;
+            stopSlider();
         }
     }
 
@@ -187,7 +196,7 @@
 
     function getDesertClass(opacity) {
         if (opacity == undefined) return "(no data available)";
-        
+
         if (opacity >= 0.8) return "most accessible";
         else if (opacity >= 0.6) return "largely accessible";
         else if (opacity >= 0.4) return "somewhat accessible";
@@ -214,10 +223,11 @@
             $(".business-two-mile").text(record["TWO_MILE"]);
             $(".business-three-mile").text(record["THREE_MILE"]);
         } else {
-            $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
             $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
-            $(".citywide-per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", "CHICAGO").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
             $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", areaName));
+            $(".hardship-index").text(getSocioeconomicIndicator("HARDSHIP INDEX", areaName));
+            $(".percent-unemployed").text(getSocioeconomicIndicator("PERCENT AGED 16+ UNEMPLOYED", areaName));
+            $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
         }
     }
 
