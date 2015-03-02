@@ -1,27 +1,27 @@
 {
-  "name": "desert-chicago",
-  "version": "0.0.1",
-  "description": "A neighborhood data haboob",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "~4.9.x",
-    "jade": "^1.9.2",
-    "marked": "^0.3.3"
-  },
-  "engines": {
-    "node": "0.10.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/defano/desert-chicago-njs"
-  },
-  "keywords": [
+    "name": "oasis-chicago",
+    "version": "0.0.1",
+    "description": "A visualization of Chicago business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago's online data portal.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "~4.9.x",
+        "jade": "^1.9.2",
+        "marked": "^0.3.3"
+    },
+    "engines": {
+        "node": "0.10.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/defano/oasis-chicago-njs"
+    },
+    "keywords": [
     "chicago",
     "desert",
     "food"
   ],
-  "license": "MIT"
+    "license": "MIT"
 }

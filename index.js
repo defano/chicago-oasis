@@ -4,7 +4,6 @@ var fs = require('fs');
 var marked = require('marked');
 
 app.set('views', __dirname + '/public');
-
 app.set('port', (process.env.PORT || 5000));
 app.set('view engine', 'jade');
 
@@ -15,6 +14,7 @@ app.get('/*.md', function (req, res) {
     var path = __dirname + '/md/' + req.path;
     var file = fs.readFileSync(path, 'utf8');
 
+    // I'm sure there's a more clever way to do this...
     res.render('markdown', {
         markdown: marked(file)
     });
