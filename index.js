@@ -3,7 +3,7 @@ var app = express();
 var fs = require('fs');
 var marked = require('marked');
 
-app.set('views', __dirname + '/public');
+app.set('views', __dirname + '/public/jade');
 app.set('port', (process.env.PORT || 5000));
 app.set('view engine', 'jade');
 

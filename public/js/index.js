@@ -202,7 +202,7 @@
     function polyMouseoverCallback(areaType, areaName, poly, record) {
         if (activeAreaType != areaType) {
             activeAreaType = areaType;
-            $("#info-panel").load(areaType === "census" ? "tract-report.html" : "community-report.html");
+            $("#info-panel").load(areaType === "census" ? "html/tract-report.html" : "html/community-report.html");
         }
 
         $(".year").text(getSelectedYear);
