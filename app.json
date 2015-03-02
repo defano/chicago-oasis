@@ -1,6 +1,6 @@
 {
-  "name": "Desert Chicago",
-  "description": "Neighborhood data haboob.",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-    "keywords": ["chicago", "desert"]
+    "name": "Oasis Chicago",
+    "description": "A visualization of Chicago business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago's online data portal.",
+    "repository": "https://github.com/defano/oasis-chicago-njs",
+    "keywords": ["chicago", "food desert", "oasis", "visualization", "bootstrap", "express"]
 }
