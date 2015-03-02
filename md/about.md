@@ -1,120 +1,108 @@
-# Oasis Chicago
+##Inspiration
 
-A visualization of Chicago business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago's online data portal.
+Everyone who lives in an urban environment deserves convenient access to businesses that serve their basic needs. In 1995 urban planners and public health researchers began studying the problem of food deserts in cities, areas where residents lack a grocery store within one mile of their homes.
 
-Oasis Chicago is a trivial [Node.js](http://nodejs.org/) application; it uses the Express framework for routing requests to static resources but otherwise doesn't expose web services or consume external data sources (like a database). 
+Access to food is clearly a basic need, a need filled by grocery stores. What other types of business fill other basic needs in people’s lives? The STA team wanted to see if it would be possible to analyze the City of Chicago’s database of business licenses to study other essential needs and the business types that fill them and to identify any deserts that exist for those businesses.
 
-The application's user interface is based on Bootstrap/jQuery and makes use of the `awesome-bootstrap-checkbox`, `bootstrap-multiselect`, and `seiyra-bootstrap-slider` plugins. The Express application makes use of the Jade templating engine and the `marked` (a markdown rendering library) for displaying the about page.
+##How Oasis works
+###Data Analysis and Preparation
 
-## Running the App
+The analysis begins with a dataset from the City of Chicago’s data portal. It documents every business license issued since 2006 (and as far back as 1996 for some licenses) and includes the business’s name, address, longitude, latitude, and business license type. 
 
-### Running Locally
+We also downloaded from the U.S. Census Bureau's website data identifying all of the 1,320 census tracts within the city along with the 2010 population counts and coordinates of each tract’s centroid. This data was enriched with a mapping to the city’s officially recognized 77 community areas (neighborhoods).
 
-Make sure you have Node.js and the Node Package Manager (npm) installed.
+We uploaded the data to IBM’s Bluemix cloud-based service and ran scripts written in Apache’s Pig Latin language to produce Map/Reduce jobs to compute accessibility factors for each census tract and community area for every business license type.
 
-```sh
-$ git clone git@github.com:defano/oasis-chicago-njs.git # or clone your own fork
-$ cd oasis-chicago-njs
-$ npm install
-$ npm start
-```
+We also used this analysis to identify critical businesses. A critical business is the only business of its type serving a given population. If a critical business closes, thousands of people are left in a desert.
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+We ran the calculations and prepared the data using Pentaho Data Integration (an Opensouce ETL tool). This data is made available to a the web application written in node.js and is hosted on Bluemix.
 
-### Deploying to IBM Bluemix
+###Visualization and Presentation
 
-Make sure you have the Cloud Foundry command line tools installed.
+In the application, you can select the business type in which you are interested (child-care facilities, for example) and the year for which data is available. You will then see all the census tracts in Chicago colored in proportion to the number of that businesses of that type accessible from that census tract.
 
-```sh
-$ cf login # provide Bluemix authentication credentials
-$ cf push desert-chicago-njs
-```
+##Frequently Asked Questions
 
-### Deploying to Heroku
+**Why I do I sometimes see two or more critical businesses near one another? This would seem to violate the concept, wouldn’t it?**
 
-This GitHub repository is configured for continuous delivery to Heroku; any changes pushed to the master branch will result in the app being redeployed on the Heroku cloud.
+It may seem to violate the concept, but in fact it doesn’t. Imagine two businesses separated by a block, east and west of one another. Since we define a critical business to be one that serves a large population within one mile of its location, it’s possible that closing the east business would put the corresponding eastern population at a distance of more than a mile from the western business--even if by only one block. 
 
-That said, you can fork this code and deploy it to your own Heroku environment. Make sure you have the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed:
+**When relative shading is enabled, I notice the areas near the boundaries of the map sometimes lose their shading altogether. Is this a bug?**
 
-```sh
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
+Sort of. When relative shading is enabled, only those areas visible on the map are shaded (the rest are unshaded). “Visible” in this context means that the center (centroid) of the area is visible on the map. If the center of the area is not within the map’s viewable boundaries, then the entire area--including the portion which is visible--loses shading.
 
-## Documentation
+**How are the levels of desertification determined? How does an area colored light brown differ from one colored dark brown?**
 
-### Data Sources
+The shades represent the relative accessibility of a given business type compared to  accessibility in other areas of the city. This formula sometimes produces what might be considered misleading conclusions. Take, for example, hotels in the city: because we find such a large percentage of all the city’s hotels in the downtown area, outlying neighborhoods appear universally as deserts, even though a more nuanced consideration of what constitutes a “hotel desert” might reach a different conclusion. 
 
-The application utilizes four datasets:
+See the discussion on how these values were calculated for a better understanding of their limitations.
 
-- Neighborhood (77 officially recognized "community areas") and census tract boundaries
-- Desertification indicies for each census tract and community per business type per year
-- Critical businesses for each business type per year
-- Socioeconomic data (income and poverty) for each neighborhood
+**Sometimes a census tract or community area is shaded gray. What does this mean?**
 
-#### Community and Census Tract Boundaries
+It means that we don’t have data for the area and cannot make a determination of its level of desertification.
 
-As the application initializes, it queries two Google Fusion tables to fetch the neighborhood and census tract polygons that it will render on the map.
+**Why is the range of selectable years inconsistent across business types?**
 
-This data consists of one table for census tracts, and another for community areas. Each table has three columns: `ID`, `NAME` and `GEOMETRY`. For both tables, the `GEOMETRY` column contains a "MultiGeometry" KML fragment representing the area's polygon boundary and centroid (see the FAQs for a discussion of how this was created). For the census table, the `ID` column represents the 10-digit census tract number (a nationally-unique value). The `NAME` column contains the more human-readable, dotted-decimal tract name (unique only within the ciy). Within the community table, the `NAME` and `ID` columns both contain the officially recoginized community name (for example, "LINCOLN PARK" or "DOUGLAS").
+This is a limitation of our source data. For a variety of reasons, the City of Chicago does not publish business license data across a consistent range of years. 
 
-#### Desertification Indicies
+**What made you choose the selection of business types? I’d rather be able to see deserts of [insert-your-favorite-business].**
 
-Each time the user changes the selection of business, year, and geography type, the app attempts to fetch a statically published JSON-formatted file whose name is programmatically constructed as `{geo-type}/{business}-{year}.json`.
- 
-Where:
-- Geo-type type is either `tracts` or `commareas`.
-- Business is Chicago business license type, for example `animal-care-facility` or `day-care-center-under-2-years`.
-- Year is the selected four digit year, for example `2007`
+We agree, but our data is (basically) based on business license categories issued by the City of Chicago. Each selection in the menu represents a different type of business license, which may or may not always be interesting to an application like ours. One exception: The city produced a special dataset for grocery stores (even though grocery stores are licensed within a more broad license category--”retail food”).
 
-Example filenames would be: `neighborhood-animal-care-2007.json`, `census-grocery-2013.json`, and `census-peddler-2004.json`.
- 
-Each of these files are formatted as a JSON array containing a single object for each area ID in the given geography type (i.e., corresponding to every row in the aforementioned boundary Fusion tables). For census files, there exist 801 elements in the array, and each object contains a property called `TRACT` containing the dotted-decimal census tract for which the data applies (i.e., `8107`); for neighborhood files, there exists 77 elements in the array with a `COMMUNITY AREA` property containing the name of the corresponding neighborhood (like `EDISON PARK` and `ENGLEWOOD`). Each object contains desertification information about the corresponding area in a property called `ACCESS1` (additional "access" measurements may be present in the data; we ignore these). The app joins this desertification data with the area boundary (fetched from Fusion Tables) using the area ID as the foreign key.
+**When I click a critical business marker, why isn’t the street view always oriented towards the corresponding business?**
 
-Additionally, within the census tract records we find properties containing the number of businesses that are located within one mile, two miles and three miles. These properties are called `ONE_MILE`, `TWO_MILE` and `THREE_MILE`, respectively.
- 
-For example, a neighborhood data file would look like:
+This is, in our humble opinion, a “limitation” in Google’s internal street view logic. There are some available workarounds, but they were deemed too complicated for this effort. Our apologies. 
 
-```
-[
-    {"COMMUNITY AREA" : "EDISON PARK", "ACCESS1" : 0.211987016},
-    {"COMMUNITY AREA" : "LINCOLN PARK", "ACCESS1" : 0.199903484},
-    …
-]
-``` 
- 
-… and a census tract file would look like:
- 
-``` 
-{
-    {"TRACT" : "2406", "ACCESS1" : 0.211987016, "ONE_MILE" : 3, "TWO_MILE" : 14, "THREE_MILE" : 27},
-    {"TRACT" : "0310", "ACCESS1" : 0.199903484, "ONE_MILE" : 1, "TWO_MILE" : 6, "THREE_MILE" : 11},
-    …
-}
-``` 
+**Why does the street view sometimes show an address/area that doesn’t appear to have anything to do with the business in question?**
 
-The `ACCESS1` property should contain a numeric value representing the relative level of desertification for the corresponding area relative to every other area. These values represent the abstract level of access a resident of the area has to businesses of the corresponding type; valid values are in the range of 0..MAX_INT. At runtime, the application will determine the range of values in the dataset, and, for each area, calculate its percent penetration into the range. This "penetration" value is then placed into one of five buckets and the bucket value is used to assign a shade. 
+The markers (and street views) are based on the coordinates (lat/long) associated with the license. In some cases the business license may be addressed to an owner’s residence or a holding company, even if the product or service is being offered elsewhere. (Think of food trucks, peddlers, and similarly mobile businesses...)
 
-#### Critical Business Lists
+##Challenges we ran into
+We discovered that the business license types reported by the city’s database are a mixed bag of very specific categories (Motor Vehicle Repair - Motor Only) and very broad categories (Regulated Business License). We were disappointed to find that Grocery Stores were lumped together with restaurants and other businesses under Retail Food. 
 
-A critical business is one whose demise would create a desert for a significant population (i.e., it's the only business of a given type for quite some distance).
+Fortunately, the city had recently produced a one-off extract of Grocery Store licenses for their own food desert analysis and made that dataset available via the data portal. We were able to cross-reference the business license IDs from that extract with the main business license database to identify grocery stores.
 
-To render markers on the map illustrating critical businesses for each license type and year, we use a file for each license type for each year. These files should be named `critical-{business}-{year}.json` where `{business}` and `{year}` are defined the same as for accessibility indices. There is no need to partition this data on a per-tract or per-community basis; the marker list is valid for the entire city.
- 
-Each of these files should define a single array containing zero or more "marker" objects consisting of a latitude, longitude and business name. For example:
+We have been in discussion with the City’s Chief Data Officer to create some new extracts for other specific and essential business types. For example:
+- Pharmacies
+- Hardware stores
+- Dry cleaners
+- Doctor’s offices
 
-```
-[
-    {"LATITUDE": "41.8822664",
-     "LONGITUDE": "-87.6363718",
-     "DOING_BUSINESS_AS_NAME": "STA Group, LLC"},
-    …
-]
-```
+Our data loading pipeline is now sufficiently extensible that we can include these enrichments as they become available.
+Accomplishments that we're proud of
 
-### FAQs
+We used technologies with which some team members were only minimally familiar. We also put it into the Bluemix environment, which we had not used before. We were limited in the amount of time we could allocate to the project, since we also had our normal workload. We are pleased that this could come together without any major hurdles.
 
-- **How were the community and census tract Fusion tables created?** The City of Chicago Data Portal (HERE) provides this information in KML format (keyhole markup language, an XML schema used to represent geo-spacial data). Unfortunately, KML isn't particularly friendly for applications like ours. The metadata associated with each area (for example, the neighborhood name or census tract id) is stored in an HTML fragment that CDATA'd in the XML. In order to create a more useable representation, we wrote a small Groovy script to export the useful bits into CSV format, which was then uploaded to Fusion.
+##What we learned
 
-- **Why is the boundary data in a Fusion Table?** It shouldn't be. There's no good reason for this other than legacy: When we started development the notion was that we'd use Fusion Tables as our primary database. We eventually migrated the other data away from Fusion, but haven't gotten around to moving the polygons out. 
+We got a better understanding of the component toolsets.
+
+##What's next for Oasis
+We are working with the City to get more detailed business licenses types, with a particular emphasis on businesses that are critical to citizens’ life and fulfillment.
+
+We are looking to bring in organizations that promote social enterprise to explore potentials to use our data to identify and impact critical businesses located throughout the city. 
+
+We will be presenting this application and its data to Chicago’s Open Government Hack night to see if we can find additional uses for the application and to open up the code to other interested parties.
+
+##Data Sources
+
+Business License Data from the City of Chicago Data Portal:
+- https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr
+
+Grocery Store Extract from the City of Chicago Data Portal:
+- https://data.cityofchicago.org/Community-Economic-Development/Grocery-Stores-2013/53t8-wyrc
+
+Census Tracts For Illinois:
+- https://www.census.gov/geo/maps-data/data/docs/gazetteer/census_tracts_list_17.txt
+
+City of Chicago Neighborhood (Community Area) Boundaries:
+- https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6
+
+Mapping Between Census Tracts and Chicago Community Areas:
+- http://robparal.blogspot.com/2012/04/census-tracts-in-chicago-community.html
+
+Selected Socio-Economic Data By Community Area:
+- https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+
+Public Health Information by Community Area:
+- https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu
