@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    link(rel='stylesheet', href='/lib/bootstrap/dist/css/bootstrap.css')
+    link(rel='stylesheet', href='/lib/bootstrap/dist/css/bootstrap-theme.css')
+    link(rel='stylesheet', href='/css/markdown.css')
+ 
+    script(src="/lib/jquery/dist/jquery.min.js")
+    script(src="/lib/bootstrap/dist/js/bootstrap.js")  
+  body 
+    include header.html
+    div(class='markdown')!= markdown
+    include footer.html
