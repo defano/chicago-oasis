@@ -12,16 +12,16 @@
     var AREA_COLOR = '#6699FF';
     var CIRCLE_COLOR = '#000066';
     var OUTLINE_COLOR = '#FFFFFF';
-    
+
     var MARKER_ANIMATION = google.maps.Animation.DROP;
-    
+
     var activeGeography = "communities";
     var communityPolys = []; // community area polygons
     var censusPolys = []; // census tract polygons
     var communityData = {}; // current community desertification data
     var censusData = []; // current census desertification data
     var markerAnimationEnabled = true;
-    
+
     // When true, polygons are shaded relative only to other visible polygons
     var relativeShadingEnabled = false;
 
@@ -58,15 +58,15 @@
     }
 
     function showPolys(polys) {
-        polys.forEach(function (poly) {
-            poly.setMap(maps.getMap());
-        });
+        for (var i = 0; i < polys.length; i++) {
+            polys[i].setMap(maps.getMap());
+        }
     }
 
     function hidePolys(polys) {
-        polys.forEach(function (poly) {
-            poly.setMap(null);
-        });
+        for (var i = 0; i < polys.length; i++) {
+            polys[i].setMap(null);
+        }
     }
 
     function buildPolygons(data, successCallback) {
@@ -166,7 +166,7 @@
         removeCircles();
         closeInfowindow();
 
-        for (i = 3; i > 0; i--) {
+        for (var i = 3; i > 0; i--) {
             var circle = getNewCircle(centerLatLng, i);
 
             google.maps.event.addListener(circle, 'mouseover', function (event) {
@@ -212,9 +212,9 @@
     }
 
     function removeCircles() {
-        circles.forEach(function (thisCircle) {
-            thisCircle.setMap(null);
-        });
+        for (var i = 0; i < circles.length; i++) {
+            circles[i].setMap(null);
+        }
     }
 
     function closeInfowindow() {
@@ -234,35 +234,35 @@
         var swLng = map.getBounds().getSouthWest().lng();
 
         // Filter set of polygons based on whether their centroid appears within bounds
-        polys.forEach(function (thisPoly) {
-            var lat = thisPoly.centroid.lat();
-            var lng = thisPoly.centroid.lng();
+        for (var i = 0; i < polys.length; i++) {
+            var lat = polys[i].centroid.lat();
+            var lng = polys[i].centroid.lng();
 
             // Is the polygon centroid presently visible on the map?
             if (lat < neLat && lng < neLng && lat > swLat && lng > swLng) {
-                visiblePolys.push(thisPoly);
+                visiblePolys.push(polys[i]);
             }
-        });
+        };
 
         return visiblePolys;
     }
 
     function getMaxIndex(polys, data) {
         var max = 0;
-        polys.forEach(function (poly) {
-            var index = getIndexForArea(poly.areaId, data);
+        for (var i = 0; i < polys.length; i++) {
+            var index = getIndexForArea(polys[i].areaId, data);
             if (index > max) max = index;
-        });
+        };
 
         return max;
     }
 
     function getMinIndex(polys, data) {
         var min = Number.MAX_VALUE;
-        polys.forEach(function (poly) {
-            var index = getIndexForArea(poly.areaId, data);
+        for (var i = 0; i < polys.length; i++) {
+            var index = getIndexForArea(polys[i].areaId, data);
             if (index < min) min = index;
-        });
+        };
 
         return min;
     }
@@ -277,9 +277,9 @@
         if (relativeShadingEnabled) {
 
             // Blank polygons that are not visible 
-            activePolygons.forEach(function (thisPoly) {
-                thisPoly.setMap(null);
-            });
+            for (var i = 0; i < activePolygons.length; i++) {
+                activePolygons[i].setMap(null);
+            };
 
             activePolygons = getVisiblePolygons(activePolygons);
         }
@@ -291,11 +291,12 @@
         var areaProperty = (activeGeography == "census") ? "TRACT" : "COMMUNITY_AREA";
         var foundRecord = undefined;
 
-        data.forEach(function (record) {
+        for (var i = 0; i < data.length; i++) {
+            var record = data[i];
             if (record[areaProperty] == areaId) {
                 foundRecord = record;
             }
-        });
+        };
 
         return foundRecord;
     };
@@ -311,12 +312,13 @@
         var max = getMaxIndex(polys, data);
         var min = getMinIndex(polys, data);
 
-        polys.forEach(function (thisPoly) {
-            var index = getIndexForArea(thisPoly.areaId, data);
+        for (var n = 0; n < polys.length; n++) {
+            var index = getIndexForArea(polys[n].areaId, data);
+            var poly = polys[n];
 
             // No data available--color polygon in red
             if (index == undefined) {
-                thisPoly.setOptions({
+                poly.setOptions({
                     fillOpacity: 0.4,
                     fillColor: NO_DATA_COLOR
                 });
@@ -324,30 +326,32 @@
 
             // Shade polygon based on bucket value
             else {
-                thisPoly.setOptions({
+                poly.setOptions({
                     fillOpacity: getOpacityBucket((index - min) / (max - min))
                 });
             }
 
-            thisPoly.setMap(map);
-        });
+            poly.setMap(map);
+        };
     }
 
     function getOpacityBucket(value) {
         var bucketCount = 5;
         var bucket = Math.round(value / (1 / bucketCount)) * (1 / bucketCount);
-        
+
         // Don't shade anything as 0 or 1 (makes map hard to read)
         return (bucket == 0) ? 0.05 : (bucket == 1) ? .95 : bucket;
     }
 
     function renderMarkers(places) {
-        places.forEach(function (place) {
+        for (var i = 0; i < places.length; i++) {
+            var place = places[i];
+
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 title: place.name,
                 map: map,
-                title: place.DOING_BUSINESS_AS_NAME,
+                title: places[i].DOING_BUSINESS_AS_NAME,
                 animation: (markerAnimationEnabled) ? MARKER_ANIMATION : null
             });
 
@@ -357,7 +361,7 @@
                 content: contentString
             });
 
-            $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
+            $("#infowindow-title").text(places[i].DOING_BUSINESS_AS_NAME);
 
             var pano = null;
             google.maps.event.addListener(infowindow, 'domready', function () {
@@ -365,7 +369,7 @@
                     pano.setVisible(false);
                 }
                 pano = new google.maps.StreetViewPanorama(document.getElementById("infowindow-pano"), {
-                    position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
+                    position: new google.maps.LatLng(places[i].LATTITUDE, places[i].LONGITUDE),
                     navigationControl: false,
                     enableCloseButton: false,
                     addressControl: false,
@@ -381,15 +385,15 @@
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
 
-                var popAtRisk = place.POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+                var popAtRisk = places[i].POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
 
-                $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
-                $("#infowindow-address").text(place.ADDRESS);
+                $("#infowindow-title").text(places[i].DOING_BUSINESS_AS_NAME);
+                $("#infowindow-address").text(places[i].ADDRESS);
                 $("#infowindow-description").text("If this business were to close, a population of " + popAtRisk + " would live more than a mile away from a competing business.");
             });
 
             markers.push(marker);
-        });
+        };
     };
 
     maps.init = function () {
@@ -400,6 +404,7 @@
         };
 
         map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        console.log(map);
 
         // Refresh polygon shading as bounds change
         google.maps.event.addListener(map, 'bounds_changed', function () {
@@ -458,9 +463,9 @@
 
     maps.hideMarkers = function () {
         if (markers != null) {
-            markers.forEach(function (thisMarker) {
-                thisMarker.setMap(null);
-            });
+            for (var i = 0; i < markers.length; i++) {
+                markers[i].setMap(null);
+            };
         }
 
         markers = [];
@@ -474,7 +479,7 @@
     maps.enableMarkerAnimation = function (enable) {
         markerAnimationEnabled = enable;
     }
-    
+
     maps.setCommunityData = function (datafile) {
         communityData = {};
 

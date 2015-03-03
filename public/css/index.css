@@ -83,8 +83,9 @@ td {
 }
 
 #map-canvas {
-    height: calc(100% - 70px);
-    width: 100%;
+    position: absolute;
+    height: calc(100% - 140px);
+    width: calc(100% - 440px);
 }
 
 .slider-panel {

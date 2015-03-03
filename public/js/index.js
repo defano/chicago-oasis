@@ -122,12 +122,13 @@
     function updateSliderRange() {
         var selectedBusiness = getSelectedBusiness();
 
-        multiselectData.forEach(function (record) {
+        for (var i = 0; i < multiselectData.length; i++) {
+            var record = multiselectData[i];
             if (record.value == selectedBusiness) {
                 minYear = record["min-year"];
                 maxYear = record["max-year"];
             }
-        });
+        }
 
         var selectedYear = $("#year-slider").slider("getValue");
 
