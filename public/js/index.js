@@ -42,6 +42,7 @@
 
         // Trigger update on any user selection
         $('#business-multiselect').change(function () {
+            stopSlider();
             index.update();
         });
     }
@@ -59,8 +60,8 @@
 
         $("#year-slider").slider().on('slideStart', function (event) {
             maps.enableMarkerAnimation(false);
-        });        
-        
+        });
+
         $("#year-slider").slider().on('slideStop', function (event) {
             maps.enableMarkerAnimation(true);
         });
@@ -153,7 +154,7 @@
     function playSlider() {
         var currentYear = $("#year-slider").slider("getValue");
         maps.enableMarkerAnimation(false);
-        
+
         if (!playStopped && currentYear < maxYear) {
             $("#play-icon").removeClass("glyphicon-play");
             $("#play-icon").addClass("glyphicon-stop");
@@ -209,10 +210,19 @@
     }
 
     function polyMouseoverCallback(areaType, areaName, poly, record) {
+
+        // Area type changed (or first access); need to load HTML fragment
         if (activeAreaType != areaType) {
             activeAreaType = areaType;
-            $("#info-panel").load(areaType === "census" ? "html/tract-report.html" : "html/community-report.html");
+            $("#info-panel").load(areaType === "census" ? "html/tract-report.html" : "html/community-report.html", function () {
+                polyMouseoverCallback(areaType, areaName, poly, record);
+            });
+
+            return;
         }
+
+        // Re-register pop-overs on the new HTML
+        initPopovers();
 
         $(".year").text(getSelectedYear);
         $(".area-name").text(areaName);
