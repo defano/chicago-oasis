@@ -1,3 +1,4 @@
+"use strict";
 (function (index, $) {
 
     var multiselectData = undefined;
@@ -259,10 +260,14 @@
         // TODO: Cache this result and only fetch/update when required
         if (getAreaType() == "tracts") {
             maps.showCensusTracts();
-            maps.setCensusData(dataset);
+            data.loadCensusData(dataset, function (data) {
+                maps.refreshPolygonShading();
+            });
         } else {
             maps.showCommunities();
-            maps.setCommunityData(dataset);
+            data.loadCommunityData(dataset, function (data) {
+                maps.refreshPolygonShading();
+            });
         }
 
         // Update critical business markers

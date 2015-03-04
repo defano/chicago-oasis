@@ -1,3 +1,4 @@
+"use strict";
 (function (polygons, $) {
 
     // Matt's Fusion tables and API key; don't mess with this

@@ -1,18 +1,16 @@
+"use strict";
 (function (queryTablemaps, $, undefined) {
 
     var METERS_PER_MILE = 1609.34;
     var CHICAGO = new google.maps.LatLng(41.8369, -87.6847);
 
     var NO_DATA_COLOR = "#666666";
-    var AREA_COLOR = '#6699FF';
     var CIRCLE_COLOR = '#000066';
     var OUTLINE_COLOR = '#FFFFFF';
 
     var MARKER_ANIMATION = google.maps.Animation.DROP;
 
-    var activeGeography = "communities";
-    var communityData = {}; // current community desertification data
-    var censusData = []; // current census desertification data
+    var activeGeography = data.COMMUNITY;
     var markerAnimationEnabled = true;
 
     // When true, polygons are shaded relative only to other visible polygons
@@ -30,6 +28,65 @@
     var markers = []; // handle to markers drawn on map
 
     var polyMouseoverCallback = undefined;
+
+    function initGoogleMap() {
+        var mapOptions = {
+            center: CHICAGO,
+            mapTypeId: google.maps.MapTypeId.ROADMAP,
+            zoom: 11
+        };
+
+        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+        // Refresh polygon shading as bounds change
+        google.maps.event.addListener(map, 'bounds_changed', function () {
+            maps.refreshPolygonShading();
+        });
+    }
+
+    function initPolygons() {
+        polygons.load(function () {
+            var allPolygons = polygons.getCensusPolygons().concat(polygons.getCommunityPolygons());
+
+            $.each(allPolygons, function (i, poly) {
+
+                // Handle mouseover events on this poly
+                google.maps.event.addListener(poly, 'mouseover', function () {
+                    // Make shape outline bold
+                    this.setOptions({
+                        strokeOpacity: 1,
+                        strokeWeight: 6,
+                    });
+
+                    if (polyMouseoverCallback) {
+                        var record = data.getRecord(this.areaId, activeGeography);
+                        polyMouseoverCallback(activeGeography, this.areaName, this, record);
+                    }
+                });
+
+                // Handle mouseout events on this poly
+                google.maps.event.addListener(poly, 'mouseout', function () {
+                    // Make shape outline "normal"
+                    this.setOptions({
+                        strokeOpacity: 1,
+                        strokeWeight: 1,
+                    });
+                });
+
+                // In order to draw circles, we need to capture click events. Since the poly will float
+                // above the map, we can't attach this listener to the map object itself.
+                google.maps.event.addListener(poly, 'click', function (event) {
+                    if (activeGeography == data.CENSUS) {
+                        renderCircles(event.latLng, this.areaId);
+                    }
+                });
+
+            });
+
+            showPolys(polygons.getCommunityPolygons());
+            shadePolygons(polygons.getCommunityPolygons());
+        });
+    }
 
     function showPolys(polys) {
         for (var i = 0; i < polys.length; i++) {
@@ -52,7 +109,7 @@
 
             google.maps.event.addListener(circle, 'mouseover', function (event) {
 
-                var areaRecord = getRecordForArea(areaId, censusData);
+                var areaRecord = data.getRecord(areaId, data.CENSUS);
                 var businessCount = undefined;
                 if (this.radiusMiles == 3) businessCount = areaRecord["THREE_MILE"];
                 else if (this.radiusMiles == 2) businessCount = areaRecord["TWO_MILE"];
@@ -128,40 +185,16 @@
         return visiblePolys;
     }
 
-    function getMaxIndex(polys, data) {
-        var max = 0;
-        for (var i = 0; i < polys.length; i++) {
-            var index = getIndexForArea(polys[i].areaId, data);
-            if (index > max) max = index;
-        };
-
-        return max;
-    }
-
-    function getMinIndex(polys, data) {
-        var min = Number.MAX_VALUE;
-        for (var i = 0; i < polys.length; i++) {
-            var index = getIndexForArea(polys[i].areaId, data);
-            if (index < min) min = index;
-        };
-
-        return min;
-    }
-
-    function getActiveDataset() {
-        return (activeGeography == "census") ? censusData : communityData;
-    }
-
     function getActivePolygons() {
-        return (activeGeography == "census") ? polygons.getCensusPolygons() : polygons.getCommunityPolygons();
+        return (activeGeography == data.CENSUS) ? polygons.getCensusPolygons() : polygons.getCommunityPolygons();
     }
 
     /* Re-shade visible polygons (may change opacity on when relative shading is enabled).
      */
-    function refreshPolygonShading() {
+    maps.refreshPolygonShading = function () {
 
         var activePolygons = getActivePolygons();
-        var activeDataset = getActiveDataset();
+        var activeDataset = data.getDataset(activeGeography);
 
         if (relativeShadingEnabled) {
 
@@ -173,37 +206,17 @@
             activePolygons = getVisiblePolygons(activePolygons);
         }
 
-        shadePolygons(activePolygons, activeDataset);
+        shadePolygons(activePolygons);
     }
 
-    function getRecordForArea(areaId, data) {
-        var areaProperty = (activeGeography == "census") ? "TRACT" : "COMMUNITY_AREA";
-        var foundRecord = undefined;
-
-        for (var i = 0; i < data.length; i++) {
-            var record = data[i];
-            if (record[areaProperty] == areaId) {
-                foundRecord = record;
-            }
-        };
-
-        return foundRecord;
-    };
-
-    function getIndexForArea(areaId, data) {
-        var areaData = getRecordForArea(areaId, data);
-        return areaData && getRecordForArea(areaId, data)["ACCESS1"];
-    }
-
-    function shadePolygons(polys, data) {
+    function shadePolygons(polys) {
 
         // Get min and max access index values for polygons
-        var max = getMaxIndex(polys, data);
-        var min = getMinIndex(polys, data);
+        var max = data.getMaxIndex(polys, activeGeography);
+        var min = data.getMinIndex(polys, activeGeography);
 
-        for (var n = 0; n < polys.length; n++) {
-            var index = getIndexForArea(polys[n].areaId, data);
-            var poly = polys[n];
+        $.each(polys, function (i, poly) {
+            var index = data.getIndexForArea(poly.areaId, activeGeography);
 
             // No data available--color polygon in red
             if (index == undefined) {
@@ -221,7 +234,7 @@
             }
 
             poly.setMap(map);
-        };
+        });
     }
 
     function getOpacityBucket(value) {
@@ -237,7 +250,6 @@
         $.each(places, function (index, place) {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
-                title: place.name,
                 map: map,
                 title: place.DOING_BUSINESS_AS_NAME,
                 animation: (markerAnimationEnabled) ? MARKER_ANIMATION : null
@@ -280,66 +292,6 @@
         });
     };
 
-    function initGoogleMap() {
-
-        var mapOptions = {
-            center: CHICAGO,
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            zoom: 11
-        };
-
-        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-
-        // Refresh polygon shading as bounds change
-        google.maps.event.addListener(map, 'bounds_changed', function () {
-            refreshPolygonShading();
-        });
-    }
-
-    function initPolygons() {
-        polygons.load(function () {
-            var allPolygons = polygons.getCensusPolygons().concat(polygons.getCommunityPolygons());
-
-            $.each(allPolygons, function (i, poly) {
-
-                // Handle mouseover events on this poly
-                google.maps.event.addListener(poly, 'mouseover', function () {
-                    // Make shape outline bold
-                    this.setOptions({
-                        strokeOpacity: 1,
-                        strokeWeight: 6,
-                    });
-
-                    if (polyMouseoverCallback) {
-                        var data = (activeGeography === "census") ? censusData : communityData;
-                        polyMouseoverCallback(activeGeography, this.areaName, this, getRecordForArea(this.areaId, data));
-                    }
-                });
-
-                // Handle mouseout events on this poly
-                google.maps.event.addListener(poly, 'mouseout', function () {
-                    // Make shape outline "normal"
-                    this.setOptions({
-                        strokeOpacity: 1,
-                        strokeWeight: 1,
-                    });
-                });
-
-                // In order to draw circles, we need to capture click events. Since the poly will float
-                // above the map, we can't attach this listener to the map object itself.
-                google.maps.event.addListener(poly, 'click', function (event) {
-                    if (activeGeography == "census") {
-                        renderCircles(event.latLng, this.areaId);
-                    }
-                });
-
-            });
-
-            showPolys(polygons.getCommunityPolygons());
-            shadePolygons(polygons.getCommunityPolygons(), communityData);
-        });
-    }
-
     maps.init = function () {
 
         initGoogleMap();
@@ -347,6 +299,8 @@
     };
 
     maps.showCommunities = function () {
+        activeGeography = data.COMMUNITY;
+
         closeInfowindow();
         removeCircles();
 
@@ -357,6 +311,8 @@
     };
 
     maps.showCensusTracts = function () {
+        activeGeography = data.CENSUS;
+
         closeInfowindow();
         removeCircles();
 
@@ -385,34 +341,12 @@
 
     maps.setRelativePolygonShading = function (isRelativeShadingEnabled) {
         relativeShadingEnabled = isRelativeShadingEnabled;
-        refreshPolygonShading();
+        maps.refreshPolygonShading();
     };
 
     maps.enableMarkerAnimation = function (enable) {
         markerAnimationEnabled = enable;
     }
-
-    maps.setCommunityData = function (datafile) {
-        communityData = {};
-
-        json.fetch(datafile, function (data) {
-            communityData = data;
-            shadePolygons(polygons.getCommunityPolygons(), data);
-        });
-
-        activeGeography = "communities";
-    };
-
-    maps.setCensusData = function (datafile) {
-        censusData = {};
-
-        json.fetch(datafile, function (data) {
-            censusData = data;
-            shadePolygons(polygons.getCensusPolygons(), data);
-        });
-
-        activeGeography = "census";
-    };
 
     maps.getMap = function () {
         return map;

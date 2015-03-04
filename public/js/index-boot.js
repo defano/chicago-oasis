@@ -1,3 +1,4 @@
-$(document).ready(function() {
-	index.init();
+"use strict";
+$(document).ready(function () {
+    index.init();
 });

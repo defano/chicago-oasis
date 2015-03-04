@@ -1,3 +1,4 @@
+"use strict";
 (function (index, $) {
 
     json.fetch = function (file, callback) {
@@ -7,7 +8,9 @@
             success: function (data) {
                 callback(data);
             },
-            error: function (xhr, status, error) {console.log("Request failed for " + file + " with status: " + status + ", " + error);}
+            error: function (xhr, status, error) {
+                console.log("Request failed for " + file + " with status: " + status + ", " + error);
+            }
         });
     }
 

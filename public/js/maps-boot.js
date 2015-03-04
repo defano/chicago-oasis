@@ -1,3 +1,4 @@
-$(document).ready(function() {
-	maps.init();
+"use strict";
+$(document).ready(function () {
+    maps.init();
 });
