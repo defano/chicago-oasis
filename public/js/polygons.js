@@ -1,20 +1,17 @@
-"use strict";
 (function (polygons, $) {
+    "use strict";
 
     // Matt's Fusion tables and API key; don't mess with this
-    var CENSUS_TRACTS_TABLE = '1E45OeyKEC8TBt_Jtau0HkiLycxjPcLS_SAgejFdt';
-    var COMMUNITY_AREAS_TABLE = '19403tp7_IakdCX0soN031hMap7jPZV3uPbNhI9ME';
-    var API_KEY = 'AIzaSyB_Idpo8GuOvdaIU7VtOsk7pTargR6rEFw';
-
-    var AREA_COLOR = '#6699FF';
-    var OUTLINE_COLOR = '#FFFFFF';
-
-    var communityPolys = []; // community area polygons
-    var censusPolys = []; // census tract polygons
-    var readyCallback = undefined;
-
-    var censusReady;
-    var communitiesReady;
+    var CENSUS_TRACTS_TABLE = '1E45OeyKEC8TBt_Jtau0HkiLycxjPcLS_SAgejFdt',
+        COMMUNITY_AREAS_TABLE = '19403tp7_IakdCX0soN031hMap7jPZV3uPbNhI9ME',
+        API_KEY = 'AIzaSyB_Idpo8GuOvdaIU7VtOsk7pTargR6rEFw',
+        AREA_COLOR = '#6699FF',
+        OUTLINE_COLOR = '#FFFFFF',
+        communityPolys = [],
+        censusPolys = [],
+        readyCallback,
+        censusReady,
+        communitiesReady;
 
     function queryFusionTable(tableId, successCallback) {
 
@@ -37,8 +34,8 @@
 
     function buildPolygons(data, successCallback) {
 
-        var rows = data['rows'];
-        var polys = [];
+        var rows = data.rows,
+            polys = [];
 
         for (var i in rows) {
             var newCoordinates = [];

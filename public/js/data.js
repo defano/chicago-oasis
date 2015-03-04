@@ -1,15 +1,15 @@
-"use strict";
 (function (data, $) {
+    "use strict";
 
     data.CENSUS = "census";
     data.COMMUNITY = "communities";
 
-    var communityData = {}; // current community desertification data
-    var censusData = []; // current census desertification data
+    var communityData = {}, // current community desertification data
+        censusData = []; // current census desertification data
 
     data.getIndexForArea = function (areaId, activeGeography) {
         var record = data.getRecord(areaId, activeGeography);
-        return record && record["ACCESS1"];
+        return record && record.ACCESS1;
     };
 
     data.getMaxIndex = function (polys, activeGeography) {

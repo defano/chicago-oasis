@@ -1,42 +1,36 @@
-"use strict";
-(function (queryTablemaps, $, undefined) {
+(function (queryTablemaps, $) {
+    "use strict";
 
-    var METERS_PER_MILE = 1609.34;
-    var CHICAGO = new google.maps.LatLng(41.8369, -87.6847);
+    var METERS_PER_MILE = 1609.34,
+        CHICAGO = new google.maps.LatLng(41.8369, -87.6847),
 
-    var NO_DATA_COLOR = "#666666";
-    var CIRCLE_COLOR = '#000066';
-    var OUTLINE_COLOR = '#FFFFFF';
+        // Map colors
+        NO_DATA_COLOR = "#666666",
+        CIRCLE_COLOR = '#000066',
+        OUTLINE_COLOR = '#FFFFFF',
 
-    var MARKER_ANIMATION = google.maps.Animation.DROP;
+        MARKER_ANIMATION = google.maps.Animation.DROP,
 
-    var activeGeography = data.COMMUNITY;
-    var markerAnimationEnabled = true;
+        activeGeography = data.COMMUNITY, // initial geography setting
+        animateMarkers = true, // when true, markers drop into place
+        relativeShadingEnabled = false, // When true, polygons are shaded relative only to other visible polygons
 
-    // When true, polygons are shaded relative only to other visible polygons
-    var relativeShadingEnabled = false;
+        map = null, // Google map object
+        visibleInfoWindow, // info window presently visible
 
-    var map = null; // Google map object
-    var visibleInfoWindow = undefined;
+        circles = [], // handle to circle drawn on map
+        markers = [], // handle to markers drawn on map
 
-    // Predicates to indicate whether community area / census polys are ready
-    // for rendering
-    var communitiesReady = false;
-    var censusReady = false;
+        polyMouseoverCallback; // callback for when user hovers over polygon
 
-    var circles = []; // handle to circle drawn on map
-    var markers = []; // handle to markers drawn on map
-
-    var polyMouseoverCallback = undefined;
 
     function initGoogleMap() {
-        var mapOptions = {
+
+        map = new google.maps.Map(document.getElementById('map-canvas'), {
             center: CHICAGO,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             zoom: 11
-        };
-
-        map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        });
 
         // Refresh polygon shading as bounds change
         google.maps.event.addListener(map, 'bounds_changed', function () {
@@ -45,11 +39,13 @@
     }
 
     function initPolygons() {
+
+        // Load polygons, then...
         polygons.load(function () {
             var allPolygons = polygons.getCensusPolygons().concat(polygons.getCommunityPolygons());
 
+            // Walk through each poly and attach handlers
             $.each(allPolygons, function (i, poly) {
-
                 // Handle mouseover events on this poly
                 google.maps.event.addListener(poly, 'mouseover', function () {
                     // Make shape outline bold
@@ -252,7 +248,7 @@
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 map: map,
                 title: place.DOING_BUSINESS_AS_NAME,
-                animation: (markerAnimationEnabled) ? MARKER_ANIMATION : null
+                animation: (animateMarkers) ? MARKER_ANIMATION : null
             });
 
             var contentString = '<div id="infowindow-pano"></div><div id="infowindow-text"><div id="infowindow-title"></div><div id="infowindow-address"></div><div id="infowindow-description"></div></div>';
@@ -345,7 +341,7 @@
     };
 
     maps.enableMarkerAnimation = function (enable) {
-        markerAnimationEnabled = enable;
+        animateMarkers = enable;
     }
 
     maps.getMap = function () {

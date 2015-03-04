@@ -1,13 +1,13 @@
-"use strict";
 (function (index, $) {
+    "use strict";
 
-    var multiselectData = undefined;
-    var minYear = 0;
-    var maxYear = 0;
-    var playStopped = true;
-    var activeAreaType = undefined;
-    var socioeconomicData = undefined;
-    var multiselectReady = false;
+    var multiselectData,
+        minYear = 0,
+        maxYear = 0,
+        playStopped = true,
+        activeAreaType,
+        socioeconomicData,
+        multiselectReady = false;
 
     /* Initialize the area/geography type radio selection (census tracts vs. neighborhoods)
      */
@@ -53,7 +53,7 @@
     function initYearSlider() {
         // Continually update the label...
         $("#year-slider").slider().on('slide', function (event) {
-            if (event.value != $("#year-value").text()) {
+            if (event.value !== $("#year-value").text()) {
                 $("#year-value").text(event.value);
                 index.update();
             }
@@ -72,11 +72,11 @@
      */
     function initPopovers() {
         $(function () {
-            $('[data-toggle="tooltip"]').tooltip()
+            $('[data-toggle="tooltip"]').tooltip();
         });
 
         $(function () {
-            $('[data-toggle="popover"]').popover()
+            $('[data-toggle="popover"]').popover();
         });
     }
 

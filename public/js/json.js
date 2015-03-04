@@ -1,5 +1,5 @@
-"use strict";
 (function (index, $) {
+    "use strict";
 
     json.fetch = function (file, callback) {
         $.ajax({
@@ -12,6 +12,6 @@
                 console.log("Request failed for " + file + " with status: " + status + ", " + error);
             }
         });
-    }
+    };
 
 }(window.json = window.json || {}, jQuery));
