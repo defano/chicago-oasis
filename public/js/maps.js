@@ -344,14 +344,13 @@
     }
 
     function renderMarkers(places) {
-        for (var i = 0; i < places.length; i++) {
-            var place = places[i];
 
+        $.each(places, function (index, place) {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                 title: place.name,
                 map: map,
-                title: places[i].DOING_BUSINESS_AS_NAME,
+                title: place.DOING_BUSINESS_AS_NAME,
                 animation: (markerAnimationEnabled) ? MARKER_ANIMATION : null
             });
 
@@ -361,15 +360,11 @@
                 content: contentString
             });
 
-            $("#infowindow-title").text(places[i].DOING_BUSINESS_AS_NAME);
+            $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
 
-            var pano = null;
             google.maps.event.addListener(infowindow, 'domready', function () {
-                if (pano != null) {
-                    pano.setVisible(false);
-                }
-                pano = new google.maps.StreetViewPanorama(document.getElementById("infowindow-pano"), {
-                    position: new google.maps.LatLng(places[i].LATTITUDE, places[i].LONGITUDE),
+                var pano = new google.maps.StreetViewPanorama(document.getElementById("infowindow-pano"), {
+                    position: new google.maps.LatLng(place.LATTITUDE, place.LONGITUDE),
                     navigationControl: false,
                     enableCloseButton: false,
                     addressControl: false,
@@ -385,16 +380,18 @@
                 visibleInfoWindow = infowindow;
                 infowindow.open(map, marker);
 
-                var popAtRisk = places[i].POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+                var popAtRisk = place.POP_AT_RISK.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
 
-                $("#infowindow-title").text(places[i].DOING_BUSINESS_AS_NAME);
-                $("#infowindow-address").text(places[i].ADDRESS);
+                $("#infowindow-title").text(place.DOING_BUSINESS_AS_NAME);
+                $("#infowindow-address").text(place.ADDRESS);
                 $("#infowindow-description").text("If this business were to close, a population of " + popAtRisk + " would live more than a mile away from a competing business.");
             });
 
             markers.push(marker);
-        };
+        });
     };
+
+
 
     maps.init = function () {
         var mapOptions = {
@@ -404,7 +401,6 @@
         };
 
         map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-        console.log(map);
 
         // Refresh polygon shading as bounds change
         google.maps.event.addListener(map, 'bounds_changed', function () {
