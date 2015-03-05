@@ -8,6 +8,7 @@
         NO_DATA_COLOR = "#666666",
         CIRCLE_COLOR = '#000066',
         OUTLINE_COLOR = '#FFFFFF',
+        AREA_COLOR = '#6699FF',
 
         MARKER_ANIMATION = google.maps.Animation.DROP,
 
@@ -225,7 +226,8 @@
             // Shade polygon based on bucket value
             else {
                 poly.setOptions({
-                    fillOpacity: getOpacityBucket((index - min) / (max - min))
+                    fillOpacity: getOpacityBucket((index - min) / (max - min)),
+                    fillColor: AREA_COLOR
                 });
             }
 
