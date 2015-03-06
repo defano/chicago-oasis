@@ -39,7 +39,7 @@
         });
     }
 
-    function initPolygons() {
+    function initPolygons(onReady) {
 
         // Load polygons, then...
         polygons.load(function () {
@@ -82,6 +82,8 @@
 
             showPolys(polygons.getCommunityPolygons());
             shadePolygons(polygons.getCommunityPolygons());
+
+            onReady && onReady();
         });
     }
 
@@ -350,7 +352,7 @@
 
     maps.init = function (onReady) {
         initGoogleMap();
-        initPolygons();
+        initPolygons(onReady);
     };
 
 }(window.maps = window.maps || {}, jQuery));

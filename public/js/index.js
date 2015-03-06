@@ -13,10 +13,6 @@
      */
     function initGeoRadio(geo) {
 
-        if (geo === data.CENSUS) {
-            $('#census-radio').click();
-        }
-
         // Trigger update on user selection
         $('#neighborhood-radio').change(function () {
             index.update();
@@ -42,7 +38,7 @@
         json.fetch("licenses.json", function (data) {
             multiselectData = data;
             $("#business-multiselect").multiselect('dataprovider', data);
-            $("#business-multiselect").multiselect('select', business || 'grocery');
+            $("#business-multiselect").multiselect('select', business);
             index.update();
         });
 
@@ -55,7 +51,7 @@
 
     /* Initialize the year slider; trigger events based on user interaction
      */
-    function initYearSlider(year) {
+    function initYearSlider() {
 
         // Continually update the label...
         $("#year-slider").slider().on('slide', function (event) {
@@ -84,6 +80,11 @@
         $(function () {
             $('[data-toggle="popover"]').popover();
         });
+
+        var p = $("#permalink").popover();
+        p.on("show.bs.popover", function (e) {
+            p.data()["bs.popover"].$tip.css("max-width", "100%");
+        });
     }
 
     /* Wire up event handling for the "Show critical businesses" checkbox
@@ -95,7 +96,9 @@
         });
 
         $("#relative-shading").change(function () {
-            maps.setRelativePolygonShading($("#relative-shading").is(":checked"));
+            // Set relative shading option
+            maps.setRelativePolygonShading(getRelativeShading());
+            index.update();
         });
     }
 
@@ -108,7 +111,20 @@
     }
 
     function getAreaType() {
-        return $('#neighborhood-radio').is(":checked") ? "commareas" : "tracts";
+        return $('#neighborhood-radio').is(":checked") ? data.COMMUNITY : data.CENSUS;
+    }
+
+    function getRelativeShading() {
+        return $("#relative-shading").is(":checked");
+    }
+
+    function getCriticalBusinessSelection() {
+        return $("#show-critical-businesses").is(":checked");
+    }
+
+    function getPermalink() {
+        var url = window.location.href.split('/');
+        return url[0] + "//" + url[2] + "/?business=" + getSelectedBusiness() + "&year=" + getSelectedYear() + "&geo=" + getAreaType() + "&critical=" + getCriticalBusinessSelection() + "&relative=" + getRelativeShading();
     }
 
     function updateSliderValue(value) {
@@ -222,7 +238,7 @@
         // Area type changed (or first access); need to load HTML fragment
         if (activeAreaType != areaType) {
             activeAreaType = areaType;
-            $("#info-panel").load(areaType === "census" ? "html/tract-report.html" : "html/community-report.html", function () {
+            $("#info-panel").load(areaType === data.CENSUS ? "html/tract-report.html" : "html/community-report.html", function () {
                 polyMouseoverCallback(areaType, areaName, poly, record);
             });
 
@@ -236,7 +252,7 @@
         $(".area-name").text(areaName);
         $(".desert-class").text(getDesertClass(poly.fillOpacity));
 
-        if (areaType === "census") {
+        if (areaType === data.CENSUS) {
             $(".business-one-mile").text(record["ONE_MILE"]);
             $(".business-two-mile").text(record["TWO_MILE"]);
             $(".business-three-mile").text(record["THREE_MILE"]);
@@ -282,6 +298,9 @@
         } else {
             maps.hideMarkers();
         }
+
+        $('#permalink').attr('data-content', getPermalink());
+        $('#permalink').attr('href', getPermalink());
     };
 
     function getUrlParameter(name) {
@@ -289,11 +308,15 @@
     }
 
     index.init = function () {
-        maps.init();
+        var initBusiness = getUrlParameter('business');
+        var initYear = getUrlParameter('year');
+        var initGeo = getUrlParameter('geo');
+        var initRelativeShading = Boolean(getUrlParameter('relative') === "true");
+        var initCriticalMarkers = Boolean(getUrlParameter('critical') === "true");
 
-        initYearSlider(getUrlParameter('year'));
-        initGeoRadio(getUrlParameter('geo'));
-        initBusinessMultiselect(getUrlParameter('business'));
+        initBusinessMultiselect(initBusiness || 'grocery');
+        initYearSlider();
+        initGeoRadio();
         initPopovers();
         initCriticalBusiness();
         initVcrButtons();
@@ -301,6 +324,13 @@
 
         json.fetch("socioeconomic.json", function (data) {
             socioeconomicData = data;
+        });
+
+        maps.init(function () {
+            updateSliderValue(Number(initYear) || 2015);
+            if (initCriticalMarkers) $('#show-critical-businesses').click();
+            if (initRelativeShading) $('#relative-shading').click();
+            if (initGeo === data.CENSUS) $('#census-radio').click();
         });
     };
 

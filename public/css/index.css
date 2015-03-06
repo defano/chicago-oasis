@@ -2,6 +2,10 @@ td {
     font-size: 14px;
 }
 
+#permalink {
+    max-width: 400px;
+}
+
 .circle-infowindow {
     width: 200px;
     height: 100px;
