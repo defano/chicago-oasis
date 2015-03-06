@@ -120,6 +120,4 @@
         return censusPolys.length > 0 && communityPolys.length > 0;
     }
 
-    polygons.init = function () {};
-
 }(window.polygons = window.polygons || {}, jQuery));

@@ -67,8 +67,4 @@
         });
     };
 
-    data.init = function () {
-        // nothing to do
-    };
-
 }(window.data = window.data || {}, jQuery));

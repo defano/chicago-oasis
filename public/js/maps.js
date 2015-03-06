@@ -290,12 +290,6 @@
         });
     };
 
-    maps.init = function () {
-
-        initGoogleMap();
-        initPolygons();
-    };
-
     maps.showCommunities = function () {
         activeGeography = data.COMMUNITY;
 
@@ -353,5 +347,10 @@
     maps.setPolyMouseoverCallback = function (callback) {
         polyMouseoverCallback = callback;
     }
+
+    maps.init = function (onReady) {
+        initGoogleMap();
+        initPolygons();
+    };
 
 }(window.maps = window.maps || {}, jQuery));
