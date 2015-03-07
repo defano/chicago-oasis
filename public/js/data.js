@@ -1,8 +1,8 @@
 (function (data, $) {
     "use strict";
 
-    data.CENSUS = "tracts";
-    data.COMMUNITY = "commareas";
+    data.CENSUS = "census";
+    data.COMMUNITY = "community";
 
     var communityData = {}, // current community desertification data
         censusData = []; // current census desertification data

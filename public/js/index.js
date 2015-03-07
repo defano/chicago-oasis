@@ -279,7 +279,7 @@
         var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
 
         // Update polygons and shading
-        if (getAreaType() == "tracts") {
+        if (getAreaType() == data.CENSUS) {
             maps.showCensusTracts();
             data.loadCensusData(dataset, function (data) {
                 maps.refreshPolygonShading();
