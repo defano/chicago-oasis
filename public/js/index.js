@@ -252,18 +252,28 @@
 
     function polyMouseoverCallback(areaType, areaName, poly, record) {
 
-        // Area type changed (or first access); need to load HTML fragment
-        if (activeAreaType != areaType) {
-            activeAreaType = areaType;
-            $("#info-panel").load(areaType === data.CENSUS ? "html/tract-report.html" : "html/community-report.html", function () {
-                polyMouseoverCallback(areaType, areaName, poly, record);
+        // Special case: No data
+        if (record == undefined) {
+            activeAreaType = undefined;
+            $("#info-panel").load("html/no-data.html", function () {
+                $(".year").text(getSelectedYear);
+                $(".area-name").text(areaName);
+                $(".desert-class").text(getDesertClass(poly.fillOpacity));
             });
 
             return;
         }
 
-        // Re-register pop-overs on the new HTML
-        initPopovers();
+        // Area type changed (or first access); need to load HTML fragment then reinvoke this function
+        if (activeAreaType != areaType) {
+            activeAreaType = areaType;
+            $("#info-panel").load(areaType === data.CENSUS ? "html/tract-report.html" : "html/community-report.html", function () {
+                initPopovers(); // Re-register pop-overs on the new HTML
+                polyMouseoverCallback(areaType, areaName, poly, record);
+            });
+
+            return;
+        }
 
         $(".year").text(getSelectedYear);
         $(".area-name").text(areaName);
