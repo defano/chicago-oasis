@@ -10,6 +10,16 @@
         OUTLINE_COLOR = '#FFFFFF',
         AREA_COLOR = '#6699FF',
 
+        // Highlight style of selected polygon
+        SELECTED = {
+            strokeOpacity: 1,
+            strokeWeight: 6,
+        },
+        UNSELECTED = {
+            strokeOpacity: 1,
+            strokeWeight: 1,
+        },
+
         MARKER_ANIMATION = google.maps.Animation.DROP,
 
         activeGeography = data.COMMUNITY, // initial geography setting
@@ -21,6 +31,8 @@
 
         circles = [], // handle to circle drawn on map
         markers = [], // handle to markers drawn on map
+        selectionLock = false,
+        selectedPoly,
 
         polyMouseoverCallback; // callback for when user hovers over polygon
 
@@ -30,6 +42,7 @@
         map = new google.maps.Map(document.getElementById('map-canvas'), {
             center: CHICAGO,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
+            disableDoubleClickZoom: true,
             zoom: 11
         });
 
@@ -49,30 +62,39 @@
             $.each(allPolygons, function (i, poly) {
                 // Handle mouseover events on this poly
                 google.maps.event.addListener(poly, 'mouseover', function () {
-                    // Make shape outline bold
-                    this.setOptions({
-                        strokeOpacity: 1,
-                        strokeWeight: 6,
-                    });
+                    if (!selectionLock) {
+                        // Make shape outline bold
+                        this.setOptions(SELECTED);
 
-                    if (polyMouseoverCallback) {
-                        var record = data.getRecord(this.areaId, activeGeography);
-                        polyMouseoverCallback(activeGeography, this.areaName, this, record);
+                        if (polyMouseoverCallback) {
+                            var record = data.getRecord(this.areaId, activeGeography);
+                            polyMouseoverCallback(activeGeography, this.areaName, this, record);
+                        }
                     }
                 });
 
                 // Handle mouseout events on this poly
                 google.maps.event.addListener(poly, 'mouseout', function () {
-                    // Make shape outline "normal"
-                    this.setOptions({
-                        strokeOpacity: 1,
-                        strokeWeight: 1,
-                    });
+                    if (!selectionLock) {
+                        this.setOptions(UNSELECTED);
+                    }
+                });
+
+                google.maps.event.addListener(poly, 'click', function () {
+                    selectionLock = !selectionLock;
+
+                    if (!selectionLock) {
+                        selectedPoly.setOptions(UNSELECTED);
+                        poly.setOptions(SELECTED);
+                        selectedPoly = null;
+                    } else {
+                        selectedPoly = poly;
+                    }
                 });
 
                 // In order to draw circles, we need to capture click events. Since the poly will float
                 // above the map, we can't attach this listener to the map object itself.
-                google.maps.event.addListener(poly, 'click', function (event) {
+                google.maps.event.addListener(poly, 'dblclick', function (event) {
                     if (activeGeography == data.CENSUS) {
                         renderCircles(event.latLng, this.areaId);
                     }
