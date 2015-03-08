@@ -342,7 +342,9 @@
                 maps.getMap().setCenter(new google.maps.LatLng(initialContext.lat, initialContext.lng));
             }
 
-            maps.setSelectedArea(initialContext.select);
+            if (initialContext.select) {
+                maps.setSelectedArea(initialContext.select);
+            }
         });
     };
 
