@@ -13,7 +13,8 @@ $(document).ready(function () {
         criticalMarkers: Boolean(getUrlParameter('critical') === "true"),
         lat: Number(getUrlParameter('lat')),
         lng: Number(getUrlParameter('lng')),
-        zoom: Number(getUrlParameter('zoom'))
+        zoom: Number(getUrlParameter('zoom')),
+        select: getUrlParameter('select')
     };
 
     index.init(initialContext);

@@ -32,7 +32,7 @@
         circles = [], // handle to circle drawn on map
         markers = [], // handle to markers drawn on map
         selectionLock = false,
-        selectedPoly,
+        selectedPoly = null,
 
         polyMouseoverCallback; // callback for when user hovers over polygon
 
@@ -316,6 +316,7 @@
 
     maps.showCommunities = function () {
         activeGeography = data.COMMUNITY;
+        selectionLock = false;
 
         closeInfowindow();
         removeCircles();
@@ -328,6 +329,7 @@
 
     maps.showCensusTracts = function () {
         activeGeography = data.CENSUS;
+        selectionLock = false;
 
         closeInfowindow();
         removeCircles();
@@ -367,6 +369,29 @@
     maps.getMap = function () {
         return map;
     };
+
+    maps.setSelectedArea = function (areaId) {
+        selectionLock = true;
+        selectedPoly;
+
+        $.each(getActivePolygons(), function (i, thisPoly) {
+            if (thisPoly.areaId == areaId) {
+                selectedPoly = thisPoly;
+            }
+        });
+
+        if (selectedPoly) {
+            selectedPoly.setOptions(SELECTED);
+            if (polyMouseoverCallback) {
+                var record = data.getRecord(areaId, activeGeography);
+                polyMouseoverCallback(activeGeography, selectedPoly.areaName, selectedPoly, record);
+            }
+        }
+    }
+
+    maps.getSelectedArea = function () {
+        return selectedPoly && selectedPoly.areaId;
+    }
 
     maps.setPolyMouseoverCallback = function (callback) {
         polyMouseoverCallback = callback;

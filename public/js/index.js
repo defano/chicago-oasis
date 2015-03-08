@@ -128,7 +128,20 @@
     function getPermalink() {
         var map = maps.getMap();
         var url = window.location.href.split('/');
-        return url[0] + "//" + url[2] + "/?business=" + getSelectedBusiness() + "&year=" + getSelectedYear() + "&geo=" + getAreaType() + "&critical=" + getCriticalBusinessSelection() + "&relative=" + getRelativeShading() + "&lat=" + map.getCenter().lat() + "&lng=" + map.getCenter().lng() + "&zoom=" + map.getZoom();
+
+        var permalink = url[0] + "//" + url[2];
+        permalink += "/?business=" + getSelectedBusiness();
+        permalink += "&year=" + getSelectedYear();
+        permalink += "&geo=" + getAreaType();
+        permalink += "&critical=" + getCriticalBusinessSelection();
+        permalink += "&relative=" + getRelativeShading();
+        permalink += "&lat=" + map.getCenter().lat();
+        permalink += "&lng=" + map.getCenter().lng();
+        permalink += "&zoom=" + map.getZoom();
+        if (maps.getSelectedArea())
+            permalink += "&select=" + maps.getSelectedArea();
+
+        return encodeURI(permalink);
     }
 
     function updateSliderValue(value) {
@@ -328,6 +341,8 @@
             if (initialContext.lat && initialContext.lng) {
                 maps.getMap().setCenter(new google.maps.LatLng(initialContext.lat, initialContext.lng));
             }
+
+            maps.setSelectedArea(initialContext.select);
         });
     };
 
