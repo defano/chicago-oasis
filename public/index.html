@@ -114,7 +114,7 @@
 
     <nav class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="container-fluid">
-            <a href="#" id="permalink" class="navbar-link navbar-text" tabindex="0" data-container="body" data-trigger="hover focus" data-toggle="popover" data-placement="top"><span class="glyphicon glyphicon-link"></span> Permalink
+            <a href="#" id="permalink" class="navbar-link navbar-text" data-toggle="permalink-modal"><span class="glyphicon glyphicon-link"></span> Permalink
             </a><a href="http://www.github.com/defano/desert-chicago-njs" class="navbar-link navbar-text"><i class="fa fa-github"></i> Github</a>
             <a href="mailto:contact@chicago-oasis.org" class="navbar-link navbar-text"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a>
 
@@ -124,6 +124,28 @@
             </div>
         </div>
     </nav>
+
+    <div class="modal fade" id="permalink-modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title"><span class="glyphicon glyphicon-link"></span> Permalink</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Use this URL to refer back to the active data and selections:</p>
+                    <a href="#" id="permalink-url">
+                        <p id="permalink-text"></p>
+                    </a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </body>
 
 </html>

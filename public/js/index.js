@@ -80,16 +80,6 @@
         $(function () {
             $('[data-toggle="popover"]').popover();
         });
-
-        $('#permalink').hover(function () {
-            $('#permalink').attr('data-content', getPermalink());
-            $('#permalink').attr('href', getPermalink());
-        });
-
-        var p = $("#permalink").popover();
-        p.on("show.bs.popover", function (e) {
-            p.data()["bs.popover"].$tip.css("max-width", "100%");
-        });
     }
 
     /* Wire up event handling for the "Show critical businesses" checkbox
@@ -104,6 +94,14 @@
             // Set relative shading option
             maps.setRelativePolygonShading(getRelativeShading());
             index.update();
+        });
+    }
+
+    function initPermalink() {
+        $('#permalink').click(function () {
+            $('#permalink-url').attr('href', getPermalink());
+            $('#permalink-text').text(getPermalink());
+            $('#permalink-modal').modal('show');
         });
     }
 
@@ -306,41 +304,29 @@
         }
     };
 
-    function getUrlParameter(name) {
-        return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [, ""])[1].replace(/\+/g, '%20')) || null;
-    }
-
-    index.init = function () {
-        var initBusiness = getUrlParameter('business');
-        var initYear = getUrlParameter('year');
-        var initGeo = getUrlParameter('geo');
-        var initRelativeShading = Boolean(getUrlParameter('relative') === "true");
-        var initCriticalMarkers = Boolean(getUrlParameter('critical') === "true");
-        var initLat = Number(getUrlParameter('lat'));
-        var initLng = Number(getUrlParameter('lng'));
-        var initZoom = Number(getUrlParameter('zoom'));
-
-        initBusinessMultiselect(initBusiness || 'grocery');
+    index.init = function (initialContext) {
+        initBusinessMultiselect(initialContext.business || 'grocery');
         initYearSlider();
         initGeoRadio();
         initPopovers();
         initCriticalBusiness();
         initVcrButtons();
         initMouseoverCallback();
+        initPermalink();
 
         json.fetch("socioeconomic.json", function (data) {
             socioeconomicData = data;
         });
 
         maps.init(function () {
-            updateSliderValue(Number(initYear) || 2015);
-            if (initCriticalMarkers) $('#show-critical-businesses').click();
-            if (initRelativeShading) $('#relative-shading').click();
-            if (initGeo === data.CENSUS) $('#census-radio').click();
+            updateSliderValue(Number(initialContext.year) || 2015);
+            if (initialContext.criticalMarkers) $('#show-critical-businesses').click();
+            if (initialContext.relativeShading) $('#relative-shading').click();
+            if (initialContext.geo === data.CENSUS) $('#census-radio').click();
 
-            maps.getMap().setZoom(initZoom || 11);
-            if (initLat && initLng) {
-                maps.getMap().setCenter(new google.maps.LatLng(initLat, initLng));
+            maps.getMap().setZoom(initialContext.zoom || 11);
+            if (initialContext.lat && initialContext.lng) {
+                maps.getMap().setCenter(new google.maps.LatLng(initialContext.lat, initialContext.lng));
             }
         });
     };

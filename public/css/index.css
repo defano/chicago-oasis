@@ -2,8 +2,8 @@ td {
     font-size: 14px;
 }
 
-#permalink {
-    max-width: 400px;
+#permalink-text {
+    word-wrap: break-word;
 }
 
 .circle-infowindow {
