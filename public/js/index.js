@@ -81,6 +81,11 @@
             $('[data-toggle="popover"]').popover();
         });
 
+        $('#permalink').hover(function () {
+            $('#permalink').attr('data-content', getPermalink());
+            $('#permalink').attr('href', getPermalink());
+        });
+
         var p = $("#permalink").popover();
         p.on("show.bs.popover", function (e) {
             p.data()["bs.popover"].$tip.css("max-width", "100%");
@@ -123,8 +128,9 @@
     }
 
     function getPermalink() {
+        var map = maps.getMap();
         var url = window.location.href.split('/');
-        return url[0] + "//" + url[2] + "/?business=" + getSelectedBusiness() + "&year=" + getSelectedYear() + "&geo=" + getAreaType() + "&critical=" + getCriticalBusinessSelection() + "&relative=" + getRelativeShading();
+        return url[0] + "//" + url[2] + "/?business=" + getSelectedBusiness() + "&year=" + getSelectedYear() + "&geo=" + getAreaType() + "&critical=" + getCriticalBusinessSelection() + "&relative=" + getRelativeShading() + "&lat=" + map.getCenter().lat() + "&lng=" + map.getCenter().lng() + "&zoom=" + map.getZoom();
     }
 
     function updateSliderValue(value) {
@@ -298,9 +304,6 @@
         } else {
             maps.hideMarkers();
         }
-
-        $('#permalink').attr('data-content', getPermalink());
-        $('#permalink').attr('href', getPermalink());
     };
 
     function getUrlParameter(name) {
@@ -313,6 +316,9 @@
         var initGeo = getUrlParameter('geo');
         var initRelativeShading = Boolean(getUrlParameter('relative') === "true");
         var initCriticalMarkers = Boolean(getUrlParameter('critical') === "true");
+        var initLat = Number(getUrlParameter('lat'));
+        var initLng = Number(getUrlParameter('lng'));
+        var initZoom = Number(getUrlParameter('zoom'));
 
         initBusinessMultiselect(initBusiness || 'grocery');
         initYearSlider();
@@ -331,6 +337,11 @@
             if (initCriticalMarkers) $('#show-critical-businesses').click();
             if (initRelativeShading) $('#relative-shading').click();
             if (initGeo === data.CENSUS) $('#census-radio').click();
+
+            maps.getMap().setZoom(initZoom || 11);
+            if (initLat && initLng) {
+                maps.getMap().setCenter(new google.maps.LatLng(initLat, initLng));
+            }
         });
     };
 
