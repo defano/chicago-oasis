@@ -43,6 +43,7 @@
 </head>
 
 <body>
+    <!-- Top navigation bar -->
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -60,8 +61,13 @@
         </div>
     </nav>
 
+    <!-- Page body -->
     <div class="main-content">
+
+        <!-- Left column; control and info panels -->
         <div class="control-panel float-bottom-container">
+
+            <!-- Control panel "well" -->
             <div class="well">
                 <h4>Show deserts of</h4>
                 <div class="indented">
@@ -102,16 +108,19 @@
                         Relative shading
                     </label>
                 </div>
+            </div>
 
-            </div>
-            <div id="info-panel" class="big-vert-break info-panel float-bottom">
-            </div>
+            <!-- Info panel -->
+            <div id="info-panel" class="big-vert-break info-panel float-bottom"></div>
         </div>
+
+        <!-- Right column; Google Map -->
         <div class="map-panel">
             <div id="map-canvas"></div>
         </div>
     </div>
 
+    <!-- Bottom navigation bar -->
     <nav class="navbar navbar-inverse navbar-fixed-bottom">
         <div class="container-fluid">
             <a href="#" id="permalink" class="navbar-link navbar-text" data-toggle="permalink-modal"><span class="glyphicon glyphicon-link"></span> Permalink
@@ -125,6 +134,7 @@
         </div>
     </nav>
 
+    <!-- Permalink modal -->
     <div class="modal fade" id="permalink-modal">
         <div class="modal-dialog">
             <div class="modal-content">
