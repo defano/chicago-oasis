@@ -34,7 +34,7 @@
 
     data.getRecord = function (areaId, activeGeography) {
         var areaProperty = (activeGeography == data.CENSUS) ? "TRACT" : "COMMUNITY_AREA";
-        var foundRecord = undefined;
+        var foundRecord;
 
         $.each(data.getDataset(activeGeography), function (i, record) {
             if (record[areaProperty] == areaId) {
@@ -47,6 +47,14 @@
 
     data.getDataset = function (geography) {
         return (geography == data.CENSUS) ? censusData : communityData;
+    };
+
+    data.loadData = function (datafile, geography, callback) {
+        if (geography == data.CENSUS) {
+            data.loadCensusData(datafile, callback);
+        } else {
+            data.loadCommunityData(datafile, callback);
+        }
     };
 
     data.loadCommunityData = function (datafile, callback) {

@@ -1,4 +1,4 @@
-(function (index, $) {
+(function (index, $, maps, data, json) {
     "use strict";
 
     var multiselectData,
@@ -138,8 +138,9 @@
         permalink += "&lat=" + map.getCenter().lat();
         permalink += "&lng=" + map.getCenter().lng();
         permalink += "&zoom=" + map.getZoom();
-        if (maps.getSelectedArea())
+        if (maps.getSelectedArea()) {
             permalink += "&select=" + maps.getSelectedArea();
+        }
 
         return encodeURI(permalink);
     }
@@ -296,6 +297,10 @@
         maps.setPolyMouseoverCallback(polyMouseoverCallback);
     }
 
+    function getActiveDatafile() {
+        return getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
+    }
+
     /*
      * Invoked when a user makes a UI selection that affects map rendering
      */
@@ -303,17 +308,15 @@
 
         updateSliderRange();
 
-        var dataset = getAreaType() + "/" + getSelectedBusiness() + "-" + getSelectedYear() + ".json";
-
         // Update polygons and shading
         if (getAreaType() == data.CENSUS) {
             maps.showCensusTracts();
-            data.loadCensusData(dataset, function (data) {
+            data.loadCensusData(getActiveDatafile(), function (data) {
                 maps.refreshPolygonShading();
             });
         } else {
             maps.showCommunities();
-            data.loadCommunityData(dataset, function (data) {
+            data.loadCommunityData(getActiveDatafile(), function (data) {
                 maps.refreshPolygonShading();
             });
         }
@@ -328,6 +331,8 @@
     };
 
     index.init = function (initialContext) {
+
+        // Initialize UI elements and attach event handlers
         initBusinessMultiselect(initialContext.business || 'grocery');
         initYearSlider();
         initGeoRadio();
@@ -337,25 +342,35 @@
         initMouseoverCallback();
         initPermalink();
 
+        // Load community-area socioeconomic data
         json.fetch("socioeconomic.json", function (data) {
             socioeconomicData = data;
         });
 
+        // Initialize the map, and when complete...
         maps.init(function () {
+
+            // Update the year selection based on initial context (permalink)
             updateSliderValue(Number(initialContext.year) || 2015);
+
+            // Select radios/checkboxes based on initial context
             if (initialContext.criticalMarkers) $('#show-critical-businesses').click();
             if (initialContext.relativeShading) $('#relative-shading').click();
             if (initialContext.geo === data.CENSUS) $('#census-radio').click();
 
+            // Pan and zoom the map per initial context
             maps.getMap().setZoom(initialContext.zoom || 11);
             if (initialContext.lat && initialContext.lng) {
                 maps.getMap().setCenter(new google.maps.LatLng(initialContext.lat, initialContext.lng));
             }
 
-            if (initialContext.select) {
-                maps.setSelectedArea(initialContext.select);
+            if (initialContext.select && initialContext.geo) {
+                // Load the data associated with the current selection and highlight the given area
+                data.loadData(getActiveDatafile(), initialContext.geo, function () {
+                    maps.setSelectedArea(initialContext.select);
+                });
             }
         });
     };
 
-}(window.index = window.index || {}, jQuery));
+}(window.index = window.index || {}, jQuery, maps, data, json));

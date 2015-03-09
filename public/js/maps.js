@@ -374,12 +374,14 @@
         selectionLock = true;
         selectedPoly;
 
+        // Find the polygon identified by areaId
         $.each(getActivePolygons(), function (i, thisPoly) {
             if (thisPoly.areaId == areaId) {
                 selectedPoly = thisPoly;
             }
         });
 
+        // ... provided we found one, select it
         if (selectedPoly) {
             selectedPoly.setOptions(SELECTED);
             if (polyMouseoverCallback) {
