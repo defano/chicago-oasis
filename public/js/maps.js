@@ -31,11 +31,10 @@
 
         circles = [], // handle to circle drawn on map
         markers = [], // handle to markers drawn on map
-        selectionLock = false,
-        selectedPoly = null,
+        selectionLock = false, // is highlighted selection locked (or update with hover)
+        selectedPoly = null, // when locked, this is the selected polygon
 
         polyMouseoverCallback; // callback for when user hovers over polygon
-
 
     function initGoogleMap() {
 
@@ -126,7 +125,7 @@
         closeInfowindow();
 
         for (var i = 3; i > 0; i--) {
-            var circle = getNewCircle(centerLatLng, i);
+            var circle = newCircle(centerLatLng, i);
 
             google.maps.event.addListener(circle, 'mouseover', function (event) {
 
@@ -152,7 +151,7 @@
         }
     }
 
-    function getNewCircle(centerLatLng, radiusMiles) {
+    function newCircle(centerLatLng, radiusMiles) {
 
         var circleOptions = {
             strokeColor: OUTLINE_COLOR,
@@ -220,6 +219,7 @@
         if (relativeShadingEnabled) {
 
             // Blank polygons that are not visible 
+            // TODO: Shouldn't blank visible polygons
             for (var i = 0; i < activePolygons.length; i++) {
                 activePolygons[i].setMap(null);
             };
@@ -374,7 +374,7 @@
         selectionLock = true;
         selectedPoly;
 
-        // Find the polygon identified by areaId
+        // Find the polygon identified by areaId...
         $.each(getActivePolygons(), function (i, thisPoly) {
             if (thisPoly.areaId == areaId) {
                 selectedPoly = thisPoly;
