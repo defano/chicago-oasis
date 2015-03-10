@@ -54,7 +54,7 @@
     function initYearSlider() {
 
         // Continually update the label...
-        $("#year-slider").slider().on('slide', function (event) {
+        $("#year-slider").slider().on('change', function (event) {
             if (event.value != $("#year-value").text()) {
                 $("#year-value").text(event.value);
                 index.update();
