@@ -268,7 +268,7 @@
 
     function polyMouseoverCallback(areaType, areaName, poly, record) {
 
-        // Special case: No data
+        // Special case: No data available
         if (record == undefined) {
             activeAreaType = undefined;
             $("#info-panel").load("html/no-data.html", function () {
@@ -309,11 +309,13 @@
 
         // Update polygons and shading
         if (getAreaType() == data.CENSUS) {
+            $("#circles-tip").show();
             maps.showCensusTracts();
             data.loadCensusData(getActiveDatafile(), function (data) {
                 maps.refreshPolygonShading();
             });
         } else {
+            $("#circles-tip").hide();
             maps.showCommunities();
             data.loadCommunityData(getActiveDatafile(), function (data) {
                 maps.refreshPolygonShading();

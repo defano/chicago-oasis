@@ -6,6 +6,10 @@ td {
     word-wrap: break-word;
 }
 
+#circles-tip {
+    color: gray;
+}
+
 .circle-infowindow {
     width: 200px;
     height: 100px;
