@@ -10,7 +10,7 @@ The application's user interface is based on Bootstrap/jQuery and makes use of t
 
 ### Running Locally
 
-Make sure you have Node.js and the Node Package Manager (npm) installed.
+Make sure you have [Node.js](http://nodejs.org/) and the Node Package Manager (npm) installed.
 
 ```sh
 $ git clone git@github.com:defano/oasis-chicago-njs.git # or clone your own fork
@@ -19,7 +19,27 @@ $ npm install
 $ npm start
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+The app should now be running on [localhost:5000](http://localhost:5000/).
+
+### Running on Docker
+
+Users have two options when running the application on Docker. Use the pre-built image available in the Docker Repository:
+
+```sh
+$ docker pull defano/desert-chicago-njs
+$ docker run -p 80:5000 defano/desert-chicago-njs
+```
+
+Or, pull down the source code and create your own image:
+
+```sh
+$ git clone git@github.com:defano/oasis-chicago-njs.git
+$ cd oasis-chicago-njs
+$ docker build -t your-app-tag-here .
+$ docker run -p 80:5000 your-app-tag-here
+```
+
+The app should now be running on [localhost](http://localhost).
 
 ### Deploying to IBM Bluemix
 
@@ -92,7 +112,9 @@ For example, a neighborhood data file would look like:
     {"TRACT" : "0310", "ACCESS1" : 0.199903484, "ONE_MILE" : 1, "TWO_MILE" : 6, "THREE_MILE" : 11},
     …
 }
-``` 
+```
+
+JSON structures may contain additional data/properties, but only those described here are used by the application. 
 
 The `ACCESS1` property should contain a numeric value representing the relative level of desertification for the corresponding area relative to every other area. These values represent the abstract level of access a resident of the area has to businesses of the corresponding type; valid values are in the range of 0..MAX_INT. At runtime, the application will determine the range of values in the dataset, and, for each area, calculate its percent penetration into the range. This "penetration" value is then placed into one of five buckets and the bucket value is used to assign a shade. 
 
@@ -115,6 +137,6 @@ Each of these files should define a single array containing zero or more "marker
 
 ### FAQs
 
-- **How were the community and census tract Fusion tables created?** The City of Chicago Data Portal (HERE) provides this information in KML format (keyhole markup language, an XML schema used to represent geo-spacial data). Unfortunately, KML isn't particularly friendly for applications like ours. The metadata associated with each area (for example, the neighborhood name or census tract id) is stored in an HTML fragment that CDATA'd in the XML. In order to create a more useable representation, we wrote a small Groovy script to export the useful bits into CSV format, which was then uploaded to Fusion.
+- **How were the community and census tract Fusion tables created?** The [City of Chicago Data Portal](https://data.cityofchicago.org/) provides this information in KML format (keyhole markup language, an XML schema used to represent geo-spacial data). Unfortunately, KML isn't particularly friendly for applications like ours. The metadata associated with each area (for example, the neighborhood name or census tract id) is stored in an HTML fragment that CDATA'd in the XML. In order to create a more useable representation, we wrote a small Groovy script to export the useful bits into CSV format, which was then uploaded to Fusion.
 
 - **Why is the boundary data in a Fusion Table?** It shouldn't be. There's no good reason for this other than legacy: When we started development the notion was that we'd use Fusion Tables as our primary database. We eventually migrated the other data away from Fusion, but haven't gotten around to moving the polygons out. 
