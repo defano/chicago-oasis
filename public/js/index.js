@@ -228,8 +228,6 @@
     }
 
     function getDesertClassDescription(opacity) {
-        if (opacity == undefined) return "(no data available)";
-
         if (opacity > 0.8) return "neighborhoods with the highest accessiblity";
         else if (opacity > 0.7) return "neighborhoods with good accessibility";
         else if (opacity > 0.5) return "neighborhoods with fair accessiblity";
@@ -238,8 +236,6 @@
     }
 
     function getDesertClass(opacity) {
-        if (opacity == undefined) return "(no data available)";
-
         if (opacity > 0.8) return "most accessible";
         else if (opacity > 0.7) return "largely accessible";
         else if (opacity > 0.5) return "somewhat accessible";
