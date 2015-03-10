@@ -6,14 +6,14 @@ $(document).ready(function () {
     };
 
     var initialContext = {
-        business: getUrlParameter('business'),
-        year: getUrlParameter('year'),
-        geo: getUrlParameter('geo'),
+        business: getUrlParameter('business') || 'grocery',
+        year: Number(getUrlParameter('year')) || 2015,
+        geo: getUrlParameter('geo') || data.COMMUNITY,
         relativeShading: Boolean(getUrlParameter('relative') === "true"),
         criticalMarkers: Boolean(getUrlParameter('critical') === "true"),
-        lat: Number(getUrlParameter('lat')),
-        lng: Number(getUrlParameter('lng')),
-        zoom: Number(getUrlParameter('zoom')),
+        lat: Number(getUrlParameter('lat')) || null,
+        lng: Number(getUrlParameter('lng')) || null,
+        zoom: Number(getUrlParameter('zoom')) || 11,
         select: getUrlParameter('select')
     };
 

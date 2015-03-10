@@ -333,7 +333,7 @@
     index.init = function (initialContext) {
 
         // Initialize UI elements and attach event handlers
-        initBusinessMultiselect(initialContext.business || 'grocery');
+        initBusinessMultiselect(initialContext.business);
         initYearSlider();
         initGeoRadio();
         initPopovers();
@@ -351,7 +351,7 @@
         maps.init(function () {
 
             // Update the year selection based on initial context (permalink)
-            updateSliderValue(Number(initialContext.year) || 2015);
+            updateSliderValue(initialContext.year);
 
             // Select radios/checkboxes based on initial context
             if (initialContext.criticalMarkers) $('#show-critical-businesses').click();
@@ -359,7 +359,7 @@
             if (initialContext.geo === data.CENSUS) $('#census-radio').click();
 
             // Pan and zoom the map per initial context
-            maps.getMap().setZoom(initialContext.zoom || 11);
+            maps.getMap().setZoom(initialContext.zoom);
             if (initialContext.lat && initialContext.lng) {
                 maps.getMap().setCenter(new google.maps.LatLng(initialContext.lat, initialContext.lng));
             }
