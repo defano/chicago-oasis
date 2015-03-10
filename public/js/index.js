@@ -247,15 +247,32 @@
         return socioeconomicData[forArea.toUpperCase()][indicator];
     }
 
+    function updateInfoPanel(activeGeography, poly, record) {
+
+        $(".year").text(getSelectedYear);
+        $(".area-name").text(poly.areaName);
+        $(".desert-class").text(getDesertClass(poly.fillOpacity));
+
+        if (activeGeography === data.CENSUS) {
+            $(".business-one-mile").text(record["ONE_MILE"]);
+            $(".business-two-mile").text(record["TWO_MILE"]);
+            $(".business-three-mile").text(record["THREE_MILE"]);
+        } else if (activeGeography === data.COMMUNITY) {
+            $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", poly.areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
+            $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", poly.areaName));
+            $(".hardship-index").text(getSocioeconomicIndicator("HARDSHIP INDEX", poly.areaName));
+            $(".percent-unemployed").text(getSocioeconomicIndicator("PERCENT AGED 16+ UNEMPLOYED", poly.areaName));
+            $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
+        }
+    }
+
     function polyMouseoverCallback(areaType, areaName, poly, record) {
 
         // Special case: No data
         if (record == undefined) {
             activeAreaType = undefined;
             $("#info-panel").load("html/no-data.html", function () {
-                $(".year").text(getSelectedYear);
-                $(".area-name").text(areaName);
-                $(".desert-class").text(getDesertClass(poly.fillOpacity));
+                updateInfoPanel(activeAreaType, poly);
             });
 
             return;
@@ -266,27 +283,13 @@
             activeAreaType = areaType;
             $("#info-panel").load(areaType === data.CENSUS ? "html/tract-report.html" : "html/community-report.html", function () {
                 initPopovers(); // Re-register pop-overs on the new HTML
-                polyMouseoverCallback(areaType, areaName, poly, record);
+                updateInfoPanel(areaType, poly, record);
             });
 
             return;
         }
 
-        $(".year").text(getSelectedYear);
-        $(".area-name").text(areaName);
-        $(".desert-class").text(getDesertClass(poly.fillOpacity));
-
-        if (areaType === data.CENSUS) {
-            $(".business-one-mile").text(record["ONE_MILE"]);
-            $(".business-two-mile").text(record["TWO_MILE"]);
-            $(".business-three-mile").text(record["THREE_MILE"]);
-        } else {
-            $(".per-capita-income").text(getSocioeconomicIndicator("PER CAPITA INCOME", areaName).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","));
-            $(".poverty-percent").text(getSocioeconomicIndicator("PERCENT HOUSEHOLDS BELOW POVERTY", areaName));
-            $(".hardship-index").text(getSocioeconomicIndicator("HARDSHIP INDEX", areaName));
-            $(".percent-unemployed").text(getSocioeconomicIndicator("PERCENT AGED 16+ UNEMPLOYED", areaName));
-            $(".neighborhood-desert-class").text(getDesertClassDescription(poly.fillOpacity));
-        }
+        updateInfoPanel(areaType, poly, record);
     }
 
     function initMouseoverCallback() {
