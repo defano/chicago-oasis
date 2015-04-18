@@ -96,6 +96,10 @@
                 google.maps.event.addListener(poly, 'dblclick', function (event) {
                     if (activeGeography == data.CENSUS) {
                         renderCircles(event.latLng, this.areaId);
+
+                        // Unselect text on the page to prevent info windows from being rendered with selected text
+                        // ... an inadvertent side-effect of the double-click
+                        document.getSelection().removeAllRanges();
                     }
                 });
 
