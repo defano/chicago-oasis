@@ -13,11 +13,11 @@
         // Highlight style of selected polygon
         SELECTED = {
             strokeOpacity: 1,
-            strokeWeight: 6,
+            strokeWeight: 6
         },
         UNSELECTED = {
             strokeOpacity: 1,
-            strokeWeight: 1,
+            strokeWeight: 1
         },
 
         MARKER_ANIMATION = google.maps.Animation.DROP,
