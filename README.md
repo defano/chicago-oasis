@@ -1,8 +1,8 @@
 # Oasis Chicago
 
-A visualization of Chicago business desertifaction by neighborhood or census tract based on public data provided by the City of Chicago's online data portal.
+Oasis Chicago was created as a submission to ChallengePost's Big Data for Social Good competition. You can read more--and watch a video--about the goals of and inspiration for the project on the [ChallegePost project page](http://challengepost.com/software/oasis). 
 
-Oasis Chicago is a trivial [Node.js](http://nodejs.org/) application; it uses the Express framework for routing requests to static resources but otherwise doesn't expose web services or consume external data sources (like a database). 
+Oasis is a trivial [Node.js](http://nodejs.org/) application; it uses the Express framework for routing requests to static resources but otherwise doesn't expose web services or consume external data sources (like a database). 
 
 The application's user interface is based on Bootstrap/jQuery and makes use of the `awesome-bootstrap-checkbox`, `bootstrap-multiselect`, and `seiyra-bootstrap-slider` plugins. The Express application makes use of the Jade templating engine and the `marked` (a markdown rendering library) for displaying the about page.
 
