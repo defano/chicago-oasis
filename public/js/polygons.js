@@ -36,14 +36,10 @@
 
         var rows = data.rows,
             polys = [];
-
-        console.log(data.rows);
         
         for (var i in rows) {
             var newCoordinates = [];
             var centroid;
-
-            console.log("got row!");
             
             // Extract data from fusion table; first row must be area id, second row must be area name
             // and thrid row must be "MultiGeometry" KML/XML
