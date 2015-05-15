@@ -4,7 +4,7 @@
     // Matt's Fusion tables and API key; don't mess with this
     var CENSUS_TRACTS_TABLE = '1E45OeyKEC8TBt_Jtau0HkiLycxjPcLS_SAgejFdt',
         COMMUNITY_AREAS_TABLE = '19403tp7_IakdCX0soN031hMap7jPZV3uPbNhI9ME',
-        API_KEY = 'AIzaSyB_Idpo8GuOvdaIU7VtOsk7pTargR6rEFw',
+        API_KEY = 'AIzaSyDq98eErcmMlEp7kkq1yKRMBisLSw2RM74',
         AREA_COLOR = '#6699FF',
         OUTLINE_COLOR = '#FFFFFF',
         communityPolys = [],
@@ -37,10 +37,14 @@
         var rows = data.rows,
             polys = [];
 
+        console.log(data.rows);
+        
         for (var i in rows) {
             var newCoordinates = [];
             var centroid;
 
+            console.log("got row!");
+            
             // Extract data from fusion table; first row must be area id, second row must be area name
             // and thrid row must be "MultiGeometry" KML/XML
             var areaId = rows[i][0];
@@ -69,7 +73,7 @@
                 areaName: areaName,
                 centroid: centroid
             });
-
+            
             // Squirrel away this poly
             polys.push(poly);
         }
