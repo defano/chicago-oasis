@@ -16,7 +16,7 @@ app.get('/*.md', function (req, res) {
     var query = url.parse(req.url, true).query;
     var path = __dirname + '/md/' + req.path;
     var file = fs.readFileSync(path, 'utf8');
-    var template = "template" in query ? query["template"] : "markdown" 
+    var template = "template" in query ? query["template"] : "markdown"
 
     // I'm sure there's a more clever way to do this...
     res.render(template, {
@@ -25,5 +25,5 @@ app.get('/*.md', function (req, res) {
 });
 
 app.listen(app.get('port'), function () {
-    console.log("Node app is running at localhost:" + app.get('port'));
+    console.log("Chicago Oasis is running on localhost:" + app.get('port'));
 });
