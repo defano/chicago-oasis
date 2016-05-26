@@ -268,6 +268,9 @@
 
     function polyMouseoverCallback(areaType, areaName, poly, record) {
 
+        // Hide app store badges once user mouseovers a polygon
+        $("#app-store-links").remove();
+
         // Special case: No data available
         if (record == undefined) {
             activeAreaType = undefined;
