@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.24670996360316574, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.107634640902616, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.05133022717150409, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.7845009504093089, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.06489799575677015, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8443327033956574, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.2796965835640532, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.0434704870405733, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.40169095417575373, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.342766734725558, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.43543168229656776, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.180099074265635, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 2.352966821877969, 
+    "YEAR": 2004, 
+    "ACCESS1": 5.817674379740835, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 1.2162859710805178, 
+    "YEAR": 2004, 
+    "ACCESS1": 3.4592523314882455, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 10.698945135465939, 
+    "YEAR": 2004, 
+    "ACCESS1": 10.460725224118455, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 62.40888979465454, 
+    "YEAR": 2004, 
+    "ACCESS1": 24.341893364297192, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.023001794214287555, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.37082107807187503, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.021216624633273826, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.20598839491709903, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.5187502301825775, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.2607380826271113, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.11782693452113359, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.7667754434151689, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.14710226089221307, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.011125486736542, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.08002630869400498, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.9793905624446531, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.07696256299918984, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8769128520145616, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.15881969540267132, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.562663748923804, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.048307251393598406, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.21978910663087559, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.39799455425671376, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.0881086095169366, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.40687955093722594, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.6991518632509464, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.049998364313087684, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.741003326176659, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.06082150081831737, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8176900001716724, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.07646729565933097, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.4758702839405978, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.1484676376927005, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8596731518404315, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.6881449922510279, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.6086775774191096, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.782699545701065, 
+    "YEAR": 2004, 
+    "ACCESS1": 3.403853020796533, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.29714331143971195, 
+    "YEAR": 2004, 
+    "ACCESS1": 3.1748274492034216, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.16107343348860326, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.5520210524289662, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.12831060557674656, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.1319064047605465, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.028173437471212703, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.4744612458299309, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.19302178446008364, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.5204174253707483, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.2596351180489832, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.644139188746928, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.07429239202278196, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.018646054806251, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.10342472659237684, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.638687857027063, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.2344577555419308, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.1624698439193915, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.02550008897444757, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.39100511339235966, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.09091584814721304, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.2426414011706621, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.7073028891036879, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.640249316790953, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.14301376450678216, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.924877596201324, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.06192235472895499, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.9303637056707508, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.4717576581873871, 
+    "YEAR": 2004, 
+    "ACCESS1": 3.058855580632076, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 1.7591000011473565, 
+    "YEAR": 2004, 
+    "ACCESS1": 4.330143810623711, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.10986114360020031, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.239013414099085, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 6.932049038745792, 
+    "YEAR": 2004, 
+    "ACCESS1": 6.179557099134032, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.16130891604157283, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.6908352964418867, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.025545502226034522, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.47716764179156157, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.11252841834051716, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.9474991720186214, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.3647260066094164, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.695247470505076, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.05205350501599146, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.45567393307904647, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.5521648400999067, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.0407289329150073, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.010474569492058277, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.14471848461770218, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.09344804747506343, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.1831807735730235, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 7.243895748985258, 
+    "YEAR": 2004, 
+    "ACCESS1": 10.060975965958821, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.02325933880387539, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.21527632220250842, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.04736397958181002, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.5327437104135958, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.019006116374039088, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.2756572209982324, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.1104132754409262, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.3686006617839912, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.41791265812344275, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.4300360746495446, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 1.548493555833813, 
+    "YEAR": 2004, 
+    "ACCESS1": 5.394544579744124, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 6.300546753298014, 
+    "YEAR": 2004, 
+    "ACCESS1": 6.4728350280261555, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.10072372685308106, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8334314317800164, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.2441574532571111, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.3926621939598725, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.12073990988772362, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8476906977712071, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.1689335270476351, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.3559809235934346, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.19120913235507228, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.2284242059716615, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.10055744007192298, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.63349628198456, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.10678920973556263, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.8620308018530578, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.37258331007226, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.9239594078115032, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.2578272493564061, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.132351109389598, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 2.383947688193001, 
+    "YEAR": 2004, 
+    "ACCESS1": 5.245582649666205, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 1.8793230882428233, 
+    "YEAR": 2004, 
+    "ACCESS1": 5.5344285339666275, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.011807733831559999, 
+    "YEAR": 2004, 
+    "ACCESS1": 0.21729499113459144, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.7265376488016233, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.4633301014650404, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.21281490998364413, 
+    "YEAR": 2004, 
+    "ACCESS1": 2.2533138975020215, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.34594924831366514, 
+    "YEAR": 2004, 
+    "ACCESS1": 1.6557548553562087, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Performing Arts Venue", 
+    "ACCESS2": 0.4336954382225682, 
+    "YEAR": 2004, 
+    "ACCESS1": 3.656942171244577, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

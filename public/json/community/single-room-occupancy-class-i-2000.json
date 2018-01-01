@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.11934387192963206, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4959562655253742, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 2.6146643880810383, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.84599882254592, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 10.557771472277807, 
+    "YEAR": 2000, 
+    "ACCESS1": 17.600515774764858, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 8.447859205873963, 
+    "YEAR": 2000, 
+    "ACCESS1": 18.670056992756745, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.29920208212951377, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.9625933252795793, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.6490675172525112, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.001070593927161, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.4932502384716749, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.21564315943389, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.9262998200822807, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.480836946005715, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.5397892236855766, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.588144975484154, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.714410581346292, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.468242521539106, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.142621775059127, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.4607704890531075, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.023592939405354577, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.4273658617169745, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.23532401274788362, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.975330694407418, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.5032182505915676, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.928751415007302, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.16300330614508143, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0674389764408736, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 62.777555335837796, 
+    "YEAR": 2000, 
+    "ACCESS1": 31.726778129780033, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 4.0970185790768285, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.881286992677913, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.05663092766664585, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6484254390790721, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.024741286452310305, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.3042322222220049, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 160.87546387225797, 
+    "YEAR": 2000, 
+    "ACCESS1": 36.568770360576465, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 6.235239464001151, 
+    "YEAR": 2000, 
+    "ACCESS1": 18.123889013823955, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.0645579663008813, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.550761506989238, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 100.94994404102327, 
+    "YEAR": 2000, 
+    "ACCESS1": 34.87673270028086, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.0572479515049354, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8061401759093431, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.2512575100297327, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.508727640210145, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 6.409179482209877, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.660524531534252, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.5350714398383923, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.400537582094207, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 18.073384717163698, 
+    "YEAR": 2000, 
+    "ACCESS1": 42.291378297891356, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 11.692938555657168, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.68487242990856, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 9.512382202583302, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.539236665692918, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.6726788349860064, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.361497653753066, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 65.16316486788193, 
+    "YEAR": 2000, 
+    "ACCESS1": 32.03188646009229, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 9.160442187030247, 
+    "YEAR": 2000, 
+    "ACCESS1": 30.436536046446133, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 3.258002810044585, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.075823384494305, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.07230735182445816, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.048152349237707, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 5.05151796743208, 
+    "YEAR": 2000, 
+    "ACCESS1": 19.697342499117717, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.1057259587768349, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.5606490027292175, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 15.493227493053961, 
+    "YEAR": 2000, 
+    "ACCESS1": 23.712783934748895, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.2972211079515522, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.3103366743036946, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.31747463735017767, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.6110106653753378, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 4.498034980915152, 
+    "YEAR": 2000, 
+    "ACCESS1": 13.577757847460791, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 17.53591287194461, 
+    "YEAR": 2000, 
+    "ACCESS1": 29.81835504626351, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.6826157346716121, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.061527333148575, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 7.7570057312647345, 
+    "YEAR": 2000, 
+    "ACCESS1": 18.706778392858073, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.4090278862606608, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.8912403323758404, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.8078175648275039, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.625094903871937, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.36471090974244447, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.497208128996556, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.12432838336704509, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.9496767905082726, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 4.060421231852345, 
+    "YEAR": 2000, 
+    "ACCESS1": 17.566591006849976, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.07823207341290446, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0896056823126719, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.24469836172962373, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2319513136874687, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.205890149093914, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.251142133948555, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 17.068484652656988, 
+    "YEAR": 2000, 
+    "ACCESS1": 23.380675018415833, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.653375779347909, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.882317732322417, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.026253232512591165, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.44937301150680314, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.722489247919868, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.129041003311526, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 3.4576127788857387, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.466453647825631, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 3.1820317765040684, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.043522538506247, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.791757939118801, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.758330829929033, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.2472020405211595, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.983984299699532, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.5332214445717378, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.5599289365067928, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.3159002204711494, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.8491666947169096, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.20243762657411984, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.4554229417233895, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.09543480397743956, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4811660014768737, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.7210160261752387, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.302144148899621, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.2794175722978611, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.8657690944739005, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.2996362166914093, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0474613279163205, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.1292688384367116, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8536156458717299, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.7909214607266668, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.4286759427761755, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 1.882234620054875, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.919030514301735, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.5052865199687528, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.6573045801927755, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 2.1507002855087967, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.665153086777305, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.22879395295996002, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8326196015476306, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.32014065308180456, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.7670011399749312, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 5.520817215981256, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.87758133450643, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 0.7439999238438229, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.464130836742502, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "ACCESS2": 14.432777931442683, 
+    "YEAR": 2000, 
+    "ACCESS1": 38.172460189319715, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

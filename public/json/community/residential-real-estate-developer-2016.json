@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.019899447092493992, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.31535089145943096, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.6276402199969202, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.733410532259412, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 4.3944404941020565, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.726638240115457, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.387986807143481, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.4070108055713666, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.04974407864996145, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8333348195809867, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07776893708057768, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9240335595274276, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07715714987639383, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.075110844389969, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.14045631937756764, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.1838570508269903, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07260857425385596, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8934192614712334, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.0923225811380492, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0520208989813977, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.23791217343585014, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.1751406599128957, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.004523435984732616, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.09511499355352138, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.04030767308885994, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6345322424233013, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.051771711783873936, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5081765687034904, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.02635032556053783, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.429193210586578, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 3.7028365482234307, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.534429754285257, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 5.2487042863193505, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.863237199375511, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.00902651410661348, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.13434451587549642, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.004035756671597501, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.06352760558684312, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.26112829941446364, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.6937450368876508, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.34659529393098976, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.4929252418305685, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.2899823901876189, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.769015628157432, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 2.179023519301755, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.801805796844375, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.009872210232369963, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.17197791315214428, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.1543828414540921, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8764678115418671, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.166933898837679, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2904884083335366, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07632896989749134, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0692546402455465, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 21.37978971127533, 
+    "YEAR": 2016, 
+    "ACCESS1": 25.070496524793224, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 1.322966733229145, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.406968885561736, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.3623162540409903, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.900077454416807, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.17626300201927292, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.1817049169213858, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.4988186994736993, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.441206168733178, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 6.801201419990534, 
+    "YEAR": 2016, 
+    "ACCESS1": 13.243544230208766, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.8595237203124072, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.429935891845022, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.012853968127831496, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.22652973163113516, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 4.106117168422556, 
+    "YEAR": 2016, 
+    "ACCESS1": 8.722817644453599, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.25093965429458787, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2221452908154404, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 1.904999001978858, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.640630073504108, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.04573322954842411, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6759485239877965, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.04093693667560226, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.49513973896689795, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 1.044943515754274, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.7759447038893788, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.8002236882235927, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.982003600547257, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.0787152728658354, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9288806476708096, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 124.57501292292275, 
+    "YEAR": 2016, 
+    "ACCESS1": 35.92257339003797, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.047057586143708155, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5311158160990609, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.060724800797198004, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.4256120493359647, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.0981079813251875, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9256402122306252, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.022171645592264075, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.42103167831832095, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 1.148011271737688, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.754607987063422, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.01327547102744369, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.23036426102488675, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.0207170276266198, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.2033069384432873, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.05513434015563591, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.3320625825545038, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 4.914305469130328, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.999711663068876, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.1545798676505726, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.5214803923483082, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.004862683402503891, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.09857513834445308, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.6250343461042313, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.9338798666371144, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.3896331814181232, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2414306551778966, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.9741805627853144, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.019322726126398, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.08266701175976456, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6414031257628515, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.13976308285960382, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.6268636705914616, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.06327256684692621, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6651667346820299, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.0455233006867594, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5642213295848798, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.03204685798748985, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.505992210938003, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.017682978940536158, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.32551366302799467, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.09258744686897713, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0061468903224726, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.040712132775362196, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5704466937054474, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.03426000027664152, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.37007105962851655, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.022147289558855685, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.3936493557958379, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.12686452403833615, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.1249284437315998, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07523146489604204, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.613052174497165, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.06950538892336783, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9125519509841988, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.1737616187921069, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7170533338788687, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.061671132612609786, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.49632280428104253, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.03348771366160287, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.316735017939787, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.8665539422223143, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.519098423555571, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 0.07329376588836223, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.7653557775133998, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Residential Real Estate Developer", 
+    "ACCESS2": 3.4192154984534375, 
+    "YEAR": 2016, 
+    "ACCESS1": 10.158329348745, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

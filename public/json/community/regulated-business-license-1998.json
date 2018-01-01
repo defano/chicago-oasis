@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.03481885505593055, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.41678685195692633, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.044751950831891665, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7326408586747213, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.059887039705610365, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.8112503528282976, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3877926824717365, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.400543395524349, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.12290855520250449, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.3101243439099617, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3953206372325172, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.077440348111221, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.11025373296802678, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2840672125656718, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.11026206644846547, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.0492290204125445, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.10726373961994598, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.084530286483446, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.10906651778389255, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.1430285666506264, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.02965114357612176, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.4212543769764813, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.008169533196656276, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.12777455615402303, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.05947146142391537, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7705110828107802, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3626164429605042, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.340221331528596, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.10069027521480022, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.8383363938486064, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06173270563172707, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.8604077897011599, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.08385774022403883, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.9153668088541078, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.015556114621812922, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.17630182789354037, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.007979829746151556, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.08932989279155974, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.17246729671409064, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.3726971439477014, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.5861100453561381, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.2276838323623296, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.09782974925721047, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.0367381136979557, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06758514556017474, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.8620704456508754, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.02120673449602547, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.25219804151008485, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.044432000885219536, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.47107881346200714, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.14835947981533984, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2170626634784503, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.2407170826994084, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.8952342334514691, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.20910538102485854, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.664841524685801, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.19860486391231882, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.7232858566914295, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.2119375992123303, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.4543672355509978, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.04508440584717928, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6001181727471233, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.21425881002969008, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.6018654429208257, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.2617658229382527, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.6561188495719845, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.1119645132587287, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2506551730138804, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.022560130865950954, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.30018633137690376, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.14316406518709035, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.6911331401320917, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.036382073966645286, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.4670310246031765, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.07383854893605028, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.1199904371439835, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.09657168398392088, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.9816472721258973, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.39299509197027976, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.5296522912082038, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.059735297641411694, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.9137557740325939, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.26243481901287674, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.2848455742759928, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.1775460326190037, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.3962682826921073, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.09473573531655932, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.1509727797097573, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.07260342424170489, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6598198010778814, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.029150331398091638, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.29560868399102186, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.0496589259003352, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6644104646939943, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.05883330214895613, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6851528781374787, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.15617712573905096, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.7665848505980268, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06303956220935432, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.501644962741915, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.02751741325582862, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.23458929542026236, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.02211006551295128, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.21017695798438782, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.10840259998789258, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2739820631338137, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.17678659842019026, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.6274531721130043, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.01088819285188217, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.14746655823364752, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06520933295063217, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6250053193006564, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.020976433289583294, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.2895640254310422, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.1881487914401766, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.7867821809923334, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06186476066965854, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.5560770891779517, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.41013285112155273, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.7876808533920583, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.06536987306343192, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6759949756198674, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 3.4883650129952333, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.435423781003625, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.09819582366322732, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.8845897925531363, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.02743745779104357, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.40564282176801514, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 19.497387210253795, 
+    "YEAR": 1998, 
+    "ACCESS1": 10.130768060706425, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.27614824226740886, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.4743506712676029, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.2945442480357338, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.0817754966526505, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.0782390374379088, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7389911990408427, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3447171876116296, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.85202665781314, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.10858481674019048, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7358483693952176, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.13544128477075093, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2729169747448206, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3530260853609242, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.440417849379612, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.01830312432264982, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.27048222697626584, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.028505085541837408, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.29231639666114945, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.4678030142080958, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.3239357063601527, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3051077985509948, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.5555740940595997, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Regulated Business License", 
+    "ACCESS2": 0.3310054104547282, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.199430340035851, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.02143009933776225, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.3272288115941786, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.35536018068895187, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.060884860384849, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.2621864371541567, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.691209148070423, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.6254349051099181, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.0543223517115523, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.05507373640464167, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8767853401562038, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.09530367458020803, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.0226759937988181, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.08239990626376537, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.110883346959095, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.15552168118477094, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.245627869355219, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.0794103740093546, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9342231349308496, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.0995688190774646, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.092413255688279, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.22900631318031237, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.152578887307057, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.004803014193224158, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.09801017919952346, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.042627765693308055, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6524988678032732, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.0694641489932439, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.588433572226493, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.03017199705595542, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4592265971167647, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.9789661360587304, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.4083816774879785, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 25.126750389968283, 
+    "YEAR": 2015, 
+    "ACCESS1": 14.804004325702701, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.00977002416051595, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.139761930457077, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.004403438326910858, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.06635840811013219, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.3355726263380196, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.9192012437758335, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.5126281523234474, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.0309997200556023, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.4367839821739981, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.1630353419570434, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.5331755183171705, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.087103189624019, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.010764295367709651, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.17958395719279696, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.1576525014570262, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8857522162223036, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.20062883707290252, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.41430348104812, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.08780794515609555, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.146690463636894, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 4.446339782462475, 
+    "YEAR": 2015, 
+    "ACCESS1": 12.081203351813247, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 4.839344234984431, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.237580121410678, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.7278186198963197, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.687592146797116, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.20490699759238992, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.2739321932895218, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.9191756165011198, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.307708480775218, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 89.1464076237367, 
+    "YEAR": 2015, 
+    "ACCESS1": 38.181918693776055, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.45359623803146, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.415585143569284, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.013730664067669167, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.23413124796770576, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 2.4531878783805725, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.808327111807126, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.291975090339141, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.317230413196282, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.8047641314583773, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.685060258587063, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.05054808242274217, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.7106055256868189, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.051350557827442106, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5544218725453162, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.6002196140830698, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.875267468021132, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.097441396086123, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.644090657392349, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.09112774135622309, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9992287350769997, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 4.879301324034984, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.125387824994814, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.05276916552935671, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5624247764661368, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.0652869620789614, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4410384800573314, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.1191704042411445, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.0165962472197854, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.02447596752067708, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.44234935833991246, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.023523466834028, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.492237180681041, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.015320251708289481, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.24746133561678157, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.023762005044267044, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.2177294849732997, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.09120628269623987, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4270909455689692, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 4.456515787850617, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.025905929574561, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.17289607384383543, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.6090118428978502, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.005278201085201495, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.10269654764668026, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 2.576542542881144, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.919637855727534, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.2800861430782774, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.054463330583975, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 2.396476849141459, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.197879440478587, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.09466245220214818, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6863914293563796, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.16618109995400582, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.7734835420721509, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.06818203746254885, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6904128733633548, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.05847275557637347, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6394735501080898, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.03625982092550254, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5381664008181974, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.018592814657799685, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.33379446349318037, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.123995089929539, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.1635411339705188, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.04878639346081086, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6244188895076913, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.0443676221378027, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4211090840095425, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.025050442039772847, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4186558118440685, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.1679112499604421, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.2935777518023315, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.096324382300177, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6935932342240996, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.07754266660480949, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9637557746001149, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.21000780940662483, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.8871748678016134, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.06678643498722074, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5164523875747344, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.03601150095683398, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.32839968775940787, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 1.9182862720611964, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.647245907779567, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 0.09242998845270126, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8594051721053354, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "ACCESS2": 6.467135282242216, 
+    "YEAR": 2015, 
+    "ACCESS1": 13.62004087565793, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

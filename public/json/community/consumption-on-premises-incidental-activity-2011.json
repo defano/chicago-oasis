@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 181.6438195249613, 
+    "YEAR": 2011, 
+    "ACCESS1": 1014.8901765968817, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 2540.206620399885, 
+    "YEAR": 2011, 
+    "ACCESS1": 4855.317772587003, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 8486.817213575683, 
+    "YEAR": 2011, 
+    "ACCESS1": 7565.793373550534, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1887.8529962965147, 
+    "YEAR": 2011, 
+    "ACCESS1": 7115.3753155522245, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 315.02257733724036, 
+    "YEAR": 2011, 
+    "ACCESS1": 2625.8648198889673, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 898.1543084055893, 
+    "YEAR": 2011, 
+    "ACCESS1": 3195.2737649530513, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 578.3920290164417, 
+    "YEAR": 2011, 
+    "ACCESS1": 3526.63655588581, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1991.7256877136128, 
+    "YEAR": 2011, 
+    "ACCESS1": 5031.027991470933, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 621.600147539278, 
+    "YEAR": 2011, 
+    "ACCESS1": 3090.6317413038146, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 2005.1055212339822, 
+    "YEAR": 2011, 
+    "ACCESS1": 4009.565385334214, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 494.50399624552296, 
+    "YEAR": 2011, 
+    "ACCESS1": 2064.336427087995, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 34.46407848827858, 
+    "YEAR": 2011, 
+    "ACCESS1": 285.81069900260803, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 495.882430824187, 
+    "YEAR": 2011, 
+    "ACCESS1": 2039.8801404298158, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 799.6865206853737, 
+    "YEAR": 2011, 
+    "ACCESS1": 1765.8436172286024, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 332.2720346558316, 
+    "YEAR": 2011, 
+    "ACCESS1": 1393.9124372000706, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 7471.500855648795, 
+    "YEAR": 2011, 
+    "ACCESS1": 8220.35278231477, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 4266.878723454706, 
+    "YEAR": 2011, 
+    "ACCESS1": 6622.687933258762, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 53.335979217617265, 
+    "YEAR": 2011, 
+    "ACCESS1": 432.1777795291193, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 56.02808040685697, 
+    "YEAR": 2011, 
+    "ACCESS1": 207.42852148618428, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 3977.6036748833462, 
+    "YEAR": 2011, 
+    "ACCESS1": 7229.916475280342, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 4153.4853150336085, 
+    "YEAR": 2011, 
+    "ACCESS1": 8292.18990265761, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1467.9429586179042, 
+    "YEAR": 2011, 
+    "ACCESS1": 3911.7185383923747, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 4082.198126192139, 
+    "YEAR": 2011, 
+    "ACCESS1": 6167.28753910209, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 113.0704772154117, 
+    "YEAR": 2011, 
+    "ACCESS1": 553.149049999149, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 13143.005696269349, 
+    "YEAR": 2011, 
+    "ACCESS1": 6815.699277212456, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 2925.264346406416, 
+    "YEAR": 2011, 
+    "ACCESS1": 5514.07790365694, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 514.193043942519, 
+    "YEAR": 2011, 
+    "ACCESS1": 3463.4955734123164, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 55376.9696733361, 
+    "YEAR": 2011, 
+    "ACCESS1": 33842.042140450845, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 3156.8040682822866, 
+    "YEAR": 2011, 
+    "ACCESS1": 8710.971643714847, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1057.2764694369114, 
+    "YEAR": 2011, 
+    "ACCESS1": 4583.130006786172, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 803.7717697931151, 
+    "YEAR": 2011, 
+    "ACCESS1": 2492.81624568902, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1822.7996756467853, 
+    "YEAR": 2011, 
+    "ACCESS1": 6595.475979869255, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 16559.790863128863, 
+    "YEAR": 2011, 
+    "ACCESS1": 20431.371836903425, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 3256.236442114815, 
+    "YEAR": 2011, 
+    "ACCESS1": 6398.647018845112, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 934.5428592384889, 
+    "YEAR": 2011, 
+    "ACCESS1": 750.5516326885814, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 35395.34060557073, 
+    "YEAR": 2011, 
+    "ACCESS1": 21936.357425858216, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1068.390114259688, 
+    "YEAR": 2011, 
+    "ACCESS1": 2329.5022993391362, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 9170.059511573168, 
+    "YEAR": 2011, 
+    "ACCESS1": 9289.621098324653, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 314.53019123029856, 
+    "YEAR": 2011, 
+    "ACCESS1": 2184.9325897894655, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 563.9439487937874, 
+    "YEAR": 2011, 
+    "ACCESS1": 1722.5976866730334, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 3567.0995168434347, 
+    "YEAR": 2011, 
+    "ACCESS1": 6292.416338935026, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 40497.90162079348, 
+    "YEAR": 2011, 
+    "ACCESS1": 18013.01137875116, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 488.420808625595, 
+    "YEAR": 2011, 
+    "ACCESS1": 3140.8553641816434, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 33307.87562581009, 
+    "YEAR": 2011, 
+    "ACCESS1": 11583.99422095312, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 331.94234246522956, 
+    "YEAR": 2011, 
+    "ACCESS1": 1868.3403169382614, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1513.6081037442998, 
+    "YEAR": 2011, 
+    "ACCESS1": 2228.3595329894833, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 585.2887109175862, 
+    "YEAR": 2011, 
+    "ACCESS1": 2133.2363716490454, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 197.85706879960276, 
+    "YEAR": 2011, 
+    "ACCESS1": 1308.040779944803, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 247410.67896016687, 
+    "YEAR": 2011, 
+    "ACCESS1": 33770.738879498014, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 150.01408334052255, 
+    "YEAR": 2011, 
+    "ACCESS1": 731.3297311979023, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 175.1390484007138, 
+    "YEAR": 2011, 
+    "ACCESS1": 759.845049823297, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 290.56096486394046, 
+    "YEAR": 2011, 
+    "ACCESS1": 753.9581290189965, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 5097.747344338697, 
+    "YEAR": 2011, 
+    "ACCESS1": 8730.699026296848, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1967.4632707792287, 
+    "YEAR": 2011, 
+    "ACCESS1": 5869.34264650107, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 24.52205396763539, 
+    "YEAR": 2011, 
+    "ACCESS1": 294.13136557519425, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1348.0277738316638, 
+    "YEAR": 2011, 
+    "ACCESS1": 3224.605155149528, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 722.4855791772579, 
+    "YEAR": 2011, 
+    "ACCESS1": 1861.0018579152488, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 3970.6261635927885, 
+    "YEAR": 2011, 
+    "ACCESS1": 7972.658689155855, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 13137.693887675508, 
+    "YEAR": 2011, 
+    "ACCESS1": 3185.937060797302, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 945.7004015520723, 
+    "YEAR": 2011, 
+    "ACCESS1": 5500.780562373051, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 751.6541581071542, 
+    "YEAR": 2011, 
+    "ACCESS1": 2517.1015079670397, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 572.9771546674334, 
+    "YEAR": 2011, 
+    "ACCESS1": 1837.8441157629022, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 179.55146711148953, 
+    "YEAR": 2011, 
+    "ACCESS1": 1596.554368720945, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 195.09149163362738, 
+    "YEAR": 2011, 
+    "ACCESS1": 1015.7153486802878, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 6125.013702501701, 
+    "YEAR": 2011, 
+    "ACCESS1": 3349.4615225332172, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 294.6343298935377, 
+    "YEAR": 2011, 
+    "ACCESS1": 1831.1932021925588, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 523.6673067518169, 
+    "YEAR": 2011, 
+    "ACCESS1": 1333.4868315699086, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 233.01488456815215, 
+    "YEAR": 2011, 
+    "ACCESS1": 1259.7204249647918, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1185.8800784751018, 
+    "YEAR": 2011, 
+    "ACCESS1": 3937.693752548668, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 808.961875408342, 
+    "YEAR": 2011, 
+    "ACCESS1": 2296.8921147111328, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 422.69544729996045, 
+    "YEAR": 2011, 
+    "ACCESS1": 3020.886318696298, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 1531.7747050564808, 
+    "YEAR": 2011, 
+    "ACCESS1": 6189.245078022316, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 528.2637400529908, 
+    "YEAR": 2011, 
+    "ACCESS1": 1109.805912511511, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 300.92925456475854, 
+    "YEAR": 2011, 
+    "ACCESS1": 1218.3385607215166, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 2247.9912661727576, 
+    "YEAR": 2011, 
+    "ACCESS1": 9734.420421380668, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 895.5785487697552, 
+    "YEAR": 2011, 
+    "ACCESS1": 2731.0928400281095, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Consumption on Premises - Incidental Activity", 
+    "ACCESS2": 25984.48453106457, 
+    "YEAR": 2011, 
+    "ACCESS1": 28841.29604136262, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.03741510674345752, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6023354969667768, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 60.59843844301962, 
+    "YEAR": 2016, 
+    "ACCESS1": 25.343030129640784, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 2.3948297386336477, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.130100987482203, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.6936529212915763, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.289723640577199, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.0921155039105915, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.581550234310387, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.14020543603388405, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7133611645763203, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.146699029080476, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.057355245499551, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.2856706834404704, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.2798039145196287, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.13829719691787817, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7025423004402556, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.17840831144947986, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.0128722111740056, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.4594959753854288, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.260569251051992, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.008489153822435735, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.1826253075890656, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.07638132478349983, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2169161886613529, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.09055069301142042, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9228951358507195, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.047987269863794244, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8075937233384589, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 2.592459006811871, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.799989087626846, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 2.0779995246143175, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.889108337065319, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.016993723559446776, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.2562898077021145, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.00754676921753371, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.12096694753073292, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.545661592855549, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.2341636979554305, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.6216807531771849, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.493825401959179, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.3795269754423675, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.8708609748656118, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.4608296211372378, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.639295874011312, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.01838369666878809, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.3276203085481581, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.38193054451392744, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.787969771796772, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.33701187046618747, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.4590872595474, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.14020229702311107, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.0110812937457405, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 20.96453840593047, 
+    "YEAR": 2016, 
+    "ACCESS1": 31.464519533140457, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.8786376272124756, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.81267616791439, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.5727273418067788, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.190627267813373, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.2943334949015444, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.147689135683619, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.922757551676335, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.334057384288082, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 13.4582591952002, 
+    "YEAR": 2016, 
+    "ACCESS1": 20.540460501863926, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.8766238943526818, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.919640996010166, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.024151885039201626, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.43368711854721226, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 68.56486980158147, 
+    "YEAR": 2016, 
+    "ACCESS1": 32.885294237087834, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.3563289194862056, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.0528761290786504, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 5.618592609655897, 
+    "YEAR": 2016, 
+    "ACCESS1": 12.701295653144967, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.08534903529088189, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.283355242984221, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.07237625477402404, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9112221921709179, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 16.335571922740204, 
+    "YEAR": 2016, 
+    "ACCESS1": 15.844226088828329, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.905811849780965, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.851915588374868, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.1469743272321789, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.748969962811032, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 6.507751831778947, 
+    "YEAR": 2016, 
+    "ACCESS1": 11.747853247599249, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.08969572206843654, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0082065586709206, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.13308327330128297, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8369229862447415, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.16498429022315003, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.702314103063746, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.040910012006095814, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.7999895552767307, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 3.9197645569130017, 
+    "YEAR": 2016, 
+    "ACCESS1": 10.753778203000648, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.023974437865426638, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.43252917838013283, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.04007651159324158, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.38575055768532507, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.07042935807761071, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5281821832738972, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.9311641731804225, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.45818403536162, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.301905497042923, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.9017541052858906, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.009035294236539194, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.1881798387857202, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.5861625557673978, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.5357202460653645, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.6411081228111082, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.174270789523605, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.0114321981653553, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.722541552319875, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.17069398596190552, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2350361507750247, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.2576722569322192, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.0436344141249827, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.12374222232041981, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.275139212219247, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.078529424766731, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0290811077379194, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.05886193163827866, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.955102147606833, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.03341103537733707, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.6257023825635714, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.15818380754332692, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.8186565688059073, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.07293546425261224, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0610387535639234, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.06030219027504284, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.676708156950043, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.040426364721041365, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.7430845854632235, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.23085334540121222, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.065880842714948, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.1437378787448735, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.14393419400967, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.13043264213680164, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7302019607055052, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.3266633828436289, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.2162711583356445, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.11973777752406269, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.9674308507723094, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.0668281009187854, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.609553536670583, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 1.1411746988321252, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.115222126734597, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 0.13256224755996515, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.4132991354606579, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Caterer's Registration (Liquor)", 
+    "ACCESS2": 11.687433818942383, 
+    "YEAR": 2016, 
+    "ACCESS1": 21.841158095194025, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

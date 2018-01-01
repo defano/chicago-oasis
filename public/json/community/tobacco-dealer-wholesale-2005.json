@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 3.1120230910413684, 
+    "YEAR": 2005, 
+    "ACCESS1": 17.509175618775352, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 374.8954425575553, 
+    "YEAR": 2005, 
+    "ACCESS1": 126.04828460890995, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 34.65338593841717, 
+    "YEAR": 2005, 
+    "ACCESS1": 93.02966447638724, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 43.382051566995735, 
+    "YEAR": 2005, 
+    "ACCESS1": 116.6626121509666, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 10.544808285526624, 
+    "YEAR": 2005, 
+    "ACCESS1": 50.15411434544871, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 14.227905905653923, 
+    "YEAR": 2005, 
+    "ACCESS1": 58.068404488112215, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 10.342038364929866, 
+    "YEAR": 2005, 
+    "ACCESS1": 57.03478262927221, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 10.482851932713379, 
+    "YEAR": 2005, 
+    "ACCESS1": 52.68288589082512, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 13.603222126606669, 
+    "YEAR": 2005, 
+    "ACCESS1": 51.56672098780246, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 8.509166688478544, 
+    "YEAR": 2005, 
+    "ACCESS1": 51.07871280797001, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 7.150223813011427, 
+    "YEAR": 2005, 
+    "ACCESS1": 30.997906395764783, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 0.3210563629037627, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.245599266214444, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 4.172071635102002, 
+    "YEAR": 2005, 
+    "ACCESS1": 31.41077522034421, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 5.950685655290303, 
+    "YEAR": 2005, 
+    "ACCESS1": 27.29348153389097, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 4.915020825596252, 
+    "YEAR": 2005, 
+    "ACCESS1": 26.229418635547837, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 127.34135201848844, 
+    "YEAR": 2005, 
+    "ACCESS1": 110.47708268873774, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 164.90132182316668, 
+    "YEAR": 2005, 
+    "ACCESS1": 136.24614985651533, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.83885327490631, 
+    "YEAR": 2005, 
+    "ACCESS1": 8.026981741262349, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 0.8848973664146957, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.8951932616518077, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 133.2526741269203, 
+    "YEAR": 2005, 
+    "ACCESS1": 112.44118913610187, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 120.6663282132692, 
+    "YEAR": 2005, 
+    "ACCESS1": 151.97573269684614, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 8.242826843231544, 
+    "YEAR": 2005, 
+    "ACCESS1": 50.09656762088417, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 151.11585169269685, 
+    "YEAR": 2005, 
+    "ACCESS1": 126.35540449133265, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.3265281082318143, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.287495499618032, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 7.192185434358003, 
+    "YEAR": 2005, 
+    "ACCESS1": 31.044438784628316, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 40.46230155870634, 
+    "YEAR": 2005, 
+    "ACCESS1": 73.30921469183687, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 84.45580883359408, 
+    "YEAR": 2005, 
+    "ACCESS1": 94.43699389562754, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 174.6806260904631, 
+    "YEAR": 2005, 
+    "ACCESS1": 333.9794996301662, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 51.22268384007109, 
+    "YEAR": 2005, 
+    "ACCESS1": 134.10728056168153, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 72.9949223134341, 
+    "YEAR": 2005, 
+    "ACCESS1": 89.68449720654225, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 4.768981566726121, 
+    "YEAR": 2005, 
+    "ACCESS1": 32.33672477319475, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 29.84193190929229, 
+    "YEAR": 2005, 
+    "ACCESS1": 95.7529856427621, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 565.6201634061774, 
+    "YEAR": 2005, 
+    "ACCESS1": 386.23617549123344, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 32.370954467611455, 
+    "YEAR": 2005, 
+    "ACCESS1": 94.65612158158602, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.3016372887994936, 
+    "YEAR": 2005, 
+    "ACCESS1": 11.20705544431645, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 333.8537668221022, 
+    "YEAR": 2005, 
+    "ACCESS1": 239.51565416142077, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 8.140816462069866, 
+    "YEAR": 2005, 
+    "ACCESS1": 33.162456560401615, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 49.143036794120576, 
+    "YEAR": 2005, 
+    "ACCESS1": 122.88264680632365, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 51.44456876369504, 
+    "YEAR": 2005, 
+    "ACCESS1": 57.41785855467773, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 13.008402037267683, 
+    "YEAR": 2005, 
+    "ACCESS1": 33.75453187157942, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 52.78675178612205, 
+    "YEAR": 2005, 
+    "ACCESS1": 103.1156640158543, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 65.2685397752176, 
+    "YEAR": 2005, 
+    "ACCESS1": 164.7784757780894, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 21.34087772651801, 
+    "YEAR": 2005, 
+    "ACCESS1": 62.14360473442926, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 126.4811169726358, 
+    "YEAR": 2005, 
+    "ACCESS1": 172.13405845238856, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 7.099096024888605, 
+    "YEAR": 2005, 
+    "ACCESS1": 29.86897229276814, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 3.616697631990834, 
+    "YEAR": 2005, 
+    "ACCESS1": 16.970681333342466, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 2.6957469837819463, 
+    "YEAR": 2005, 
+    "ACCESS1": 26.79154785419267, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 2.2868037311109046, 
+    "YEAR": 2005, 
+    "ACCESS1": 21.37395278828276, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 70.65830495658662, 
+    "YEAR": 2005, 
+    "ACCESS1": 153.44956348060379, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.7888786452231669, 
+    "YEAR": 2005, 
+    "ACCESS1": 12.756958363658393, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 2.047718014102631, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.31129727702632, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.6023407342875045, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.62899138953095, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 873.1242622760948, 
+    "YEAR": 2005, 
+    "ACCESS1": 198.47044467230612, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 13.307495926231379, 
+    "YEAR": 2005, 
+    "ACCESS1": 73.26679263347977, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 0.41258079817935567, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.681871293682844, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 16.598973301274313, 
+    "YEAR": 2005, 
+    "ACCESS1": 49.914800790394544, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 12.012350791350467, 
+    "YEAR": 2005, 
+    "ACCESS1": 30.00985533201299, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 27.077639589535995, 
+    "YEAR": 2005, 
+    "ACCESS1": 109.82614971453313, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 7.661629889226224, 
+    "YEAR": 2005, 
+    "ACCESS1": 30.068100933021075, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 27.985045200091278, 
+    "YEAR": 2005, 
+    "ACCESS1": 103.06488237013689, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 4.784523853005336, 
+    "YEAR": 2005, 
+    "ACCESS1": 30.47191885171592, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 39.7743587045087, 
+    "YEAR": 2005, 
+    "ACCESS1": 39.77909533421243, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 7.995544509063929, 
+    "YEAR": 2005, 
+    "ACCESS1": 33.27642522500632, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.3745436429952376, 
+    "YEAR": 2005, 
+    "ACCESS1": 14.87639125901455, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 12.462355492662933, 
+    "YEAR": 2005, 
+    "ACCESS1": 53.9518297610817, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 43.75875059401268, 
+    "YEAR": 2005, 
+    "ACCESS1": 48.388418707494345, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 4.70753535305314, 
+    "YEAR": 2005, 
+    "ACCESS1": 21.102233439595995, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 2.8024905160833495, 
+    "YEAR": 2005, 
+    "ACCESS1": 21.453457536587056, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 17.623306374056092, 
+    "YEAR": 2005, 
+    "ACCESS1": 62.674196403435346, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 23.05155751157138, 
+    "YEAR": 2005, 
+    "ACCESS1": 39.14466219149802, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 95.71197594814481, 
+    "YEAR": 2005, 
+    "ACCESS1": 85.37003871981781, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 20.10533928794536, 
+    "YEAR": 2005, 
+    "ACCESS1": 93.12320465201105, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 1.6152847856799046, 
+    "YEAR": 2005, 
+    "ACCESS1": 13.661788409610882, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 2.2171745586243015, 
+    "YEAR": 2005, 
+    "ACCESS1": 13.76578497964518, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 85.38543503380764, 
+    "YEAR": 2005, 
+    "ACCESS1": 169.86946906895867, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 8.814211196212666, 
+    "YEAR": 2005, 
+    "ACCESS1": 42.815081643348066, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Dealer Wholesale", 
+    "ACCESS2": 275.44559770135066, 
+    "YEAR": 2005, 
+    "ACCESS1": 353.51799179437654, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

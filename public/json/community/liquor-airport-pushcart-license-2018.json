@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.11527590702711742, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.0717899859501205, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.09782651398460297, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.5317952126522727, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.13313420381813126, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.7104011083165116, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 1.1857484417452446, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.940143402518055, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.40519893654973305, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.3589413046843726, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 3.5697680612104636, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.69464797972103, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.38218036897518326, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.3773612619246074, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.4103330789217537, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.8603816659237, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.41266017788003034, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.004341336815115, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.4058778965361547, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.116118690873072, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.058552055875803054, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.8368565841915712, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.022438587460337014, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.29948124743223803, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.19120117506169948, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.9526819856739002, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 6.43621464550966, 
+    "YEAR": 2018, 
+    "ACCESS1": 7.496600241009786, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.3462654236874054, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.1945159624246804, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.14335736491558357, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.854171343229761, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1871409515121463, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.9341702674984274, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.053848747620447474, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.46371856257421984, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.027103401702580486, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.23282354564167468, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.6206882715272185, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.676689732726312, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 2.216824638881312, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.856426912425729, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1727004672492637, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.9480715677433373, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1434590777561321, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.7762644769209877, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.06659891023284284, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.6318435814470404, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.13693978928639527, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.1692008388206787, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5893099013345278, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.427982519646691, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 1.0570303871456401, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.598940532864713, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5078006107437185, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.872231902756849, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.470052061448457, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.7479033563324533, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5227056501534716, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.2283637580853095, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.08279611639937345, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.150160335593233, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5954212960472081, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.775615005037252, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.6158198263619478, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.762750334021479, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.2193747397489354, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.4751996073241345, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.0690572235278938, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7423314652196846, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.368024545385009, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.834366505525911, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.0704608024583231, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9191347354236785, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.16649930227137286, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.3783077158098207, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.35331600562058296, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.652902844444291, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 7.8420334447656135, 
+    "YEAR": 2018, 
+    "ACCESS1": 9.113490126544098, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1281536279531486, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.8926063223144047, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.8074284633247343, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.665363804044753, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.8549010531861357, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.3270815821985265, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.2208775699076781, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.484811378686723, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.30367730857050784, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.9077605548826966, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.09753710920171554, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7647165065091505, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.0840222073230176, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.2220684676532578, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1705721062995075, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.6492854680339346, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.4396165649441204, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.190961711894203, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1826804685189824, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.2065850417481836, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.11853332645575554, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.688452247986602, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.038947798641600126, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.3945300816703201, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.23127322206693657, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.6320359361201326, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.7112421112625361, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.61355811696664, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.030358147893164548, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.3480801135532249, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.1402413923783151, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.2958810631161868, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.043909218376983875, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.5924879156497914, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.3678704400933768, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.533339817918204, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.23259511752116616, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.5239722142142356, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 2.3654864367304564, 
+    "YEAR": 2018, 
+    "ACCESS1": 9.440183707115493, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.24257938675019777, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.8406577221946523, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 13.54426276436516, 
+    "YEAR": 2018, 
+    "ACCESS1": 11.699957212989162, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.35525961981860926, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.374842634555519, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.08074921171137903, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9839396379309361, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 23.448449018879792, 
+    "YEAR": 2018, 
+    "ACCESS1": 19.850743719066546, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 1.3575521623945672, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.608725103091597, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 11.836881219175893, 
+    "YEAR": 2018, 
+    "ACCESS1": 9.19265341460991, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.2340450034606738, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.8077977403765948, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 2.214239269810269, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.601251925012254, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5105349578945351, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.2532844063343616, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.5455064715446705, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.6073602744533946, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 1.9504906266318802, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.062873612394316, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.033501074871303875, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.5175494839877224, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.10374406951166254, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7885078620293215, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.9430810284972072, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.666825716314747, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 3.071665548582333, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.861851278214223, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Liquor Airport Pushcart License", 
+    "ACCESS2": 0.8731383287620337, 
+    "YEAR": 2018, 
+    "ACCESS1": 7.346661632424228, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

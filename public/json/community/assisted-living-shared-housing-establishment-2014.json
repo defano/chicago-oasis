@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.06368257691652887, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.9469154177682231, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.5948728904893106, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.595567169875605, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.8863440554236673, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.390125447301534, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.1201540102914178, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.833903607845727, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.15848018770772018, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.5222166632225442, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.25680165670850275, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.842133805809417, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.2560309376230021, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.2400270122818347, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.6560875380851456, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.888299715359535, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.250938337809667, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.7239210843158856, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.33574828461551587, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.2369274001002037, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.7484418523076652, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.579892925024306, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.01390572106591339, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.28404039815365917, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.1290803397113584, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.8971134170527475, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.17123155349689012, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.5697459952791426, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.08492609235512172, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.314290631805679, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.9006267839114198, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.561790587453703, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.1904210514395508, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.90326615624353, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.029303278202093996, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.40458186563440096, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.012939165024019561, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.1914264110982053, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.1370342806233846, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.370714217955936, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.0773122482683677, 
+    "YEAR": 2014, 
+    "ACCESS1": 7.354928525895876, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 5.151753565068554, 
+    "YEAR": 2014, 
+    "ACCESS1": 10.959883486335194, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.2565107124170716, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.310562282417077, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.031199067057778126, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.5180658814652906, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 3.0258476603879223, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.608750926887818, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.711261583081593, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.123767843156578, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.24902022036377933, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.2621220162060043, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 4.000023172559335, 
+    "YEAR": 2014, 
+    "ACCESS1": 18.511913248334917, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.8027936684454031, 
+    "YEAR": 2014, 
+    "ACCESS1": 8.750658033266438, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.9413913788775228, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.157953324522073, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 24.847129893740544, 
+    "YEAR": 2014, 
+    "ACCESS1": 14.15816682798101, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.1677920288654569, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.208208374053505, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 3.4223458262211794, 
+    "YEAR": 2014, 
+    "ACCESS1": 16.087905679887506, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 3.7504445055356515, 
+    "YEAR": 2014, 
+    "ACCESS1": 11.467589279317576, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.04036025131883046, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.6777713917500604, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 5.837293637211677, 
+    "YEAR": 2014, 
+    "ACCESS1": 14.682485718462733, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 2.4450877261788024, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.552138387117488, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.9890934803250119, 
+    "YEAR": 2014, 
+    "ACCESS1": 7.053235955001439, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.1484387605759215, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.0447668648502955, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.13610409838046178, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.5389844172792684, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.9405746299843689, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.179651377086379, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 4.212587910744922, 
+    "YEAR": 2014, 
+    "ACCESS1": 12.711068699803205, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.2670466908054026, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.840653834026201, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.4038664416112885, 
+    "YEAR": 2014, 
+    "ACCESS1": 7.513226180031909, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.16681806780172284, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.6319990731014304, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.42374287245040154, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.5745429234136088, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.2821121672271596, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.035346880093605, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.06992931938250077, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.2764185374474721, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 155.9870733077815, 
+    "YEAR": 2014, 
+    "ACCESS1": 48.802062108479326, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.0430839983024785, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.7113273355455655, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.07818267164641073, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.6334905418102341, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 39.63798251984383, 
+    "YEAR": 2014, 
+    "ACCESS1": 8.134920567413321, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 1.9163041079086658, 
+    "YEAR": 2014, 
+    "ACCESS1": 9.088738632790264, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.6024197645640988, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.771890168526574, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.015160452479077949, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.2970811102668863, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.9282809371486742, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.9185313735596954, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.43296669774713453, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.19786136712153, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 10.916173182834306, 
+    "YEAR": 2014, 
+    "ACCESS1": 17.254975439809588, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.4021836338241165, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.126555925387272, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.4678178900769376, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.978953715182382, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.24376208394322685, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.0747995597779783, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.15828542736518553, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.8002770255324068, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.10304746764971984, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.540426359562324, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.05489401906284764, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.9682438176137991, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.32144089732151154, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.201806060943366, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.13398773749225948, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.7655827170924283, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.11382757915370073, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.1471650157141433, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.07091658257758546, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.2042701776777573, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.41845378559338847, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.4144879983332777, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.26715363350531035, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.8743652666283814, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.2321557777604936, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.7736984504473154, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.6082832254399397, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.276564597525409, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 2.383655690617721, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.9184151420162814, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.1426638636783144, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.0137457523949556, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 7.162677589938232, 
+    "YEAR": 2014, 
+    "ACCESS1": 16.997852135964976, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 0.24329774097637952, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.3466080456856746, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Assisted Living/Shared Housing Establishment", 
+    "ACCESS2": 5.967586237170879, 
+    "YEAR": 2014, 
+    "ACCESS1": 20.29262771497597, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.1578700724115528, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.7763319791535137, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.6427122384800682, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.546772584832143, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.965105039932125, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.500456198175908, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.8369692806932902, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.425786599979098, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.34637414884276746, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.39237682817076, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.5145531136950555, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.75175346071403, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.7140454999158888, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.537927100359594, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 2.4712074777514093, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.893893317907615, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.7253279039696744, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.645985936291844, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.0720707243465248, 
+    "YEAR": 2005, 
+    "ACCESS1": 7.165186985472024, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.2189405192355659, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.2822176632433924, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.029715558804940305, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.4875532058410508, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.3370833141294869, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.668186785186752, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.2865578093187191, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.3903447143460097, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.16590512049909167, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.152951214023212, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.4985959595098632, 
+    "YEAR": 2005, 
+    "ACCESS1": 8.454357728791123, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.0979440302016776, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.603688728198796, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.07504490529803631, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.7747199652254938, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.031036424362195704, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.352343152975594, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 3.1772166718992105, 
+    "YEAR": 2005, 
+    "ACCESS1": 11.702612618363483, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.915058622607284, 
+    "YEAR": 2005, 
+    "ACCESS1": 11.676528555680433, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.3853151581218365, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.10652532133777, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.751044778744473, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.7391474376223695, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.06966895319570221, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.913009184036262, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 14.34185971789295, 
+    "YEAR": 2005, 
+    "ACCESS1": 16.088895628160152, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 2.2028636379452657, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.357019011505438, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.5485130905508498, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.730102572767886, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 7.814278956171585, 
+    "YEAR": 2005, 
+    "ACCESS1": 32.294881641546404, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.928112082405443, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.714169856296232, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.0222177654633382, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.388438765770106, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.2260448943703549, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.6854750400214122, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.8911754834086194, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.501738624849914, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 4.313617269719592, 
+    "YEAR": 2005, 
+    "ACCESS1": 21.328816702057754, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.7106452622243672, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.290700364910736, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.09508560470534061, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.2310099533022514, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 10.435055527453482, 
+    "YEAR": 2005, 
+    "ACCESS1": 28.20017252393665, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.2349790073736635, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.372571673182798, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.3765660450482868, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.658778279869063, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.35939615139460546, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.78808239560682, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.2367792744013992, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.3810834020863023, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.7527892168421461, 
+    "YEAR": 2005, 
+    "ACCESS1": 6.479318523845215, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 9.306146464951087, 
+    "YEAR": 2005, 
+    "ACCESS1": 26.337762833506876, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.6740147761973734, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.42677615594768, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 2.047562577464298, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.672007586136711, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.48282037724308985, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.39920221196281, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.878786278632855, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.711567555328469, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.17090704608291957, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.461168437356504, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.14014544727815625, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.116788359031691, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 210.1610133343412, 
+    "YEAR": 2005, 
+    "ACCESS1": 94.94007062433414, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.0761441914512074, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.103207364726061, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.23746072143949307, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.3735153751617197, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.07926618912870775, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.7962785572216624, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.1741211990284666, 
+    "YEAR": 2005, 
+    "ACCESS1": 8.365521596836254, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.9654080403543848, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.82977939039426, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.030912083001533263, 
+    "YEAR": 2005, 
+    "ACCESS1": 0.49697073810152, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.5228129065925726, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.5397485003852562, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.219314353508932, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.8718513219138273, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.0130499136591087, 
+    "YEAR": 2005, 
+    "ACCESS1": 8.271357552113034, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.4165859492960968, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.277328148666213, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.0870343299713223, 
+    "YEAR": 2005, 
+    "ACCESS1": 9.063321364624002, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.8334739171768871, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.824677921484132, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.22358887850104775, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.496567902075802, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.21762360573546705, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.6363213006373645, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.1309106741873622, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.7700794294057136, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.4437002681251907, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.397189515623137, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.24536103009638952, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.7989085511370333, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.1967104248142102, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.7730376796202254, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.13520088393045518, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.9444793826524156, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.8660933696207567, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.875983953058646, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.6714741245583119, 
+    "YEAR": 2005, 
+    "ACCESS1": 3.6591052895538603, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.6014818043425796, 
+    "YEAR": 2005, 
+    "ACCESS1": 5.364794823998825, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.5623672077836048, 
+    "YEAR": 2005, 
+    "ACCESS1": 10.278757043992112, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.09051469416127497, 
+    "YEAR": 2005, 
+    "ACCESS1": 1.20311802176243, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.534692144758376, 
+    "YEAR": 2005, 
+    "ACCESS1": 2.5289173588607197, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 1.6211254965170703, 
+    "YEAR": 2005, 
+    "ACCESS1": 12.438276000147305, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 0.5013518301126304, 
+    "YEAR": 2005, 
+    "ACCESS1": 4.000181426778784, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier - Mobile", 
+    "ACCESS2": 10.105857009346622, 
+    "YEAR": 2005, 
+    "ACCESS1": 34.71615927500423, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

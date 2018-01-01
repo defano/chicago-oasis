@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Animal Care License", 
+    "LEGAL_NAME": "BARKER & MEOWSKY, INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "BARKER & MEOWSKY, INC.", 
+    "POP_AT_RISK": 65897, 
+    "ZIP": 60614, 
+    "ADDRESS": "1003 W ARMITAGE AVE", 
+    "YEAR": 2001, 
+    "LONGITUDE": -87.653508039, 
+    "LATTITUDE": 41.917992908
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Care License", 
+    "LEGAL_NAME": "DOG-A-HOLICS, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "DOG-A-HOLICS", 
+    "POP_AT_RISK": 87016, 
+    "ZIP": 60613, 
+    "ADDRESS": "3608 N SOUTHPORT AVE 1", 
+    "YEAR": 2001, 
+    "LONGITUDE": -87.664170443, 
+    "LATTITUDE": 41.947383094
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Care License", 
+    "LEGAL_NAME": "DOGGY DOOZ, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "DOGGY DOOZ, INC.", 
+    "POP_AT_RISK": 78671, 
+    "ZIP": 60657, 
+    "ADDRESS": "2950 N LINCOLN AVE", 
+    "YEAR": 2001, 
+    "LONGITUDE": -87.662897921, 
+    "LATTITUDE": 41.935398499
+  }
+]

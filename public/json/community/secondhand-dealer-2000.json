@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.10899182089364823, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.263961771627373, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.7734033140846143, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.029427379550116, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.202633921520487, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.522838935562991, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.823820779565701, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.667985150423522, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.2542387662084659, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.2302560077722764, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.45149805079408906, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.8005372294296085, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.4770366420317451, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.555521082128252, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.0334831346493143, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.321312695719586, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.5080725486084365, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.009228603934424, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.7250889237784878, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.971773785032634, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.27725100084799, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.1528597589764056, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.020693703858519135, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.35034053404459226, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.22384082179837841, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.558745712013804, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.29092970520062805, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0531667790328876, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.12944142350437782, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.633695602883659, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 3.6534279841292365, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.83400656099446, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.879880131091372, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.25993902695418, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.052005199615849027, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5513558251510672, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.021995766089098985, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.2540929237558348, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 5.225423337974889, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.071647563485895, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.538900872423018, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.221917674270298, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.46431488962393147, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.8506275257186435, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.3659466441656598, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.222673363667279, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.04982970460088194, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.663148230802167, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 21.792802528673445, 
+    "YEAR": 2000, 
+    "ACCESS1": 13.623218362418061, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.433589566649181, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.066731575878157, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.42871239260186217, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.334078973703402, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 237.21835870966882, 
+    "YEAR": 2000, 
+    "ACCESS1": 72.06887558345542, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 3.2235760501433655, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.72970096798549, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.4782442191707246, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.524945580315422, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.26106536319326773, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.4589497336332666, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 3.459513981601623, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.547525705223444, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 10.307208385508076, 
+    "YEAR": 2000, 
+    "ACCESS1": 26.251265535695314, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.0007350046337888, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.278743664486749, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.06540387712773418, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8766995375176423, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 21.704221003483163, 
+    "YEAR": 2000, 
+    "ACCESS1": 29.71941321660861, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.3030082835458682, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.2725185005187156, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.0554215397440334, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.443242004677979, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.2600956615767432, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.7566075437644297, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.21376383158323956, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.9373149695224678, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.0393695973042796, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.230490259869203, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 62.03559002303126, 
+    "YEAR": 2000, 
+    "ACCESS1": 41.34514210571304, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.5387938274751622, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.119829382581971, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 17.280980167217564, 
+    "YEAR": 2000, 
+    "ACCESS1": 19.650967439498125, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.3612093717305067, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.485835457534765, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.1786666883064325, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.7878078399285817, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.18031493257822526, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.1674585386238716, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.10361329182248653, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.566114014281076, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 16.407809678539515, 
+    "YEAR": 2000, 
+    "ACCESS1": 29.461491278736677, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.06052966426027874, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8466083068093654, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.19502860431975544, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.042403962621568, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.09631709474514027, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7529336954678549, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.397334625011425, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.485661183536312, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.5078323577419637, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.926773459625755, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.022314737320258078, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.36351547250236593, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.8417444425894247, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.7917448340336146, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.3326742731995871, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8899260452376843, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.422866007752514, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.317911771701077, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.4657162935803882, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.325063436508618, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.9145742723543304, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.069040387664302, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.5655635877561229, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.3309036476585256, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.20680818008792196, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.063744948945416, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.16573729315599228, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.9736246631599896, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.08787098734929345, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2461700038422192, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.43648574203926566, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.7358806438323864, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.20554993567505503, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.198437910145517, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.18785783643645151, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4807514584416428, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.10383706754478092, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4661514489865324, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.9220967259690119, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.118632814531642, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.7488022016119582, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.225236370399318, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.44171286257713244, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.9163046278358857, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 1.4077760008431002, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.230278343112337, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.09832066440954283, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0720093772364718, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.3701326936749424, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.741119599034192, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 2.1404261112261467, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.24667346319155, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 0.4703373562244427, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.295655114594996, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "ACCESS2": 22.31494219508467, 
+    "YEAR": 2000, 
+    "ACCESS1": 41.16580716445066, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.05326338645012228, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6905990908758772, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.2952097553997121, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.6593936382514194, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.4183177476547026, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.019071734362554, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9371899003558672, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.839870888202466, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.12629519711388143, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.800388020897278, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.21078726090770397, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0412446186608793, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.22914551586226692, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.4329685025958288, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9387222518935031, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.62613946056803, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.24007855871900816, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.102808591176759, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.34186138393068277, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.5740762110852082, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.3971182391985643, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.9948616405345632, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.010605604616252236, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.19966689539661986, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.10918493244709121, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3913515448798477, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.12975960310938323, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0859365949614246, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.06501393522312954, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9223072367292936, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.475503276657762, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.2889579436637804, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.5159044855254477, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.1736226792930973, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.02517913674412791, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.2983486220294291, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.010753711127706877, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.1391572725432964, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.999404127154899, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.392225770413038, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9407472640694489, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.330327408320994, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.3104392156604532, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.690625999431165, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.48209752092916847, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.236651603314672, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.024837474104344413, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.3699927901297283, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 223.55963048525416, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.016141069427682, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.0576208694764104, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.867372304148998, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.20652503549659867, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.3619312004256754, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 2.1250154183840713, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.159057182324567, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9354769793513383, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.069873842127932, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.5204035993871634, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.0953996076078822, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 4.15619401278043, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.8101423205949, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9727344950003772, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.385326303000771, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.826414373807241, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.409363132592777, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9599425406818468, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.899953066224936, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.032495794414449636, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.48667533691447995, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 2.559141767126326, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.6834448334116, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.5266070222410854, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.2760241201369293, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.5087229962741245, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.126659609108314, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.12591938232328756, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4977033244409723, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.10215577076834984, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.066090033590526, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.4212735222965694, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.4205505599074195, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 12.04891519720158, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.857353801595053, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.25019177609616605, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.1604359392154175, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.7389994832975577, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.394737773703383, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.16823160876111667, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.286439130506299, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9580335167945406, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8453888970064392, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 24.047076951002893, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.748486228357054, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.05303873101506626, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8940829839138866, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 15.497237813734483, 
+    "YEAR": 2000, 
+    "ACCESS1": 18.28220688988645, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.03139422475568435, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.4897262166044879, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.08903575392873395, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5259951566327754, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.14069826371761862, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7009550829966016, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.7090937160343235, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.589115881743008, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.6967100145559756, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.007120104903387, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.011478215131788861, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.20806942261145417, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.30030600162097987, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8921809831690803, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.1626845566721622, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1257720738161368, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.9009351463206153, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.442408672833802, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.670678204349953, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.111456196246321, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.4221967710796268, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.7212336101515904, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.26571210681528956, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.7041265375543186, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.10502656303414801, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.188571173333905, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.08188093471208455, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0975379582764764, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.04384041459485631, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6934800054997267, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.21156563062538603, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.100063497285289, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.10137842298528954, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2303640178795785, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.086628859959785, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7970970463818345, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.05317926137321024, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8389616065852442, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.3868437298317212, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.5589416767066924, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.3088245005291642, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.5518663076504788, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.20968395945970567, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0841140311814375, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.6270789549680004, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.169167958454088, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.0878637301837142, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.3310769078522977, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.17338140277216813, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8782078302072445, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 1.0262969930205983, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.965082806023853, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 0.21091864842053462, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.7189379409722922, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Retail Computing Center", 
+    "ACCESS2": 5.166694548011133, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.858951936742132, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

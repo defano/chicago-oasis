@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.2872827311984255, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.6829010779571003, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.10778226411195992, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.6070297346210727, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.14295235694487335, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7716360018575232, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9440084470967798, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.295643913254444, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.711261342023219, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.421237565245818, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 13.771817014881696, 
+    "YEAR": 2016, 
+    "ACCESS1": 13.14263558012177, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.5455488322519728, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.591681958311236, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 2.7217762227678404, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.8589459101443655, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 3.6519435205251702, 
+    "YEAR": 2016, 
+    "ACCESS1": 8.270470842353882, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 5.689822786103901, 
+    "YEAR": 2016, 
+    "ACCESS1": 10.184007314662704, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.05306835025445645, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.7964614196771395, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.033908371192734335, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.36813444538848406, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.5153750658981323, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.1682856567133126, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.847732228326937, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.7616059881333137, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.40721303340190473, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.352354643205747, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.16919901519615463, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.012486315308692, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.1840302326768608, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.9178431317825753, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.16150995870035062, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.7961447321864018, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.06381535901077098, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.35661418629833946, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.1277410527189795, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.95891779087748, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.6162350026071528, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.54781839143007, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.12767166765356927, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.6735021344808865, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.13991575686666163, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.753968100180218, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.11960840403188452, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8441947299446299, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.2976952368833492, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.7044921507612036, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 2.0738168398892585, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.290018052530732, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 2.3628683553898653, 
+    "YEAR": 2016, 
+    "ACCESS1": 8.227752389205301, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.6326152852836459, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.544498662408008, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.4273664255475971, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.5731195624128005, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.39057423299208166, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.7869906066197143, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.06763273241305402, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.039337002551117, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.5642718060239873, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.67397716524018, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.6308800140356887, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.830157308932587, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.1832470095324385, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.2616990562098604, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.13756802892293202, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.042703160714713, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.49943238713957216, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.456298370534588, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.06069942829327429, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.8530290781324615, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.19068866867329018, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.5434839944199594, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9569006608351825, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.3471785855141025, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.2647656856066423, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.5831666230326262, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.13422851485042925, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.936571291135279, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.2000166422140397, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.88889754553168, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 6.063936411320943, 
+    "YEAR": 2016, 
+    "ACCESS1": 11.167563306043567, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.24637476806447012, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.6226926912104283, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 17.477143862538355, 
+    "YEAR": 2016, 
+    "ACCESS1": 10.404984987894451, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.30965645863674124, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.3266933989052347, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.06282624069214722, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.0568585129246828, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.22224384489128307, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.8813904166043653, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.7429998151982241, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.416454636678124, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.15110840231109296, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.086610287561945, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 6.1138644203010095, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.8445108461111666, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.027585927779164056, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.3317930966183595, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.22042998405963626, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.569843602902484, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 70.54918859699723, 
+    "YEAR": 2016, 
+    "ACCESS1": 29.963913617063376, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.04173815546673483, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.40785051216981216, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.12128193515169985, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.2051000899292192, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.042976736863779764, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.5861686258988552, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.28708164206325076, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.119252007039843, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.0998390375576474, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.142042964230786, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 39.090754587419354, 
+    "YEAR": 2016, 
+    "ACCESS1": 28.216700114522975, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 3.888514974359754, 
+    "YEAR": 2016, 
+    "ACCESS1": 6.3843249128210715, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.5629564060710327, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.6395192691034604, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.5676296465651064, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.985198182450639, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.15715759237606883, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.3667188011899551, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9208105862665945, 
+    "YEAR": 2016, 
+    "ACCESS1": 4.295610061582375, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9877423828867483, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.775066634870574, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9641676627891236, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.5613185809226313, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.2567265824560921, 
+    "YEAR": 2016, 
+    "ACCESS1": 1.884027405413911, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 2.756400713943784, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.029735997877338, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.1074473803319778, 
+    "YEAR": 2016, 
+    "ACCESS1": 3.3112308263414314, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 2.655281293026142, 
+    "YEAR": 2016, 
+    "ACCESS1": 7.7501672034509586, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 15.367279603864448, 
+    "YEAR": 2016, 
+    "ACCESS1": 21.248702479579364, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.027818331816335248, 
+    "YEAR": 2016, 
+    "ACCESS1": 0.47158284918527515, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.9398186642766277, 
+    "YEAR": 2016, 
+    "ACCESS1": 2.17961858581232, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 0.622452057190053, 
+    "YEAR": 2016, 
+    "ACCESS1": 5.42804989832302, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 15.721674515401718, 
+    "YEAR": 2016, 
+    "ACCESS1": 11.610984867434757, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Hazardous Materials", 
+    "ACCESS2": 1.0508831485650867, 
+    "YEAR": 2016, 
+    "ACCESS1": 8.04701124877613, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

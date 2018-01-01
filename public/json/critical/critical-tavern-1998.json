@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Tavern", 
+    "LEGAL_NAME": "WHITESTOCK, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "TWILIGHT LOUNGE", 
+    "POP_AT_RISK": 43475, 
+    "ZIP": 60630, 
+    "ADDRESS": "4644 N CENTRAL AVE 1ST", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.767548994, 
+    "LATTITUDE": 41.965416818
+  }, 
+  {
+    "BUSINESS_TYPE": "Tavern", 
+    "LEGAL_NAME": "IRVING PARK LIQUORS, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "IRVING PARK LIQUORS", 
+    "POP_AT_RISK": 65479, 
+    "ZIP": 60618, 
+    "ADDRESS": "3959 W IRVING PARK RD  1", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.727406466, 
+    "LATTITUDE": 41.953541082
+  }, 
+  {
+    "BUSINESS_TYPE": "Tavern", 
+    "LEGAL_NAME": "MATH INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "MATH  INC.", 
+    "POP_AT_RISK": 37948, 
+    "ZIP": 60620, 
+    "ADDRESS": "2342 W 79TH ST", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.682048648, 
+    "LATTITUDE": 41.750202263
+  }
+]

@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5865775749319274, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 0.15381801923524924, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5168577050332308, 
+    "TRACT": "4003", 
+    "ACCESS2": 0.10461924141121229, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6283743272836835, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 0.18750746791463896, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6091809863067247, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 0.1720193311033469, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.0194785038373384, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 3.4098457322115014, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.322862859960377, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 51.18248372408702, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4825613323453415, 
+    "TRACT": "0705", 
+    "ACCESS2": 0.09069755410241837, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3962534539895606, 
+    "TRACT": "8387", 
+    "ACCESS2": 0.06113453584107892, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49250269863659, 
+    "TRACT": "4406", 
+    "ACCESS2": 0.11855166984616809, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3504667693362009, 
+    "TRACT": "7113", 
+    "ACCESS2": 0.04846329361865524, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6642297162525481, 
+    "TRACT": "3301", 
+    "ACCESS2": 2.11033898135133, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3052869892278096, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 0.03407629729167701, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.757187669452065, 
+    "TRACT": "8343", 
+    "ACCESS2": 0.3451507748940485, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42345393628282374, 
+    "TRACT": "6708", 
+    "ACCESS2": 0.06791788660521682, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3243417371207424, 
+    "TRACT": "1202", 
+    "ACCESS2": 0.04584130478340264, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4085956806797315, 
+    "TRACT": "7102", 
+    "ACCESS2": 0.06600649586808795, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5321940988796534, 
+    "TRACT": "4107", 
+    "ACCESS2": 0.11097016473538412, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2637178495214243, 
+    "TRACT": "1002", 
+    "ACCESS2": 0.027731426148611474, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48914569277193154, 
+    "TRACT": "0712", 
+    "ACCESS2": 0.09148660266947442, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6569696718126341, 
+    "TRACT": "8331", 
+    "ACCESS2": 0.2161923304422964, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8264423826372739, 
+    "TRACT": "0401", 
+    "ACCESS2": 0.4577190378571258, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29144929966805844, 
+    "TRACT": "1702", 
+    "ACCESS2": 0.03201893507669297, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3553344965829061, 
+    "TRACT": "7304", 
+    "ACCESS2": 0.052886425168490236, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5810807694301658, 
+    "TRACT": "8382", 
+    "ACCESS2": 0.1601609132228567, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37547358072198045, 
+    "TRACT": "1404", 
+    "ACCESS2": 0.06176925524528236, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47426744133495624, 
+    "TRACT": "6903", 
+    "ACCESS2": 0.09078225156180768, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6773137013792899, 
+    "TRACT": "3108", 
+    "ACCESS2": 0.2423717093633561, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5367489595488522, 
+    "TRACT": "4208", 
+    "ACCESS2": 0.12088393758037512, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5570070239544145, 
+    "TRACT": "0609", 
+    "ACCESS2": 0.14406909293219225, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5548962283122896, 
+    "TRACT": "6914", 
+    "ACCESS2": 0.14727725979049158, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.35180878336626475, 
+    "TRACT": "6309", 
+    "ACCESS2": 0.04561495131431854, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29276894464553976, 
+    "TRACT": "6408", 
+    "ACCESS2": 0.03050306739734778, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.073744692984773, 
+    "TRACT": "4606", 
+    "ACCESS2": 15.283344344290258, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.45959955108681777, 
+    "TRACT": "6809", 
+    "ACCESS2": 0.08187552236605398, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18020077131605616, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.0115222077085956, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40781253912461857, 
+    "TRACT": "5206", 
+    "ACCESS2": 0.08728458564769058, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5104999439346152, 
+    "TRACT": "4004", 
+    "ACCESS2": 0.101663763933366, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36434835335405896, 
+    "TRACT": "8434", 
+    "ACCESS2": 0.050360723390773424, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7892900537101718, 
+    "TRACT": "4802", 
+    "ACCESS2": 0.3964328088586345, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4375873929678967, 
+    "TRACT": "6702", 
+    "ACCESS2": 0.07348113454320676, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25375112389117427, 
+    "TRACT": "1704", 
+    "ACCESS2": 0.02355809072424061, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4343773735471851, 
+    "TRACT": "2203", 
+    "ACCESS2": 0.07282237422407271, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26746492043061665, 
+    "TRACT": "1007", 
+    "ACCESS2": 0.027498171923545416, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.516636281615065, 
+    "TRACT": "0622", 
+    "ACCESS2": 0.11408440855219312, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28976023539504164, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.03471637256072704, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7702265217174983, 
+    "TRACT": "0205", 
+    "ACCESS2": 0.4003627232877738, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5744293869676113, 
+    "TRACT": "0608", 
+    "ACCESS2": 0.15837480244826924, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5410396455998736, 
+    "TRACT": "4409", 
+    "ACCESS2": 0.15464464201865405, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7425288960666337, 
+    "TRACT": "3511", 
+    "ACCESS2": 0.28733672492036155, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2718698488782066, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.030766847849511142, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2849278728503621, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.0347148498797481, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2960300408951072, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.037520125035022646, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8061869212231103, 
+    "TRACT": "8400", 
+    "ACCESS2": 0.3669385676713328, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4727235166849598, 
+    "TRACT": "0510", 
+    "ACCESS2": 0.09337674501227876, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5270300614686547, 
+    "TRACT": "4109", 
+    "ACCESS2": 0.1095995947042529, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30402957777771805, 
+    "TRACT": "2506", 
+    "ACCESS2": 0.033009398035642595, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7658860029507408, 
+    "TRACT": "4307", 
+    "ACCESS2": 0.341547512094892, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5120229141547633, 
+    "TRACT": "8403", 
+    "ACCESS2": 0.1173669775175056, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.793932088531184, 
+    "TRACT": "0305", 
+    "ACCESS2": 2.676536177650506, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9624683029690739, 
+    "TRACT": "8420", 
+    "ACCESS2": 0.5696028755972099, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34738489420582197, 
+    "TRACT": "7303", 
+    "ACCESS2": 0.04831047107681729, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3218434713124696, 
+    "TRACT": "4912", 
+    "ACCESS2": 0.0448456326185074, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6303713380771578, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 0.24693230953119946, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2245856056955042, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 1.172166975650908, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5508002461272975, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 0.1768757091894318, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5229199762000506, 
+    "TRACT": "2828", 
+    "ACCESS2": 0.12185611319822078, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4862821514216997, 
+    "TRACT": "2422", 
+    "ACCESS2": 0.09393657256960539, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2985251010377724, 
+    "TRACT": "6401", 
+    "ACCESS2": 0.03180100939920478, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3348922518980365, 
+    "TRACT": "6605", 
+    "ACCESS2": 0.040799312564138136, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4586060129139149, 
+    "TRACT": "8431", 
+    "ACCESS2": 0.08826411745478191, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43593442117215647, 
+    "TRACT": "5002", 
+    "ACCESS2": 0.09721908824761513, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3180740978560741, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 0.03631367069199666, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30314080572870894, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 0.032695440900952916, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5276694497113705, 
+    "TRACT": "4204", 
+    "ACCESS2": 0.11244149073738084, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6527684194939409, 
+    "TRACT": "5201", 
+    "ACCESS2": 0.26882005067600606, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23952131265864607, 
+    "TRACT": "1004", 
+    "ACCESS2": 0.021893646027943817, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30560397314046095, 
+    "TRACT": "1506", 
+    "ACCESS2": 0.035621914931965364, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6453245816450656, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 0.2523443312940533, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.334092228413884, 
+    "TRACT": "1908", 
+    "ACCESS2": 0.0413720834704122, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40731848997464337, 
+    "TRACT": "7108", 
+    "ACCESS2": 0.06729930094619128, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4885334190538606, 
+    "TRACT": "0703", 
+    "ACCESS2": 0.09277692276682722, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28795841876812156, 
+    "TRACT": "5607", 
+    "ACCESS2": 0.029423035720432155, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5145380070735799, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 0.10479542430604741, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5067181887815793, 
+    "TRACT": "4403", 
+    "ACCESS2": 0.12174657094033438, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5040677093739192, 
+    "TRACT": "2809", 
+    "ACCESS2": 0.10894023981112202, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4972551567018906, 
+    "TRACT": "3012", 
+    "ACCESS2": 0.1095263176865385, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3945257202123419, 
+    "TRACT": "6719", 
+    "ACCESS2": 0.05952461128416923, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43656041538446444, 
+    "TRACT": "8340", 
+    "ACCESS2": 0.08784056594355838, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2673226192633886, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.03067041081629735, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30233965575534055, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.0406812663881139, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44206575111014085, 
+    "TRACT": "6813", 
+    "ACCESS2": 0.0784665220557668, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.478776086056393, 
+    "TRACT": "5204", 
+    "ACCESS2": 0.1286617049256416, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4937858714123018, 
+    "TRACT": "8378", 
+    "ACCESS2": 0.10180546496710983, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5476335112769317, 
+    "TRACT": "0604", 
+    "ACCESS2": 0.14015170414968325, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8290852123869911, 
+    "TRACT": "3510", 
+    "ACCESS2": 0.3859360140235195, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5238625506801232, 
+    "TRACT": "8356", 
+    "ACCESS2": 0.11115195732362723, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6052923803594604, 
+    "TRACT": "0101", 
+    "ACCESS2": 0.23129864710290127, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5312287046206239, 
+    "TRACT": "4108", 
+    "ACCESS2": 0.11057768434161434, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4294635959463915, 
+    "TRACT": "8367", 
+    "ACCESS2": 0.07110586528442855, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7392429595770843, 
+    "TRACT": "8432", 
+    "ACCESS2": 0.30345618805556995, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44348317416014194, 
+    "TRACT": "1301", 
+    "ACCESS2": 0.09993892580528839, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.653637630392218, 
+    "TRACT": "4304", 
+    "ACCESS2": 0.2216571977897387, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.359871433301591, 
+    "TRACT": "2306", 
+    "ACCESS2": 0.04726433515900903, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.373795376358643, 
+    "TRACT": "8339", 
+    "ACCESS2": 1.490913316943368, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5744231722199837, 
+    "TRACT": "0501", 
+    "ACCESS2": 0.16627832292478906, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3203509557650508, 
+    "TRACT": "4605", 
+    "ACCESS2": 1.3128584867097186, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4251330819348721, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 0.08183307465450823, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3419062176688954, 
+    "TRACT": "2510", 
+    "ACCESS2": 0.04230112946744101, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4661214003924172, 
+    "TRACT": "3011", 
+    "ACCESS2": 0.09285645806708762, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37243005410044794, 
+    "TRACT": "5003", 
+    "ACCESS2": 0.06642468061122041, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3911001113521213, 
+    "TRACT": "8351", 
+    "ACCESS2": 0.05757640228252616, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.620768620423175, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 0.24426513262164343, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27103739693554346, 
+    "TRACT": "5608", 
+    "ACCESS2": 0.025795824835929092, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44162428165595696, 
+    "TRACT": "6806", 
+    "ACCESS2": 0.07435653786837684, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7112617568264094, 
+    "TRACT": "3602", 
+    "ACCESS2": 0.2550104028452809, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5368762314502029, 
+    "TRACT": "2804", 
+    "ACCESS2": 0.12558058890085755, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40176766526727625, 
+    "TRACT": "1609", 
+    "ACCESS2": 0.06703841683578547, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.63926902881432, 
+    "TRACT": "3801", 
+    "ACCESS2": 0.18900560674766517, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2907962411420789, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 0.03233716476428424, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6625129048244927, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 0.2259723325190014, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6945134002346247, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 0.2605345279036444, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24788030848266662, 
+    "TRACT": "5610", 
+    "ACCESS2": 0.021311412156690673, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4304767008027599, 
+    "TRACT": "7101", 
+    "ACCESS2": 0.07575561064485166, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5827018215028307, 
+    "TRACT": "5907", 
+    "ACCESS2": 0.1612817017208035, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31187098651760514, 
+    "TRACT": "6504", 
+    "ACCESS2": 0.03505573586415472, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22764774606744037, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 0.019043529134896667, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.754883639444277, 
+    "TRACT": "3406", 
+    "ACCESS2": 0.3060807968159838, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4541085935818385, 
+    "TRACT": "6114", 
+    "ACCESS2": 0.0827012929118633, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3922056884485472, 
+    "TRACT": "1405", 
+    "ACCESS2": 0.06727712959467128, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.534767851542427, 
+    "TRACT": "4111", 
+    "ACCESS2": 0.1143327620775648, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6450159401492189, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 0.25692570569832285, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3552615908241813, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 0.046392364671353506, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43909598250176884, 
+    "TRACT": "2215", 
+    "ACCESS2": 0.0731335727938365, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30403686076708525, 
+    "TRACT": "2513", 
+    "ACCESS2": 0.032904519741976626, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3961919872865422, 
+    "TRACT": "1302", 
+    "ACCESS2": 0.07283137799738063, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6195583706828234, 
+    "TRACT": "0314", 
+    "ACCESS2": 0.19839864098434568, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4986406421174197, 
+    "TRACT": "0625", 
+    "ACCESS2": 0.10519358487340585, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3265046577471473, 
+    "TRACT": "8392", 
+    "ACCESS2": 1.2430725045491207, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4496522017290888, 
+    "TRACT": "5807", 
+    "ACCESS2": 0.08315611618469089, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5469384551963468, 
+    "TRACT": "0502", 
+    "ACCESS2": 0.14737956774157185, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3047373882475001, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 0.03325959739080856, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6528231322971233, 
+    "TRACT": "3802", 
+    "ACCESS2": 0.20130347798716375, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20523778962341133, 
+    "TRACT": "7708", 
+    "ACCESS2": 0.015077371811003243, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5357176934305399, 
+    "TRACT": "2433", 
+    "ACCESS2": 0.12235005391839132, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5945086897751357, 
+    "TRACT": "8360", 
+    "ACCESS2": 0.15360375292718734, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7533862090600467, 
+    "TRACT": "2819", 
+    "ACCESS2": 0.30767914193840973, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5067563738765429, 
+    "TRACT": "6913", 
+    "ACCESS2": 0.11552762153977778, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5357973569963786, 
+    "TRACT": "4102", 
+    "ACCESS2": 0.11276355993211148, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41105495257344515, 
+    "TRACT": "2714", 
+    "ACCESS2": 0.06563754356021304, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6423570793075541, 
+    "TRACT": "8308", 
+    "ACCESS2": 0.22913265298992866, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5207352562964225, 
+    "TRACT": "0801", 
+    "ACCESS2": 0.10865500413236887, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39340175802234784, 
+    "TRACT": "2303", 
+    "ACCESS2": 0.057318279250579814, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5425880732872465, 
+    "TRACT": "4202", 
+    "ACCESS2": 0.1215088154648792, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.545413239193685, 
+    "TRACT": "3817", 
+    "ACCESS2": 0.12314993961926521, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28832636498165365, 
+    "TRACT": "9801", 
+    "ACCESS2": 0.029494603431823425, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47288231222494576, 
+    "TRACT": "2414", 
+    "ACCESS2": 0.08645581110261577, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3264672170020041, 
+    "TRACT": "6611", 
+    "ACCESS2": 0.0388492240179504, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27166203678658807, 
+    "TRACT": "1703", 
+    "ACCESS2": 0.0273771433460011, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4028439095079426, 
+    "TRACT": "2309", 
+    "ACCESS2": 0.060323203328370364, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4661699071751101, 
+    "TRACT": "1402", 
+    "ACCESS2": 0.10562039698431995, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3056706688374945, 
+    "TRACT": "5603", 
+    "ACCESS2": 0.0335781747082056, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5797347802980946, 
+    "TRACT": "8418", 
+    "ACCESS2": 0.15698612410311888, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3089765319994802, 
+    "TRACT": "7203", 
+    "ACCESS2": 0.03743080140837293, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4937218816985611, 
+    "TRACT": "0508", 
+    "ACCESS2": 0.10565651637241716, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4099761402200256, 
+    "TRACT": "3016", 
+    "ACCESS2": 0.06731728704509253, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5576309556744785, 
+    "TRACT": "3901", 
+    "ACCESS2": 0.1268976293303833, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49733856096446294, 
+    "TRACT": "0718", 
+    "ACCESS2": 0.09538922346424801, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9080576831033853, 
+    "TRACT": "8395", 
+    "ACCESS2": 0.48957742429018664, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38601653701606964, 
+    "TRACT": "5804", 
+    "ACCESS2": 0.057553964931518015, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34277600729240576, 
+    "TRACT": "1204", 
+    "ACCESS2": 0.0502399004127428, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33032269498294625, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 0.039493104548201846, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5817783392005293, 
+    "TRACT": "8439", 
+    "ACCESS2": 0.15259708131588992, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49416066358758126, 
+    "TRACT": "0628", 
+    "ACCESS2": 0.09904003741541192, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3432440269476892, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 0.04305339873984954, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4347131578630588, 
+    "TRACT": "6117", 
+    "ACCESS2": 0.07356702552607174, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4592073879082791, 
+    "TRACT": "2428", 
+    "ACCESS2": 0.08330813385537844, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6987771939628369, 
+    "TRACT": "5103", 
+    "ACCESS2": 0.31218865913787036, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32540589597254, 
+    "TRACT": "6202", 
+    "ACCESS2": 0.03849701485544481, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4255547578213942, 
+    "TRACT": "2204", 
+    "ACCESS2": 0.06970158918257588, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3594683875743929, 
+    "TRACT": "2001", 
+    "ACCESS2": 0.0493253033177798, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33156205632221536, 
+    "TRACT": "2508", 
+    "ACCESS2": 0.03967750788510161, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49431246930894457, 
+    "TRACT": "5905", 
+    "ACCESS2": 0.10633523732768446, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7107765000374647, 
+    "TRACT": "0317", 
+    "ACCESS2": 0.2936847491488479, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.497438010508202, 
+    "TRACT": "2916", 
+    "ACCESS2": 0.10899156697886041, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49345795344704824, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 0.09616640028811115, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4963755283120815, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 0.09792809505348173, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32846617604983913, 
+    "TRACT": "6501", 
+    "ACCESS2": 0.03914191547438785, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5553956451128786, 
+    "TRACT": "4407", 
+    "ACCESS2": 0.16162757504147945, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36409521522351534, 
+    "TRACT": "2603", 
+    "ACCESS2": 0.048950369924702156, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40293745722405927, 
+    "TRACT": "6705", 
+    "ACCESS2": 0.06119396995070749, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17263670904201942, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 0.010707509797748533, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4422444901258755, 
+    "TRACT": "2101", 
+    "ACCESS2": 0.08098783321375946, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39831429549281416, 
+    "TRACT": "7110", 
+    "ACCESS2": 0.06562886198284844, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4131188258019387, 
+    "TRACT": "2212", 
+    "ACCESS2": 0.06422961996357565, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5092566859071492, 
+    "TRACT": "0505", 
+    "ACCESS2": 0.11805048066663021, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0272196835554026, 
+    "TRACT": "6004", 
+    "ACCESS2": 0.6816629411125467, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.360206669086086, 
+    "TRACT": "2002", 
+    "ACCESS2": 0.048648383396678894, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.559768058983466, 
+    "TRACT": "3814", 
+    "ACCESS2": 0.13101016919248337, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5387758004108603, 
+    "TRACT": "0603", 
+    "ACCESS2": 0.134951561251607, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5504416662889378, 
+    "TRACT": "3904", 
+    "ACCESS2": 0.12207081834676861, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1157382134773792, 
+    "TRACT": "4610", 
+    "ACCESS2": 0.9361182874355768, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29241091958359444, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 0.031212386047728878, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2598148545846121, 
+    "TRACT": "6406", 
+    "ACCESS2": 0.02359848519295324, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42449640626229335, 
+    "TRACT": "2713", 
+    "ACCESS2": 0.07097962198551853, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43288514821478735, 
+    "TRACT": "8415", 
+    "ACCESS2": 0.07617409800738022, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2745367429268166, 
+    "TRACT": "7503", 
+    "ACCESS2": 0.029170223220968825, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34586820891523284, 
+    "TRACT": "1909", 
+    "ACCESS2": 0.044582312184385874, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3656125487885291, 
+    "TRACT": "2606", 
+    "ACCESS2": 0.04973900266659667, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6187810228193973, 
+    "TRACT": "8307", 
+    "ACCESS2": 0.19927564816908294, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4054894856901156, 
+    "TRACT": "6706", 
+    "ACCESS2": 0.06185510544691585, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40998598966238853, 
+    "TRACT": "1604", 
+    "ACCESS2": 0.07259627264594545, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3162789761644149, 
+    "TRACT": "5604", 
+    "ACCESS2": 0.03622802813825877, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30044256631075966, 
+    "TRACT": "1102", 
+    "ACCESS2": 0.03674118660933421, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5630108650987717, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 0.15799101134217197, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5646440667070755, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 0.1644482884470145, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4889743196677372, 
+    "TRACT": "5203", 
+    "ACCESS2": 0.13550749200818513, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4561412639120773, 
+    "TRACT": "6805", 
+    "ACCESS2": 0.08028744895547377, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5549805496552599, 
+    "TRACT": "0810", 
+    "ACCESS2": 0.13061489391109765, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4632502337457539, 
+    "TRACT": "5801", 
+    "ACCESS2": 0.09081204654389322, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49592531723783034, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 0.09762042406213764, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5059729151353337, 
+    "TRACT": "6110", 
+    "ACCESS2": 0.1053486714194775, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5109714063866864, 
+    "TRACT": "8438", 
+    "ACCESS2": 0.10575331175420236, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4849128578972986, 
+    "TRACT": "6121", 
+    "ACCESS2": 0.09326584640727711, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.743811025514729, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 0.3732563661617572, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39891064667134585, 
+    "TRACT": "6305", 
+    "ACCESS2": 0.06073878723213903, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3025597529513735, 
+    "TRACT": "7506", 
+    "ACCESS2": 0.038084626181628875, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5482671086500243, 
+    "TRACT": "8412", 
+    "ACCESS2": 0.140414370628404, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4535664706232382, 
+    "TRACT": "2412", 
+    "ACCESS2": 0.07848379669233817, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49955194994276786, 
+    "TRACT": "0630", 
+    "ACCESS2": 0.1009265815455764, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5445807551219051, 
+    "TRACT": "8383", 
+    "ACCESS2": 0.12374926783162266, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33271451414239694, 
+    "TRACT": "7307", 
+    "ACCESS2": 0.046764573778310566, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9414696263993524, 
+    "TRACT": "3501", 
+    "ACCESS2": 0.536590943480252, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5129385048804309, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 0.11057000780362705, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.49398450588229353, 
+    "TRACT": "0202", 
+    "ACCESS2": 0.1391220464473313, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5098703035566444, 
+    "TRACT": "4904", 
+    "ACCESS2": 0.1349209402732792, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5265332932318757, 
+    "TRACT": "3907", 
+    "ACCESS2": 0.10815095033458125, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32908260396343186, 
+    "TRACT": "7001", 
+    "ACCESS2": 0.03986485630545354, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38192250485098855, 
+    "TRACT": "2307", 
+    "ACCESS2": 0.05372548191966982, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44505421845671467, 
+    "TRACT": "8371", 
+    "ACCESS2": 0.07843653784163143, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.46960054153385866, 
+    "TRACT": "8347", 
+    "ACCESS2": 0.08536871965076015, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4911378475319167, 
+    "TRACT": "2430", 
+    "ACCESS2": 0.09835043108146439, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23773406529958022, 
+    "TRACT": "7404", 
+    "ACCESS2": 0.02088766188768667, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3470056346374268, 
+    "TRACT": "4911", 
+    "ACCESS2": 0.05286565780723412, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8533923394440803, 
+    "TRACT": "8398", 
+    "ACCESS2": 0.42789687346059924, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3348551962673225, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 1.3695367806395757, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25473976650118224, 
+    "TRACT": "1708", 
+    "ACCESS2": 0.02353335627757942, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49633767876900137, 
+    "TRACT": "0716", 
+    "ACCESS2": 0.09467184765707531, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.310009237910913, 
+    "TRACT": "7207", 
+    "ACCESS2": 0.03889972361937662, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5619722470254336, 
+    "TRACT": "4201", 
+    "ACCESS2": 0.13619590145313828, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4438478965106075, 
+    "TRACT": "2411", 
+    "ACCESS2": 0.07474852236081156, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23686078819045106, 
+    "TRACT": "1706", 
+    "ACCESS2": 0.02011408275429656, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5027549506578216, 
+    "TRACT": "6910", 
+    "ACCESS2": 0.10906998047702028, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5979093061252947, 
+    "TRACT": "3807", 
+    "ACCESS2": 0.1587748334369916, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39798217093402055, 
+    "TRACT": "8428", 
+    "ACCESS2": 0.061303203085027326, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4866822381588938, 
+    "TRACT": "8407", 
+    "ACCESS2": 0.10341748563003245, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30343292258584903, 
+    "TRACT": "1104", 
+    "ACCESS2": 0.037005964071007216, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42700857601105185, 
+    "TRACT": "1608", 
+    "ACCESS2": 0.07746905545081978, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5274227868683884, 
+    "TRACT": "8380", 
+    "ACCESS2": 0.12275653056608565, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5158131778813146, 
+    "TRACT": "8319", 
+    "ACCESS2": 0.11671365365424322, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4281563496407485, 
+    "TRACT": "6703", 
+    "ACCESS2": 0.07011455574426355, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.2203727493402465, 
+    "TRACT": "3302", 
+    "ACCESS2": 4.033412763299476, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3428958946855931, 
+    "TRACT": "8313", 
+    "ACCESS2": 0.04265354537914225, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47404850690780115, 
+    "TRACT": "8374", 
+    "ACCESS2": 0.09370756291058062, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3827395814157266, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 0.05478599757491107, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38285037050276405, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 0.054485793654595334, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3446116504139799, 
+    "TRACT": "1910", 
+    "ACCESS2": 0.043575149271415384, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5535211304381167, 
+    "TRACT": "8344", 
+    "ACCESS2": 0.13172898705421762, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3669690601941349, 
+    "TRACT": "3504", 
+    "ACCESS2": 1.3376884706358318, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2019083019597019, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 1.0509210978151489, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.944049992886674, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 0.5842780337078854, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29105014119844275, 
+    "TRACT": "6505", 
+    "ACCESS2": 0.030224767901104694, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.7566368042184834, 
+    "TRACT": "4602", 
+    "ACCESS2": 2.539674288871009, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3180365342080509, 
+    "TRACT": "2519", 
+    "ACCESS2": 0.036229696426957475, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6045238429916502, 
+    "TRACT": "8330", 
+    "ACCESS2": 0.17116174869871337, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4984864903758145, 
+    "TRACT": "4008", 
+    "ACCESS2": 0.09749285830894816, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48691745515945284, 
+    "TRACT": "0711", 
+    "ACCESS2": 0.09066978446030637, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4908806824732628, 
+    "TRACT": "8326", 
+    "ACCESS2": 0.09259176067409443, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3816562174928959, 
+    "TRACT": "7114", 
+    "ACCESS2": 0.06014125508391635, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4139472948777533, 
+    "TRACT": "2715", 
+    "ACCESS2": 0.06729947785628596, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4451955634274944, 
+    "TRACT": "8417", 
+    "ACCESS2": 0.08237876827807991, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3159156758567685, 
+    "TRACT": "7501", 
+    "ACCESS2": 0.041751313322940735, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38451189297652755, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 0.055747544555816944, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2543015744538797, 
+    "TRACT": "1003", 
+    "ACCESS2": 0.02515353142279505, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38116114321270234, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 0.055163623274962555, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39160958610685537, 
+    "TRACT": "2315", 
+    "ACCESS2": 0.05736924328039003, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29913956965524396, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 0.032533751704883346, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.373327871778245, 
+    "TRACT": "2104", 
+    "ACCESS2": 0.053722970297652065, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3325592936207654, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 0.04233770387319598, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5726717057012247, 
+    "TRACT": "0201", 
+    "ACCESS2": 0.20057973596343226, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0236566977881676, 
+    "TRACT": "4601", 
+    "ACCESS2": 0.742649660727266, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3534059934746602, 
+    "TRACT": "4914", 
+    "ACCESS2": 0.057637952197465675, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6035298632900502, 
+    "TRACT": "8404", 
+    "ACCESS2": 0.17880723443123478, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.821124442785277, 
+    "TRACT": "4308", 
+    "ACCESS2": 0.40768783873780756, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3631609801521591, 
+    "TRACT": "8312", 
+    "ACCESS2": 0.048469818545444396, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4600580866524754, 
+    "TRACT": "8435", 
+    "ACCESS2": 0.08983012883205747, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3324840998088332, 
+    "TRACT": "2502", 
+    "ACCESS2": 0.04007842074023562, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.127258429839693, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 8.851609623005073, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.35992721093295776, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 0.047787006110859356, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.817118196602383, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 160.2204763743212, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 24.539571317074785, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 594.4614600909925, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.896557735261135, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 22.486466786718506, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3333611593492027, 
+    "TRACT": "1911", 
+    "ACCESS2": 0.04063067662695763, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3888492155041989, 
+    "TRACT": "2609", 
+    "ACCESS2": 0.05788425569924459, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5436425031033834, 
+    "TRACT": "0403", 
+    "ACCESS2": 0.15931383798697557, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43968463213108055, 
+    "TRACT": "2426", 
+    "ACCESS2": 0.07388106318148763, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24195840260048512, 
+    "TRACT": "6405", 
+    "ACCESS2": 0.020281389948560408, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5313321783651, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 0.11532828918306001, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.661586061491545, 
+    "TRACT": "0204", 
+    "ACCESS2": 0.28157379420006207, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5970604808016142, 
+    "TRACT": "4408", 
+    "ACCESS2": 0.19769650043889678, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39186611106434815, 
+    "TRACT": "6713", 
+    "ACCESS2": 0.057449380313181996, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29191705636905685, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 0.03129651645639846, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3052246364472364, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 0.034481343144436793, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37635215989627835, 
+    "TRACT": "1613", 
+    "ACCESS2": 0.05599095443451303, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4390469567709547, 
+    "TRACT": "2712", 
+    "ACCESS2": 0.07711337197753959, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4860076551603515, 
+    "TRACT": "0704", 
+    "ACCESS2": 0.0919219200561851, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34517759607120113, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 0.04603426723482318, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5265875346734439, 
+    "TRACT": "4101", 
+    "ACCESS2": 0.10826135078919429, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40214443985791715, 
+    "TRACT": "2227", 
+    "ACCESS2": 0.0602151777153934, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2774545336601669, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.03160110154142354, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47708495851849103, 
+    "TRACT": "0513", 
+    "ACCESS2": 0.09210838271867375, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5609762374321019, 
+    "TRACT": "0819", 
+    "ACCESS2": 0.13517293170641187, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5184933543749699, 
+    "TRACT": "0621", 
+    "ACCESS2": 0.11468666369295036, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.13082951355434, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 3.8789192654451057, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.1762882627982405, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 16.126966538146622, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.35920506230804006, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 0.052724001570724974, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.219828052455536, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 4.234382504638885, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2744102661815613, 
+    "TRACT": "4801", 
+    "ACCESS2": 1.2354105991105442, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3837924112383606, 
+    "TRACT": "2312", 
+    "ACCESS2": 0.054449498313606425, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5736412470398586, 
+    "TRACT": "3815", 
+    "ACCESS2": 0.14085794183530678, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29230559530541295, 
+    "TRACT": "7002", 
+    "ACCESS2": 0.030684073291751802, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49757288158909174, 
+    "TRACT": "2421", 
+    "ACCESS2": 0.09930596802009704, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5736339190739684, 
+    "TRACT": "8321", 
+    "ACCESS2": 0.15806668325479903, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34325547518166377, 
+    "TRACT": "6604", 
+    "ACCESS2": 0.04308201477340559, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49667194155331684, 
+    "TRACT": "1408", 
+    "ACCESS2": 0.12041951152135169, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3176848003127588, 
+    "TRACT": "2507", 
+    "ACCESS2": 0.03622782494146282, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3843685013085144, 
+    "TRACT": "2229", 
+    "ACCESS2": 0.05469659313458203, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6215587413589678, 
+    "TRACT": "0321", 
+    "ACCESS2": 0.2002595649171982, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.475873015183271, 
+    "TRACT": "4604", 
+    "ACCESS2": 5.302230152944884, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4355331116949817, 
+    "TRACT": "2108", 
+    "ACCESS2": 0.0754853515298725, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32685015148093255, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 0.043898072655958846, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23752649486589103, 
+    "TRACT": "0902", 
+    "ACCESS2": 0.02197874178744986, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4038162901005181, 
+    "TRACT": "6716", 
+    "ACCESS2": 0.06172710166790189, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31865712683899516, 
+    "TRACT": "1912", 
+    "ACCESS2": 0.036943312222388974, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5558004337080982, 
+    "TRACT": "0811", 
+    "ACCESS2": 0.1312187426232076, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5556993134138182, 
+    "TRACT": "8436", 
+    "ACCESS2": 0.12599253351821144, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48874452484783054, 
+    "TRACT": "2808", 
+    "ACCESS2": 0.10069461443970049, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40427933603338695, 
+    "TRACT": "6718", 
+    "ACCESS2": 0.06304229711475438, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24116630672610376, 
+    "TRACT": "1005", 
+    "ACCESS2": 0.02190088598835569, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3706728128400616, 
+    "TRACT": "1203", 
+    "ACCESS2": 0.0634891567891559, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.518563483711955, 
+    "TRACT": "0804", 
+    "ACCESS2": 0.10731364695558203, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5731333505533325, 
+    "TRACT": "6108", 
+    "ACCESS2": 0.14518701730837458, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33095671330166143, 
+    "TRACT": "2516", 
+    "ACCESS2": 0.0394520945469681, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4353373860987481, 
+    "TRACT": "6810", 
+    "ACCESS2": 0.07238726991383293, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.694537967795817, 
+    "TRACT": "3201", 
+    "ACCESS2": 0.2459175629873051, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.46158290446519484, 
+    "TRACT": "2718", 
+    "ACCESS2": 0.08832736978107175, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4029983581349728, 
+    "TRACT": "7301", 
+    "ACCESS2": 0.07168083735339739, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3610114092185864, 
+    "TRACT": "7105", 
+    "ACCESS2": 0.05001016078715654, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33811991670285324, 
+    "TRACT": "6609", 
+    "ACCESS2": 0.04175926044126914, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6118734835008259, 
+    "TRACT": "8355", 
+    "ACCESS2": 0.1722925865335605, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9703101768821691, 
+    "TRACT": "8402", 
+    "ACCESS2": 0.5955161226230334, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43178854861734683, 
+    "TRACT": "5808", 
+    "ACCESS2": 0.0744848468415538, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5649114306690638, 
+    "TRACT": "3812", 
+    "ACCESS2": 0.13290302511470092, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4634652808532545, 
+    "TRACT": "6119", 
+    "ACCESS2": 0.08487621136677201, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49318758878360297, 
+    "TRACT": "8433", 
+    "ACCESS2": 0.10586280775579779, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29808279277884353, 
+    "TRACT": "2504", 
+    "ACCESS2": 0.03182913833501151, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42524966935875386, 
+    "TRACT": "8408", 
+    "ACCESS2": 0.07372744998876556, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6933920333656739, 
+    "TRACT": "4305", 
+    "ACCESS2": 0.2584231647170382, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3654292137094669, 
+    "TRACT": "4910", 
+    "ACCESS2": 0.06072303159531299, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5455868672740134, 
+    "TRACT": "3819", 
+    "ACCESS2": 0.12030965212953287, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6715359418825744, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 0.2952190046837018, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5280364360322398, 
+    "TRACT": "0506", 
+    "ACCESS2": 0.12869951296910853, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9857954769767986, 
+    "TRACT": "3104", 
+    "ACCESS2": 0.6204011228171225, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5336017880214264, 
+    "TRACT": "8320", 
+    "ACCESS2": 0.12632554366466983, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3750500899415685, 
+    "TRACT": "6607", 
+    "ACCESS2": 0.05219459276851265, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5860005140188054, 
+    "TRACT": "8364", 
+    "ACCESS2": 0.14684160710825314, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32210499289278116, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 0.04313962370683313, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4311530784271051, 
+    "TRACT": "2407", 
+    "ACCESS2": 0.06982342608718764, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.799995401290162, 
+    "TRACT": "0310", 
+    "ACCESS2": 0.40583787872692145, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22909859201556168, 
+    "TRACT": "8104", 
+    "ACCESS2": 0.019733290708727824, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30493157999208054, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 0.0367030914324821, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.305441222321187, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 0.036177686419054556, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4305506560136602, 
+    "TRACT": "3008", 
+    "ACCESS2": 0.07592303127718149, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.489558167990727, 
+    "TRACT": "0627", 
+    "ACCESS2": 0.09720686496541675, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2874781347251256, 
+    "TRACT": "1201", 
+    "ACCESS2": 0.03457779321087132, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5356617047293456, 
+    "TRACT": "5906", 
+    "ACCESS2": 0.13051664551598746, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2724068247219978, 
+    "TRACT": "1710", 
+    "ACCESS2": 0.027229016507905268, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3796134040738167, 
+    "TRACT": "8350", 
+    "ACCESS2": 0.053628143419664966, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7654465749209426, 
+    "TRACT": "8333", 
+    "ACCESS2": 0.3253294935721072, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5316230289551708, 
+    "TRACT": "4212", 
+    "ACCESS2": 0.12127207184361634, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25121220768208086, 
+    "TRACT": "5609", 
+    "ACCESS2": 0.02191188520239777, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4779374161719186, 
+    "TRACT": "0706", 
+    "ACCESS2": 0.08893859537686918, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.54131936169513, 
+    "TRACT": "4110", 
+    "ACCESS2": 0.1203683650031893, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4661574344782652, 
+    "TRACT": "6113", 
+    "ACCESS2": 0.08779807147228273, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4093188895727733, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 0.0745196472449672, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34289960202126313, 
+    "TRACT": "2517", 
+    "ACCESS2": 0.042629460932156554, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37609975088813735, 
+    "TRACT": "6720", 
+    "ACCESS2": 0.053296460707110575, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3631002552649357, 
+    "TRACT": "1601", 
+    "ACCESS2": 0.055607882947902074, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0297288855639446, 
+    "TRACT": "3206", 
+    "ACCESS2": 0.6794511497660767, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5049972936637873, 
+    "TRACT": "0624", 
+    "ACCESS2": 0.10810072905670562, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.91038774309917, 
+    "TRACT": "0313", 
+    "ACCESS2": 0.5515282324228508, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7636164490022259, 
+    "TRACT": "8391", 
+    "ACCESS2": 0.317145040025667, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3314855485847091, 
+    "TRACT": "5703", 
+    "ACCESS2": 0.04025116349823665, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7242073136723529, 
+    "TRACT": "3107", 
+    "ACCESS2": 0.2876050946720909, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5296461853837573, 
+    "TRACT": "8361", 
+    "ACCESS2": 0.11162095891261326, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43570345361177787, 
+    "TRACT": "4908", 
+    "ACCESS2": 0.09346352082729768, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5504677806074387, 
+    "TRACT": "2434", 
+    "ACCESS2": 0.13113090019010168, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4214098674465433, 
+    "TRACT": "2225", 
+    "ACCESS2": 0.06654127471187093, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6381315558800675, 
+    "TRACT": "4302", 
+    "ACCESS2": 0.2027336451693019, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5641817624725851, 
+    "TRACT": "0813", 
+    "ACCESS2": 0.13751592365686582, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5498320751106487, 
+    "TRACT": "5001", 
+    "ACCESS2": 0.17018029478904637, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3204312612614359, 
+    "TRACT": "1511", 
+    "ACCESS2": 0.038963800588000516, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5196270297310495, 
+    "TRACT": "4205", 
+    "ACCESS2": 0.10799604075836843, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47737170008040747, 
+    "TRACT": "2415", 
+    "ACCESS2": 0.08791496690326818, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5167180487153907, 
+    "TRACT": "0503", 
+    "ACCESS2": 0.12810729706725715, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0323749892567167, 
+    "TRACT": "8419", 
+    "ACCESS2": 0.6884152056595881, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48309618741517407, 
+    "TRACT": "0509", 
+    "ACCESS2": 0.1004700651197813, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28273609048194004, 
+    "TRACT": "8315", 
+    "ACCESS2": 0.028921568258316183, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29188356445271574, 
+    "TRACT": "7204", 
+    "ACCESS2": 0.032821671195373756, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3825712743594776, 
+    "TRACT": "1610", 
+    "ACCESS2": 0.05973864052416243, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3177305055315491, 
+    "TRACT": "2512", 
+    "ACCESS2": 0.03614002404537366, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38995618100330476, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 0.059496584174663907, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38783986407195187, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 0.058054857056452205, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.492776099847079, 
+    "TRACT": "8423", 
+    "ACCESS2": 0.09448427996272182, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3872634703755633, 
+    "TRACT": "6715", 
+    "ACCESS2": 0.056288924180620536, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4240840229756385, 
+    "TRACT": "2409", 
+    "ACCESS2": 0.06755904403420722, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42446062618957947, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 0.08410211795604014, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5246593918163787, 
+    "TRACT": "0615", 
+    "ACCESS2": 0.12108577147444416, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4232920078107721, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 0.0824603847782354, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3707970081600484, 
+    "TRACT": "1602", 
+    "ACCESS2": 0.057320744004614385, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7207058153681204, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 0.31520175602122563, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6451970241363476, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 0.23960279990263408, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6001738554038728, 
+    "TRACT": "0601", 
+    "ACCESS2": 0.1843544112157927, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3999374016624166, 
+    "TRACT": "2705", 
+    "ACCESS2": 0.061527103971774355, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.45111586067752607, 
+    "TRACT": "8309", 
+    "ACCESS2": 0.07892871114833827, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.190106603712255, 
+    "TRACT": "0308", 
+    "ACCESS2": 1.056681749295088, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31117986470830866, 
+    "TRACT": "6502", 
+    "ACCESS2": 0.03479928683936317, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37389722675560155, 
+    "TRACT": "2602", 
+    "ACCESS2": 0.05201297206520615, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3789536701138945, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 0.06066284160915782, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42463981883482793, 
+    "TRACT": "6116", 
+    "ACCESS2": 0.06984351118757481, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5271986866431163, 
+    "TRACT": "8362", 
+    "ACCESS2": 0.10962694382770319, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7249133529569298, 
+    "TRACT": "5102", 
+    "ACCESS2": 0.3453072131036361, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.65602325707766, 
+    "TRACT": "8359", 
+    "ACCESS2": 0.20556564386802628, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3459082885087693, 
+    "TRACT": "6201", 
+    "ACCESS2": 0.044155736184806116, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3757072738327624, 
+    "TRACT": "7111", 
+    "ACCESS2": 0.0565693153252407, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42188890092297443, 
+    "TRACT": "2213", 
+    "ACCESS2": 0.06715384967372862, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3179155530209717, 
+    "TRACT": "2515", 
+    "ACCESS2": 0.03616305582542086, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8550501183854451, 
+    "TRACT": "4314", 
+    "ACCESS2": 0.4719238771658035, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.487791516237299, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 0.09174443307946079, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49131535609452737, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 0.09401447967985266, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48923431787280464, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 0.0920954050490074, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4181700300762239, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 0.0699915315716057, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40852376772570675, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 0.06577232996859624, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2916995910800022, 
+    "TRACT": "1711", 
+    "ACCESS2": 0.03164071696706457, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5024802001785478, 
+    "TRACT": "2827", 
+    "ACCESS2": 0.10972494994917122, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5905985917136023, 
+    "TRACT": "0602", 
+    "ACCESS2": 0.17793562594453977, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7620711422294449, 
+    "TRACT": "3514", 
+    "ACCESS2": 0.3106082009676476, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7196537122670026, 
+    "TRACT": "0103", 
+    "ACCESS2": 0.34805663636994627, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4179534659532529, 
+    "TRACT": "6301", 
+    "ACCESS2": 0.06764007427781131, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4549593429107945, 
+    "TRACT": "8322", 
+    "ACCESS2": 0.07864829959307165, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5632182559321813, 
+    "TRACT": "8426", 
+    "ACCESS2": 0.14273812051919924, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19870875274204186, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.014316286461060587, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.290845417942289, 
+    "TRACT": "7502", 
+    "ACCESS2": 0.03371424710668123, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43360654011158406, 
+    "TRACT": "8416", 
+    "ACCESS2": 0.0769460247718661, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4900458110152489, 
+    "TRACT": "2416", 
+    "ACCESS2": 0.09380116338656004, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23758938621342873, 
+    "TRACT": "1705", 
+    "ACCESS2": 0.020440345274189073, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49685706048546163, 
+    "TRACT": "0634", 
+    "ACCESS2": 0.09845684361165169, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6407430269083452, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 0.22907888498781195, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6309671763043776, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 0.21329731468574828, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3303295706039453, 
+    "TRACT": "7201", 
+    "ACCESS2": 0.04257450349313997, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32246761786926936, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 0.0390624947531577, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5804609080113736, 
+    "TRACT": "3903", 
+    "ACCESS2": 0.14252269773785298, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32823256187402733, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 0.04011174848553477, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3039929788161386, 
+    "TRACT": "3403", 
+    "ACCESS2": 1.2023348121062092, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7233509810669981, 
+    "TRACT": "8397", 
+    "ACCESS2": 0.2823326522974603, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43119240892732175, 
+    "TRACT": "5802", 
+    "ACCESS2": 0.07591999732170436, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4838869111708867, 
+    "TRACT": "1303", 
+    "ACCESS2": 0.12289172382541896, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7184446494037106, 
+    "TRACT": "6007", 
+    "ACCESS2": 0.281036561938999, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43581665784459944, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 0.08350204991655212, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4431868267482201, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 0.08850678758666357, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1807647077414027, 
+    "TRACT": "0104", 
+    "ACCESS2": 1.0811889253413012, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34152079537300783, 
+    "TRACT": "5702", 
+    "ACCESS2": 0.043244007176657356, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39848383690152983, 
+    "TRACT": "6302", 
+    "ACCESS2": 0.061072829244620985, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.662062016039879, 
+    "TRACT": "8329", 
+    "ACCESS2": 0.2230478640160351, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.39398418053919104, 
+    "TRACT": "2210", 
+    "ACCESS2": 0.05807270658012119, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3219664792433533, 
+    "TRACT": "1503", 
+    "ACCESS2": 0.04125575827622077, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2593748669937796, 
+    "TRACT": "7402", 
+    "ACCESS2": 0.024952189980460646, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4607168296066868, 
+    "TRACT": "2413", 
+    "ACCESS2": 0.08131199549417116, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27138858592113535, 
+    "TRACT": "8316", 
+    "ACCESS2": 0.026441292799244762, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5045347780578865, 
+    "TRACT": "0631", 
+    "ACCESS2": 0.10405176154926297, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3464091715945579, 
+    "TRACT": "7306", 
+    "ACCESS2": 0.0507170841691526, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4673624878829623, 
+    "TRACT": "8323", 
+    "ACCESS2": 0.0831197187120541, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3559867342672513, 
+    "TRACT": "2605", 
+    "ACCESS2": 0.04678840099115478, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4144161469380008, 
+    "TRACT": "6707", 
+    "ACCESS2": 0.06483118665875588, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3894646470099887, 
+    "TRACT": "4805", 
+    "ACCESS2": 1.5291359824605086, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5433668628353286, 
+    "TRACT": "3906", 
+    "ACCESS2": 0.11725598384401145, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.45379352803733597, 
+    "TRACT": "8370", 
+    "ACCESS2": 0.08356185001382825, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3815724208705281, 
+    "TRACT": "2304", 
+    "ACCESS2": 0.05369481986374658, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49050983767268924, 
+    "TRACT": "8425", 
+    "ACCESS2": 0.09553934569786716, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5308003657453367, 
+    "TRACT": "8413", 
+    "ACCESS2": 0.12962241584661685, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5034884051101076, 
+    "TRACT": "0507", 
+    "ACCESS2": 0.11051482369573623, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36611311936374225, 
+    "TRACT": "1611", 
+    "ACCESS2": 0.05390280740069043, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3960599500786699, 
+    "TRACT": "2311", 
+    "ACCESS2": 0.05838928862042442, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49976296773255535, 
+    "TRACT": "0715", 
+    "ACCESS2": 0.09667332060125697, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4552553449652308, 
+    "TRACT": "8348", 
+    "ACCESS2": 0.0794102387047847, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4738792958552942, 
+    "TRACT": "4905", 
+    "ACCESS2": 0.1136705364744559, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.666080477749475, 
+    "TRACT": "2801", 
+    "ACCESS2": 0.22036359692794044, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5057647757887574, 
+    "TRACT": "2431", 
+    "ACCESS2": 0.10580652708444192, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9183657080952442, 
+    "TRACT": "3105", 
+    "ACCESS2": 0.5217282395968609, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.434581477746127, 
+    "TRACT": "8324", 
+    "ACCESS2": 0.0710624810356546, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2517320898480354, 
+    "TRACT": "7403", 
+    "ACCESS2": 0.023627720138864695, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6780215072345716, 
+    "TRACT": "2831", 
+    "ACCESS2": 0.23939504293422187, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38687158079743345, 
+    "TRACT": "2608", 
+    "ACCESS2": 0.056779984397473234, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9786276068109269, 
+    "TRACT": "4312", 
+    "ACCESS2": 0.6381021262818147, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5841082484345667, 
+    "TRACT": "0409", 
+    "ACCESS2": 0.1791514335426017, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3374337072084814, 
+    "TRACT": "2518", 
+    "ACCESS2": 0.04126684308713373, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47818755978744254, 
+    "TRACT": "6112", 
+    "ACCESS2": 0.09302987643061643, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.46139451166983836, 
+    "TRACT": "8318", 
+    "ACCESS2": 0.10595016126816988, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6531567792528187, 
+    "TRACT": "0319", 
+    "ACCESS2": 0.23614972638149806, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41535070182400263, 
+    "TRACT": "7115", 
+    "ACCESS2": 0.07539516192140983, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3216681270181605, 
+    "TRACT": "3404", 
+    "ACCESS2": 1.2381405194958934, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7599510155279519, 
+    "TRACT": "3515", 
+    "ACCESS2": 0.3096041921724966, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22242295996382824, 
+    "TRACT": "8056", 
+    "ACCESS2": 0.01878246177443929, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.670873726004129, 
+    "TRACT": "5101", 
+    "ACCESS2": 0.28867671240955234, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3360044989606889, 
+    "TRACT": "6204", 
+    "ACCESS2": 0.04122490576256545, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4001755571450865, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 0.06066486698287053, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4039201034687382, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 0.0625068029545017, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38941626436816745, 
+    "TRACT": "2924", 
+    "ACCESS2": 0.05894850863072677, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48367410153049784, 
+    "TRACT": "0710", 
+    "ACCESS2": 0.08945229421801446, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5510705314425189, 
+    "TRACT": "0407", 
+    "ACCESS2": 0.1579170354684824, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5249677288521039, 
+    "TRACT": "6905", 
+    "ACCESS2": 0.11867386356835888, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27736175292225057, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 0.02752220692829323, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5085908398037164, 
+    "TRACT": "2420", 
+    "ACCESS2": 0.10477495612106442, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4934141330083091, 
+    "TRACT": "8345", 
+    "ACCESS2": 0.09462396837310606, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15529848846289243, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.008499167493402725, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31184444629829433, 
+    "TRACT": "5302", 
+    "ACCESS2": 0.04217584210818782, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.413526219104622, 
+    "TRACT": "5205", 
+    "ACCESS2": 0.09031269397735787, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4470152553583503, 
+    "TRACT": "2216", 
+    "ACCESS2": 0.07588087207083746, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2805109880284383, 
+    "TRACT": "7205", 
+    "ACCESS2": 0.03025511300962067, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8317581951575961, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 0.48577149195914265, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28438592255364514, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.03622604307088925, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4656647878902787, 
+    "TRACT": "2403", 
+    "ACCESS2": 0.08261053108105623, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4653511857379137, 
+    "TRACT": "6912", 
+    "ACCESS2": 0.09305484438346023, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.0527499383687022, 
+    "TRACT": "0302", 
+    "ACCESS2": 3.612437886495039, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8825309597041973, 
+    "TRACT": "2838", 
+    "ACCESS2": 0.4704785858992819, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5839043878573305, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 0.1873428536594488, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6228012048585475, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 0.22615413299460976, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40292248514555357, 
+    "TRACT": "8368", 
+    "ACCESS2": 0.06183926188087017, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24450232358228718, 
+    "TRACT": "6404", 
+    "ACCESS2": 0.020717943892149808, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.45203716573171726, 
+    "TRACT": "2425", 
+    "ACCESS2": 0.07897181013268226, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7406454686744851, 
+    "TRACT": "4309", 
+    "ACCESS2": 0.3110240378475788, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27518804335678837, 
+    "TRACT": "7505", 
+    "ACCESS2": 0.030102950368073776, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3180294858413413, 
+    "TRACT": "2503", 
+    "ACCESS2": 0.03649465580735878, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40536361615890293, 
+    "TRACT": "8311", 
+    "ACCESS2": 0.06634562042043347, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31902805551347424, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 0.03736347958844912, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31894292974500243, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 0.03757601109532928, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7873748098480664, 
+    "TRACT": "8342", 
+    "ACCESS2": 0.36959169468859276, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4269816962654301, 
+    "TRACT": "6811", 
+    "ACCESS2": 0.07028846873624249, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3043765579180286, 
+    "TRACT": "1101", 
+    "ACCESS2": 0.03856202610210949, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49040005935220166, 
+    "TRACT": "0713", 
+    "ACCESS2": 0.09191021584804535, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2991946684330936, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.041288646312428075, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5178141816750322, 
+    "TRACT": "0620", 
+    "ACCESS2": 0.11377774043404351, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.354586598405397, 
+    "TRACT": "7112", 
+    "ACCESS2": 0.04883306862047327, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4760413650438841, 
+    "TRACT": "8325", 
+    "ACCESS2": 0.08660281750221907, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40441453881351497, 
+    "TRACT": "6712", 
+    "ACCESS2": 0.06146453826182666, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33847579397982397, 
+    "TRACT": "1508", 
+    "ACCESS2": 0.04495329809593943, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3867570994436505, 
+    "TRACT": "7103", 
+    "ACCESS2": 0.05793010730970323, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4125396065637247, 
+    "TRACT": "2226", 
+    "ACCESS2": 0.06358731157590544, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2818460599344131, 
+    "TRACT": "1001", 
+    "ACCESS2": 0.032155707698757446, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5323541420558638, 
+    "TRACT": "4106", 
+    "ACCESS2": 0.1111105242355388, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49101242131063555, 
+    "TRACT": "0512", 
+    "ACCESS2": 0.10168002809085268, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2226739409320093, 
+    "TRACT": "8410", 
+    "ACCESS2": 1.0239861917639472, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3932688933983514, 
+    "TRACT": "2228", 
+    "ACCESS2": 0.05741851359160256, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41998408912588203, 
+    "TRACT": "6814", 
+    "ACCESS2": 0.0690550123789262, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3984380345101481, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 1.5233658044640876, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2263672476075818, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 1.1276153796835588, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6262406978408717, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 2.141933770771703, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5689204620716973, 
+    "TRACT": "8381", 
+    "ACCESS2": 0.14888406593650289, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3803187755608771, 
+    "TRACT": "7305", 
+    "ACCESS2": 0.06409222260779632, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4459667413858043, 
+    "TRACT": "2109", 
+    "ACCESS2": 0.07938713612111076, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.952847245682664, 
+    "TRACT": "4607", 
+    "ACCESS2": 3.2177895543179997, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.532362675576369, 
+    "TRACT": "4112", 
+    "ACCESS2": 0.11263691208851184, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6148030552821957, 
+    "TRACT": "3109", 
+    "ACCESS2": 0.18887739297890538, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32322620782349903, 
+    "TRACT": "8314", 
+    "ACCESS2": 0.037747152282498087, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.471318008807929, 
+    "TRACT": "8437", 
+    "ACCESS2": 0.0948370502932218, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4134169614183997, 
+    "TRACT": "6711", 
+    "ACCESS2": 0.0644985950030205, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.561823666279271, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 0.1354882118110949, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5042535195243368, 
+    "TRACT": "4005", 
+    "ACCESS2": 0.09904544518643914, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.620209438936605, 
+    "TRACT": "6915", 
+    "ACCESS2": 0.19828246723477766, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3686137173622692, 
+    "TRACT": "6308", 
+    "ACCESS2": 0.05055138829169659, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4081703076406748, 
+    "TRACT": "2922", 
+    "ACCESS2": 0.06610211411303513, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.265924829061393, 
+    "TRACT": "1006", 
+    "ACCESS2": 0.027476288072330927, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5207250177401499, 
+    "TRACT": "0803", 
+    "ACCESS2": 0.10846771873349426, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27357630584132, 
+    "TRACT": "1701", 
+    "ACCESS2": 0.028125712638078962, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4003231300093873, 
+    "TRACT": "3006", 
+    "ACCESS2": 0.06334348521132963, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2629372966215205, 
+    "TRACT": "6403", 
+    "ACCESS2": 0.024190253220560606, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2922479893281251, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 0.031030509003492312, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4557711580607692, 
+    "TRACT": "8386", 
+    "ACCESS2": 0.08604476783548352, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2701042513295664, 
+    "TRACT": "1801", 
+    "ACCESS2": 0.026458880865385316, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36804179582532753, 
+    "TRACT": "7104", 
+    "ACCESS2": 0.05150031879561947, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3527569238096922, 
+    "TRACT": "8317", 
+    "ACCESS2": 0.04990141423653739, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7711028847803012, 
+    "TRACT": "4803", 
+    "ACCESS2": 0.3811660288137686, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2171344711266707, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 0.017398619017712908, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6153359295385703, 
+    "TRACT": "0817", 
+    "ACCESS2": 0.17563144383903537, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21972230492242895, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 0.017707472268853365, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22464214081216757, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 0.018216338378527257, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48512903016848696, 
+    "TRACT": "6104", 
+    "ACCESS2": 0.09800364704857452, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3364539854598164, 
+    "TRACT": "8079", 
+    "ACCESS2": 0.05139189342164113, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.153011050162708, 
+    "TRACT": "8401", 
+    "ACCESS2": 0.8988757757212437, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4451086391764547, 
+    "TRACT": "6118", 
+    "ACCESS2": 0.07750609523142987, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4512226128999511, 
+    "TRACT": "2405", 
+    "ACCESS2": 0.07710390287080715, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5188700980256218, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 0.11447568954994675, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5099783366881603, 
+    "TRACT": "0623", 
+    "ACCESS2": 0.11031475033857666, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0814253836005774, 
+    "TRACT": "8390", 
+    "ACCESS2": 0.7670086325220501, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26013995525403344, 
+    "TRACT": "8081", 
+    "ACCESS2": 0.027552627076888925, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.223207022451704, 
+    "TRACT": "0304", 
+    "ACCESS2": 1.141887122308917, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5988400627015324, 
+    "TRACT": "0818", 
+    "ACCESS2": 0.16286280058695618, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.335921240995829, 
+    "TRACT": "4913", 
+    "ACCESS2": 0.05028722009856062, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.35508448425854194, 
+    "TRACT": "6608", 
+    "ACCESS2": 0.04633686365079013, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29850359818656547, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.03889484596011051, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3678829435243599, 
+    "TRACT": "2610", 
+    "ACCESS2": 0.050732755831629346, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47485111476864067, 
+    "TRACT": "2423", 
+    "ACCESS2": 0.08872947231500476, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3596533514514511, 
+    "TRACT": "6606", 
+    "ACCESS2": 0.04762686516276186, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1041154312283583, 
+    "TRACT": "3103", 
+    "ACCESS2": 0.8159736524395231, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6519924954637908, 
+    "TRACT": "8365", 
+    "ACCESS2": 0.20003672061899502, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2721789868429249, 
+    "TRACT": "2505", 
+    "ACCESS2": 0.026319744302834094, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7480524927304146, 
+    "TRACT": "4306", 
+    "ACCESS2": 0.31778371932154575, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44014444638438543, 
+    "TRACT": "2406", 
+    "ACCESS2": 0.07302289195764192, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6466228714186945, 
+    "TRACT": "4701", 
+    "ACCESS2": 0.24588317079196007, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3352526639406693, 
+    "TRACT": "1902", 
+    "ACCESS2": 0.042335257844881236, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5424766999112189, 
+    "TRACT": "3818", 
+    "ACCESS2": 0.11980616421603815, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.534857410507594, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 0.16212435392365532, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5518396541522945, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 0.17118640531980822, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4836811916944667, 
+    "TRACT": "0626", 
+    "ACCESS2": 0.09477806302846803, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.42593903833145164, 
+    "TRACT": "7109", 
+    "ACCESS2": 0.07732887655781817, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3832271724646431, 
+    "TRACT": "6714", 
+    "ACCESS2": 0.054713918424321724, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3894118484076198, 
+    "TRACT": "8430", 
+    "ACCESS2": 0.05828432093856162, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3039736736654944, 
+    "TRACT": "2520", 
+    "ACCESS2": 0.0328420483375541, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5887141372939051, 
+    "TRACT": "8357", 
+    "ACCESS2": 0.15301396760885685, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4481357275457738, 
+    "TRACT": "3009", 
+    "ACCESS2": 0.08398755005651266, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32121140489624767, 
+    "TRACT": "1507", 
+    "ACCESS2": 0.03988040899801978, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3797330790554948, 
+    "TRACT": "8305", 
+    "ACCESS2": 0.055766277049899136, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4512349353033636, 
+    "TRACT": "6812", 
+    "ACCESS2": 0.08008340645718386, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4828705617632659, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 0.10950529056978431, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4774402951949055, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 0.104559098675581, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4985550110102477, 
+    "TRACT": "6904", 
+    "ACCESS2": 0.10293654465162855, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3878211624533499, 
+    "TRACT": "7107", 
+    "ACCESS2": 0.05964970548917278, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.44915036234889966, 
+    "TRACT": "2222", 
+    "ACCESS2": 0.0762638886240429, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6162092648545091, 
+    "TRACT": "0816", 
+    "ACCESS2": 0.17632226412752164, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4689399178633836, 
+    "TRACT": "0707", 
+    "ACCESS2": 0.08576782824550969, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37991875736084624, 
+    "TRACT": "7106", 
+    "ACCESS2": 0.0565840970078301, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3522728487760439, 
+    "TRACT": "5704", 
+    "ACCESS2": 0.04620819007363555, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4497034917054773, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 0.09360985361713353, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5480795040090243, 
+    "TRACT": "0611", 
+    "ACCESS2": 0.13794335045572317, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.46039206807043626, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 0.10079730274909351, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6068145138653435, 
+    "TRACT": "4303", 
+    "ACCESS2": 0.1757762603824489, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.354944364918756, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 0.04643837714209742, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36821666024331445, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 0.050191692934175414, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5692597908434303, 
+    "TRACT": "0605", 
+    "ACCESS2": 0.1558472868747633, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.323551719948644, 
+    "TRACT": "5705", 
+    "ACCESS2": 0.03805178813421419, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48320005075827516, 
+    "TRACT": "6103", 
+    "ACCESS2": 0.09872248966085997, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8103849488425476, 
+    "TRACT": "3106", 
+    "ACCESS2": 0.38211800992675526, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4092388631536436, 
+    "TRACT": "8366", 
+    "ACCESS2": 0.06288671138741156, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23224621244644428, 
+    "TRACT": "0901", 
+    "ACCESS2": 0.021116981179898662, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7617404612925587, 
+    "TRACT": "6009", 
+    "ACCESS2": 0.3237775016233834, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41082389987435947, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 0.06688174446880349, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3306037759785185, 
+    "TRACT": "2511", 
+    "ACCESS2": 0.039347433271673185, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4129932646883534, 
+    "TRACT": "2301", 
+    "ACCESS2": 0.06362714296999747, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31964637719722666, 
+    "TRACT": "1903", 
+    "ACCESS2": 0.03813660596814826, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9097145870494405, 
+    "TRACT": "0312", 
+    "ACCESS2": 0.5511914099338323, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3542362054839854, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 0.04721654153768902, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3721363273276203, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 0.053070491494943375, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36853409302899787, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 0.05191411070989683, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7733838502066387, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 0.3994074868748526, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5440826339250482, 
+    "TRACT": "0612", 
+    "ACCESS2": 0.13591048678479142, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3242246395558038, 
+    "TRACT": "5601", 
+    "ACCESS2": 0.03841124882674182, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9819726575956094, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 0.6992163319560663, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8634448132336551, 
+    "TRACT": "3204", 
+    "ACCESS2": 0.436712158358092, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26703331867701113, 
+    "TRACT": "5611", 
+    "ACCESS2": 0.024989482731517014, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9979985892726817, 
+    "TRACT": "0309", 
+    "ACCESS2": 0.7036265028374152, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9302608937751581, 
+    "TRACT": "3405", 
+    "ACCESS2": 0.5263167754816727, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30365304242737756, 
+    "TRACT": "8352", 
+    "ACCESS2": 0.033052515538588526, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6334573530925338, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 2.210596162365836, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9424597373697612, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 0.6494453845027252, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5414942150013532, 
+    "TRACT": "6909", 
+    "ACCESS2": 0.132994886844952, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5381555869681982, 
+    "TRACT": "8363", 
+    "ACCESS2": 0.11438922055845763, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5925203691889613, 
+    "TRACT": "8358", 
+    "ACCESS2": 0.1534683391829919, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.439787321405347, 
+    "TRACT": "6115", 
+    "ACCESS2": 0.07695271982587958, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3881981932539501, 
+    "TRACT": "1603", 
+    "ACCESS2": 0.06361786292024346, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41475021291620656, 
+    "TRACT": "3007", 
+    "ACCESS2": 0.06914757884049308, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6928046764218192, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 0.2713130474959511, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7599451856684056, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 0.3475885033176686, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4899424701597467, 
+    "TRACT": "0702", 
+    "ACCESS2": 0.09314145288501674, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1251942383120126, 
+    "TRACT": "4503", 
+    "ACCESS2": 0.9138042648312982, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4339804260963695, 
+    "TRACT": "5806", 
+    "ACCESS2": 0.07630805942530759, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32094069103361017, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 0.03720513594652859, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8740429833101714, 
+    "TRACT": "0311", 
+    "ACCESS2": 0.5019090625949312, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.422080013159987, 
+    "TRACT": "2408", 
+    "ACCESS2": 0.06668420284816613, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3842190543898564, 
+    "TRACT": "2601", 
+    "ACCESS2": 0.055385852513322745, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2558699209378547, 
+    "TRACT": "1709", 
+    "ACCESS2": 0.0236044680952485, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3040434368249006, 
+    "TRACT": "2514", 
+    "ACCESS2": 0.03285822341346676, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4309875769412008, 
+    "TRACT": "2214", 
+    "ACCESS2": 0.07020980951941133, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36122101140039364, 
+    "TRACT": "1612", 
+    "ACCESS2": 0.051000257356403816, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4023864398168956, 
+    "TRACT": "2302", 
+    "ACCESS2": 0.06016372704843176, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5353424270325224, 
+    "TRACT": "4203", 
+    "ACCESS2": 0.11697819747539032, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24436623674052133, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 0.02253105543563655, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3054726897201906, 
+    "TRACT": "1512", 
+    "ACCESS2": 0.03503555153737572, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6548388059347787, 
+    "TRACT": "3805", 
+    "ACCESS2": 0.20644355736445158, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38760706077588614, 
+    "TRACT": "3005", 
+    "ACCESS2": 0.05853427715646699, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32392465020550143, 
+    "TRACT": "7202", 
+    "ACCESS2": 0.04228634974980141, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5723008693769355, 
+    "TRACT": "3902", 
+    "ACCESS2": 0.13656991717110487, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.38819877908978595, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 0.05887806348583173, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3906879191937946, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 0.05977147723927123, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4733661304737428, 
+    "TRACT": "4903", 
+    "ACCESS2": 0.1099976645461347, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36151383554861927, 
+    "TRACT": "8421", 
+    "ACCESS2": 0.047810252507699255, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5278862349201596, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 0.11289922732322717, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.620227234963001, 
+    "TRACT": "8429", 
+    "ACCESS2": 0.19185943693088997, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40645906291214073, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 0.07980157560712271, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.806455793927177, 
+    "TRACT": "6006", 
+    "ACCESS2": 0.3764522747728623, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3776167503631311, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 0.06723493312797627, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3821054146160549, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.07329278812717291, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4975262420562204, 
+    "TRACT": "0629", 
+    "ACCESS2": 0.10030031795045774, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5025796838357878, 
+    "TRACT": "1401", 
+    "ACCESS2": 0.1278009817669133, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.35362190978279545, 
+    "TRACT": "6610", 
+    "ACCESS2": 0.04632014357434197, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3942739551368847, 
+    "TRACT": "2308", 
+    "ACCESS2": 0.05757469736157708, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3114403056089564, 
+    "TRACT": "5602", 
+    "ACCESS2": 0.03504907121722567, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40280999986856936, 
+    "TRACT": "2211", 
+    "ACCESS2": 0.06087393174373182, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3407841549269387, 
+    "TRACT": "1502", 
+    "ACCESS2": 0.0471778985996154, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5113343793110637, 
+    "TRACT": "4206", 
+    "ACCESS2": 0.10369401517469425, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7545122010602465, 
+    "TRACT": "8396", 
+    "ACCESS2": 0.30103889827163877, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4010512787325523, 
+    "TRACT": "5803", 
+    "ACCESS2": 0.06352511850700183, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5340323275737673, 
+    "TRACT": "0618", 
+    "ACCESS2": 0.12594996372853862, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5714183476454774, 
+    "TRACT": "2435", 
+    "ACCESS2": 0.14436242568444838, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2646674916915458, 
+    "TRACT": "7401", 
+    "ACCESS2": 0.026550655746596586, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3547883238915747, 
+    "TRACT": "2604", 
+    "ACCESS2": 0.04616397689849852, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5315419785636686, 
+    "TRACT": "4105", 
+    "ACCESS2": 0.11089743624414161, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0377543200741453, 
+    "TRACT": "4804", 
+    "ACCESS2": 0.7796239582411179, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41872876818261096, 
+    "TRACT": "6704", 
+    "ACCESS2": 0.06681749355146303, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2921641110571921, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 0.03073055195576658, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3049980151778023, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 0.033666097538476686, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4769137983361075, 
+    "TRACT": "2429", 
+    "ACCESS2": 0.0914750479900266, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31778159253227395, 
+    "TRACT": "6203", 
+    "ACCESS2": 0.03647330936857005, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3657962900364736, 
+    "TRACT": "2925", 
+    "ACCESS2": 0.05068548672444989, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41644334787017745, 
+    "TRACT": "2205", 
+    "ACCESS2": 0.06654424609097656, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4590545525091522, 
+    "TRACT": "8424", 
+    "ACCESS2": 0.09409336348259797, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41679715565909375, 
+    "TRACT": "4906", 
+    "ACCESS2": 0.08068485924371897, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.41114040472797947, 
+    "TRACT": "8414", 
+    "ACCESS2": 0.06746606871884563, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3660968069126114, 
+    "TRACT": "5701", 
+    "ACCESS2": 0.05084871553519374, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23701540060141002, 
+    "TRACT": "0903", 
+    "ACCESS2": 0.021674745349495924, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3506605955526445, 
+    "TRACT": "3102", 
+    "ACCESS2": 1.3132723819369825, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5007506006287349, 
+    "TRACT": "0632", 
+    "ACCESS2": 0.10167099763382825, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4164863356405434, 
+    "TRACT": "8349", 
+    "ACCESS2": 0.06589115207839588, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48232371751344855, 
+    "TRACT": "0511", 
+    "ACCESS2": 0.09770818648755462, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5496175400880483, 
+    "TRACT": "0610", 
+    "ACCESS2": 0.13841733845809312, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.363424043494429, 
+    "TRACT": "6303", 
+    "ACCESS2": 0.0493578909191973, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4325324447372599, 
+    "TRACT": "6709", 
+    "ACCESS2": 0.07109457045980341, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36000225636535377, 
+    "TRACT": "2305", 
+    "ACCESS2": 0.047426342231118884, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.436989007591672, 
+    "TRACT": "8373", 
+    "ACCESS2": 0.07696137284859508, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5206370038037411, 
+    "TRACT": "2432", 
+    "ACCESS2": 0.11379908635807076, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4256821614736902, 
+    "TRACT": "2107", 
+    "ACCESS2": 0.07176492499736321, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36149228819080126, 
+    "TRACT": "2003", 
+    "ACCESS2": 0.048578476639544, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48828936136763784, 
+    "TRACT": "0714", 
+    "ACCESS2": 0.09087560694534721, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.34753791634506487, 
+    "TRACT": "1901", 
+    "ACCESS2": 0.04582192642274298, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7285201031251773, 
+    "TRACT": "2832", 
+    "ACCESS2": 0.2877731863666147, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4276950216383876, 
+    "TRACT": "8369", 
+    "ACCESS2": 0.07171909505234525, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5474153316942187, 
+    "TRACT": "3905", 
+    "ACCESS2": 0.1198537809713338, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4633950626412412, 
+    "TRACT": "2424", 
+    "ACCESS2": 0.08373312046639664, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2801259148757619, 
+    "TRACT": "6407", 
+    "ACCESS2": 0.02773004839174085, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4169713698550366, 
+    "TRACT": "2912", 
+    "ACCESS2": 0.06929924040624738, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6119119141391747, 
+    "TRACT": "0815", 
+    "ACCESS2": 0.1729375196355474, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7023749236464905, 
+    "TRACT": "0318", 
+    "ACCESS2": 0.28820183832863533, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.49000679342549674, 
+    "TRACT": "6111", 
+    "ACCESS2": 0.09829323389647557, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37588343780896677, 
+    "TRACT": "2607", 
+    "ACCESS2": 0.053057278035850926, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4469390583925102, 
+    "TRACT": "6701", 
+    "ACCESS2": 0.07688251199338715, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0302428469942275, 
+    "TRACT": "8306", 
+    "ACCESS2": 0.7898907838805682, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.45725422329901244, 
+    "TRACT": "1607", 
+    "ACCESS2": 0.09127233666391305, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.018089027741929, 
+    "TRACT": "0106", 
+    "ACCESS2": 0.7729541176757648, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.37942704763964574, 
+    "TRACT": "6304", 
+    "ACCESS2": 0.05428496780075563, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6288734291003879, 
+    "TRACT": "5202", 
+    "ACCESS2": 0.24764337292424432, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.540932477951473, 
+    "TRACT": "0408", 
+    "ACCESS2": 0.14799702607336387, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.519157473921253, 
+    "TRACT": "4207", 
+    "ACCESS2": 0.1105996643521626, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6134024635722315, 
+    "TRACT": "0406", 
+    "ACCESS2": 0.206285472697288, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5032407375747991, 
+    "TRACT": "0717", 
+    "ACCESS2": 0.0983829361982176, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28626297306362414, 
+    "TRACT": "1103", 
+    "ACCESS2": 0.03241021193988451, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2717211401367154, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 0.026485284320193522, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.475502097433348, 
+    "TRACT": "6120", 
+    "ACCESS2": 0.08947009388437492, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43091415328423954, 
+    "TRACT": "2427", 
+    "ACCESS2": 0.07091424580740001, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.48062270349969693, 
+    "TRACT": "8346", 
+    "ACCESS2": 0.08929142540927677, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.3404459306632206, 
+    "TRACT": "8411", 
+    "ACCESS2": 4.5316942912671605, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2899979267560948, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 0.03265485994506817, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.33003710730431024, 
+    "TRACT": "5301", 
+    "ACCESS2": 0.04911872353470339, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.47339800897028095, 
+    "TRACT": "2402", 
+    "ACCESS2": 0.08567508328571877, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2939687266840913, 
+    "TRACT": "7206", 
+    "ACCESS2": 0.034007889629060796, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4685775494365463, 
+    "TRACT": "0514", 
+    "ACCESS2": 0.0885159055464661, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3963852909492315, 
+    "TRACT": "4907", 
+    "ACCESS2": 0.07253302399744994, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5708988079896508, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 0.19649264636141756, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5029382362821965, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 0.14291507268125797, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.40662860105299725, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 0.06448750359485128, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.5195227177022606, 
+    "TRACT": "8422", 
+    "ACCESS2": 0.1086416115098052, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6747752376138826, 
+    "TRACT": "8399", 
+    "ACCESS2": 0.23296707863965085, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2636227187389345, 
+    "TRACT": "7504", 
+    "ACCESS2": 0.02693975792761311, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.46082000428871595, 
+    "TRACT": "8310", 
+    "ACCESS2": 0.08060290422803228, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.36667837158989225, 
+    "TRACT": "2909", 
+    "ACCESS2": 0.05072411628574286, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.43313420686542836, 
+    "TRACT": "2410", 
+    "ACCESS2": 0.07068369206618023, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24487245380493336, 
+    "TRACT": "1707", 
+    "ACCESS2": 0.021608604059299288, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2728015020944705, 
+    "TRACT": "0303", 
+    "ACCESS2": 1.263681738183828, 
+    "YEAR": 2016, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.4701533169683129, 
+    "TRACT": "6911", 
+    "ACCESS2": 0.09158642453604454, 
+    "YEAR": 2016, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }
+]

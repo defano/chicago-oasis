@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.32668480736230926, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.0170202377828685, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.8605869000196393, 
+    "YEAR": 2001, 
+    "ACCESS1": 17.741679804968857, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.838305505483962, 
+    "YEAR": 2001, 
+    "ACCESS1": 23.424793790352542, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.498720768580725, 
+    "YEAR": 2001, 
+    "ACCESS1": 28.081425579157635, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7510915769813741, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.180568051046968, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.1921751522645039, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.346618966869816, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.4109966662809308, 
+    "YEAR": 2001, 
+    "ACCESS1": 14.420389341454499, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 4.478594631570963, 
+    "YEAR": 2001, 
+    "ACCESS1": 20.51775408016838, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.4274888836026014, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.39617721429628, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.012135450236712, 
+    "YEAR": 2001, 
+    "ACCESS1": 15.32964866527231, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.816235289471671, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.866301303666972, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.06448390960705429, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.1321405315278374, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.6816424629578722, 
+    "YEAR": 2001, 
+    "ACCESS1": 8.200604351770492, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7223660506741479, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.951110387402318, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3742372465496018, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.0897161517073375, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 21.269487507586383, 
+    "YEAR": 2001, 
+    "ACCESS1": 38.73790450999446, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.0036856761318385, 
+    "YEAR": 2001, 
+    "ACCESS1": 21.884297000817956, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.15373639676038156, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.741619425964561, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.06515910772929613, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.8025590313755231, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 8.3874464060566, 
+    "YEAR": 2001, 
+    "ACCESS1": 28.956025186774156, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.306314935471028, 
+    "YEAR": 2001, 
+    "ACCESS1": 30.289163613417735, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.2868878145323441, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.822645887346736, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.4236076424023665, 
+    "YEAR": 2001, 
+    "ACCESS1": 18.795225380225098, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.1495717542029368, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.106037851587693, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 28.90617188580895, 
+    "YEAR": 2001, 
+    "ACCESS1": 31.635757839005993, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 4.8588095240147675, 
+    "YEAR": 2001, 
+    "ACCESS1": 21.343024835443327, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.2032080487283598, 
+    "YEAR": 2001, 
+    "ACCESS1": 13.330108180613024, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 234.55885714389925, 
+    "YEAR": 2001, 
+    "ACCESS1": 180.69812872579226, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 7.154525109828299, 
+    "YEAR": 2001, 
+    "ACCESS1": 32.4826933982303, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.2839543687882724, 
+    "YEAR": 2001, 
+    "ACCESS1": 17.987948347300247, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7669288877413677, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.7748737342366105, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 6.329326582566245, 
+    "YEAR": 2001, 
+    "ACCESS1": 27.057563578962835, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 19.173800695340795, 
+    "YEAR": 2001, 
+    "ACCESS1": 70.2574637103558, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.6209235282683796, 
+    "YEAR": 2001, 
+    "ACCESS1": 18.959058791557748, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.19986486004888876, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.80999986526818, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 88.73310567222686, 
+    "YEAR": 2001, 
+    "ACCESS1": 115.69725639469918, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.8570546631468904, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.0984391642837155, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 8.323688112264398, 
+    "YEAR": 2001, 
+    "ACCESS1": 34.380717722361155, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7551974944725603, 
+    "YEAR": 2001, 
+    "ACCESS1": 8.62644695786225, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5685990556068051, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.797168285191047, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.3985439985767534, 
+    "YEAR": 2001, 
+    "ACCESS1": 20.920593339204007, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 83.46004434047914, 
+    "YEAR": 2001, 
+    "ACCESS1": 83.13180034971948, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.4344579054150313, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.391715117166491, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 13.790308868051941, 
+    "YEAR": 2001, 
+    "ACCESS1": 40.839061944311034, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.9650112105834647, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.507011165369864, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.220617813683816, 
+    "YEAR": 2001, 
+    "ACCESS1": 9.258618671503108, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5365570093418416, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.870006866906341, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3112977951212223, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.970390346880368, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2537.237709260614, 
+    "YEAR": 2001, 
+    "ACCESS1": 339.5308417255297, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.17615515066938836, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.6436077425614024, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.4786776894632553, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.032260580593661, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.26157881722408927, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.283664884791585, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.294682587926935, 
+    "YEAR": 2001, 
+    "ACCESS1": 27.342622405783374, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.769195843825929, 
+    "YEAR": 2001, 
+    "ACCESS1": 23.31084662177646, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.06817264876393128, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.1631842104766674, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.9710320839913036, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.8369537639642, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.946239930024983, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.984070366694097, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.5943543493821752, 
+    "YEAR": 2001, 
+    "ACCESS1": 24.54085929769031, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.850049333097951, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.443191212611524, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.4029128701966163, 
+    "YEAR": 2001, 
+    "ACCESS1": 21.100697021434673, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.517781752824743, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.139129471356126, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5579466211022392, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.210749621657687, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.4795564829918607, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.155695049385967, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2735117872325247, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.029876837202658, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.1352290264483056, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.061673429881017, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5704044132140118, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.712901953275276, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.48213672008974817, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.356675604039076, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3056688484644593, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.6057531321243035, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.137438257418525, 
+    "YEAR": 2001, 
+    "ACCESS1": 14.404551982602307, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.6053062940301717, 
+    "YEAR": 2001, 
+    "ACCESS1": 8.771961451575926, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.2419977933764434, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.08665763964155, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.4334799170041244, 
+    "YEAR": 2001, 
+    "ACCESS1": 23.763006062649392, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2987647143875938, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.4387418750245673, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.9331205409234067, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.176647932309234, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.27657154160702, 
+    "YEAR": 2001, 
+    "ACCESS1": 35.39301487154591, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.1811742232960871, 
+    "YEAR": 2001, 
+    "ACCESS1": 9.613436626228061, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 49.81807630862159, 
+    "YEAR": 2001, 
+    "ACCESS1": 115.75741111541696, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

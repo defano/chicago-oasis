@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "LEGAL_NAME": "CHICAGO COIN CO INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "CHICAGO COIN CO INC", 
+    "POP_AT_RISK": 30725, 
+    "ZIP": 60638, 
+    "ADDRESS": "6455 W ARCHER AVE", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.784016967, 
+    "LATTITUDE": 41.792189169
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "LEGAL_NAME": "BYUNG K MIN", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "M K JEWELRY", 
+    "POP_AT_RISK": 22258, 
+    "ZIP": 60609, 
+    "ADDRESS": "5401 S WENTWORTH AVE 1ST", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.630404924, 
+    "LATTITUDE": 41.796234875
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer", 
+    "LEGAL_NAME": "KEDZIE KOINS & JEWELRY, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "KEDZIE KOINS & JEWELRY, INC.", 
+    "POP_AT_RISK": 77239, 
+    "ZIP": 60629, 
+    "ADDRESS": "5909 S KEDZIE AVE 1ST", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.703194513, 
+    "LATTITUDE": 41.785940727
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.05763795351355871, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.5358949929750603, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.048913256992301486, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.7658976063261363, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.06656710190906565, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.8552005541582559, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.5928742208726223, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.970071701259028, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.20259946827486655, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.6794706523421865, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 1.7848840306052316, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.347323989860516, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.19109018448759166, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.6886806309623041, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.20516653946087685, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.43019083296185, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.20633008894001514, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.5021706684075578, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.20293894826807735, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.5580593454365361, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.029276027937901527, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.4184282920957856, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.011219293730168507, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.14974062371611901, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.09560058753084974, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.97634099283695, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 3.21810732275483, 
+    "YEAR": 2013, 
+    "ACCESS1": 3.7483001205048936, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.1731327118437027, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.0972579812123402, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.07167868245779178, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9270856716148804, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.09357047575607316, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9670851337492137, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.026924373810223737, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.23185928128710992, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.013551700851290243, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.11641177282083734, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.3103441357636092, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.8383448663631563, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 1.1084123194406557, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.428213456212865, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.08635023362463184, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9740357838716684, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.07172953887806605, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.8881322384604937, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.03329945511642141, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.3159217907235202, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.06846989464319764, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.5846004194103394, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.2946549506672639, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.7139912598233455, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.5285151935728202, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.799470266432357, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.2539003053718592, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.936115951378425, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.23502603072422856, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.873951678166227, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.2613528250767358, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.6141818790426548, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.04139805819968673, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.5750801677966164, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.29771064802360403, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.887807502518626, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.30790991318097394, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.8813751670107406, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.1096873698744677, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.2375998036620672, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.0345286117639469, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.3711657326098423, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.18401227269250459, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.917183252762955, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.03523040122916156, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.45956736771183926, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.08324965113568646, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.1891538579049108, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.17665800281029154, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.3264514222221453, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 3.9210167223828063, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.556745063272048, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.0640768139765743, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9463031611572024, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.4037142316623671, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.832681902022377, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.4274505265930678, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.1635407910992632, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.11043878495383905, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.2424056893433613, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.15183865428525395, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9538802774413485, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.04876855460085777, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.3823582532545752, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.04201110366150881, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.6110342338266288, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.08528605314975377, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.8246427340169674, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.2198082824720602, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.0954808559471014, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.0913402342594912, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.6032925208740918, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.05926666322787777, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.344226123993301, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.019473899320800063, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.19726504083516005, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.1156366110334683, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.316017968060066, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.3556210556312681, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.3067790584833205, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.015179073946582274, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.17404005677661244, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.07012069618915755, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.6479405315580934, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.021954609188491937, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.29624395782489577, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.18393522004668844, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.7666699089591023, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.11629755876058309, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.7619861071071177, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 1.1827432183652284, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.720091853557747, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.12128969337509889, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.920328861097326, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 6.772131382182581, 
+    "YEAR": 2013, 
+    "ACCESS1": 5.849978606494582, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.17762980990930466, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.1874213172777592, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.04037460585568951, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.491969818965468, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 11.724224509439896, 
+    "YEAR": 2013, 
+    "ACCESS1": 9.925371859533271, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.6787760811972837, 
+    "YEAR": 2013, 
+    "ACCESS1": 2.3043625515457986, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 5.918440609587947, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.596326707304956, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.11702250173033692, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.9038988701882973, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 1.1071196349051344, 
+    "YEAR": 2013, 
+    "ACCESS1": 3.300625962506127, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.25526747894726753, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.1266422031671806, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.2727532357723353, 
+    "YEAR": 2013, 
+    "ACCESS1": 1.8036801372266975, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.97524531331594, 
+    "YEAR": 2013, 
+    "ACCESS1": 4.031436806197158, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.01675053743565194, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.2587747419938612, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.05187203475583127, 
+    "YEAR": 2013, 
+    "ACCESS1": 0.3942539310146608, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.47154051424860355, 
+    "YEAR": 2013, 
+    "ACCESS1": 3.333412858157373, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 1.5358327742911666, 
+    "YEAR": 2013, 
+    "ACCESS1": 3.4309256391071115, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Airport Pushcart Liquor Midway - Class A", 
+    "ACCESS2": 0.4365691643810169, 
+    "YEAR": 2013, 
+    "ACCESS1": 3.673330816212115, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

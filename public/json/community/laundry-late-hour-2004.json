@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 21.705585453184405, 
+    "YEAR": 2004, 
+    "ACCESS1": 66.84466449739395, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 55.35996785408028, 
+    "YEAR": 2004, 
+    "ACCESS1": 147.43015612657607, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 86.23078811506673, 
+    "YEAR": 2004, 
+    "ACCESS1": 194.84968786128184, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 114.02792645510887, 
+    "YEAR": 2004, 
+    "ACCESS1": 276.90131367090544, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 131.69591148742066, 
+    "YEAR": 2004, 
+    "ACCESS1": 204.41532344303133, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 353.668354173223, 
+    "YEAR": 2004, 
+    "ACCESS1": 290.95523776023333, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 322.82466350193647, 
+    "YEAR": 2004, 
+    "ACCESS1": 296.8193972825779, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 36.82593905857214, 
+    "YEAR": 2004, 
+    "ACCESS1": 158.77096013310955, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 266.20157566199447, 
+    "YEAR": 2004, 
+    "ACCESS1": 233.82570801652497, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 88.40429647725274, 
+    "YEAR": 2004, 
+    "ACCESS1": 212.22021659273298, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 10.463976408092858, 
+    "YEAR": 2004, 
+    "ACCESS1": 61.82828886509381, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 1.505744528888573, 
+    "YEAR": 2004, 
+    "ACCESS1": 14.245227038677788, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 71.6073099156467, 
+    "YEAR": 2004, 
+    "ACCESS1": 132.55519301613907, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 33.07805322770794, 
+    "YEAR": 2004, 
+    "ACCESS1": 93.6814318563385, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 18.082696620870422, 
+    "YEAR": 2004, 
+    "ACCESS1": 85.69159955326407, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 264.27424970269544, 
+    "YEAR": 2004, 
+    "ACCESS1": 242.5292932893468, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 190.452084576429, 
+    "YEAR": 2004, 
+    "ACCESS1": 232.94003594308126, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 11.91618249103595, 
+    "YEAR": 2004, 
+    "ACCESS1": 31.639339814235605, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 3.418348124356743, 
+    "YEAR": 2004, 
+    "ACCESS1": 13.644650938264252, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 217.5817764842044, 
+    "YEAR": 2004, 
+    "ACCESS1": 247.4086345839259, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 200.64353062441813, 
+    "YEAR": 2004, 
+    "ACCESS1": 363.2966317576021, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 33.99414197297966, 
+    "YEAR": 2004, 
+    "ACCESS1": 131.7836627379939, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 62.87323452139212, 
+    "YEAR": 2004, 
+    "ACCESS1": 179.23639002493394, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 10.397706181826365, 
+    "YEAR": 2004, 
+    "ACCESS1": 35.98692763960371, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 13.619905215987991, 
+    "YEAR": 2004, 
+    "ACCESS1": 70.87363914120944, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 59.025514586284686, 
+    "YEAR": 2004, 
+    "ACCESS1": 186.34125808190117, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 188.86930588440876, 
+    "YEAR": 2004, 
+    "ACCESS1": 288.26959697756314, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 1036.4309874456421, 
+    "YEAR": 2004, 
+    "ACCESS1": 714.8665065643654, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 206.64950763872474, 
+    "YEAR": 2004, 
+    "ACCESS1": 321.5463703548015, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 41.10080874428396, 
+    "YEAR": 2004, 
+    "ACCESS1": 164.63561629982672, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 10.136367594677775, 
+    "YEAR": 2004, 
+    "ACCESS1": 72.85101443215079, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 57.904786009898345, 
+    "YEAR": 2004, 
+    "ACCESS1": 211.962730680001, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 685.0133334464667, 
+    "YEAR": 2004, 
+    "ACCESS1": 645.4931594675814, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 122.9856488524743, 
+    "YEAR": 2004, 
+    "ACCESS1": 234.69671204862271, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 8.133140182912676, 
+    "YEAR": 2004, 
+    "ACCESS1": 41.239976787406825, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 152.0117680036965, 
+    "YEAR": 2004, 
+    "ACCESS1": 357.89120602774284, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 13.125161033499777, 
+    "YEAR": 2004, 
+    "ACCESS1": 68.58631871153672, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 165.1655732782139, 
+    "YEAR": 2004, 
+    "ACCESS1": 269.3961020942141, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 65.71450062126311, 
+    "YEAR": 2004, 
+    "ACCESS1": 166.3806211937012, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 61.95878203409109, 
+    "YEAR": 2004, 
+    "ACCESS1": 114.77665858728119, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 236.45879815031654, 
+    "YEAR": 2004, 
+    "ACCESS1": 225.74522663753908, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 104.54606535457971, 
+    "YEAR": 2004, 
+    "ACCESS1": 353.28395947705286, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 2955.8168289689766, 
+    "YEAR": 2004, 
+    "ACCESS1": 296.51855067320827, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 142.73008752981428, 
+    "YEAR": 2004, 
+    "ACCESS1": 285.3938808662475, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 41.89323625215588, 
+    "YEAR": 2004, 
+    "ACCESS1": 115.67793855659109, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 8.611533019161019, 
+    "YEAR": 2004, 
+    "ACCESS1": 43.533601490640905, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 6.532072267728412, 
+    "YEAR": 2004, 
+    "ACCESS1": 63.96195845118422, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 33.32127609039278, 
+    "YEAR": 2004, 
+    "ACCESS1": 85.19513795252578, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 81.73198076148918, 
+    "YEAR": 2004, 
+    "ACCESS1": 297.7211017522151, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 5.981531820425181, 
+    "YEAR": 2004, 
+    "ACCESS1": 39.47636688576964, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 11.70486288555131, 
+    "YEAR": 2004, 
+    "ACCESS1": 37.81359201694867, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 17.166602715551225, 
+    "YEAR": 2004, 
+    "ACCESS1": 29.268515252158952, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 381.78397870270976, 
+    "YEAR": 2004, 
+    "ACCESS1": 322.4102171238893, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 82.56012145405553, 
+    "YEAR": 2004, 
+    "ACCESS1": 267.6612968088973, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 2.6424399043870435, 
+    "YEAR": 2004, 
+    "ACCESS1": 16.781192900857206, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 114.02884811507207, 
+    "YEAR": 2004, 
+    "ACCESS1": 140.88860190670587, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 14.861670253968976, 
+    "YEAR": 2004, 
+    "ACCESS1": 54.765211663626516, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 382.4655341531784, 
+    "YEAR": 2004, 
+    "ACCESS1": 375.4675158321352, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 20.504119854194315, 
+    "YEAR": 2004, 
+    "ACCESS1": 83.42097120520172, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 249.28126920031067, 
+    "YEAR": 2004, 
+    "ACCESS1": 450.67605685044947, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 149.0822165247658, 
+    "YEAR": 2004, 
+    "ACCESS1": 145.07592872427884, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 22.762723962414512, 
+    "YEAR": 2004, 
+    "ACCESS1": 91.30834007763733, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 30.694516333144346, 
+    "YEAR": 2004, 
+    "ACCESS1": 111.96994769503107, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 8.051064554697021, 
+    "YEAR": 2004, 
+    "ACCESS1": 52.663899676919876, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 32.241422840073206, 
+    "YEAR": 2004, 
+    "ACCESS1": 151.21424749680327, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 48.81265387787135, 
+    "YEAR": 2004, 
+    "ACCESS1": 127.38073425142892, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 39.53828859615899, 
+    "YEAR": 2004, 
+    "ACCESS1": 81.95032587898727, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 13.378620732254895, 
+    "YEAR": 2004, 
+    "ACCESS1": 72.85116834455081, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 224.81347180370997, 
+    "YEAR": 2004, 
+    "ACCESS1": 256.53291521086203, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 54.976625445399044, 
+    "YEAR": 2004, 
+    "ACCESS1": 112.18395661903766, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 319.28365125109497, 
+    "YEAR": 2004, 
+    "ACCESS1": 265.62923722191147, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 681.8496106985547, 
+    "YEAR": 2004, 
+    "ACCESS1": 480.94853004567943, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 3.3305401816452758, 
+    "YEAR": 2004, 
+    "ACCESS1": 30.685449206121103, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 19.20355896523527, 
+    "YEAR": 2004, 
+    "ACCESS1": 49.64708732558222, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 117.54178064828616, 
+    "YEAR": 2004, 
+    "ACCESS1": 379.1682552620991, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 328.8156802290209, 
+    "YEAR": 2004, 
+    "ACCESS1": 250.74144923457325, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "ACCESS2": 588.5950131494145, 
+    "YEAR": 2004, 
+    "ACCESS1": 695.306841280116, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

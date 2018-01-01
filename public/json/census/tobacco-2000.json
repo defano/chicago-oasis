@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.055068723240666, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 18.55867184736312, 
+    "YEAR": 2000, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.30942493349975, 
+    "TRACT": "4003", 
+    "ACCESS2": 3.833527716276378, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 14.461867503501695, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 11.660355383947733, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 14.082010027322823, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 10.758531458514714, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.844138671786358, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 0.8837840531920316, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.660561018348879, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 0.8148727394682806, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.185172542056279, 
+    "TRACT": "0705", 
+    "ACCESS2": 3.5414844170762643, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.684392032480453, 
+    "TRACT": "8387", 
+    "ACCESS2": 13.350551992032509, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.103507390177821, 
+    "TRACT": "4406", 
+    "ACCESS2": 1.8572100435289818, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.644852607783871, 
+    "TRACT": "7113", 
+    "ACCESS2": 1.2251311605648505, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 9.49610050987389, 
+    "TRACT": "3301", 
+    "ACCESS2": 3.2400770104632923, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.812056522753931, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 1.5273814891749242, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.29836727587392, 
+    "TRACT": "8343", 
+    "ACCESS2": 2.0332363312789057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.398332543807365, 
+    "TRACT": "6708", 
+    "ACCESS2": 5.186124039429271, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.234666594961253, 
+    "TRACT": "1202", 
+    "ACCESS2": 1.4620665195640665, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.648135790494855, 
+    "TRACT": "7102", 
+    "ACCESS2": 3.0944552735956514, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.860817911806225, 
+    "TRACT": "4107", 
+    "ACCESS2": 1.7958467565039626, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.4491913985552305, 
+    "TRACT": "1002", 
+    "ACCESS2": 9.498126324258187, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.234920052305933, 
+    "TRACT": "0712", 
+    "ACCESS2": 3.5273990329669034, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 12.647630146502433, 
+    "TRACT": "8331", 
+    "ACCESS2": 6.375949822709506, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.088943511134257, 
+    "TRACT": "0401", 
+    "ACCESS2": 6.001980634541082, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.024597791079186, 
+    "TRACT": "1702", 
+    "ACCESS2": 1.1218332529045074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.355950112744012, 
+    "TRACT": "7304", 
+    "ACCESS2": 1.3617301477478727, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.561164819229894, 
+    "TRACT": "8382", 
+    "ACCESS2": 3.931993354052535, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.997530435655655, 
+    "TRACT": "1404", 
+    "ACCESS2": 4.9400859708910785, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.794750479992603, 
+    "TRACT": "6903", 
+    "ACCESS2": 7.788021803140758, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.83041550727413, 
+    "TRACT": "3108", 
+    "ACCESS2": 9.795848160326571, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 11.349200996112438, 
+    "TRACT": "4208", 
+    "ACCESS2": 19.692146178197326, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.19332953647908, 
+    "TRACT": "0609", 
+    "ACCESS2": 2.1410542622496695, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.545607994072493, 
+    "TRACT": "6914", 
+    "ACCESS2": 3.243161128361863, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.600367548865655, 
+    "TRACT": "6309", 
+    "ACCESS2": 1.6121431769915209, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.285325894286593, 
+    "TRACT": "6408", 
+    "ACCESS2": 0.937483598151629, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.666342377860344, 
+    "TRACT": "4606", 
+    "ACCESS2": 0.8449726978397746, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.54307111357485, 
+    "TRACT": "6809", 
+    "ACCESS2": 5.531537555680515, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.0763279256239127, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.25385219098272666, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.3001576699985202, 
+    "TRACT": "5206", 
+    "ACCESS2": 0.3478758401040775, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.206121878812432, 
+    "TRACT": "4004", 
+    "ACCESS2": 3.163396906202261, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.251052486583572, 
+    "TRACT": "8434", 
+    "ACCESS2": 1.8839929604413772, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.157239660406966, 
+    "TRACT": "4802", 
+    "ACCESS2": 2.6069927157790382, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.808414587169706, 
+    "TRACT": "6702", 
+    "ACCESS2": 3.9385135365119033, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.922946583438906, 
+    "TRACT": "1704", 
+    "ACCESS2": 0.7042189997906132, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.726364397679987, 
+    "TRACT": "2203", 
+    "ACCESS2": 10.26207476818813, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.326946485532699, 
+    "TRACT": "1007", 
+    "ACCESS2": 0.9752756114428323, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.702143666502703, 
+    "TRACT": "0622", 
+    "ACCESS2": 3.8013459340198943, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.126129098330672, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.8882490144675786, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.995289228880068, 
+    "TRACT": "0205", 
+    "ACCESS2": 6.610076245148586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.147680783282961, 
+    "TRACT": "0608", 
+    "ACCESS2": 2.1349785991029213, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.671167284877085, 
+    "TRACT": "4409", 
+    "ACCESS2": 4.026042534358184, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.56602616951699, 
+    "TRACT": "3511", 
+    "ACCESS2": 1.8170065510540863, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.448059359792208, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.44827554835896055, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.474955710987567, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.4555920561188911, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.7905896703310535, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.6257925709149987, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.18894766068814, 
+    "TRACT": "8400", 
+    "ACCESS2": 7.818860023165838, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.229648479816285, 
+    "TRACT": "0510", 
+    "ACCESS2": 5.687380804134144, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.141119438851296, 
+    "TRACT": "4109", 
+    "ACCESS2": 1.3166345214594735, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.074234073757251, 
+    "TRACT": "2506", 
+    "ACCESS2": 1.9107344046198946, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.325481816837802, 
+    "TRACT": "4307", 
+    "ACCESS2": 1.1014423924881285, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.737727503091714, 
+    "TRACT": "8403", 
+    "ACCESS2": 3.0605010875027547, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.604792588871977, 
+    "TRACT": "0305", 
+    "ACCESS2": 5.765816074420375, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.413091823091731, 
+    "TRACT": "8420", 
+    "ACCESS2": 2.5350785605073076, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.417161634932904, 
+    "TRACT": "7303", 
+    "ACCESS2": 1.13472552741708, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.8053647856534285, 
+    "TRACT": "4912", 
+    "ACCESS2": 1.836469175945943, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.577198113882412, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 5.735093395742967, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.892600820708973, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 8.098260052639036, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.044008222169662, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 4.826794473902973, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.036263212767352, 
+    "TRACT": "2828", 
+    "ACCESS2": 3.4639503217919794, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.718186070673875, 
+    "TRACT": "2422", 
+    "ACCESS2": 8.142495958085561, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.333224610707518, 
+    "TRACT": "6401", 
+    "ACCESS2": 0.8956883502323186, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.642130672792727, 
+    "TRACT": "6605", 
+    "ACCESS2": 1.9270749905357893, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.530364795243996, 
+    "TRACT": "8431", 
+    "ACCESS2": 4.074556693505113, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.516337333375608, 
+    "TRACT": "5002", 
+    "ACCESS2": 0.9444434695116205, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.7427359179176, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 1.4435380024859332, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.199043060473854, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 1.1558886302185023, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.843821196865948, 
+    "TRACT": "4204", 
+    "ACCESS2": 18.00874765407092, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.6855284194803635, 
+    "TRACT": "5201", 
+    "ACCESS2": 0.43595500586931324, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.66735763001525, 
+    "TRACT": "1004", 
+    "ACCESS2": 0.8576231759139031, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.475765554332628, 
+    "TRACT": "1506", 
+    "ACCESS2": 1.3370944744419546, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.604513969949648, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 14.95237348637624, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.182174784725156, 
+    "TRACT": "1908", 
+    "ACCESS2": 2.4938223717096357, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 6.785588835710292, 
+    "TRACT": "7108", 
+    "ACCESS2": 2.0310513461694755, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.765918092647505, 
+    "TRACT": "0703", 
+    "ACCESS2": 3.1065863970539516, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.02210026003185, 
+    "TRACT": "5607", 
+    "ACCESS2": 0.703574242981448, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.471708586178913, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 15.886833393573168, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.552808487515239, 
+    "TRACT": "4403", 
+    "ACCESS2": 1.951900567840641, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.244631526257452, 
+    "TRACT": "2809", 
+    "ACCESS2": 3.499061512625423, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.276326037108573, 
+    "TRACT": "3012", 
+    "ACCESS2": 3.527785427187938, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.638411446387472, 
+    "TRACT": "6719", 
+    "ACCESS2": 4.907923220760977, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.758328788429307, 
+    "TRACT": "8340", 
+    "ACCESS2": 1.4748295899528094, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.0097983063663807, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.2922775218102193, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.40845154028569, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.41588967410528865, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.557783137944284, 
+    "TRACT": "6813", 
+    "ACCESS2": 4.5029195828259825, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.4104461513450337, 
+    "TRACT": "5204", 
+    "ACCESS2": 0.3688897721866622, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.66303215682432, 
+    "TRACT": "8378", 
+    "ACCESS2": 4.027610363098764, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.723780360526446, 
+    "TRACT": "0604", 
+    "ACCESS2": 6.721044151315301, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.453516469903709, 
+    "TRACT": "3510", 
+    "ACCESS2": 1.6860052836928012, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.02758465391664, 
+    "TRACT": "8356", 
+    "ACCESS2": 2.487938237852416, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.148595477822841, 
+    "TRACT": "0101", 
+    "ACCESS2": 35.183528931963814, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.6489651606704, 
+    "TRACT": "4108", 
+    "ACCESS2": 1.6401796934596873, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.857225694439816, 
+    "TRACT": "8367", 
+    "ACCESS2": 3.1549893489107927, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.92378315278889, 
+    "TRACT": "8432", 
+    "ACCESS2": 6.115973246409702, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.910343587398052, 
+    "TRACT": "1301", 
+    "ACCESS2": 2.5590590485996736, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.069731274728886, 
+    "TRACT": "4304", 
+    "ACCESS2": 11.287588738891849, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.624106278085515, 
+    "TRACT": "2306", 
+    "ACCESS2": 20.812018997885016, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.227787466327435, 
+    "TRACT": "8339", 
+    "ACCESS2": 0.6324076686403511, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.837041591924951, 
+    "TRACT": "0501", 
+    "ACCESS2": 6.321247866728545, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.450292866597804, 
+    "TRACT": "4605", 
+    "ACCESS2": 1.2921548266855858, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.692281479225896, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 21.268678425549954, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.181720401377872, 
+    "TRACT": "2510", 
+    "ACCESS2": 20.32135842284632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.732464419597447, 
+    "TRACT": "3011", 
+    "ACCESS2": 2.8497471229698945, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.110236699450447, 
+    "TRACT": "5003", 
+    "ACCESS2": 0.721383201121142, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.019704336509104, 
+    "TRACT": "8351", 
+    "ACCESS2": 3.3770370786367883, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.467778615067278, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 7.6239448332674105, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.684956943722205, 
+    "TRACT": "5608", 
+    "ACCESS2": 0.5968507643140383, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.524532102253428, 
+    "TRACT": "6806", 
+    "ACCESS2": 9.530240997548617, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.351593251123216, 
+    "TRACT": "3602", 
+    "ACCESS2": 1.669313829510134, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.69039343544629, 
+    "TRACT": "2804", 
+    "ACCESS2": 9.125797456658674, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.487473539695538, 
+    "TRACT": "1609", 
+    "ACCESS2": 5.4791496360816465, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.234251835036853, 
+    "TRACT": "3801", 
+    "ACCESS2": 1.630909575700487, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.950775844031665, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 1.1140448963554341, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.192469022562017, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 1.8266532718908202, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.534240950402434, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 1.2227166733429766, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.213494331455641, 
+    "TRACT": "5610", 
+    "ACCESS2": 0.4751964410126848, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 7.3989579334436035, 
+    "TRACT": "7101", 
+    "ACCESS2": 2.67756404066629, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.315914925512777, 
+    "TRACT": "5907", 
+    "ACCESS2": 4.077775210553655, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.230525342622475, 
+    "TRACT": "6504", 
+    "ACCESS2": 1.8907273462916976, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.226883690005029, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 0.5327869617914248, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.823162271905751, 
+    "TRACT": "3406", 
+    "ACCESS2": 3.618692714807818, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.805291182922992, 
+    "TRACT": "6114", 
+    "ACCESS2": 2.1369294747618857, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.405617195544162, 
+    "TRACT": "1405", 
+    "ACCESS2": 18.10592122348609, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.9586531508513865, 
+    "TRACT": "4111", 
+    "ACCESS2": 2.1728367369948764, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.66543226457314, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 16.51730396890393, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.577745111156614, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 3.352269698644348, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.40262719146064, 
+    "TRACT": "2215", 
+    "ACCESS2": 8.543441112149699, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.979832137798893, 
+    "TRACT": "2513", 
+    "ACCESS2": 1.8451848207965917, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.224307260174163, 
+    "TRACT": "1302", 
+    "ACCESS2": 3.1517084448242314, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.900009339066623, 
+    "TRACT": "0314", 
+    "ACCESS2": 2.0061347187222323, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.474733823471249, 
+    "TRACT": "0625", 
+    "ACCESS2": 22.09438380734963, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.464580382218445, 
+    "TRACT": "8392", 
+    "ACCESS2": 2.3660810191212516, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.580755056838153, 
+    "TRACT": "5807", 
+    "ACCESS2": 1.8525824694343294, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.982590851673935, 
+    "TRACT": "0502", 
+    "ACCESS2": 6.193534197473117, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.62665637437228, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 1.1319780990895885, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.437465738468496, 
+    "TRACT": "3802", 
+    "ACCESS2": 1.7671132522699322, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.6594053662323187, 
+    "TRACT": "7708", 
+    "ACCESS2": 0.36950056265499615, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.376077871648736, 
+    "TRACT": "2433", 
+    "ACCESS2": 43.999280837853284, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.235398443752376, 
+    "TRACT": "8360", 
+    "ACCESS2": 1.6750612898421786, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 17.236510099465576, 
+    "TRACT": "2819", 
+    "ACCESS2": 18.473298266192625, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.544617413064725, 
+    "TRACT": "6913", 
+    "ACCESS2": 3.0159015197456904, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.749881725847974, 
+    "TRACT": "4102", 
+    "ACCESS2": 1.6119710079700382, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.996998256877658, 
+    "TRACT": "2714", 
+    "ACCESS2": 2.791944558841632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.564876013298516, 
+    "TRACT": "8308", 
+    "ACCESS2": 51.03004970645856, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 23.387819573898433, 
+    "TRACT": "0801", 
+    "ACCESS2": 135.7848830556922, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.563164417531633, 
+    "TRACT": "2303", 
+    "ACCESS2": 6.734583401470546, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.8609889879373, 
+    "TRACT": "4202", 
+    "ACCESS2": 3.9660959654880603, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.789961526072968, 
+    "TRACT": "3817", 
+    "ACCESS2": 2.1676937145027737, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.061279856714687, 
+    "TRACT": "9801", 
+    "ACCESS2": 0.7549345751676568, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.813726655230152, 
+    "TRACT": "2414", 
+    "ACCESS2": 32.62686106374902, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.711076490519545, 
+    "TRACT": "6611", 
+    "ACCESS2": 2.3193414913407975, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.431964737603178, 
+    "TRACT": "1703", 
+    "ACCESS2": 0.8811647776765554, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.875179814949107, 
+    "TRACT": "2309", 
+    "ACCESS2": 4.8825314556283645, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.30611136659505, 
+    "TRACT": "1402", 
+    "ACCESS2": 5.609252795810509, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.365702273018328, 
+    "TRACT": "5603", 
+    "ACCESS2": 0.8033889777029349, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.213776724622504, 
+    "TRACT": "8418", 
+    "ACCESS2": 21.623952071409292, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.7947314711103965, 
+    "TRACT": "7203", 
+    "ACCESS2": 0.8972181110672055, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.670033166147316, 
+    "TRACT": "0508", 
+    "ACCESS2": 8.123487334816215, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.653302288997588, 
+    "TRACT": "3016", 
+    "ACCESS2": 1.9742292830247998, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.482601638163484, 
+    "TRACT": "3901", 
+    "ACCESS2": 1.2833716555271943, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 11.201911315849337, 
+    "TRACT": "0718", 
+    "ACCESS2": 4.599901096952136, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.019348573641574, 
+    "TRACT": "8395", 
+    "ACCESS2": 2.127163321492479, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.735727607416732, 
+    "TRACT": "5804", 
+    "ACCESS2": 1.3494277002179889, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.114589744204055, 
+    "TRACT": "1204", 
+    "ACCESS2": 1.97413175643089, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.122950173378357, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 1.650042761782575, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.297220310860857, 
+    "TRACT": "8439", 
+    "ACCESS2": 1.7392252995511686, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.152969935130294, 
+    "TRACT": "0628", 
+    "ACCESS2": 4.066000894828632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.498331141724839, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 1.859737239248412, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.975306345612857, 
+    "TRACT": "6117", 
+    "ACCESS2": 2.5016566870156542, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.56060237768993, 
+    "TRACT": "2428", 
+    "ACCESS2": 3.84082279014754, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.649740827929856, 
+    "TRACT": "5103", 
+    "ACCESS2": 1.043902788650389, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.79636378293832, 
+    "TRACT": "6202", 
+    "ACCESS2": 1.0178498876799944, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.967248714004779, 
+    "TRACT": "2204", 
+    "ACCESS2": 18.15631743774556, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.918913265267323, 
+    "TRACT": "2001", 
+    "ACCESS2": 2.933296850213812, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.362826762384588, 
+    "TRACT": "2508", 
+    "ACCESS2": 9.131336473944916, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.228708537320967, 
+    "TRACT": "5905", 
+    "ACCESS2": 2.4367837491182756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.332672064291314, 
+    "TRACT": "0317", 
+    "ACCESS2": 3.8595298368722015, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.679786994739143, 
+    "TRACT": "2916", 
+    "ACCESS2": 3.8605393050319674, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.689408117033043, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 2.351116335070626, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.067322518746074, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 2.6052698361137407, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.1414728600341615, 
+    "TRACT": "6501", 
+    "ACCESS2": 1.3632918071645057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.417348116105959, 
+    "TRACT": "4407", 
+    "ACCESS2": 2.549984986926943, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.439369241994113, 
+    "TRACT": "2603", 
+    "ACCESS2": 2.5074337762427588, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.824799768517458, 
+    "TRACT": "6705", 
+    "ACCESS2": 4.730027635218319, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 2.8879147928894087, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 0.22632879876064224, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.447151364102714, 
+    "TRACT": "2101", 
+    "ACCESS2": 6.344292395579536, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.161631008738594, 
+    "TRACT": "7110", 
+    "ACCESS2": 1.533670089185418, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.567367014829571, 
+    "TRACT": "2212", 
+    "ACCESS2": 9.485821741320168, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.045183344915452, 
+    "TRACT": "0505", 
+    "ACCESS2": 5.787676261923847, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.862845503093986, 
+    "TRACT": "6004", 
+    "ACCESS2": 4.2692040720804645, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.56383460717848, 
+    "TRACT": "2002", 
+    "ACCESS2": 3.8438685069365612, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.579509171698594, 
+    "TRACT": "3814", 
+    "ACCESS2": 1.9730642520746486, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.424700634032813, 
+    "TRACT": "0603", 
+    "ACCESS2": 8.975649819998079, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.025461384828127, 
+    "TRACT": "3904", 
+    "ACCESS2": 1.671599857648698, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.135163587915223, 
+    "TRACT": "4610", 
+    "ACCESS2": 0.6018715921137785, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.767438058286936, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 2.1588885348335087, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.459290561759096, 
+    "TRACT": "6406", 
+    "ACCESS2": 0.5708277204747517, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.168691679991259, 
+    "TRACT": "2713", 
+    "ACCESS2": 2.8389292275463536, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.448722065239558, 
+    "TRACT": "8415", 
+    "ACCESS2": 8.964821789397417, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.10139362087569, 
+    "TRACT": "7503", 
+    "ACCESS2": 0.6309184438898414, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.798416342794543, 
+    "TRACT": "1909", 
+    "ACCESS2": 3.045129299884919, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.096335802549726, 
+    "TRACT": "2606", 
+    "ACCESS2": 2.2215357870319163, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.302492137663233, 
+    "TRACT": "8307", 
+    "ACCESS2": 3.4865426013701266, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.253393046675725, 
+    "TRACT": "6706", 
+    "ACCESS2": 5.386203053314741, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 13.378722574161724, 
+    "TRACT": "1604", 
+    "ACCESS2": 21.18144782909801, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.566726474661799, 
+    "TRACT": "5604", 
+    "ACCESS2": 0.8774854419284371, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.122053723479439, 
+    "TRACT": "1102", 
+    "ACCESS2": 1.4132767097988512, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.842033960657163, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 2.3214197205561566, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.450111899112277, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 2.091201600082222, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.4967752305460755, 
+    "TRACT": "5203", 
+    "ACCESS2": 0.3996088097648676, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.116156292023991, 
+    "TRACT": "6805", 
+    "ACCESS2": 8.905831697283515, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 18.171702601298847, 
+    "TRACT": "0810", 
+    "ACCESS2": 25.614551921321553, 
+    "YEAR": 2000, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.912215659635854, 
+    "TRACT": "5801", 
+    "ACCESS2": 2.1004264262169445, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.911088855528652, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 2.493065346502914, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.209903151407937, 
+    "TRACT": "6110", 
+    "ACCESS2": 2.577260795737613, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.261705556696295, 
+    "TRACT": "8438", 
+    "ACCESS2": 2.7938695944872496, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.691058564308658, 
+    "TRACT": "6121", 
+    "ACCESS2": 3.750825561513783, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.518672990058928, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 10.507754799657803, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.401278221912708, 
+    "TRACT": "6305", 
+    "ACCESS2": 2.0837522691536154, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.656775629098337, 
+    "TRACT": "7506", 
+    "ACCESS2": 1.5517362624649236, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.178839473453612, 
+    "TRACT": "8412", 
+    "ACCESS2": 8.851647668613221, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.940168880365466, 
+    "TRACT": "2412", 
+    "ACCESS2": 6.458968567178426, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.427517256480089, 
+    "TRACT": "0630", 
+    "ACCESS2": 2.9952942057352563, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.902585894719856, 
+    "TRACT": "8383", 
+    "ACCESS2": 11.37978920441058, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.425621631026382, 
+    "TRACT": "7307", 
+    "ACCESS2": 6.2543475837242735, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.666292579855218, 
+    "TRACT": "3501", 
+    "ACCESS2": 1.799372587372371, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.246712090411918, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 2.0866028966546333, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.687342227231142, 
+    "TRACT": "0202", 
+    "ACCESS2": 18.797048781034572, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.2913384649195, 
+    "TRACT": "4904", 
+    "ACCESS2": 3.2566667706264507, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.159603065216729, 
+    "TRACT": "3907", 
+    "ACCESS2": 1.2270117116660644, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.557369277131223, 
+    "TRACT": "7001", 
+    "ACCESS2": 2.1327167307496544, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.360341998713158, 
+    "TRACT": "2307", 
+    "ACCESS2": 6.995713949086571, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.741442688422328, 
+    "TRACT": "8371", 
+    "ACCESS2": 3.025572768405756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.416414300183929, 
+    "TRACT": "8347", 
+    "ACCESS2": 17.547136750767493, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 11.781424714025865, 
+    "TRACT": "2430", 
+    "ACCESS2": 6.0971903292652145, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.537443122291544, 
+    "TRACT": "7404", 
+    "ACCESS2": 0.39662289594738304, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.733630812470777, 
+    "TRACT": "4911", 
+    "ACCESS2": 14.708673408455391, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.863483143293394, 
+    "TRACT": "8398", 
+    "ACCESS2": 9.61590783704697, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.099040598471017, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 2.6980466867931288, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.963069628748715, 
+    "TRACT": "1708", 
+    "ACCESS2": 0.7074405860185957, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 10.969624957613487, 
+    "TRACT": "0716", 
+    "ACCESS2": 4.514770514783058, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.836841408976256, 
+    "TRACT": "7207", 
+    "ACCESS2": 1.271810516915215, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.491960050138937, 
+    "TRACT": "4201", 
+    "ACCESS2": 1.8655774179697582, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.550169136679674, 
+    "TRACT": "2411", 
+    "ACCESS2": 5.55448936647434, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.466533085463516, 
+    "TRACT": "1706", 
+    "ACCESS2": 0.557474011572074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.001458541548068, 
+    "TRACT": "6910", 
+    "ACCESS2": 6.346205315822938, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.672747423757676, 
+    "TRACT": "3807", 
+    "ACCESS2": 1.9849125546596302, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.975260856178912, 
+    "TRACT": "8428", 
+    "ACCESS2": 1.5381428959778822, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.351801557605047, 
+    "TRACT": "8407", 
+    "ACCESS2": 3.5450095009959632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.197776607351201, 
+    "TRACT": "1104", 
+    "ACCESS2": 1.3401525575588877, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.635069574212013, 
+    "TRACT": "1608", 
+    "ACCESS2": 8.29462811177316, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 10.482706424280149, 
+    "TRACT": "8380", 
+    "ACCESS2": 3.74739729203608, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.820519392797626, 
+    "TRACT": "8319", 
+    "ACCESS2": 37.93907840595292, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.573649243223391, 
+    "TRACT": "6703", 
+    "ACCESS2": 3.506596699575917, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.853868941328376, 
+    "TRACT": "3302", 
+    "ACCESS2": 4.6158507638734845, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 11.674108617633802, 
+    "TRACT": "8313", 
+    "ACCESS2": 11.710369784056647, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.694321492842311, 
+    "TRACT": "8374", 
+    "ACCESS2": 3.061123605032306, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.3557501367069, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 6.8867634640053925, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.328902039462152, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 10.70041699896348, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.731301854186475, 
+    "TRACT": "1910", 
+    "ACCESS2": 4.823681324563331, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.79715800413152, 
+    "TRACT": "8344", 
+    "ACCESS2": 6.3182633775762636, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.82700698528904, 
+    "TRACT": "3504", 
+    "ACCESS2": 2.727195036669043, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.088779679669951, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 1.0032291156578244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.308181856036779, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 1.129220102009125, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.58934293695062, 
+    "TRACT": "6505", 
+    "ACCESS2": 1.4372180403976733, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.412894637620708, 
+    "TRACT": "4602", 
+    "ACCESS2": 0.682697331671105, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.053626949796546, 
+    "TRACT": "2519", 
+    "ACCESS2": 1.7295987917720022, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.390830324932034, 
+    "TRACT": "8330", 
+    "ACCESS2": 7.8954057580316785, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.01853974436861, 
+    "TRACT": "4008", 
+    "ACCESS2": 4.765606640589545, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.34244520045057, 
+    "TRACT": "0711", 
+    "ACCESS2": 3.579917263489093, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.187113700188013, 
+    "TRACT": "8326", 
+    "ACCESS2": 4.500524335509377, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 5.808310277629705, 
+    "TRACT": "7114", 
+    "ACCESS2": 1.328821042152387, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.18494798915303, 
+    "TRACT": "2715", 
+    "ACCESS2": 3.5630652686550652, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.051913057684242, 
+    "TRACT": "8417", 
+    "ACCESS2": 3.6570297712433355, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.550324291034891, 
+    "TRACT": "7501", 
+    "ACCESS2": 3.545328546125678, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.800974654770336, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 5.299845892086421, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.30875728835769, 
+    "TRACT": "1003", 
+    "ACCESS2": 1.4836914613040586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.293213218719716, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 4.442300659601456, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.381002767411664, 
+    "TRACT": "2315", 
+    "ACCESS2": 3.062268644023399, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.543730837768648, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 8.378188114095918, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.444560401121974, 
+    "TRACT": "2104", 
+    "ACCESS2": 3.373976149044065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.562931793058202, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 1.939432023379666, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.953184930223749, 
+    "TRACT": "0201", 
+    "ACCESS2": 5.740606929409679, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.321341943389301, 
+    "TRACT": "4601", 
+    "ACCESS2": 0.6229895930455482, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.291120414960337, 
+    "TRACT": "4914", 
+    "ACCESS2": 0.8982596667466419, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.928035666159955, 
+    "TRACT": "8404", 
+    "ACCESS2": 9.600811861308937, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.839086501402377, 
+    "TRACT": "4308", 
+    "ACCESS2": 1.5728297309002517, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.078204420736553, 
+    "TRACT": "8312", 
+    "ACCESS2": 21.206490739137422, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.197453014617288, 
+    "TRACT": "8435", 
+    "ACCESS2": 2.316596310544031, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.38347416268495, 
+    "TRACT": "2502", 
+    "ACCESS2": 4.83230383847309, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.64638230337378, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 14.184474093689948, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.470480306761264, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 2.995490107036556, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.873951258384324, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 9.416787021084314, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.388822102447724, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 12.610322528250634, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.705198047797536, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 14.87405008728377, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.730939051042904, 
+    "TRACT": "1911", 
+    "ACCESS2": 3.342034038492294, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.6931940380127, 
+    "TRACT": "2609", 
+    "ACCESS2": 3.177837863494546, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.606414500058966, 
+    "TRACT": "0403", 
+    "ACCESS2": 4.061998468432909, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.783802662695397, 
+    "TRACT": "2426", 
+    "ACCESS2": 4.189151154449615, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.078549366169477, 
+    "TRACT": "6405", 
+    "ACCESS2": 0.45509518039597724, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 21.02841530806511, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 67.96408176493922, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.60611975092336, 
+    "TRACT": "0204", 
+    "ACCESS2": 6.3601915476164885, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.092574370098501, 
+    "TRACT": "4408", 
+    "ACCESS2": 5.5065728166087, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.557255585394804, 
+    "TRACT": "6713", 
+    "ACCESS2": 17.531231295053853, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.181423245104322, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 1.1786444396783806, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.67229237100674, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 1.421732368948583, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.302197537053937, 
+    "TRACT": "1613", 
+    "ACCESS2": 3.330028909947403, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.334826744997613, 
+    "TRACT": "2712", 
+    "ACCESS2": 2.875084827873726, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.972762373499156, 
+    "TRACT": "0704", 
+    "ACCESS2": 3.305459631733318, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.0566180647512, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 2.2805632321092553, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.203679391180446, 
+    "TRACT": "4101", 
+    "ACCESS2": 1.2825458576506474, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.734315063490767, 
+    "TRACT": "2227", 
+    "ACCESS2": 6.758084170490723, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.777314336425746, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.6172844459805387, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.102660393648817, 
+    "TRACT": "0513", 
+    "ACCESS2": 5.672822977827418, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.996646131789554, 
+    "TRACT": "0819", 
+    "ACCESS2": 10.669851520171468, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.22883448854859, 
+    "TRACT": "0621", 
+    "ACCESS2": 3.031992192730753, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.000198009597327, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 4.56670474892856, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.191733593600322, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 6.042347857906283, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.474886290237765, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 1.1868851725612646, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.488003663738775, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 3.7386480779664266, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.2904523841106155, 
+    "TRACT": "4801", 
+    "ACCESS2": 1.3407445382596317, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.109566909604704, 
+    "TRACT": "2312", 
+    "ACCESS2": 4.234681348470271, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.614970609397859, 
+    "TRACT": "3815", 
+    "ACCESS2": 1.965830998244046, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.9403819866125875, 
+    "TRACT": "7002", 
+    "ACCESS2": 5.663305379982995, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.140525279946354, 
+    "TRACT": "2421", 
+    "ACCESS2": 9.031551610485197, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.919900209190187, 
+    "TRACT": "8321", 
+    "ACCESS2": 2.902229504390276, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.663303010611803, 
+    "TRACT": "6604", 
+    "ACCESS2": 1.8299882134051693, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.76078676499154, 
+    "TRACT": "1408", 
+    "ACCESS2": 5.81053050865256, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.189620925347272, 
+    "TRACT": "2507", 
+    "ACCESS2": 3.3394387342130405, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.874001559846773, 
+    "TRACT": "2229", 
+    "ACCESS2": 13.16512187121588, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.667786562129669, 
+    "TRACT": "0321", 
+    "ACCESS2": 2.6894197673678804, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.014037738750659, 
+    "TRACT": "4604", 
+    "ACCESS2": 0.9999345864781086, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.448987650560355, 
+    "TRACT": "2108", 
+    "ACCESS2": 16.496602704998715, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.862025786338994, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 1.72336493725662, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.668172737019619, 
+    "TRACT": "0902", 
+    "ACCESS2": 1.0367796235207407, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.173954824817397, 
+    "TRACT": "6716", 
+    "ACCESS2": 13.707809404154842, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.705582914405703, 
+    "TRACT": "1912", 
+    "ACCESS2": 2.260395764611259, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 22.853568308926597, 
+    "TRACT": "0811", 
+    "ACCESS2": 77.89994894639109, 
+    "YEAR": 2000, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.180723495751511, 
+    "TRACT": "8436", 
+    "ACCESS2": 1.7411415139748196, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.01285042761062, 
+    "TRACT": "2808", 
+    "ACCESS2": 3.2774368731438575, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.865934206604878, 
+    "TRACT": "6718", 
+    "ACCESS2": 5.50375728162589, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.628218960255973, 
+    "TRACT": "1005", 
+    "ACCESS2": 0.7222139583747613, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.97709791078668, 
+    "TRACT": "1203", 
+    "ACCESS2": 1.8291616410414513, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.926508452674652, 
+    "TRACT": "0804", 
+    "ACCESS2": 7.4675902530531815, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.131946393904053, 
+    "TRACT": "6108", 
+    "ACCESS2": 2.419749619116931, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.298621250237694, 
+    "TRACT": "2516", 
+    "ACCESS2": 3.3010883068634858, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.359050248053475, 
+    "TRACT": "6810", 
+    "ACCESS2": 8.139808966895874, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 20.17226437061658, 
+    "TRACT": "3201", 
+    "ACCESS2": 31.02220256211756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.48637498240521, 
+    "TRACT": "2718", 
+    "ACCESS2": 3.125182934044321, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.613159232018879, 
+    "TRACT": "7301", 
+    "ACCESS2": 1.3585279090031932, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.4850458232719985, 
+    "TRACT": "7105", 
+    "ACCESS2": 1.7981142306659008, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.987580816931091, 
+    "TRACT": "6609", 
+    "ACCESS2": 2.3978254839809354, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.081454042530096, 
+    "TRACT": "8355", 
+    "ACCESS2": 2.390141805907243, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.094961922588336, 
+    "TRACT": "8402", 
+    "ACCESS2": 4.332024511185248, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.402260340460158, 
+    "TRACT": "5808", 
+    "ACCESS2": 1.7721662041632267, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.328601046399078, 
+    "TRACT": "3812", 
+    "ACCESS2": 1.7965240040385417, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.323697659425317, 
+    "TRACT": "6119", 
+    "ACCESS2": 2.9112448591161892, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.685452450703753, 
+    "TRACT": "8433", 
+    "ACCESS2": 3.521381141437419, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.697505782530947, 
+    "TRACT": "2504", 
+    "ACCESS2": 1.5500126939310515, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.862266944031605, 
+    "TRACT": "8408", 
+    "ACCESS2": 2.094879102867734, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.891011791678893, 
+    "TRACT": "4305", 
+    "ACCESS2": 3.0565797266766017, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.3177586554484435, 
+    "TRACT": "4910", 
+    "ACCESS2": 2.334715673736921, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.400789617498704, 
+    "TRACT": "3819", 
+    "ACCESS2": 1.93326763537121, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.229146082184265, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 11.85487703950075, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.43053359246253, 
+    "TRACT": "0506", 
+    "ACCESS2": 8.093398080992033, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.485499003283328, 
+    "TRACT": "3104", 
+    "ACCESS2": 4.017766094857855, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.326874088621945, 
+    "TRACT": "8320", 
+    "ACCESS2": 3.3303621651155453, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.916610984572886, 
+    "TRACT": "6607", 
+    "ACCESS2": 9.63567516536771, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.637674349748886, 
+    "TRACT": "8364", 
+    "ACCESS2": 1.3199118537514067, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.589182697831479, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 1.578802489423326, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.666583461470164, 
+    "TRACT": "2407", 
+    "ACCESS2": 10.34005506954045, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.934726620269078, 
+    "TRACT": "0310", 
+    "ACCESS2": 5.449916566009906, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.304836840986893, 
+    "TRACT": "8104", 
+    "ACCESS2": 0.6300502034994504, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.299915836487875, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 1.3253227796223184, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.390171301160366, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 1.3265836823922899, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.441662058515128, 
+    "TRACT": "3008", 
+    "ACCESS2": 2.8273140451470553, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.591054732570736, 
+    "TRACT": "0627", 
+    "ACCESS2": 4.933626299471473, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.113922852237096, 
+    "TRACT": "1201", 
+    "ACCESS2": 2.4119134660093344, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.821941819100001, 
+    "TRACT": "5906", 
+    "ACCESS2": 3.24022284405833, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.485688344091188, 
+    "TRACT": "1710", 
+    "ACCESS2": 0.890152782908628, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.464999921192486, 
+    "TRACT": "8350", 
+    "ACCESS2": 15.399049907197622, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.020444099959812, 
+    "TRACT": "8333", 
+    "ACCESS2": 5.568325121576394, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.802510559753182, 
+    "TRACT": "4212", 
+    "ACCESS2": 7.911556556966379, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.293278630099244, 
+    "TRACT": "5609", 
+    "ACCESS2": 0.4885899768225201, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.407967957511323, 
+    "TRACT": "0706", 
+    "ACCESS2": 3.8038225136536834, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.260696696358361, 
+    "TRACT": "4110", 
+    "ACCESS2": 1.531944899009144, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.929942790757965, 
+    "TRACT": "6113", 
+    "ACCESS2": 2.2421410075989887, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.44158038407955, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 27.21301655125306, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.820105123911613, 
+    "TRACT": "2517", 
+    "ACCESS2": 3.822916020261782, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.187033782536439, 
+    "TRACT": "6720", 
+    "ACCESS2": 4.182463021755287, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.685204485358621, 
+    "TRACT": "1601", 
+    "ACCESS2": 3.8939133827320123, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.829043594524144, 
+    "TRACT": "3206", 
+    "ACCESS2": 6.452956065843912, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.60237494663741, 
+    "TRACT": "0624", 
+    "ACCESS2": 10.040349644998358, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.814121448309162, 
+    "TRACT": "0313", 
+    "ACCESS2": 2.1712035784218533, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 30.025110813385698, 
+    "TRACT": "8391", 
+    "ACCESS2": 97.2244578522562, 
+    "YEAR": 2000, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.852210748744586, 
+    "TRACT": "5703", 
+    "ACCESS2": 0.992231660611385, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.107515821099765, 
+    "TRACT": "3107", 
+    "ACCESS2": 6.208888250469884, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.682672469500231, 
+    "TRACT": "8361", 
+    "ACCESS2": 2.240912099631519, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.224168450520934, 
+    "TRACT": "4908", 
+    "ACCESS2": 1.4586598194972178, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 14.08180041849975, 
+    "TRACT": "2434", 
+    "ACCESS2": 11.523047524085232, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.072145265955015, 
+    "TRACT": "2225", 
+    "ACCESS2": 39.69167092869319, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.917163770669389, 
+    "TRACT": "4302", 
+    "ACCESS2": 2.8395269178970275, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 16.933488189614405, 
+    "TRACT": "0813", 
+    "ACCESS2": 20.126238204951807, 
+    "YEAR": 2000, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.471939660971955, 
+    "TRACT": "5001", 
+    "ACCESS2": 2.238526761356361, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.104449999592058, 
+    "TRACT": "1511", 
+    "ACCESS2": 1.656966415266972, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.982122554210337, 
+    "TRACT": "4205", 
+    "ACCESS2": 17.41274585091552, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 21.419164329255768, 
+    "TRACT": "2415", 
+    "ACCESS2": 124.80159027589085, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.049731380559747, 
+    "TRACT": "0503", 
+    "ACCESS2": 6.034238551032923, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 12.455882497199076, 
+    "TRACT": "8419", 
+    "ACCESS2": 6.728741257870779, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.191179301387796, 
+    "TRACT": "0509", 
+    "ACCESS2": 5.795328861093761, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.914105149927669, 
+    "TRACT": "8315", 
+    "ACCESS2": 1.0640075189065217, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.523882093216256, 
+    "TRACT": "7204", 
+    "ACCESS2": 0.7598543307984241, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.649488873612448, 
+    "TRACT": "1610", 
+    "ACCESS2": 4.251160778378983, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.032559130623028, 
+    "TRACT": "2512", 
+    "ACCESS2": 3.218242113829607, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.029354004720018, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 3.9845406665298113, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.181800510064384, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 4.177044311782215, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.244892485464627, 
+    "TRACT": "8423", 
+    "ACCESS2": 6.644138810757277, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.581040431692722, 
+    "TRACT": "6715", 
+    "ACCESS2": 20.280976023122225, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.123909722702852, 
+    "TRACT": "2409", 
+    "ACCESS2": 5.0666066747112275, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.064863870079531, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 10.666924804484369, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.416137041063555, 
+    "TRACT": "0615", 
+    "ACCESS2": 5.820942402443767, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.95018822571462, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 20.227193119611012, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.298750294122318, 
+    "TRACT": "1602", 
+    "ACCESS2": 4.586010194273392, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.778687085315768, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 8.055970702685988, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.54622052707025, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 6.415496290785563, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.921798867814513, 
+    "TRACT": "0601", 
+    "ACCESS2": 4.447304480499934, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.824719973878784, 
+    "TRACT": "2705", 
+    "ACCESS2": 2.7708536533062884, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.379872953442105, 
+    "TRACT": "8309", 
+    "ACCESS2": 5.414857625097881, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.971940204346728, 
+    "TRACT": "0308", 
+    "ACCESS2": 3.5897814026609156, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.653932682289214, 
+    "TRACT": "6502", 
+    "ACCESS2": 1.0576698588236473, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.619291840533858, 
+    "TRACT": "2602", 
+    "ACCESS2": 2.5530684456911037, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.562971233633313, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 1.2704459917729332, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.8321799603582525, 
+    "TRACT": "6116", 
+    "ACCESS2": 2.3927226006603237, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.8151441609193615, 
+    "TRACT": "8362", 
+    "ACCESS2": 3.3500925799572268, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.155932915420212, 
+    "TRACT": "5102", 
+    "ACCESS2": 0.6673211450345887, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.712730813569861, 
+    "TRACT": "8359", 
+    "ACCESS2": 1.9967052037653903, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.199404938867822, 
+    "TRACT": "6201", 
+    "ACCESS2": 1.2037687886174442, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.068318043158333, 
+    "TRACT": "7111", 
+    "ACCESS2": 1.4684165310029729, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.8547355588808, 
+    "TRACT": "2213", 
+    "ACCESS2": 16.607049538879295, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.497734187097337, 
+    "TRACT": "2515", 
+    "ACCESS2": 2.2977732183696244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.523159020780278, 
+    "TRACT": "4314", 
+    "ACCESS2": 0.6867763038337797, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.02202769045535, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 2.6284597109513026, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.303133641167173, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 2.761731411125585, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 9.636738378706092, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 3.025153031493894, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.2013823771445225, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 1.591292405264145, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.056635572617448, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 1.5265678541207628, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.098079300042798, 
+    "TRACT": "1711", 
+    "ACCESS2": 1.1415161957764473, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.856237721125359, 
+    "TRACT": "2827", 
+    "ACCESS2": 3.2729516136705303, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.420043263541887, 
+    "TRACT": "0602", 
+    "ACCESS2": 5.433681590170467, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.092490033346301, 
+    "TRACT": "3514", 
+    "ACCESS2": 2.3437125563758294, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.097992468190602, 
+    "TRACT": "0103", 
+    "ACCESS2": 7.230826461428519, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.615754270306082, 
+    "TRACT": "6301", 
+    "ACCESS2": 2.162004714833119, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.440594446513385, 
+    "TRACT": "8322", 
+    "ACCESS2": 5.2646704263101665, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.508902007629635, 
+    "TRACT": "8426", 
+    "ACCESS2": 2.8830606941996826, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.493450431129414, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.3459069054001836, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.391448318916376, 
+    "TRACT": "7502", 
+    "ACCESS2": 0.8952673816853495, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.490588996762423, 
+    "TRACT": "8416", 
+    "ACCESS2": 5.333035949961608, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 13.399468526657728, 
+    "TRACT": "2416", 
+    "ACCESS2": 11.532207640394512, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.482170658517868, 
+    "TRACT": "1705", 
+    "ACCESS2": 0.5711423321670244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.236482581820649, 
+    "TRACT": "0634", 
+    "ACCESS2": 2.74711461587668, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.412020478556387, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 2.23666974989724, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.774918973253212, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 2.422685075124246, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.297936058107028, 
+    "TRACT": "7201", 
+    "ACCESS2": 1.063158182911147, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.715326242886287, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 1.357914131160178, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.967740010188969, 
+    "TRACT": "3903", 
+    "ACCESS2": 1.5299849478159806, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.146632188263853, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 1.6946706713114439, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.312796820134604, 
+    "TRACT": "3403", 
+    "ACCESS2": 3.2791771154129137, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.252485456482484, 
+    "TRACT": "8397", 
+    "ACCESS2": 10.4559150497124, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.466388084228914, 
+    "TRACT": "5802", 
+    "ACCESS2": 1.7511306986505828, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.618894791753336, 
+    "TRACT": "1303", 
+    "ACCESS2": 3.2315060049827338, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.4067885246306, 
+    "TRACT": "6007", 
+    "ACCESS2": 15.880237803614387, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.256515065167353, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 10.765791104176648, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.109005682871809, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 10.148730632946963, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.54121924407156, 
+    "TRACT": "0104", 
+    "ACCESS2": 4.676116894308555, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.028868303365528, 
+    "TRACT": "5702", 
+    "ACCESS2": 1.0303021399029384, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.11401734866379, 
+    "TRACT": "6302", 
+    "ACCESS2": 1.7031332274569675, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.579598409376445, 
+    "TRACT": "8329", 
+    "ACCESS2": 4.8928820581195565, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.540470068739266, 
+    "TRACT": "2210", 
+    "ACCESS2": 6.502454406422293, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.87997810221964, 
+    "TRACT": "1503", 
+    "ACCESS2": 1.6491511374122405, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.032451598101642, 
+    "TRACT": "7402", 
+    "ACCESS2": 0.5492845628588047, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.589076246571103, 
+    "TRACT": "2413", 
+    "ACCESS2": 8.821948551200594, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.524637838531963, 
+    "TRACT": "8316", 
+    "ACCESS2": 0.9008813012082382, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.062798192646815, 
+    "TRACT": "0631", 
+    "ACCESS2": 2.6734382888257566, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.548155814131205, 
+    "TRACT": "7306", 
+    "ACCESS2": 2.1997706283001643, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.286855983796526, 
+    "TRACT": "8323", 
+    "ACCESS2": 4.9987134858156015, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.836264727037299, 
+    "TRACT": "2605", 
+    "ACCESS2": 2.0581441344659344, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.256036514010656, 
+    "TRACT": "6707", 
+    "ACCESS2": 5.026444728269667, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.4683042032301925, 
+    "TRACT": "4805", 
+    "ACCESS2": 0.7810274295582248, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.668007170659373, 
+    "TRACT": "3906", 
+    "ACCESS2": 1.4717687472008696, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.53110696846733, 
+    "TRACT": "8370", 
+    "ACCESS2": 2.932408506343641, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.8899136686181, 
+    "TRACT": "2304", 
+    "ACCESS2": 13.18394141195059, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.689624585079208, 
+    "TRACT": "8425", 
+    "ACCESS2": 6.717970966326113, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.584545853601327, 
+    "TRACT": "8413", 
+    "ACCESS2": 4.115280177821552, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.003621954406944, 
+    "TRACT": "0507", 
+    "ACCESS2": 25.815130316831624, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.859868868381309, 
+    "TRACT": "1611", 
+    "ACCESS2": 3.2316805189807263, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.08920364324015, 
+    "TRACT": "2311", 
+    "ACCESS2": 3.8358254690435505, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 11.700814530554478, 
+    "TRACT": "0715", 
+    "ACCESS2": 7.2497247473545094, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.907577457710554, 
+    "TRACT": "8348", 
+    "ACCESS2": 19.113449074277163, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.686882113323159, 
+    "TRACT": "4905", 
+    "ACCESS2": 2.0212687522847914, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 17.627633508166305, 
+    "TRACT": "2801", 
+    "ACCESS2": 18.12035021606692, 
+    "YEAR": 2000, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.060942257407149, 
+    "TRACT": "2431", 
+    "ACCESS2": 10.597073521691039, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.481142600130937, 
+    "TRACT": "3105", 
+    "ACCESS2": 4.149201775454119, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.752320057335897, 
+    "TRACT": "8324", 
+    "ACCESS2": 16.555299835235523, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.8010174869406526, 
+    "TRACT": "7403", 
+    "ACCESS2": 0.4772411696987815, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.059966649703723, 
+    "TRACT": "2831", 
+    "ACCESS2": 4.373040598261371, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.579235918519228, 
+    "TRACT": "2608", 
+    "ACCESS2": 2.557100103575059, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.661731025807417, 
+    "TRACT": "4312", 
+    "ACCESS2": 1.4339017613967744, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.049941104240574, 
+    "TRACT": "0409", 
+    "ACCESS2": 12.515930230140688, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.773230056135193, 
+    "TRACT": "2518", 
+    "ACCESS2": 2.222766447386842, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.040292968294349, 
+    "TRACT": "6112", 
+    "ACCESS2": 2.349618067495751, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.246465438336154, 
+    "TRACT": "8318", 
+    "ACCESS2": 4.019401961191567, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.50987827081981, 
+    "TRACT": "0319", 
+    "ACCESS2": 6.796280223377262, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.860446141413167, 
+    "TRACT": "7115", 
+    "ACCESS2": 1.4055638060000442, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.0558647151001, 
+    "TRACT": "3404", 
+    "ACCESS2": 3.0036947549756934, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.349944972315924, 
+    "TRACT": "3515", 
+    "ACCESS2": 2.7109173670752917, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.109489589817868, 
+    "TRACT": "8056", 
+    "ACCESS2": 0.5954983265565582, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.900563090356899, 
+    "TRACT": "5101", 
+    "ACCESS2": 0.5394322772555353, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.151265754539323, 
+    "TRACT": "6204", 
+    "ACCESS2": 1.272840816436, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.441110670330694, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 6.215828015226796, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.556639471528195, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 6.889236013981367, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.801829708481199, 
+    "TRACT": "2924", 
+    "ACCESS2": 4.920723628262037, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.47710253214326, 
+    "TRACT": "0710", 
+    "ACCESS2": 3.7079843997886672, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.49132154498986, 
+    "TRACT": "0407", 
+    "ACCESS2": 5.280843682103303, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.052214206709447, 
+    "TRACT": "6905", 
+    "ACCESS2": 9.435346702623024, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.53306048696852, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 1.9889893788534905, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.134871930228503, 
+    "TRACT": "2420", 
+    "ACCESS2": 8.419611647282787, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.72626289189708, 
+    "TRACT": "8345", 
+    "ACCESS2": 3.8768851469593915, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 2.541908095182669, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.16913127886139623, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.146486643908695, 
+    "TRACT": "5302", 
+    "ACCESS2": 0.8992685236300821, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.2536199857680863, 
+    "TRACT": "5205", 
+    "ACCESS2": 0.3307651864347647, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.752039691404969, 
+    "TRACT": "2216", 
+    "ACCESS2": 6.154317317880679, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.273563277835144, 
+    "TRACT": "7205", 
+    "ACCESS2": 0.671171457577034, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.835141921497447, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 19.874806552621624, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 2.9160549877844226, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.2630222017017493, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.058774570776114, 
+    "TRACT": "2403", 
+    "ACCESS2": 11.452250855221004, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.287332546429582, 
+    "TRACT": "6912", 
+    "ACCESS2": 2.546828205700752, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.114849933204626, 
+    "TRACT": "0302", 
+    "ACCESS2": 20.56165122988071, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 11.022309273295411, 
+    "TRACT": "2838", 
+    "ACCESS2": 4.423020031312093, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.027564642006135, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 4.594723498537479, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.847131217878575, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 4.821610355161829, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.098368072601291, 
+    "TRACT": "8368", 
+    "ACCESS2": 2.6962110328581566, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.1358247308677925, 
+    "TRACT": "6404", 
+    "ACCESS2": 0.4633200891072852, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.019922691446101, 
+    "TRACT": "2425", 
+    "ACCESS2": 4.477565936508384, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.709455842702804, 
+    "TRACT": "4309", 
+    "ACCESS2": 2.7978742925851763, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.9912384588424556, 
+    "TRACT": "7505", 
+    "ACCESS2": 0.6776306147945499, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.976883806363026, 
+    "TRACT": "2503", 
+    "ACCESS2": 2.740652315158739, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.426116910045067, 
+    "TRACT": "8311", 
+    "ACCESS2": 4.63676422579917, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.489200961374982, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 1.9831285649186947, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.361100818876457, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 1.8529282377774916, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.566379771085218, 
+    "TRACT": "8342", 
+    "ACCESS2": 2.541181964204638, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 129.19792643817968, 
+    "TRACT": "6811", 
+    "ACCESS2": 14746.218020640661, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.182745232689351, 
+    "TRACT": "1101", 
+    "ACCESS2": 1.5757417361137684, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.164540284835383, 
+    "TRACT": "0713", 
+    "ACCESS2": 3.55275868278731, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 2.8547650146402073, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.24424285590545636, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.893142966729306, 
+    "TRACT": "0620", 
+    "ACCESS2": 2.623327505477308, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.003082050433861, 
+    "TRACT": "7112", 
+    "ACCESS2": 1.4340965946935895, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.738977314181492, 
+    "TRACT": "8325", 
+    "ACCESS2": 4.0627293903443285, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.6460011205724, 
+    "TRACT": "6712", 
+    "ACCESS2": 10.672902092279337, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.658517495524169, 
+    "TRACT": "1508", 
+    "ACCESS2": 2.085834981606905, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.349526411071284, 
+    "TRACT": "7103", 
+    "ACCESS2": 2.6971648946725053, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.6556410739124, 
+    "TRACT": "2226", 
+    "ACCESS2": 10.548800823826841, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.269862546662226, 
+    "TRACT": "1001", 
+    "ACCESS2": 2.631635543311203, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.07961452409617, 
+    "TRACT": "4106", 
+    "ACCESS2": 1.964002370866823, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.595326429045288, 
+    "TRACT": "0512", 
+    "ACCESS2": 13.824665719864518, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.129807959002452, 
+    "TRACT": "8410", 
+    "ACCESS2": 2.0839272231771275, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.784180303421538, 
+    "TRACT": "2228", 
+    "ACCESS2": 7.304427680898212, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.158959812562975, 
+    "TRACT": "6814", 
+    "ACCESS2": 6.633740151942068, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.383510941522697, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 3.0259769744545744, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.553164691602207, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 3.081439010419756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.703478026502054, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 3.6126027968083183, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.268526643604764, 
+    "TRACT": "8381", 
+    "ACCESS2": 4.716161223351482, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.54882246220779, 
+    "TRACT": "7305", 
+    "ACCESS2": 1.8296527073891038, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.055753641339948, 
+    "TRACT": "2109", 
+    "ACCESS2": 8.19942042092904, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.364351219081756, 
+    "TRACT": "4607", 
+    "ACCESS2": 0.6807248657789506, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.267308770926503, 
+    "TRACT": "4112", 
+    "ACCESS2": 2.551885302195978, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.278127141985372, 
+    "TRACT": "3109", 
+    "ACCESS2": 89.03654488753693, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.654343032780849, 
+    "TRACT": "8314", 
+    "ACCESS2": 1.3569442979958686, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.155187141390554, 
+    "TRACT": "8437", 
+    "ACCESS2": 5.484521994819728, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.301323167774047, 
+    "TRACT": "6711", 
+    "ACCESS2": 8.316539352980065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 24.30072785561665, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 100.32717819565663, 
+    "YEAR": 2000, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.309195266293363, 
+    "TRACT": "4005", 
+    "ACCESS2": 3.167944292943124, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.599200993992436, 
+    "TRACT": "6915", 
+    "ACCESS2": 3.997062082732763, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.18238438580461, 
+    "TRACT": "6308", 
+    "ACCESS2": 2.226848499601285, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.794130280056656, 
+    "TRACT": "2922", 
+    "ACCESS2": 14.115786543080812, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.391867404075964, 
+    "TRACT": "1006", 
+    "ACCESS2": 1.1599689720381303, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.908913427496413, 
+    "TRACT": "0803", 
+    "ACCESS2": 10.881969707836815, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.464081908934925, 
+    "TRACT": "1701", 
+    "ACCESS2": 0.9113460725193383, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.050093312840746, 
+    "TRACT": "3006", 
+    "ACCESS2": 2.6907122223932323, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.51935497384368, 
+    "TRACT": "6403", 
+    "ACCESS2": 0.576107925453403, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.275915819791188, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 1.236028047205987, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.491689052384666, 
+    "TRACT": "8386", 
+    "ACCESS2": 3.497880563474616, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.446906577014804, 
+    "TRACT": "1801", 
+    "ACCESS2": 0.8708120966942028, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.094227641183653, 
+    "TRACT": "7104", 
+    "ACCESS2": 2.415287299045099, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.235101547793958, 
+    "TRACT": "8317", 
+    "ACCESS2": 2.6757607205863163, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.267310455876597, 
+    "TRACT": "4803", 
+    "ACCESS2": 3.653016696529385, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.957301058417615, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 0.47639845707549394, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 25.533148892989338, 
+    "TRACT": "0817", 
+    "ACCESS2": 68.35802285828726, 
+    "YEAR": 2000, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.021887799299124, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 0.4802090791374845, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.143269236153618, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 0.4844467516519292, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.965724063859018, 
+    "TRACT": "6104", 
+    "ACCESS2": 2.1952284875749264, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.065624454897659, 
+    "TRACT": "8079", 
+    "ACCESS2": 1.331319872839661, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.540515603255493, 
+    "TRACT": "8401", 
+    "ACCESS2": 3.710966714512891, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.121060800407001, 
+    "TRACT": "6118", 
+    "ACCESS2": 2.6443844562523924, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.089893262261226, 
+    "TRACT": "2405", 
+    "ACCESS2": 6.823421245275036, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.643433951913279, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 2.396267221417419, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.389386129454032, 
+    "TRACT": "0623", 
+    "ACCESS2": 5.347535709120143, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.044435236329663, 
+    "TRACT": "8390", 
+    "ACCESS2": 13.89230932295333, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.4193595710072335, 
+    "TRACT": "8081", 
+    "ACCESS2": 1.9351939483626903, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.584850531764145, 
+    "TRACT": "0304", 
+    "ACCESS2": 4.856147129804483, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.99748027494023, 
+    "TRACT": "0818", 
+    "ACCESS2": 18.847502986793454, 
+    "YEAR": 2000, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.542755271430251, 
+    "TRACT": "4913", 
+    "ACCESS2": 1.2791474544779846, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.07521162849995, 
+    "TRACT": "6608", 
+    "ACCESS2": 4.540610911520097, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.5705671292994725, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.49247818219718376, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.021518251557263, 
+    "TRACT": "2610", 
+    "ACCESS2": 2.3154894443323464, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 12.04890247784802, 
+    "TRACT": "2423", 
+    "ACCESS2": 6.477213753266216, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.478145469228291, 
+    "TRACT": "6606", 
+    "ACCESS2": 5.939028699555548, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.407141740893682, 
+    "TRACT": "3103", 
+    "ACCESS2": 3.8951768554057273, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.9104078396641775, 
+    "TRACT": "8365", 
+    "ACCESS2": 1.4175513341820316, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.577479900224132, 
+    "TRACT": "2505", 
+    "ACCESS2": 0.9276610202066748, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.9305166277101495, 
+    "TRACT": "4306", 
+    "ACCESS2": 1.6297255845958443, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.196998593699846, 
+    "TRACT": "2406", 
+    "ACCESS2": 7.604225273338369, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.88551939313835, 
+    "TRACT": "4701", 
+    "ACCESS2": 27.791466924682812, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.886563889667606, 
+    "TRACT": "1902", 
+    "ACCESS2": 2.157531400571828, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.632842963671838, 
+    "TRACT": "3818", 
+    "ACCESS2": 2.0838977733580664, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 8.930915769619775, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 4.3151303181864495, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.45906132671702, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 4.937103498647655, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.948169266031174, 
+    "TRACT": "0626", 
+    "ACCESS2": 5.628487121875333, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 6.376615071254617, 
+    "TRACT": "7109", 
+    "ACCESS2": 1.6927876083351665, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.122591606543555, 
+    "TRACT": "6714", 
+    "ACCESS2": 9.234927890059254, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.915981710673226, 
+    "TRACT": "8430", 
+    "ACCESS2": 4.078729923593909, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.50491320155887, 
+    "TRACT": "2520", 
+    "ACCESS2": 1.3768542608356442, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.795695163192266, 
+    "TRACT": "8357", 
+    "ACCESS2": 2.0930074905413694, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.609002872757452, 
+    "TRACT": "3009", 
+    "ACCESS2": 2.8264162293943413, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.009530028328435, 
+    "TRACT": "1507", 
+    "ACCESS2": 1.6374057530196935, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.8039474163459674, 
+    "TRACT": "8305", 
+    "ACCESS2": 1.376768027411788, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.617997388848476, 
+    "TRACT": "6812", 
+    "ACCESS2": 6.523507427394135, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.950614711912214, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 9.999236940318594, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 13.347285422729247, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 18.521801888983543, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 133.42771806309577, 
+    "TRACT": "6904", 
+    "ACCESS2": 15856.879962848656, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.650632340114522, 
+    "TRACT": "7107", 
+    "ACCESS2": 1.9191132393883619, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.945851491768456, 
+    "TRACT": "2222", 
+    "ACCESS2": 6.4749460448986405, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 31.348365289464795, 
+    "TRACT": "0816", 
+    "ACCESS2": 146.19654791962057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.75079149936647, 
+    "TRACT": "0707", 
+    "ACCESS2": 4.271722827522724, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 6.650492468151666, 
+    "TRACT": "7106", 
+    "ACCESS2": 1.9257226695703396, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.23113364982393, 
+    "TRACT": "5704", 
+    "ACCESS2": 1.1597819815619903, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.645395162654124, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 8.98722441190985, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.454621624025522, 
+    "TRACT": "0611", 
+    "ACCESS2": 3.635526788460005, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.893726770888405, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 6.802831409906882, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.23034063840522, 
+    "TRACT": "4303", 
+    "ACCESS2": 5.864608545838022, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.666667941313305, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 6.641931591628878, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.42901412418141, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 12.90176169835861, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.622449318347329, 
+    "TRACT": "0605", 
+    "ACCESS2": 3.956127429143053, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.729804593505174, 
+    "TRACT": "5705", 
+    "ACCESS2": 0.9679922534358131, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.94010729057095, 
+    "TRACT": "6103", 
+    "ACCESS2": 2.145906595437657, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.690946976586092, 
+    "TRACT": "3106", 
+    "ACCESS2": 4.627824240209997, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.108995338430159, 
+    "TRACT": "8366", 
+    "ACCESS2": 3.6078317276303227, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.341950095891336, 
+    "TRACT": "0901", 
+    "ACCESS2": 0.7670915075368308, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.78167542189039, 
+    "TRACT": "6009", 
+    "ACCESS2": 7.223339899019441, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.058696895494439, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 5.796592640043326, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.980598048569757, 
+    "TRACT": "2511", 
+    "ACCESS2": 8.90270006894185, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.896110005057388, 
+    "TRACT": "2301", 
+    "ACCESS2": 7.462693208863842, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.239933436222449, 
+    "TRACT": "1903", 
+    "ACCESS2": 1.741775360082022, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.553993935511514, 
+    "TRACT": "0312", 
+    "ACCESS2": 2.8691720434499683, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.707367257828273, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 1.400570944968174, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.236779725266319, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 1.814859071717058, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.91975207700247, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 1.5128536697547161, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.658640788849652, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 9.008965116519093, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.120954676098268, 
+    "TRACT": "0612", 
+    "ACCESS2": 5.082890253948167, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.736696017170737, 
+    "TRACT": "5601", 
+    "ACCESS2": 0.9142852029582241, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.072255946736194, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 6.233590324378811, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.654945271283221, 
+    "TRACT": "3204", 
+    "ACCESS2": 9.880432717456863, 
+    "YEAR": 2000, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.600474932166651, 
+    "TRACT": "5611", 
+    "ACCESS2": 0.5849379075294933, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.367001485025458, 
+    "TRACT": "0309", 
+    "ACCESS2": 4.030744910769605, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.093730778371953, 
+    "TRACT": "3405", 
+    "ACCESS2": 3.714726748101593, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.337610264611561, 
+    "TRACT": "8352", 
+    "ACCESS2": 0.816529514023412, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.605845641483707, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 10.647718816051594, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.303568547477195, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 6.752622747882073, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.7368982050143, 
+    "TRACT": "6909", 
+    "ACCESS2": 5.491063550055221, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.05240819564613, 
+    "TRACT": "8363", 
+    "ACCESS2": 1.8061554820390173, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.482932880546611, 
+    "TRACT": "8358", 
+    "ACCESS2": 1.8454671624380303, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.6187991996998665, 
+    "TRACT": "6115", 
+    "ACCESS2": 1.98670209023915, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.731842271777618, 
+    "TRACT": "1603", 
+    "ACCESS2": 7.945914734798453, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.27574008877343, 
+    "TRACT": "3007", 
+    "ACCESS2": 2.832612394457069, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.428287085746838, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 2.536777468892771, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.328256769684906, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 2.506270280093608, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.57103660620532, 
+    "TRACT": "0702", 
+    "ACCESS2": 2.9502114457387494, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.597720270924622, 
+    "TRACT": "4503", 
+    "ACCESS2": 1.466257543105335, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.3897410827941625, 
+    "TRACT": "5806", 
+    "ACCESS2": 1.719283895415065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.125294332508184, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 1.4628781966627031, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.095788399060348, 
+    "TRACT": "0311", 
+    "ACCESS2": 3.617514968217473, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.601029142307349, 
+    "TRACT": "2408", 
+    "ACCESS2": 10.485330317490323, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.789056972560559, 
+    "TRACT": "2601", 
+    "ACCESS2": 2.5962107084198474, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.006243606090915, 
+    "TRACT": "1709", 
+    "ACCESS2": 0.7169399866558014, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.754317682945544, 
+    "TRACT": "2514", 
+    "ACCESS2": 1.609769579413021, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.962454749252412, 
+    "TRACT": "2214", 
+    "ACCESS2": 17.54858057973412, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.700166948980794, 
+    "TRACT": "1612", 
+    "ACCESS2": 2.785847616323038, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.448277269411664, 
+    "TRACT": "2302", 
+    "ACCESS2": 6.067909296365894, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.960559541535316, 
+    "TRACT": "4203", 
+    "ACCESS2": 7.4046058264944055, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.552936552051362, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 0.4158497986218702, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.566019072502102, 
+    "TRACT": "1512", 
+    "ACCESS2": 1.3642526693480852, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.019735771176949, 
+    "TRACT": "3805", 
+    "ACCESS2": 2.324814776801239, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.734524781908443, 
+    "TRACT": "3005", 
+    "ACCESS2": 2.3441295851230866, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.9971885158215175, 
+    "TRACT": "7202", 
+    "ACCESS2": 1.1126666454626513, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.79983068486449, 
+    "TRACT": "3902", 
+    "ACCESS2": 1.443682296485208, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.2320434306419195, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 1.6877741730167957, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.453558050864555, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 1.9094983836466268, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.879132886148971, 
+    "TRACT": "4903", 
+    "ACCESS2": 1.8747361451395383, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.697437903164623, 
+    "TRACT": "8421", 
+    "ACCESS2": 4.5067297506348805, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.333733003467284, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 29.544049804041688, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 10.927396454660922, 
+    "TRACT": "8429", 
+    "ACCESS2": 5.475535090169599, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.8894693552369715, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 1.2480401394903837, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.733937755076608, 
+    "TRACT": "6006", 
+    "ACCESS2": 6.37280042547488, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.597861082795413, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 1.0961496019419006, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.5484832729914877, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.44215287584386614, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.758120220472982, 
+    "TRACT": "0629", 
+    "ACCESS2": 3.4228822637901652, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 10.007508641914843, 
+    "TRACT": "1401", 
+    "ACCESS2": 4.554976368127109, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.394740517439698, 
+    "TRACT": "6610", 
+    "ACCESS2": 2.835539288237781, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.844000805552817, 
+    "TRACT": "2308", 
+    "ACCESS2": 5.107675038189928, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.487342949018835, 
+    "TRACT": "5602", 
+    "ACCESS2": 0.8304984370139228, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.759974290357098, 
+    "TRACT": "2211", 
+    "ACCESS2": 6.755116326822361, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.594094133421279, 
+    "TRACT": "1502", 
+    "ACCESS2": 2.247753400096465, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.63362032588353, 
+    "TRACT": "4206", 
+    "ACCESS2": 7.849376857777666, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.809934453612021, 
+    "TRACT": "8396", 
+    "ACCESS2": 2.0311186148945084, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.034920700212039, 
+    "TRACT": "5803", 
+    "ACCESS2": 1.4887932002802553, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.732656030457091, 
+    "TRACT": "0618", 
+    "ACCESS2": 2.5542792149984344, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.858659830142578, 
+    "TRACT": "2435", 
+    "ACCESS2": 8.24174465208496, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.9922522587678473, 
+    "TRACT": "7401", 
+    "ACCESS2": 0.5528346056453629, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.242745542471672, 
+    "TRACT": "2604", 
+    "ACCESS2": 2.447706211585198, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.288090093233248, 
+    "TRACT": "4105", 
+    "ACCESS2": 2.1207184381789426, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.149272302082762, 
+    "TRACT": "4804", 
+    "ACCESS2": 1.3778541734533956, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.433707398392146, 
+    "TRACT": "6704", 
+    "ACCESS2": 3.398682239613982, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.34989978555881, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 1.2973569859431395, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.9486262754900405, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 1.668050314961474, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.088888331642297, 
+    "TRACT": "2429", 
+    "ACCESS2": 4.631302886470959, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.701189486686416, 
+    "TRACT": "6203", 
+    "ACCESS2": 1.0167573014768128, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.593160225015646, 
+    "TRACT": "2925", 
+    "ACCESS2": 2.3050710724906742, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.303760184142968, 
+    "TRACT": "2205", 
+    "ACCESS2": 14.406261171455867, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 6.438463238097707, 
+    "TRACT": "8424", 
+    "ACCESS2": 1.7758012261423834, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.5064437556438035, 
+    "TRACT": "4906", 
+    "ACCESS2": 1.509442533333106, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.160285272843659, 
+    "TRACT": "8414", 
+    "ACCESS2": 5.366263601097253, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.436126401001534, 
+    "TRACT": "5701", 
+    "ACCESS2": 1.2018976577029308, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.651414628041977, 
+    "TRACT": "0903", 
+    "ACCESS2": 0.9669814486183981, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 10.34985570858251, 
+    "TRACT": "3102", 
+    "ACCESS2": 3.813761245311166, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.4210396715039, 
+    "TRACT": "0632", 
+    "ACCESS2": 2.1787974483902945, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.81253469793104, 
+    "TRACT": "8349", 
+    "ACCESS2": 10.381632673154444, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.540871030906395, 
+    "TRACT": "0511", 
+    "ACCESS2": 7.253636991752544, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.983411355802016, 
+    "TRACT": "0610", 
+    "ACCESS2": 2.9166956479699016, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.556408487887954, 
+    "TRACT": "6303", 
+    "ACCESS2": 1.4063756618081913, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.744823147997787, 
+    "TRACT": "6709", 
+    "ACCESS2": 6.158882498322635, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 18.18415679921268, 
+    "TRACT": "2305", 
+    "ACCESS2": 69.54508529105924, 
+    "YEAR": 2000, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.344894743016194, 
+    "TRACT": "8373", 
+    "ACCESS2": 3.3222109940414124, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.19402440815226, 
+    "TRACT": "2432", 
+    "ACCESS2": 45.598482835214284, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.473484984807278, 
+    "TRACT": "2107", 
+    "ACCESS2": 17.273368050383926, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.35955564094131, 
+    "TRACT": "2003", 
+    "ACCESS2": 5.495261568603943, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 9.773964369067134, 
+    "TRACT": "0714", 
+    "ACCESS2": 3.461707936206245, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.405565421243283, 
+    "TRACT": "1901", 
+    "ACCESS2": 2.529560182056918, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.350725951851304, 
+    "TRACT": "2832", 
+    "ACCESS2": 4.671554993875459, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.311419706194329, 
+    "TRACT": "8369", 
+    "ACCESS2": 2.779488989216736, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 6.849053566195292, 
+    "TRACT": "3905", 
+    "ACCESS2": 1.5723893855523052, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 11.451060250496257, 
+    "TRACT": "2424", 
+    "ACCESS2": 5.204514072315289, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.9343135607964, 
+    "TRACT": "6407", 
+    "ACCESS2": 0.7533802668256138, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.221114423585126, 
+    "TRACT": "2912", 
+    "ACCESS2": 33.63595236518882, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 25.628808397657355, 
+    "TRACT": "0815", 
+    "ACCESS2": 65.91530495625823, 
+    "YEAR": 2000, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.643411471112147, 
+    "TRACT": "0318", 
+    "ACCESS2": 7.898890929476614, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.129694234092755, 
+    "TRACT": "6111", 
+    "ACCESS2": 2.451441365700292, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.338600769141554, 
+    "TRACT": "2607", 
+    "ACCESS2": 2.3872629904674763, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.237749303514908, 
+    "TRACT": "6701", 
+    "ACCESS2": 5.148750527405808, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.08907835268024, 
+    "TRACT": "8306", 
+    "ACCESS2": 18.90208367855763, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.036324507880497, 
+    "TRACT": "1607", 
+    "ACCESS2": 15.47850147568835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.38909066185572, 
+    "TRACT": "0106", 
+    "ACCESS2": 16.560653846614404, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.9795250614684505, 
+    "TRACT": "6304", 
+    "ACCESS2": 1.7452168594681674, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.722824346772125, 
+    "TRACT": "5202", 
+    "ACCESS2": 0.4630712005249107, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.816077139332643, 
+    "TRACT": "0408", 
+    "ACCESS2": 5.861745779217958, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.769719385786493, 
+    "TRACT": "4207", 
+    "ACCESS2": 12.757994209545902, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.607836644115817, 
+    "TRACT": "0406", 
+    "ACCESS2": 17.48888137210732, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 11.671563321280933, 
+    "TRACT": "0717", 
+    "ACCESS2": 5.498662126105401, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.814246157481206, 
+    "TRACT": "1103", 
+    "ACCESS2": 1.2243619465751758, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.094994635649925, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 1.366899902285013, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.609758758730747, 
+    "TRACT": "6120", 
+    "ACCESS2": 3.5225932266159194, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.314031644256444, 
+    "TRACT": "2427", 
+    "ACCESS2": 3.6274823741888342, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.241764821517341, 
+    "TRACT": "8346", 
+    "ACCESS2": 5.163344767325682, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 9.628141325619113, 
+    "TRACT": "8411", 
+    "ACCESS2": 3.211702950568446, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.890122323708113, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 1.128284488842927, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.988609753386384, 
+    "TRACT": "5301", 
+    "ACCESS2": 0.7099117417944433, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.059787443705037, 
+    "TRACT": "2402", 
+    "ACCESS2": 11.554236247273732, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.47635430033042, 
+    "TRACT": "7206", 
+    "ACCESS2": 0.8293016202562625, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.128690829407578, 
+    "TRACT": "0514", 
+    "ACCESS2": 5.311692152158418, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.429253655043568, 
+    "TRACT": "4907", 
+    "ACCESS2": 1.7696608656155455, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 10.230409312634919, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 10.651025535573575, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.17792323522762, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 7.081666849000266, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 11.27896959360392, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 6.423685852410664, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 12.583986128762108, 
+    "TRACT": "8422", 
+    "ACCESS2": 6.201256864750419, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.946389047236659, 
+    "TRACT": "8399", 
+    "ACCESS2": 18.56965468885787, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.836903250544613, 
+    "TRACT": "7504", 
+    "ACCESS2": 0.5427724908965079, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.099228089678407, 
+    "TRACT": "8310", 
+    "ACCESS2": 7.088795924288123, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.885535748250772, 
+    "TRACT": "2909", 
+    "ACCESS2": 2.5641134673561563, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.5590756196724, 
+    "TRACT": "2410", 
+    "ACCESS2": 5.915721511827185, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.68517755871798, 
+    "TRACT": "1707", 
+    "ACCESS2": 0.6208931164468503, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.179891872789359, 
+    "TRACT": "0303", 
+    "ACCESS2": 6.926700777978061, 
+    "YEAR": 2000, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.54963619845849, 
+    "TRACT": "6911", 
+    "ACCESS2": 4.49184636820363, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }
+]

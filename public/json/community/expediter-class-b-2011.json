@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 19.76280785479504, 
+    "YEAR": 2011, 
+    "ACCESS1": 41.2117516054121, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 44.740533588373665, 
+    "YEAR": 2011, 
+    "ACCESS1": 128.09760559209187, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 69.2322950989738, 
+    "YEAR": 2011, 
+    "ACCESS1": 160.83862769368162, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 38.2484254940112, 
+    "YEAR": 2011, 
+    "ACCESS1": 179.1637706067444, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 73.91407227141558, 
+    "YEAR": 2011, 
+    "ACCESS1": 122.62799546989403, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 82.42851687207173, 
+    "YEAR": 2011, 
+    "ACCESS1": 142.56066802439196, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 28.174188592084185, 
+    "YEAR": 2011, 
+    "ACCESS1": 121.17020746798669, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 273.22767931015863, 
+    "YEAR": 2011, 
+    "ACCESS1": 132.48006721616053, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 222.7678049446616, 
+    "YEAR": 2011, 
+    "ACCESS1": 137.73539222447013, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 149.32548634458234, 
+    "YEAR": 2011, 
+    "ACCESS1": 138.48601288268415, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 42.49616324212492, 
+    "YEAR": 2011, 
+    "ACCESS1": 76.29073653924038, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 0.99524171638631, 
+    "YEAR": 2011, 
+    "ACCESS1": 9.538970951227748, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 10.334472793666336, 
+    "YEAR": 2011, 
+    "ACCESS1": 66.87237516891199, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 26.17661839582818, 
+    "YEAR": 2011, 
+    "ACCESS1": 64.76227915953895, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 21.188702514784893, 
+    "YEAR": 2011, 
+    "ACCESS1": 58.579814575422425, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 35.05064644270642, 
+    "YEAR": 2011, 
+    "ACCESS1": 142.1245629564819, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 107.31772548489441, 
+    "YEAR": 2011, 
+    "ACCESS1": 181.09697920901752, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 3.951926390519981, 
+    "YEAR": 2011, 
+    "ACCESS1": 16.34753688809328, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 15.522834356900969, 
+    "YEAR": 2011, 
+    "ACCESS1": 11.215198601242138, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 93.59669072884775, 
+    "YEAR": 2011, 
+    "ACCESS1": 154.14061411979228, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 47.8317996365241, 
+    "YEAR": 2011, 
+    "ACCESS1": 210.6957486587902, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 77.05022160719675, 
+    "YEAR": 2011, 
+    "ACCESS1": 148.77895595895785, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 337.2192867358524, 
+    "YEAR": 2011, 
+    "ACCESS1": 237.07436064233062, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 15.856296337774488, 
+    "YEAR": 2011, 
+    "ACCESS1": 26.070136204421168, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 274.4712991447017, 
+    "YEAR": 2011, 
+    "ACCESS1": 103.63907199726107, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 29.672931943746423, 
+    "YEAR": 2011, 
+    "ACCESS1": 117.53754287510506, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 38.71210117324051, 
+    "YEAR": 2011, 
+    "ACCESS1": 139.63008623182947, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 161.0239736546969, 
+    "YEAR": 2011, 
+    "ACCESS1": 460.76912195773804, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 201.9462317528125, 
+    "YEAR": 2011, 
+    "ACCESS1": 259.8039360462617, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 28.081673056156866, 
+    "YEAR": 2011, 
+    "ACCESS1": 124.31756488090589, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 110.75033319403401, 
+    "YEAR": 2011, 
+    "ACCESS1": 102.1404495806616, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 46.11956227796697, 
+    "YEAR": 2011, 
+    "ACCESS1": 164.013378998752, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 419.4924216858744, 
+    "YEAR": 2011, 
+    "ACCESS1": 506.11082177901307, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 228.15179798529036, 
+    "YEAR": 2011, 
+    "ACCESS1": 247.4900295533831, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 4.796344319574264, 
+    "YEAR": 2011, 
+    "ACCESS1": 25.804205075535414, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 249.72950864220533, 
+    "YEAR": 2011, 
+    "ACCESS1": 324.9674625252401, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 28.853150315073037, 
+    "YEAR": 2011, 
+    "ACCESS1": 81.21765928513862, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 59.27177776146278, 
+    "YEAR": 2011, 
+    "ACCESS1": 193.30399481764556, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 58.66839952316644, 
+    "YEAR": 2011, 
+    "ACCESS1": 98.2471773501946, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 162.8017374255212, 
+    "YEAR": 2011, 
+    "ACCESS1": 97.77235465773276, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 260.7030616262396, 
+    "YEAR": 2011, 
+    "ACCESS1": 224.13777578745842, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 157.51960687519238, 
+    "YEAR": 2011, 
+    "ACCESS1": 318.9733974709116, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 25.76732231664565, 
+    "YEAR": 2011, 
+    "ACCESS1": 110.99054568077284, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 260.1185210915279, 
+    "YEAR": 2011, 
+    "ACCESS1": 237.16047962794318, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 20.392507709279037, 
+    "YEAR": 2011, 
+    "ACCESS1": 63.49919336581965, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 9.789717580722199, 
+    "YEAR": 2011, 
+    "ACCESS1": 35.57591423686957, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 69.70771502949091, 
+    "YEAR": 2011, 
+    "ACCESS1": 85.17120203950878, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 23.422991411426523, 
+    "YEAR": 2011, 
+    "ACCESS1": 57.3032739760236, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 296.8336217358207, 
+    "YEAR": 2011, 
+    "ACCESS1": 351.1121723783346, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 32.6460128334905, 
+    "YEAR": 2011, 
+    "ACCESS1": 33.97786465468075, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 5.550224058197421, 
+    "YEAR": 2011, 
+    "ACCESS1": 21.528648515031428, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 503.8509093975791, 
+    "YEAR": 2011, 
+    "ACCESS1": 49.74843436641823, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 302.2088113504146, 
+    "YEAR": 2011, 
+    "ACCESS1": 310.4780009671128, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 57.82981710514777, 
+    "YEAR": 2011, 
+    "ACCESS1": 164.79137548230915, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 2.458056422476738, 
+    "YEAR": 2011, 
+    "ACCESS1": 11.727214616090748, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 132.30651072000163, 
+    "YEAR": 2011, 
+    "ACCESS1": 119.95054863507606, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 25.134960210131993, 
+    "YEAR": 2011, 
+    "ACCESS1": 59.9525344516383, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 199.75782570393025, 
+    "YEAR": 2011, 
+    "ACCESS1": 281.8395669409645, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 17.586909895095157, 
+    "YEAR": 2011, 
+    "ACCESS1": 58.91220991079835, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 159.08805899298514, 
+    "YEAR": 2011, 
+    "ACCESS1": 218.35730232453204, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 28.621094647856317, 
+    "YEAR": 2011, 
+    "ACCESS1": 72.3993749660893, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 71.3980476813212, 
+    "YEAR": 2011, 
+    "ACCESS1": 89.28790266705813, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 22.175297715527673, 
+    "YEAR": 2011, 
+    "ACCESS1": 68.67608937919388, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 3.716455820000594, 
+    "YEAR": 2011, 
+    "ACCESS1": 32.51176241972918, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 107.97054070603154, 
+    "YEAR": 2011, 
+    "ACCESS1": 147.22997982904903, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 16.187664131474513, 
+    "YEAR": 2011, 
+    "ACCESS1": 73.01980854205723, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 29.54207348330925, 
+    "YEAR": 2011, 
+    "ACCESS1": 56.531255582174126, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 17.14889105821894, 
+    "YEAR": 2011, 
+    "ACCESS1": 52.93101582426937, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 79.75762622468805, 
+    "YEAR": 2011, 
+    "ACCESS1": 131.76450776331973, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 16.901992315347993, 
+    "YEAR": 2011, 
+    "ACCESS1": 60.03809385017039, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 31.28289468083562, 
+    "YEAR": 2011, 
+    "ACCESS1": 114.15346207602556, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 219.68230648122315, 
+    "YEAR": 2011, 
+    "ACCESS1": 211.26984733986245, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 8.320026938890484, 
+    "YEAR": 2011, 
+    "ACCESS1": 35.919041042418776, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 9.802021288681177, 
+    "YEAR": 2011, 
+    "ACCESS1": 30.945067216554996, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 84.79593423456771, 
+    "YEAR": 2011, 
+    "ACCESS1": 301.5005091478861, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 96.26255450064937, 
+    "YEAR": 2011, 
+    "ACCESS1": 118.3250142634685, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Expediter - Class B", 
+    "ACCESS2": 693.2363408803726, 
+    "YEAR": 2011, 
+    "ACCESS1": 645.7118775237756, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

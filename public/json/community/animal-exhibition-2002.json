@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5212299970550364, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.960156302902473, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.0050030044934275, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.691154556024363, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.264179172433162, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.554606479923423, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 13.24584427579885, 
+    "YEAR": 2002, 
+    "ACCESS1": 32.66107098423976, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.1588841521407898, 
+    "YEAR": 2002, 
+    "ACCESS1": 10.03844184669739, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.8786387053115634, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.809019590926317, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.9937753649776955, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.399225853790753, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 6.797737724983454, 
+    "YEAR": 2002, 
+    "ACCESS1": 20.500866724956524, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 9.923019115861031, 
+    "YEAR": 2002, 
+    "ACCESS1": 18.877065959443165, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 12.296468266661574, 
+    "YEAR": 2002, 
+    "ACCESS1": 22.22252403162582, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.7812061442906006, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.815998734717825, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.07104133078821005, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.9716104035836086, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.002150798613973, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.775746235450413, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.839553022852355, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.35306301671768, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5744681068308377, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.084933915185916, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.9501384578697347, 
+    "YEAR": 2002, 
+    "ACCESS1": 12.03130466737717, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 9.862533523843341, 
+    "YEAR": 2002, 
+    "ACCESS1": 17.75474068368567, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.28889842472310645, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.8185071547069553, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.10947222868085998, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.8123097986411726, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 105.12872926468636, 
+    "YEAR": 2002, 
+    "ACCESS1": 51.027691127156345, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 53.20467093286135, 
+    "YEAR": 2002, 
+    "ACCESS1": 50.246203039493764, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.5964084176969646, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.609487228573373, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 4.6283858021362185, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.898101573267823, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.21230275483085295, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.004930333096861, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 25.631505599429, 
+    "YEAR": 2002, 
+    "ACCESS1": 17.98509781849936, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 14.122469405589872, 
+    "YEAR": 2002, 
+    "ACCESS1": 27.763481379429816, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.540762694964902, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.051854082484711, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 7.875243960656497, 
+    "YEAR": 2002, 
+    "ACCESS1": 40.970848967367445, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 6.690452526935347, 
+    "YEAR": 2002, 
+    "ACCESS1": 24.446925662151198, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 4.219908532060845, 
+    "YEAR": 2002, 
+    "ACCESS1": 16.31504688214448, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.7315759640215344, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.7251884783988265, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 10.30368137623755, 
+    "YEAR": 2002, 
+    "ACCESS1": 26.000772282169898, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 12.704462820700275, 
+    "YEAR": 2002, 
+    "ACCESS1": 43.141453478152556, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 9.669207127125096, 
+    "YEAR": 2002, 
+    "ACCESS1": 19.39009602365652, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.2640848969749605, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.5828960454925824, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 7.178335331671089, 
+    "YEAR": 2002, 
+    "ACCESS1": 29.572262691596958, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.1029694007746815, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.529773637106403, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.9634961445626475, 
+    "YEAR": 2002, 
+    "ACCESS1": 14.408409565843192, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.52686731943772, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.347657517007036, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.1238024340680952, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.52439871892526, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.565178178634206, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.231414324920273, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 83.01894620983623, 
+    "YEAR": 2002, 
+    "ACCESS1": 72.91682144877882, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 6.244981602995458, 
+    "YEAR": 2002, 
+    "ACCESS1": 17.919678762674515, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 4.064822930405879, 
+    "YEAR": 2002, 
+    "ACCESS1": 17.953923190472487, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 46.373475437402384, 
+    "YEAR": 2002, 
+    "ACCESS1": 21.52889898346452, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.948349961708317, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.92760696707077, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.46301461489083584, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.063904785011214, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.40008885845910674, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.582488477345532, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 20.909166373161057, 
+    "YEAR": 2002, 
+    "ACCESS1": 42.84016945250664, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.2410331120684085, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.5275507579886622, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.3267876164800056, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.661965839611155, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.31267141940370274, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.8818830779462088, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 53.36313626131148, 
+    "YEAR": 2002, 
+    "ACCESS1": 33.78002613251932, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 17.10840538600391, 
+    "YEAR": 2002, 
+    "ACCESS1": 33.359425385746164, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.08121560996534438, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.035598651408427, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 4.7733682532915545, 
+    "YEAR": 2002, 
+    "ACCESS1": 10.102042783293436, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.7977632673853059, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.9013171945641956, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 7.739050519117747, 
+    "YEAR": 2002, 
+    "ACCESS1": 22.75798438710492, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 5.092079568647248, 
+    "YEAR": 2002, 
+    "ACCESS1": 12.166301523570285, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 7.825690483288597, 
+    "YEAR": 2002, 
+    "ACCESS1": 28.47619594126999, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 5.0829988196694575, 
+    "YEAR": 2002, 
+    "ACCESS1": 12.605414866452294, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.9008958015778, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.402485517545297, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.7976663196549444, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.316427282531364, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.32301741508172493, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.535495151399015, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.051985875659161, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.87635870973377, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.9968111850689557, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.143950666046466, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.0982173447085366, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.194575270833848, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.41996437256740166, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.389678015452992, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 11.233718083192246, 
+    "YEAR": 2002, 
+    "ACCESS1": 23.13660380454753, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 11.844406502698845, 
+    "YEAR": 2002, 
+    "ACCESS1": 16.05944900877409, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 4.5398175088216215, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.717734213432932, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 27.250256106078446, 
+    "YEAR": 2002, 
+    "ACCESS1": 42.07184291576525, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.2413645241111993, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.4185113754997034, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.5309605000349358, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.2262384076219535, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 6.114092191360506, 
+    "YEAR": 2002, 
+    "ACCESS1": 30.25761015189501, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 3.989735076841018, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.234907338422328, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 28.888273407247976, 
+    "YEAR": 2002, 
+    "ACCESS1": 65.55416712479972, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

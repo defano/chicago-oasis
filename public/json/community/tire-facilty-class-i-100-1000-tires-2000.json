@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.33910062344680303, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.233331979606817, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 103.10432348083754, 
+    "YEAR": 2000, 
+    "ACCESS1": 47.129568979823716, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 17.085047797975577, 
+    "YEAR": 2000, 
+    "ACCESS1": 31.183454500611766, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 4.319019944371564, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.16463278437523, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 3.668744585732189, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.237873286887163, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8355778593975771, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.236563418800884, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.9121069550981794, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.928382787962583, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.604944394091331, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.392456035208085, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.7950683914886719, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.032341053666208, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.9514336169124749, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.20330254150301, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.8766774354750309, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.471542881219435, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.12466844951975256, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0986130110375727, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.5515788557404048, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.118726287682357, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.48282048875116673, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.22490459897726, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.9363518432246939, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.315452325084097, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 9.115763728515196, 
+    "YEAR": 2000, 
+    "ACCESS1": 26.64546456156247, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 19.688475941409642, 
+    "YEAR": 2000, 
+    "ACCESS1": 30.231862269773128, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.1324545695315185, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3238519920809177, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.08122901102960475, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6816867307846206, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 4.182888113509098, 
+    "YEAR": 2000, 
+    "ACCESS1": 16.22788377096221, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 3.6604694751830342, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.88887541654484, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.732830565952995, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.685535138128104, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 51.36041446870622, 
+    "YEAR": 2000, 
+    "ACCESS1": 37.835927257894824, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.4753538881178482, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.3026737046981656, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 2.9432818724267316, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.680905442916632, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 2.108682597487183, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.629218363642549, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.2201736271797528, 
+    "YEAR": 2000, 
+    "ACCESS1": 10.781501810332326, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 39.27354700705277, 
+    "YEAR": 2000, 
+    "ACCESS1": 86.2162883791068, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 9.183582144679473, 
+    "YEAR": 2000, 
+    "ACCESS1": 29.348261399935527, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 3.0424218471944084, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.257246987764253, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.1907013028609013, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.229513858262818, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 6.300652102704694, 
+    "YEAR": 2000, 
+    "ACCESS1": 20.90379817324183, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 132.62297584965887, 
+    "YEAR": 2000, 
+    "ACCESS1": 85.2851522048483, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 4.895247184151089, 
+    "YEAR": 2000, 
+    "ACCESS1": 21.176619529883265, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.2970472521181979, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.502893461001772, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 25.275681245229013, 
+    "YEAR": 2000, 
+    "ACCESS1": 51.01699368404507, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.6646377280002416, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.199527991245084, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 12.40116735385385, 
+    "YEAR": 2000, 
+    "ACCESS1": 36.162752813399045, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.7937221183391583, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.9724444761632665, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.41680614896229357, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.324315092093176, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 50.70748237197123, 
+    "YEAR": 2000, 
+    "ACCESS1": 44.613092862573104, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 37.39489667701547, 
+    "YEAR": 2000, 
+    "ACCESS1": 49.861495774954356, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8914820606079389, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.44421863716958, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 189.90188276849346, 
+    "YEAR": 2000, 
+    "ACCESS1": 71.8661736613372, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.5028575708402011, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.716515955440692, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8481374274268487, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.8981741303335107, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.6537223628322637, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.570081818920954, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 16.06088249158289, 
+    "YEAR": 2000, 
+    "ACCESS1": 13.703992871221807, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 24.548246992855024, 
+    "YEAR": 2000, 
+    "ACCESS1": 46.38490817534312, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.3656262944995527, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.66737095290824, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.2213896922874246, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.7807294517260577, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.32474282461133425, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.1798814706803276, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 37.060604320797324, 
+    "YEAR": 2000, 
+    "ACCESS1": 44.278348768076604, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.6342955616464538, 
+    "YEAR": 2000, 
+    "ACCESS1": 13.263796256463865, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.45297890068246816, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.6015459888615586, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 3.152633414487643, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.147876999709045, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 3.5354533258708947, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.840601522722352, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 5.209914755364063, 
+    "YEAR": 2000, 
+    "ACCESS1": 24.565261281623986, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.0503735378798973, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.780932774240575, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.5515760808799628, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.67555894443576, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.6458160516349362, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.754036017783955, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.4217769496264159, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.745163966537653, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.1125127743388827, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.2126465220390905, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.3059961848178024, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.3412304042586864, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8196905221378842, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.246615994519924, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.5324731708666266, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.415636371222508, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.3271841109203449, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.1338882784574777, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 2.1349345051787254, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.3421602142497555, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.290127493711777, 
+    "YEAR": 2000, 
+    "ACCESS1": 9.563801156576924, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8545165356857276, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.367242527958912, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.8724730471197448, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.595673062170468, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 1.8294116560470168, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.988513263457207, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.444116752626124, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.5862088149259566, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.3499967083810924, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.729490217043135, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 5.529012360990738, 
+    "YEAR": 2000, 
+    "ACCESS1": 30.549579346222956, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 0.7362988805641706, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.599678231829731, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Tire Facilty Class I (100 - 1,000 Tires)", 
+    "ACCESS2": 191.2332938157831, 
+    "YEAR": 2000, 
+    "ACCESS1": 112.41791787534851, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

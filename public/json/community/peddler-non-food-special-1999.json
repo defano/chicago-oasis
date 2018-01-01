@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 36.23681260782627, 
+    "YEAR": 1999, 
+    "ACCESS1": 11.019729498029891, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.13155250095194765, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7031486649840535, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.20526527809713535, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.9878776435160939, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 45.95253963151728, 
+    "YEAR": 1999, 
+    "ACCESS1": 22.785718499176436, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 3.277438220075267, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.525347572988619, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.5626309535690787, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.5045151052632413, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 2.3817746855731996, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.174518392657479, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.45628510244605625, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.9945185225605253, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.9252096593010015, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.18728322594192, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.6946570667298906, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.936002858905539, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.0797475694663278, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.9155064258317527, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.08442432240343631, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.5130811946314904, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 2.7852135398184945, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.958019116517153, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.4740524702698773, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.9751972554690789, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.374877458017431, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.132681123006548, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.21697910724487782, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.1564565794623913, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.3690817896661337, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.442613791473305, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.3460925408388231, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.8075552339923497, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 3.852245455664158, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.048718423472971, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.1277177566842582, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.409118835728906, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 9.776153603455255, 
+    "YEAR": 1999, 
+    "ACCESS1": 14.424246218390872, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.2480280699193646, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.124784690478797, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.22697488089604623, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.0676178965054364, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.5876338439209707, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.200362291961492, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.20407410567386666, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.3643616254438138, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.652879804525105, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.4506576232335076, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.3145982018314788, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.754681812942547, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.8300906746272527, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.029358103801629, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.6237579419252133, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.830129512725158, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 6.276654411745314, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.393477751501099, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.10654019067054055, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.2194647217741645, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 4.076308670359766, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.783167799744105, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.413501171900782, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.714180014074143, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.36242975378659936, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.881763874647125, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.7918665882047498, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.7388065017791443, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.6360874127903193, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.69211655128787, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.1004294812779452, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.0177036442708547, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.2362955723054687, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.7011086647309406, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 5.053326904005297, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.736250094526593, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.27515967110993667, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7940925146630031, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.17794492756144237, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.1168011088421115, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 2.0408017612660436, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.794420891581258, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.7591106434171325, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.9616887016468856, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.38525658842010485, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.0233407038362383, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.3833539361882849, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.088061500867613, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.12842720565991195, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.8538255447131082, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.09503048726667698, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.2199961302122952, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.4747762824488299, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.430038226839355, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.7151918794825095, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.044669174857862, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.12113400454364573, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.9520509560522378, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.10716216170055264, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.6534144371903403, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.061798644914126045, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.44528512825485334, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.40049290707603125, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.158083089003611, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.7501049213574831, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.7321493039413385, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.10085856081381234, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.5577284485104774, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.33337991570430414, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7399101800001704, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.06433026704392304, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.6711609965129964, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.7383442383766077, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.401818951046258, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.26257699155583014, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.5801942667150508, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.1264116538170017, 
+    "YEAR": 1999, 
+    "ACCESS1": 6.480300732223124, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.3336598563960073, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.134603721409066, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.2747576664837566, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.8993841721884999, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.8214378291189818, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.1872422798540656, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.6428973622932695, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.3156505404017373, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.7164958684273025, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.6173627334300873, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.32427994710534463, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.2518429793338295, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.250137183957553, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.3536399000631163, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.32900848818760914, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.96269853034854, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.1036962858669879, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.252815616237558, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.46413037174725214, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.99371580374143, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.6382408571737812, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.5105861232148206, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 1.036264689725991, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.868198137487755, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.040275853534972636, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.5367857068522184, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.12636412973683564, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.869431863120938, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 4.013817060454897, 
+    "YEAR": 1999, 
+    "ACCESS1": 10.778042798236118, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 0.5082638779069045, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.7807399485815405, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler, non-food, special", 
+    "ACCESS2": 2.1688246812202294, 
+    "YEAR": 1999, 
+    "ACCESS1": 10.164902460520427, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.11821678576180909, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.0641810899457758, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.24959473939394963, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.3963900341666076, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.440860192480221, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.000005402576637, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.7366199439452377, 
+    "YEAR": 1998, 
+    "ACCESS1": 8.894788225105778, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.28563275559216267, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.7598740607199805, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7983373594392619, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.978628357696805, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.5429025306476482, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.918406367031899, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.3869950101443904, 
+    "YEAR": 1998, 
+    "ACCESS1": 7.527276457302867, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7312091530938765, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.823545170117985, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.0063705887386127, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.673361228587483, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.1150017757764241, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.1497135255668556, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.01896930294012272, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.27294408254006597, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.22832973547210664, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.0954346504087167, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.45869955475740865, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.0704133936156817, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.15189172359102493, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.4256361836871285, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.5541875823967481, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.5030982864300815, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7573213212749276, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.686199201531652, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.05980346535816347, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.4768082385691146, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.024916342725601906, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.2182964807781121, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 4.793051223326167, 
+    "YEAR": 1998, 
+    "ACCESS1": 10.137410718266004, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.2433169209933355, 
+    "YEAR": 1998, 
+    "ACCESS1": 10.586517402834753, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.2536129409824433, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.3269709358817385, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.40160215860474296, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.8800665155652645, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.05276283118602962, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.5521611033985443, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.3654907166934531, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.548899769413476, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 24.38206774879284, 
+    "YEAR": 1998, 
+    "ACCESS1": 16.61432307752931, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.60823106903968, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.111676689978541, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.8734420145882558, 
+    "YEAR": 1998, 
+    "ACCESS1": 13.114071197840586, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.3263079533795015, 
+    "YEAR": 1998, 
+    "ACCESS1": 7.734751606428363, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.2505741937376555, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.883935877459471, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.1294174596054224, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.4203145933326644, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.20179903563329, 
+    "YEAR": 1998, 
+    "ACCESS1": 8.256289303707126, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.9736691902984167, 
+    "YEAR": 1998, 
+    "ACCESS1": 13.306363276579015, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.45668420714956603, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.484009674833229, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.06538476759077885, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7110067827718901, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.601425406297056, 
+    "YEAR": 1998, 
+    "ACCESS1": 10.866364735267265, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.13399064969197086, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.245048021973199, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.5121020136160942, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.054333116424039, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.322668868776541, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.4647306519577388, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.3140010767995461, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.8777832530019307, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.32576240814212476, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.9468416553850196, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 24.69677447415321, 
+    "YEAR": 1998, 
+    "ACCESS1": 24.896887780923706, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.150884366052947, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.6181845337759695, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.0904385617052663, 
+    "YEAR": 1998, 
+    "ACCESS1": 5.188062181386167, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7030329221877365, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.7012252141552313, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.6923009694488288, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.0178008061826063, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.10211716204306928, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.3348042621779743, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.10600414200818929, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2839634531438993, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 6.263126787078237, 
+    "YEAR": 1998, 
+    "ACCESS1": 14.178792164616949, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.06609671699552482, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.7158519554547282, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7472774674831746, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.496940898903472, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.0559417127791389, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.467220983300498, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.6985162875594454, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.40599498966516, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 3.7164437039085394, 
+    "YEAR": 1998, 
+    "ACCESS1": 9.493836929060965, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.021630057030518554, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.2906012333273255, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.43196281347912335, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.1825322086645906, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.10931332709170219, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.9119560565627038, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.7622181683273903, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.946407775838686, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.8559180207756945, 
+    "YEAR": 1998, 
+    "ACCESS1": 4.828983044134228, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.0208369375796544, 
+    "YEAR": 1998, 
+    "ACCESS1": 8.060058364137616, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.8069641535985308, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.1755269924708114, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.2508174846691822, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.834207376245426, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.20051973761989794, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.7454475920439136, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.08238124263206584, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.9815015640427872, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.5439062484547894, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.3732757139126313, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.27304289709705315, 
+    "YEAR": 1998, 
+    "ACCESS1": 2.031180047250008, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.2996077770949678, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.4938683543667093, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.11238566335484435, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.2340159579780374, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 2.469650269848519, 
+    "YEAR": 1998, 
+    "ACCESS1": 6.4576550469372265, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 10.22530485013456, 
+    "YEAR": 1998, 
+    "ACCESS1": 7.58652962278811, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.6521156081310032, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.7723067570630464, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 7.123387935757249, 
+    "YEAR": 1998, 
+    "ACCESS1": 13.075820410059087, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.04963621577728524, 
+    "YEAR": 1998, 
+    "ACCESS1": 0.6241337353216637, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 0.4902611519005332, 
+    "YEAR": 1998, 
+    "ACCESS1": 1.6159963634419883, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.5307392552604557, 
+    "YEAR": 1998, 
+    "ACCESS1": 8.38108027550854, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 1.091868320066199, 
+    "YEAR": 1998, 
+    "ACCESS1": 3.876835481103587, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Food Dispenser", 
+    "ACCESS2": 55.533856808392, 
+    "YEAR": 1998, 
+    "ACCESS1": 38.344792437866566, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

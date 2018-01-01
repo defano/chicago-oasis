@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.16964459046042982, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.2405663274242777, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.322351205288046, 
+    "YEAR": 2020, 
+    "ACCESS1": 12.409051375304822, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 5.004837983273235, 
+    "YEAR": 2020, 
+    "ACCESS1": 16.923393807198753, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.5146338606150045, 
+    "YEAR": 2020, 
+    "ACCESS1": 14.839282630574884, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.39280976238795196, 
+    "YEAR": 2020, 
+    "ACCESS1": 5.702661874236853, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.592752564389635, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.20358005294836, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7165344640117958, 
+    "YEAR": 2020, 
+    "ACCESS1": 7.950448004065568, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.8977167731040472, 
+    "YEAR": 2020, 
+    "ACCESS1": 10.324302279355116, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7020343475008066, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.724631294659985, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.9711736834483922, 
+    "YEAR": 2020, 
+    "ACCESS1": 8.232677446120395, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5787893710487406, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.472663125211713, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.03489040816829059, 
+    "YEAR": 2020, 
+    "ACCESS1": 0.6448030175784765, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3547630685043431, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.578270557935108, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3558694050193365, 
+    "YEAR": 2020, 
+    "ACCESS1": 3.2427788828642936, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.19579602022113374, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.8522223643715034, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 26.905208342506377, 
+    "YEAR": 2020, 
+    "ACCESS1": 32.718624609889176, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.5631868128089943, 
+    "YEAR": 2020, 
+    "ACCESS1": 14.277302873976748, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.07889565552039406, 
+    "YEAR": 2020, 
+    "ACCESS1": 0.9655627418987212, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.033750632928354896, 
+    "YEAR": 2020, 
+    "ACCESS1": 0.44712099323892546, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.1028915734796025, 
+    "YEAR": 2020, 
+    "ACCESS1": 13.818547365036798, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.4361691619286363, 
+    "YEAR": 2020, 
+    "ACCESS1": 16.003056029793342, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.8194110292029562, 
+    "YEAR": 2020, 
+    "ACCESS1": 7.300421209235387, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.6077659436225478, 
+    "YEAR": 2020, 
+    "ACCESS1": 12.708150174154541, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.07873568223908096, 
+    "YEAR": 2020, 
+    "ACCESS1": 1.1832270164337975, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 6.7482639260434, 
+    "YEAR": 2020, 
+    "ACCESS1": 12.286200861017939, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.9783215593047487, 
+    "YEAR": 2020, 
+    "ACCESS1": 10.583137822425764, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.6110885958312934, 
+    "YEAR": 2020, 
+    "ACCESS1": 7.359260846767924, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 333.0461932537556, 
+    "YEAR": 2020, 
+    "ACCESS1": 166.2283684897104, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.967653350478496, 
+    "YEAR": 2020, 
+    "ACCESS1": 18.783577711293987, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.668057463589769, 
+    "YEAR": 2020, 
+    "ACCESS1": 9.968157573152665, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5110334666070948, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.911272547966397, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.904258967360033, 
+    "YEAR": 2020, 
+    "ACCESS1": 14.316716234501405, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 12.258723425160186, 
+    "YEAR": 2020, 
+    "ACCESS1": 43.46778704232266, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.752455247294792, 
+    "YEAR": 2020, 
+    "ACCESS1": 11.997273362307356, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.10560760741974308, 
+    "YEAR": 2020, 
+    "ACCESS1": 1.5814143137475172, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 78.19299956039056, 
+    "YEAR": 2020, 
+    "ACCESS1": 81.37774798748613, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5894514522958857, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.556277465242969, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 7.534462424147007, 
+    "YEAR": 2020, 
+    "ACCESS1": 25.501481551974983, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3864037044964275, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.7772931819605065, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2880334948401159, 
+    "YEAR": 2020, 
+    "ACCESS1": 3.1997770689823763, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.711439920044496, 
+    "YEAR": 2020, 
+    "ACCESS1": 14.493648377026261, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 10.936020543800247, 
+    "YEAR": 2020, 
+    "ACCESS1": 33.81462848258334, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.6973299356692167, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.694929762357368, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 11.583574175601438, 
+    "YEAR": 2020, 
+    "ACCESS1": 29.39208080590121, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.4621237509861682, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.020106934490685, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.1761489163863765, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.3343126140095976, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.3418139764828126, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.244313425419658, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.16603931442326061, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.811428180835919, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 774.1302561702701, 
+    "YEAR": 2020, 
+    "ACCESS1": 156.968035583524, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.09348568795492193, 
+    "YEAR": 2020, 
+    "ACCESS1": 1.4921356131678423, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2181086914778627, 
+    "YEAR": 2020, 
+    "ACCESS1": 1.5852251709739935, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.1622713744000992, 
+    "YEAR": 2020, 
+    "ACCESS1": 1.3929157804540455, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 3.914996392106482, 
+    "YEAR": 2020, 
+    "ACCESS1": 18.174448322105434, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.720214786483331, 
+    "YEAR": 2020, 
+    "ACCESS1": 12.181429720624823, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.036653401032172093, 
+    "YEAR": 2020, 
+    "ACCESS1": 0.6605258537834565, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.2337735885366752, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.641488143101485, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7191358106955242, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.043397377279163, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.255256008359543, 
+    "YEAR": 2020, 
+    "ACCESS1": 15.048066757485856, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.1341765393520624, 
+    "YEAR": 2020, 
+    "ACCESS1": 5.6077154456860185, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.171722243082537, 
+    "YEAR": 2020, 
+    "ACCESS1": 11.42287902070644, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7144303485044813, 
+    "YEAR": 2020, 
+    "ACCESS1": 5.374280368013882, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2901546812302439, 
+    "YEAR": 2020, 
+    "ACCESS1": 3.4743600876634217, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.2488581373578091, 
+    "YEAR": 2020, 
+    "ACCESS1": 3.4348391367102984, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.14585708957746024, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.278102283939679, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5816291592851522, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.147465099386445, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.29373169025193313, 
+    "YEAR": 2020, 
+    "ACCESS1": 3.733753837534059, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.24020925487716496, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.3856961201683, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.16198554712510702, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.5972807986331667, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.996745708061616, 
+    "YEAR": 2020, 
+    "ACCESS1": 7.642191973140231, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.7016237098803338, 
+    "YEAR": 2020, 
+    "ACCESS1": 4.507673920004733, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.6194125190952173, 
+    "YEAR": 2020, 
+    "ACCESS1": 6.608189242521979, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 1.592568296481349, 
+    "YEAR": 2020, 
+    "ACCESS1": 12.550740186136919, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.19888942743525279, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.171948152605184, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.4220235092510777, 
+    "YEAR": 2020, 
+    "ACCESS1": 2.6873963445702453, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 2.970619665031169, 
+    "YEAR": 2020, 
+    "ACCESS1": 20.597581804190906, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 0.5711556198003805, 
+    "YEAR": 2020, 
+    "ACCESS1": 5.186253487066405, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Accessory Garage", 
+    "ACCESS2": 21.226591352291464, 
+    "YEAR": 2020, 
+    "ACCESS1": 60.78294269663329, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

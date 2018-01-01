@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.07886525097269231, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.8877669462448022, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.32334489087952184, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.7819409800466914, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.4903576577437568, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.276263238279995, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.9525008969551384, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.3072684748448795, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.1736229323959713, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.1989437662256788, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.2606426795448282, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.391317071684433, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.35612453913155734, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.264802768392799, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 1.2496771373055888, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.9747753189156505, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.3629302206319759, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.82402210741431, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.5353863457501262, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.5803840358871315, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.1109578993947279, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.1487689249655664, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.014840377532351954, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.24363442049992623, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.16799703432986213, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.8311218644593694, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.1461856660087799, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.2071900783002523, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.08344138882612676, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.0796344644805076, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.7588401178422699, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.253992828853875, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.5647334915339998, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.348698391339987, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.03750508423157198, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.38726834976272273, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.015529020311265575, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.17623291583166623, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 1.6610731188349017, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.982085679380309, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.9882558609311387, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.930207967389509, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.19615461197039807, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.071733383371599, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.3824269109591613, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.8958074197444756, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.03486654020423144, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.4567177929797587, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 8.385417075605128, 
+    "YEAR": 2007, 
+    "ACCESS1": 8.594369977666199, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 1.1322649073979252, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.743079897280462, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.2760570677225561, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.8744118079033476, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 3.9952072294424674, 
+    "YEAR": 2007, 
+    "ACCESS1": 16.32754481188561, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 1.0008909980790128, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.457666220445001, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.5288930255233795, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.2492116441166696, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.11461682166896238, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.3521537465738924, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.9867312050556044, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.852561764544324, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 2.240713684993898, 
+    "YEAR": 2007, 
+    "ACCESS1": 10.86545547153483, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.3625519720038589, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.1769962204389177, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.04747561849109278, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.6150769867714327, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 5.454918082842296, 
+    "YEAR": 2007, 
+    "ACCESS1": 14.410000152715648, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.11936446174812929, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.1956956487606922, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.6938529734773533, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.848806769055863, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.18007698830688307, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.8960349984215492, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.12006596531993477, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.1989152966382377, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.3802352608617259, 
+    "YEAR": 2007, 
+    "ACCESS1": 3.256034758308037, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 5.028145272343946, 
+    "YEAR": 2007, 
+    "ACCESS1": 13.648851047854139, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.33988635457253974, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.724823550859592, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 1.0507754417186317, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.405151066364911, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.24262061360314433, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.7038498071492, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.9650817899991799, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.3863476516344315, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.0865676478080061, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.2384622550004074, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.07024895584325669, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.0597227095592816, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 268.1257322661633, 
+    "YEAR": 2007, 
+    "ACCESS1": 61.78559105323712, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.03832288655243346, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.5534161034216635, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.12003874657695662, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.6904877980722623, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.04042610526111619, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.40210177873353503, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.6000704659360842, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.228730409708922, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.9895664122211418, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.433653026777442, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.01547162830509157, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.24860995772197142, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.26903999553387425, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.7954716798327182, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.11127237900792164, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.9427840099098379, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.5188875442470264, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.1855223787159686, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.7263728257070925, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.671038411086772, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.5496311380294685, 
+    "YEAR": 2007, 
+    "ACCESS1": 4.556850280136379, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.4163921292308243, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.411290832316872, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.11344864567996288, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.2574759847500294, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.10932660707862962, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.3212630642980971, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.06525806077762232, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.8837161384069975, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.22585108688357602, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.2181514001025437, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.12390830315410782, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.40644343880823, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.10005101195140254, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.894120781608897, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.06792173644714976, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.9745533956081397, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.44314629382327064, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.9719133760588012, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.3446717018389178, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.8536940780296969, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.30174959063338014, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.6868580827165864, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.7933489305453294, 
+    "YEAR": 2007, 
+    "ACCESS1": 5.179188625764423, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.04579788589169849, 
+    "YEAR": 2007, 
+    "ACCESS1": 0.605138833599467, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.26749422639669773, 
+    "YEAR": 2007, 
+    "ACCESS1": 1.2647278287876134, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.8332603133722724, 
+    "YEAR": 2007, 
+    "ACCESS1": 6.30510833897959, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 0.2549197970788715, 
+    "YEAR": 2007, 
+    "ACCESS1": 2.0169279943075695, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Navy Pier Vendor (Non-Food)", 
+    "ACCESS2": 5.379266017990242, 
+    "YEAR": 2007, 
+    "ACCESS1": 17.884471847966186, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

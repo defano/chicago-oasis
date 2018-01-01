@@ -1,79 +1,541 @@
 [
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{"YEAR":2007,"BUSINESS_TYPE":"Motor Vehicle Repair
-{}]
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 47.30898998761669, 
+    "YEAR": 2007, 
+    "ACCESS1": 163.5212831391688, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 183.7069557720186, 
+    "YEAR": 2007, 
+    "ACCESS1": 446.9837912006585, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 594.9263066626332, 
+    "YEAR": 2007, 
+    "ACCESS1": 700.4608463053169, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 940.0242461243497, 
+    "YEAR": 2007, 
+    "ACCESS1": 1065.0009257164859, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 171.68217284462816, 
+    "YEAR": 2007, 
+    "ACCESS1": 464.8124308011871, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 441.3030747661423, 
+    "YEAR": 2007, 
+    "ACCESS1": 617.0445934920297, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 183.93273061493545, 
+    "YEAR": 2007, 
+    "ACCESS1": 519.3961252526365, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 123.39797324277973, 
+    "YEAR": 2007, 
+    "ACCESS1": 453.206814191975, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 195.01195819405604, 
+    "YEAR": 2007, 
+    "ACCESS1": 452.2899545950206, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 94.36323408448808, 
+    "YEAR": 2007, 
+    "ACCESS1": 446.3096299463681, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 82.69264230775882, 
+    "YEAR": 2007, 
+    "ACCESS1": 232.10771218866194, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 4.0520814992034335, 
+    "YEAR": 2007, 
+    "ACCESS1": 38.14377322355533, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 224.9555638466379, 
+    "YEAR": 2007, 
+    "ACCESS1": 343.1422687801691, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 969.4243491185194, 
+    "YEAR": 2007, 
+    "ACCESS1": 292.42479961724945, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 107.26705791333522, 
+    "YEAR": 2007, 
+    "ACCESS1": 239.2918271971131, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 378.4927920103033, 
+    "YEAR": 2007, 
+    "ACCESS1": 619.1705558708182, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 690.8608041944528, 
+    "YEAR": 2007, 
+    "ACCESS1": 770.9464433062194, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 25.09814971499137, 
+    "YEAR": 2007, 
+    "ACCESS1": 72.11543798989901, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 9.284843097392947, 
+    "YEAR": 2007, 
+    "ACCESS1": 34.02033942256208, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 981.7899929259505, 
+    "YEAR": 2007, 
+    "ACCESS1": 811.366679166222, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1499.553871555519, 
+    "YEAR": 2007, 
+    "ACCESS1": 1363.623935505203, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 182.62239586610062, 
+    "YEAR": 2007, 
+    "ACCESS1": 453.78545876136826, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 640.1631761139796, 
+    "YEAR": 2007, 
+    "ACCESS1": 748.3013917889236, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 17.704493776164334, 
+    "YEAR": 2007, 
+    "ACCESS1": 85.62611924727584, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 49.92000078148574, 
+    "YEAR": 2007, 
+    "ACCESS1": 221.8405938829151, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 818.7039007944093, 
+    "YEAR": 2007, 
+    "ACCESS1": 641.3215589859979, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 342.8843497772465, 
+    "YEAR": 2007, 
+    "ACCESS1": 661.6630805413653, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1784.022080510895, 
+    "YEAR": 2007, 
+    "ACCESS1": 1893.1130790754762, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1215.7879963927417, 
+    "YEAR": 2007, 
+    "ACCESS1": 1228.6377393095772, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 201.56180177601811, 
+    "YEAR": 2007, 
+    "ACCESS1": 594.7848422470558, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 74.16327447487872, 
+    "YEAR": 2007, 
+    "ACCESS1": 269.1494531743778, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 382.4551021574443, 
+    "YEAR": 2007, 
+    "ACCESS1": 760.6571890233106, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 2353.90125584284, 
+    "YEAR": 2007, 
+    "ACCESS1": 2230.760271511172, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 442.601352594228, 
+    "YEAR": 2007, 
+    "ACCESS1": 804.6471220451058, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 32.71384809508996, 
+    "YEAR": 2007, 
+    "ACCESS1": 112.24012273879816, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 862.8759200586339, 
+    "YEAR": 2007, 
+    "ACCESS1": 1169.9686318480149, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 102.43559351869021, 
+    "YEAR": 2007, 
+    "ACCESS1": 266.9854191013704, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 478.23724961504314, 
+    "YEAR": 2007, 
+    "ACCESS1": 791.0778393008009, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 268.71565102953963, 
+    "YEAR": 2007, 
+    "ACCESS1": 419.6488332645225, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 128.73685837607763, 
+    "YEAR": 2007, 
+    "ACCESS1": 282.6561524593558, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 382.3784648557062, 
+    "YEAR": 2007, 
+    "ACCESS1": 637.0593567229176, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 464.6499909349916, 
+    "YEAR": 2007, 
+    "ACCESS1": 1191.9986883271176, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 233.7319253023787, 
+    "YEAR": 2007, 
+    "ACCESS1": 550.0746777082743, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 832.5198116325872, 
+    "YEAR": 2007, 
+    "ACCESS1": 964.1794738973832, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 177.19588321296374, 
+    "YEAR": 2007, 
+    "ACCESS1": 285.4402875262363, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 29.79409095655349, 
+    "YEAR": 2007, 
+    "ACCESS1": 131.15959037273186, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 26.301303568720694, 
+    "YEAR": 2007, 
+    "ACCESS1": 213.42657808963816, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 73.04445630207358, 
+    "YEAR": 2007, 
+    "ACCESS1": 213.38315143431223, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 424.9372521391287, 
+    "YEAR": 2007, 
+    "ACCESS1": 980.4780273915763, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 16.3929252979966, 
+    "YEAR": 2007, 
+    "ACCESS1": 104.57327521730927, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 34.248422910111174, 
+    "YEAR": 2007, 
+    "ACCESS1": 99.8405335904528, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 32.17531711986052, 
+    "YEAR": 2007, 
+    "ACCESS1": 89.89680676088902, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1605.9911361639693, 
+    "YEAR": 2007, 
+    "ACCESS1": 1159.847210949018, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 239.23741860476, 
+    "YEAR": 2007, 
+    "ACCESS1": 685.5353512388187, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 5.965184494382371, 
+    "YEAR": 2007, 
+    "ACCESS1": 42.7428579936597, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 836.7900513056932, 
+    "YEAR": 2007, 
+    "ACCESS1": 540.4351087624776, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 88.49893663809326, 
+    "YEAR": 2007, 
+    "ACCESS1": 204.75587340117514, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1756.7607959710053, 
+    "YEAR": 2007, 
+    "ACCESS1": 1180.7838514663815, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 110.34692808812558, 
+    "YEAR": 2007, 
+    "ACCESS1": 261.0555711009546, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 576.1100248285842, 
+    "YEAR": 2007, 
+    "ACCESS1": 1047.7540039847, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 63.105529826866054, 
+    "YEAR": 2007, 
+    "ACCESS1": 268.83178753043944, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 118.78271016910472, 
+    "YEAR": 2007, 
+    "ACCESS1": 269.07699262215743, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 301.82677503711034, 
+    "YEAR": 2007, 
+    "ACCESS1": 316.63392894886147, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 131.66827708809086, 
+    "YEAR": 2007, 
+    "ACCESS1": 172.55472861991566, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 133.90127077763216, 
+    "YEAR": 2007, 
+    "ACCESS1": 452.6390659465397, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 128.4347993857415, 
+    "YEAR": 2007, 
+    "ACCESS1": 314.4215433633486, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 84.20685917134999, 
+    "YEAR": 2007, 
+    "ACCESS1": 204.90212189195745, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 51.427522283832765, 
+    "YEAR": 2007, 
+    "ACCESS1": 197.00373817797492, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 638.6099222076225, 
+    "YEAR": 2007, 
+    "ACCESS1": 718.1647431720892, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 222.47407376759247, 
+    "YEAR": 2007, 
+    "ACCESS1": 342.0054004717109, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 308.8972570029779, 
+    "YEAR": 2007, 
+    "ACCESS1": 546.856070587295, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 1077.9262885355772, 
+    "YEAR": 2007, 
+    "ACCESS1": 1147.815646237359, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 16.224254087247264, 
+    "YEAR": 2007, 
+    "ACCESS1": 106.75982121401695, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 26.941981349405005, 
+    "YEAR": 2007, 
+    "ACCESS1": 118.95417457945798, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 873.7591998592293, 
+    "YEAR": 2007, 
+    "ACCESS1": 1426.2008135920755, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 355.76685944774505, 
+    "YEAR": 2007, 
+    "ACCESS1": 508.5932357456015, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair; Specialty(Class I)", 
+    "ACCESS2": 2643.5073905686927, 
+    "YEAR": 2007, 
+    "ACCESS1": 2239.2878030446223, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

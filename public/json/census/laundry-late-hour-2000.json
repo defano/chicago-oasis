@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2878350107978945, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 0.08284899344102402, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11608846080092629, 
+    "TRACT": "4003", 
+    "ACCESS2": 0.013476530731128198, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2589237356708499, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 0.06704150089374815, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2588816206432686, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 0.06701969350688522, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0796723672248938, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 0.006347686099218332, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07695471697735394, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 0.005922028465064647, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.42650498069157905, 
+    "TRACT": "0705", 
+    "ACCESS2": 0.1819064985547242, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3161830580570373, 
+    "TRACT": "8387", 
+    "ACCESS2": 0.09997172620229983, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08236300301741444, 
+    "TRACT": "4406", 
+    "ACCESS2": 0.00678366426604662, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08607236916304803, 
+    "TRACT": "7113", 
+    "ACCESS2": 0.00740845273334002, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21434381111254522, 
+    "TRACT": "3301", 
+    "ACCESS2": 0.04594326936225047, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21334566581801798, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 0.045516373123333405, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08484641956928916, 
+    "TRACT": "8343", 
+    "ACCESS2": 0.007198914913727855, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12127873906195408, 
+    "TRACT": "6708", 
+    "ACCESS2": 0.014708532548457547, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13489036600241067, 
+    "TRACT": "1202", 
+    "ACCESS2": 0.018195410840264308, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0976086523060201, 
+    "TRACT": "7102", 
+    "ACCESS2": 0.009527449004997522, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1167539669230337, 
+    "TRACT": "4107", 
+    "ACCESS2": 0.013631488792264846, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11690393465037724, 
+    "TRACT": "1002", 
+    "ACCESS2": 0.013666529936739672, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.39433293066015024, 
+    "TRACT": "0712", 
+    "ACCESS2": 0.15549846020302285, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4638739558489158, 
+    "TRACT": "8331", 
+    "ACCESS2": 0.21517904691492185, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1712946440091528, 
+    "TRACT": "0401", 
+    "ACCESS2": 0.029341855066222396, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16942302671112935, 
+    "TRACT": "1702", 
+    "ACCESS2": 0.028704161979960053, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07824817459773896, 
+    "TRACT": "7304", 
+    "ACCESS2": 0.006122776827878239, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.45456690196774174, 
+    "TRACT": "8382", 
+    "ACCESS2": 0.20663106836455053, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1798875050106761, 
+    "TRACT": "1404", 
+    "ACCESS2": 0.03235951445896602, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10398228183155439, 
+    "TRACT": "6903", 
+    "ACCESS2": 0.010812314934896807, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30728985362285927, 
+    "TRACT": "3108", 
+    "ACCESS2": 0.09442705413955826, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1042314176107931, 
+    "TRACT": "4208", 
+    "ACCESS2": 0.010864188417155552, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2388510675761401, 
+    "TRACT": "0609", 
+    "ACCESS2": 0.05704983248226184, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09221935050268328, 
+    "TRACT": "6914", 
+    "ACCESS2": 0.008504408607136752, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1288035065142263, 
+    "TRACT": "6309", 
+    "ACCESS2": 0.01659034329036034, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10946667626569952, 
+    "TRACT": "6408", 
+    "ACCESS2": 0.01198295321265946, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07590596962925109, 
+    "TRACT": "4606", 
+    "ACCESS2": 0.005761716225356787, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11143827064879068, 
+    "TRACT": "6809", 
+    "ACCESS2": 0.012418488165193121, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08107732777802118, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.006573533079624686, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06081137815167501, 
+    "TRACT": "5206", 
+    "ACCESS2": 0.0036980237127060174, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11944479912595302, 
+    "TRACT": "4004", 
+    "ACCESS2": 0.014267060038239267, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23461919180708798, 
+    "TRACT": "8434", 
+    "ACCESS2": 0.055046165164211146, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07998519280839508, 
+    "TRACT": "4802", 
+    "ACCESS2": 0.006397631068596136, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12907522952878184, 
+    "TRACT": "6702", 
+    "ACCESS2": 0.016660414877907717, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13760200422080454, 
+    "TRACT": "1704", 
+    "ACCESS2": 0.018934311565582312, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5148527009440061, 
+    "TRACT": "2203", 
+    "ACCESS2": 0.2650733036693382, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1329744899159506, 
+    "TRACT": "1007", 
+    "ACCESS2": 0.01768221496840725, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30643072924270437, 
+    "TRACT": "0622", 
+    "ACCESS2": 0.09389979182421558, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06541323201711759, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.0042788909229252575, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1443056561565073, 
+    "TRACT": "0205", 
+    "ACCESS2": 0.02082412239876012, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23231488875014267, 
+    "TRACT": "0608", 
+    "ACCESS2": 0.053970207534991176, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07958798051666924, 
+    "TRACT": "4409", 
+    "ACCESS2": 0.006334246642721722, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15890759227920315, 
+    "TRACT": "3511", 
+    "ACCESS2": 0.02525162288397347, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06039253940180499, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.0036472588153985673, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.060451651675272264, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.0036544021902684483, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06282402344212176, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.0039468579214562635, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18400692394965146, 
+    "TRACT": "8400", 
+    "ACCESS2": 0.033858548061412815, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.35934216053071855, 
+    "TRACT": "0510", 
+    "ACCESS2": 0.12912678833488467, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10957291138190947, 
+    "TRACT": "4109", 
+    "ACCESS2": 0.012006222908707787, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2314126969206262, 
+    "TRACT": "2506", 
+    "ACCESS2": 0.0535518362960776, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08750660409767194, 
+    "TRACT": "4307", 
+    "ACCESS2": 0.007657405760706695, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20965731288425404, 
+    "TRACT": "8403", 
+    "ACCESS2": 0.043956188845846, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1650032409143937, 
+    "TRACT": "0305", 
+    "ACCESS2": 0.027226069512253443, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17989022965164014, 
+    "TRACT": "8420", 
+    "ACCESS2": 0.03236049472411983, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08301122351510624, 
+    "TRACT": "7303", 
+    "ACCESS2": 0.006890863229474929, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06718736252181064, 
+    "TRACT": "4912", 
+    "ACCESS2": 0.004514141682637204, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14414553498367702, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 0.02077793525573046, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1379111790638344, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 0.019019493310776993, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1440731998412875, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 0.020757086912507564, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.469982185476344, 
+    "TRACT": "2828", 
+    "ACCESS2": 0.22088325466512063, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.5857163382727486, 
+    "TRACT": "2422", 
+    "ACCESS2": 2.514496305465134, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11545881320243968, 
+    "TRACT": "6401", 
+    "ACCESS2": 0.01333073754611586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1141757741012158, 
+    "TRACT": "6605", 
+    "ACCESS2": 0.01303610739161186, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3441344375007888, 
+    "TRACT": "8431", 
+    "ACCESS2": 0.1184285110739843, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06882113674413558, 
+    "TRACT": "5002", 
+    "ACCESS2": 0.004736348862755008, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24294922085870865, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 0.05902432391585359, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21438807795997, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 0.045962247971370176, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10867039948466864, 
+    "TRACT": "4204", 
+    "ACCESS2": 0.01180925572415747, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06738857780282381, 
+    "TRACT": "5201", 
+    "ACCESS2": 0.004541220418287238, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11017837485031792, 
+    "TRACT": "1004", 
+    "ACCESS2": 0.012139274284657168, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18178561400170481, 
+    "TRACT": "1506", 
+    "ACCESS2": 0.03304600945797682, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16837589464001856, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 0.028350441895826632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2632167768787209, 
+    "TRACT": "1908", 
+    "ACCESS2": 0.06928307163042235, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09290482901683406, 
+    "TRACT": "7108", 
+    "ACCESS2": 0.008631307254647171, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3758044854576868, 
+    "TRACT": "0703", 
+    "ACCESS2": 0.14122901129011672, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1236238169807229, 
+    "TRACT": "5607", 
+    "ACCESS2": 0.015282848124883272, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34136606802928915, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 0.11653079240177727, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08766989264204626, 
+    "TRACT": "4403", 
+    "ACCESS2": 0.007686010075867916, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6450993650726128, 
+    "TRACT": "2809", 
+    "ACCESS2": 0.4161531908170881, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2744980756920203, 
+    "TRACT": "3012", 
+    "ACCESS2": 0.0753491935586221, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10265364846021326, 
+    "TRACT": "6719", 
+    "ACCESS2": 0.010537771542193044, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08100439862335264, 
+    "TRACT": "8340", 
+    "ACCESS2": 0.006561712596331014, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.05595508793831885, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.0031309718661849954, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.059945661240848276, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.0035934823016025397, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10039434626781978, 
+    "TRACT": "6813", 
+    "ACCESS2": 0.0100790247625429, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06301249215557853, 
+    "TRACT": "5204", 
+    "ACCESS2": 0.003970574167656845, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8822637008220604, 
+    "TRACT": "8378", 
+    "ACCESS2": 0.7783892377882381, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2789537538127172, 
+    "TRACT": "0604", 
+    "ACCESS2": 0.07781519676620605, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16375212728264013, 
+    "TRACT": "3510", 
+    "ACCESS2": 0.026814759189589973, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13499503316580025, 
+    "TRACT": "8356", 
+    "ACCESS2": 0.018223658979435512, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11972633694165838, 
+    "TRACT": "0101", 
+    "ACCESS2": 0.014334395757467512, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1149052786251364, 
+    "TRACT": "4108", 
+    "ACCESS2": 0.01320322305592023, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9814181470932212, 
+    "TRACT": "8367", 
+    "ACCESS2": 0.9631815794438917, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26180697932727803, 
+    "TRACT": "8432", 
+    "ACCESS2": 0.06854289442447378, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15471654174331043, 
+    "TRACT": "1301", 
+    "ACCESS2": 0.023937208289009516, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09256244004384037, 
+    "TRACT": "4304", 
+    "ACCESS2": 0.008567805306869543, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.407923368998851, 
+    "TRACT": "2306", 
+    "ACCESS2": 0.16640147497537275, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0726472863025072, 
+    "TRACT": "8339", 
+    "ACCESS2": 0.005277628207118451, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2524077669528219, 
+    "TRACT": "0501", 
+    "ACCESS2": 0.06370968081811004, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08219610052453752, 
+    "TRACT": "4605", 
+    "ACCESS2": 0.006756198941439877, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21124889353018356, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 0.044626095017726825, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.33441417738773466, 
+    "TRACT": "2510", 
+    "ACCESS2": 0.11183284203791527, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26487720701285494, 
+    "TRACT": "3011", 
+    "ACCESS2": 0.07015993479493082, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06571427986299627, 
+    "TRACT": "5003", 
+    "ACCESS2": 0.004318366577912197, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13054216621054857, 
+    "TRACT": "8351", 
+    "ACCESS2": 0.017041257158942485, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12576901826861855, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 0.015817845956252102, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.118062384725207, 
+    "TRACT": "5608", 
+    "ACCESS2": 0.01393872668700279, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12006624778602176, 
+    "TRACT": "6806", 
+    "ACCESS2": 0.014415903857414375, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15445964000575, 
+    "TRACT": "3602", 
+    "ACCESS2": 0.02385778039070588, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7743194644121434, 
+    "TRACT": "2804", 
+    "ACCESS2": 0.5995706329675086, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2593483046618076, 
+    "TRACT": "1609", 
+    "ACCESS2": 0.06726154313095378, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14620973779930616, 
+    "TRACT": "3801", 
+    "ACCESS2": 0.021377287427341855, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16077706993107357, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 0.025849266215621326, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0928738031830216, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 0.008625543317678635, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09003159819658985, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 0.008105688673832202, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10572042612917634, 
+    "TRACT": "5610", 
+    "ACCESS2": 0.01117680850093463, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09561508632465783, 
+    "TRACT": "7101", 
+    "ACCESS2": 0.00914224473287177, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18995609430169846, 
+    "TRACT": "5907", 
+    "ACCESS2": 0.036083317762355765, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10520438538445999, 
+    "TRACT": "6504", 
+    "ACCESS2": 0.011067962704121978, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11065181247013403, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 0.012243823602925709, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17233707571904316, 
+    "TRACT": "3406", 
+    "ACCESS2": 0.029700067667391215, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14958477422873487, 
+    "TRACT": "6114", 
+    "ACCESS2": 0.022375604681061586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19958300689437997, 
+    "TRACT": "1405", 
+    "ACCESS2": 0.03983337664100212, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10952657835151752, 
+    "TRACT": "4111", 
+    "ACCESS2": 0.011996071365391107, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15528544689269752, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 0.024113570016664785, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.119245928780422, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 0.014219591530705478, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6976851020286348, 
+    "TRACT": "2215", 
+    "ACCESS2": 0.4867645015927065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23252226891403743, 
+    "TRACT": "2513", 
+    "ACCESS2": 0.054066605540931935, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1665263952173065, 
+    "TRACT": "1302", 
+    "ACCESS2": 0.02773104030407056, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21492996705186193, 
+    "TRACT": "0314", 
+    "ACCESS2": 0.04619489073691445, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3436895150545482, 
+    "TRACT": "0625", 
+    "ACCESS2": 0.11812248275843053, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18986708421536264, 
+    "TRACT": "8392", 
+    "ACCESS2": 0.03604950966844361, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1732490395435588, 
+    "TRACT": "5807", 
+    "ACCESS2": 0.030015229702765604, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25501988661010844, 
+    "TRACT": "0502", 
+    "ACCESS2": 0.06503514256663258, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11121756881319152, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 0.012369347612716991, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1497949804582714, 
+    "TRACT": "3802", 
+    "ACCESS2": 0.022438536170493902, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09818614445831958, 
+    "TRACT": "7708", 
+    "ACCESS2": 0.009640518963590002, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7809379730309238, 
+    "TRACT": "2433", 
+    "ACCESS2": 0.609864117721648, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13988322473163597, 
+    "TRACT": "8360", 
+    "ACCESS2": 0.019567316561321376, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.36676183189954026, 
+    "TRACT": "2819", 
+    "ACCESS2": 0.13451424133830664, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09360485787185081, 
+    "TRACT": "6913", 
+    "ACCESS2": 0.008761869417209392, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11967673194554544, 
+    "TRACT": "4102", 
+    "ACCESS2": 0.014322520169165938, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4683160771560707, 
+    "TRACT": "2714", 
+    "ACCESS2": 0.21931994812285074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22418783362122283, 
+    "TRACT": "8308", 
+    "ACCESS2": 0.05026018474377709, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32051972707210624, 
+    "TRACT": "0801", 
+    "ACCESS2": 0.10273289544237749, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6140606625912245, 
+    "TRACT": "2303", 
+    "ACCESS2": 0.3770704973419736, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10596812679122165, 
+    "TRACT": "4202", 
+    "ACCESS2": 0.01122924389564043, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1375466759891216, 
+    "TRACT": "3817", 
+    "ACCESS2": 0.0189190880756564, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11619212767118048, 
+    "TRACT": "9801", 
+    "ACCESS2": 0.013500610532755905, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.4591044678531644, 
+    "TRACT": "2414", 
+    "ACCESS2": 2.128985848109066, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1028401530004726, 
+    "TRACT": "6611", 
+    "ACCESS2": 0.010576097069160614, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15247454048395773, 
+    "TRACT": "1703", 
+    "ACCESS2": 0.023248485495794065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7861706401676805, 
+    "TRACT": "2309", 
+    "ACCESS2": 0.6180642754616605, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20009957637470968, 
+    "TRACT": "1402", 
+    "ACCESS2": 0.04003984046533827, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13493470524221277, 
+    "TRACT": "5603", 
+    "ACCESS2": 0.018207374678802835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0967243243276686, 
+    "TRACT": "8418", 
+    "ACCESS2": 0.009355594916644023, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07728943070822707, 
+    "TRACT": "7203", 
+    "ACCESS2": 0.0059736560992018324, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3274913137689254, 
+    "TRACT": "0508", 
+    "ACCESS2": 0.10725056059409672, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22909688682752305, 
+    "TRACT": "3016", 
+    "ACCESS2": 0.0524853835540629, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12795735147078524, 
+    "TRACT": "3901", 
+    "ACCESS2": 0.016373083795418065, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4347296294369433, 
+    "TRACT": "0718", 
+    "ACCESS2": 0.18898985071038207, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17287461454756983, 
+    "TRACT": "8395", 
+    "ACCESS2": 0.029885632354970847, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16568434110501568, 
+    "TRACT": "5804", 
+    "ACCESS2": 0.027451300887403187, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16014116568041076, 
+    "TRACT": "1204", 
+    "ACCESS2": 0.02564519294548077, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26631789786512394, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 0.07092522272329858, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09840778553039453, 
+    "TRACT": "8439", 
+    "ACCESS2": 0.009684092252996126, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.36233377116246623, 
+    "TRACT": "0628", 
+    "ACCESS2": 0.13128576172481443, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29314711064098403, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 0.08593522847715732, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13914147645947889, 
+    "TRACT": "6117", 
+    "ACCESS2": 0.019360350471323718, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6459477543285146, 
+    "TRACT": "2428", 
+    "ACCESS2": 2.70914400997908, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07123399625818287, 
+    "TRACT": "5103", 
+    "ACCESS2": 0.005074282222910812, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1314163509379299, 
+    "TRACT": "6202", 
+    "ACCESS2": 0.017270257293841147, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.49751726730184226, 
+    "TRACT": "2204", 
+    "ACCESS2": 0.24752343126349277, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2846985310690231, 
+    "TRACT": "2001", 
+    "ACCESS2": 0.0810532535928595, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29914445347190144, 
+    "TRACT": "2508", 
+    "ACCESS2": 0.08948740404300261, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18973882838533793, 
+    "TRACT": "5905", 
+    "ACCESS2": 0.03600082299704072, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21676938675189455, 
+    "TRACT": "0317", 
+    "ACCESS2": 0.04698896703279244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3321570170569675, 
+    "TRACT": "2916", 
+    "ACCESS2": 0.1103282839801826, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28156760975817147, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 0.07928031886492994, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3096228975644082, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 0.09586633869618, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11973129478311158, 
+    "TRACT": "6501", 
+    "ACCESS2": 0.014335582950440363, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08226010748525805, 
+    "TRACT": "4407", 
+    "ACCESS2": 0.006766725283486208, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3776340652292493, 
+    "TRACT": "2603", 
+    "ACCESS2": 0.1426074872215689, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12617030672422885, 
+    "TRACT": "6705", 
+    "ACCESS2": 0.01591894629888599, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07409921328869729, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 0.005490693410003851, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3350005549228458, 
+    "TRACT": "2101", 
+    "ACCESS2": 0.11222537179861462, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08831677482589215, 
+    "TRACT": "7110", 
+    "ACCESS2": 0.007799852715647337, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6020568036232115, 
+    "TRACT": "2212", 
+    "ACCESS2": 0.36247239478899823, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29253582351701884, 
+    "TRACT": "0505", 
+    "ACCESS2": 0.08557720804078041, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21484930977136937, 
+    "TRACT": "6004", 
+    "ACCESS2": 0.04616022590923383, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3206087025785307, 
+    "TRACT": "2002", 
+    "ACCESS2": 0.10278994016908875, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13738900154150124, 
+    "TRACT": "3814", 
+    "ACCESS2": 0.018875737744570634, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28437424031540187, 
+    "TRACT": "0603", 
+    "ACCESS2": 0.08086870855496193, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12770127668803113, 
+    "TRACT": "3904", 
+    "ACCESS2": 0.01630761606775308, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07140946095327892, 
+    "TRACT": "4610", 
+    "ACCESS2": 0.005099311113637867, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08832864627998069, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 0.007801949753653947, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10339332246737358, 
+    "TRACT": "6406", 
+    "ACCESS2": 0.010690179130842298, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5047828806383452, 
+    "TRACT": "2713", 
+    "ACCESS2": 0.2548057565855459, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34119515147308527, 
+    "TRACT": "8415", 
+    "ACCESS2": 0.11641413138874161, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07038407420113248, 
+    "TRACT": "7503", 
+    "ACCESS2": 0.004953917901150523, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2872029936703106, 
+    "TRACT": "1909", 
+    "ACCESS2": 0.08248555957318845, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34628869460403766, 
+    "TRACT": "2606", 
+    "ACCESS2": 0.11991586001056846, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23932019318697598, 
+    "TRACT": "8307", 
+    "ACCESS2": 0.0572741548670515, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12206819098814178, 
+    "TRACT": "6706", 
+    "ACCESS2": 0.014900643251117462, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23204528318223624, 
+    "TRACT": "1604", 
+    "ACCESS2": 0.05384501344712422, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13790034878065835, 
+    "TRACT": "5604", 
+    "ACCESS2": 0.019016506193827224, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1419413680762535, 
+    "TRACT": "1102", 
+    "ACCESS2": 0.020147351971358474, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08870194622062053, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 0.007868035263325855, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08510885173001931, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 0.007243516642802411, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06346227653882106, 
+    "TRACT": "5203", 
+    "ACCESS2": 0.0040274605434897975, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1276197549086566, 
+    "TRACT": "6805", 
+    "ACCESS2": 0.016286801842945578, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.35531943640347247, 
+    "TRACT": "0810", 
+    "ACCESS2": 0.12625190188608132, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19817444653540822, 
+    "TRACT": "5801", 
+    "ACCESS2": 0.03927311125961537, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2979621285308951, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 0.08878143003866164, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14458626924309495, 
+    "TRACT": "6110", 
+    "ACCESS2": 0.020905189253636745, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13758122585420055, 
+    "TRACT": "8438", 
+    "ACCESS2": 0.018928593707544537, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13506409214964038, 
+    "TRACT": "6121", 
+    "ACCESS2": 0.018242308988206547, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13366042322789964, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 0.017865108737461253, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13968592201018395, 
+    "TRACT": "6305", 
+    "ACCESS2": 0.01951215680783519, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06764206755232087, 
+    "TRACT": "7506", 
+    "ACCESS2": 0.004575449302752739, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31779933381781755, 
+    "TRACT": "8412", 
+    "ACCESS2": 0.10099641657504861, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.455342772985597, 
+    "TRACT": "2412", 
+    "ACCESS2": 6.028708132852603, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32919209474792765, 
+    "TRACT": "0630", 
+    "ACCESS2": 0.10836743524452858, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.40154018040285866, 
+    "TRACT": "8383", 
+    "ACCESS2": 0.16123451647796028, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07242850759513687, 
+    "TRACT": "7307", 
+    "ACCESS2": 0.0052458887124588, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1712505115112814, 
+    "TRACT": "3501", 
+    "ACCESS2": 0.029326737692875526, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.255233117594524, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 0.06514394431702013, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12580924299269963, 
+    "TRACT": "0202", 
+    "ACCESS2": 0.01582796562239614, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07773122729062282, 
+    "TRACT": "4904", 
+    "ACCESS2": 0.006042143696106465, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11556579648170542, 
+    "TRACT": "3907", 
+    "ACCESS2": 0.013355453316450955, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09807893549036599, 
+    "TRACT": "7001", 
+    "ACCESS2": 0.009619477586923372, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5487790712123447, 
+    "TRACT": "2307", 
+    "ACCESS2": 0.30115846900068366, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8164840434634367, 
+    "TRACT": "8371", 
+    "ACCESS2": 0.6666461932304032, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12624403244775925, 
+    "TRACT": "8347", 
+    "ACCESS2": 0.01593755572867089, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.3975275906877236, 
+    "TRACT": "2430", 
+    "ACCESS2": 1.9530833667334333, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06727015869091535, 
+    "TRACT": "7404", 
+    "ACCESS2": 0.004525274250300934, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07074909393474528, 
+    "TRACT": "4911", 
+    "ACCESS2": 0.005005434292587411, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19680654262336722, 
+    "TRACT": "8398", 
+    "ACCESS2": 0.03873281521936326, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17275469928309029, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 0.02984418612439096, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14213544100084213, 
+    "TRACT": "1708", 
+    "ACCESS2": 0.02020248358850387, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.38789251421966736, 
+    "TRACT": "0716", 
+    "ACCESS2": 0.15046060258765487, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07288539057859035, 
+    "TRACT": "7207", 
+    "ACCESS2": 0.005312280159793667, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10130336273472909, 
+    "TRACT": "4201", 
+    "ACCESS2": 0.010262371301364098, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.413700638421155, 
+    "TRACT": "2411", 
+    "ACCESS2": 5.825950771914691, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.126550384214071, 
+    "TRACT": "1706", 
+    "ACCESS2": 0.01601499974472899, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09798942993905592, 
+    "TRACT": "6910", 
+    "ACCESS2": 0.009601928379781148, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14610167706457433, 
+    "TRACT": "3807", 
+    "ACCESS2": 0.02134570004108116, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15416123672928403, 
+    "TRACT": "8428", 
+    "ACCESS2": 0.02376568690990235, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29892677341255086, 
+    "TRACT": "8407", 
+    "ACCESS2": 0.08935721586283853, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15053556170920926, 
+    "TRACT": "1104", 
+    "ACCESS2": 0.022660955339107145, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2738920025686406, 
+    "TRACT": "1608", 
+    "ACCESS2": 0.07501682907106025, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6003183736490494, 
+    "TRACT": "8380", 
+    "ACCESS2": 0.36038214974063965, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3137464759914508, 
+    "TRACT": "8319", 
+    "ACCESS2": 0.098436851197054, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1296201339434439, 
+    "TRACT": "6703", 
+    "ACCESS2": 0.016801379123516338, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25074783861008565, 
+    "TRACT": "3302", 
+    "ACCESS2": 0.06287447856762955, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3344911835930725, 
+    "TRACT": "8313", 
+    "ACCESS2": 0.11188435190149454, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5656187683238232, 
+    "TRACT": "8374", 
+    "ACCESS2": 0.31992459108015875, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.42705430680699313, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 0.18237538096240138, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4610444525926322, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 0.2125619872664399, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31369958481677623, 
+    "TRACT": "1910", 
+    "ACCESS2": 0.0984074295142178, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10248550775355936, 
+    "TRACT": "8344", 
+    "ACCESS2": 0.010503279299504875, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1971826161134334, 
+    "TRACT": "3504", 
+    "ACCESS2": 0.038880984097337645, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.082657857490527, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 0.006832321404924269, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08515398396451919, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 0.00725120098502959, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10134960953718786, 
+    "TRACT": "6505", 
+    "ACCESS2": 0.01027174335334044, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07592293377238336, 
+    "TRACT": "4602", 
+    "ACCESS2": 0.005764291872605709, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2530488927757908, 
+    "TRACT": "2519", 
+    "ACCESS2": 0.06403374213505365, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5346489347665675, 
+    "TRACT": "8330", 
+    "ACCESS2": 0.2858494834470254, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11301773116570453, 
+    "TRACT": "4008", 
+    "ACCESS2": 0.012773007557843462, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.42889753745512355, 
+    "TRACT": "0711", 
+    "ACCESS2": 0.18395309763506912, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5172383110415921, 
+    "TRACT": "8326", 
+    "ACCESS2": 0.26753547040915876, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08546154407047431, 
+    "TRACT": "7114", 
+    "ACCESS2": 0.007303675514909622, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41111531357576236, 
+    "TRACT": "2715", 
+    "ACCESS2": 0.1690158010564974, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2917308918735826, 
+    "TRACT": "8417", 
+    "ACCESS2": 0.08510691327335593, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0699792948368335, 
+    "TRACT": "7501", 
+    "ACCESS2": 0.0048971017058604726, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.40152537987035586, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 0.16122263068003356, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11688383054039399, 
+    "TRACT": "1003", 
+    "ACCESS2": 0.013661829841795536, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3643998934580772, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 0.13278728235225803, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5686901864810542, 
+    "TRACT": "2315", 
+    "ACCESS2": 0.3234085281998562, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09241089272899841, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 0.008539773094970452, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3049886061970364, 
+    "TRACT": "2104", 
+    "ACCESS2": 0.09301804991001095, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22243352362130028, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 0.04947667243058755, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12620211747027482, 
+    "TRACT": "0201", 
+    "ACCESS2": 0.015926974453981044, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07681286389672763, 
+    "TRACT": "4601", 
+    "ACCESS2": 0.005900216060017204, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.066320497456434, 
+    "TRACT": "4914", 
+    "ACCESS2": 0.004398408382868867, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21074189008602845, 
+    "TRACT": "8404", 
+    "ACCESS2": 0.044412144237031694, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0879399269128474, 
+    "TRACT": "4308", 
+    "ACCESS2": 0.0077334307454369425, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3943918432620237, 
+    "TRACT": "8312", 
+    "ACCESS2": 0.15554492603161668, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22872510929228784, 
+    "TRACT": "8435", 
+    "ACCESS2": 0.05231517562076902, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29457464151206353, 
+    "TRACT": "2502", 
+    "ACCESS2": 0.08677421942196074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14622879891888718, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 0.021382861633260343, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12291854860360692, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 0.015108969590817275, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15503516643477971, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 0.024035902831459847, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15237691890101393, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 0.02321872541376618, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1486257191958988, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 0.022089604406498153, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28250965039207104, 
+    "TRACT": "1911", 
+    "ACCESS2": 0.07981170256465021, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3598425458605027, 
+    "TRACT": "2609", 
+    "ACCESS2": 0.12948665781136795, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1889480749094318, 
+    "TRACT": "0403", 
+    "ACCESS2": 0.03570137501198025, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.6291988670504103, 
+    "TRACT": "2426", 
+    "ACCESS2": 6.912686682499163, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09817691903808631, 
+    "TRACT": "6405", 
+    "ACCESS2": 0.009638707431810953, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3117303889887617, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 0.09717583541908469, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13469431385120978, 
+    "TRACT": "0204", 
+    "ACCESS2": 0.018142558183848204, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08023495546607819, 
+    "TRACT": "4408", 
+    "ACCESS2": 0.006437648078643551, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11338511755611516, 
+    "TRACT": "6713", 
+    "ACCESS2": 0.012856184883214054, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18622537698467279, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 0.0346798910330835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2028977806090936, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 0.04116750937609588, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2727279451694228, 
+    "TRACT": "1613", 
+    "ACCESS2": 0.07438053207633569, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5410801887064791, 
+    "TRACT": "2712", 
+    "ACCESS2": 0.292767770610639, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4012302500812768, 
+    "TRACT": "0704", 
+    "ACCESS2": 0.1609857135802839, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23687049911233976, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 0.05610763334972895, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11407090583726665, 
+    "TRACT": "4101", 
+    "ACCESS2": 0.013012171558534555, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6400461617563014, 
+    "TRACT": "2227", 
+    "ACCESS2": 0.4096590891789735, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06333935882417421, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.004011874376257496, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4030920225234164, 
+    "TRACT": "0513", 
+    "ACCESS2": 0.16248317862201844, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4271820056261677, 
+    "TRACT": "0819", 
+    "ACCESS2": 0.18248446593079515, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29447073889166414, 
+    "TRACT": "0621", 
+    "ACCESS2": 0.08671301606340265, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16626731536493236, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 0.027644820158661865, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1590522909123733, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 0.025297631244474223, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08245818823647653, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 0.0067993528072421965, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1638526612933156, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 0.026847694612902005, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07808854114834077, 
+    "TRACT": "4801", 
+    "ACCESS2": 0.0060978202586761095, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5622052428098514, 
+    "TRACT": "2312", 
+    "ACCESS2": 0.316074735042884, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1411049735986083, 
+    "TRACT": "3815", 
+    "ACCESS2": 0.019910613574263946, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09611687181595663, 
+    "TRACT": "7002", 
+    "ACCESS2": 0.009238453047685035, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1379489754101257, 
+    "TRACT": "2421", 
+    "ACCESS2": 1.2949278706369551, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2517071027353318, 
+    "TRACT": "8321", 
+    "ACCESS2": 0.0633564655674149, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12107043188633089, 
+    "TRACT": "6604", 
+    "ACCESS2": 0.014658049477142688, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22418669001173375, 
+    "TRACT": "1408", 
+    "ACCESS2": 0.0502596719784172, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2618728225996271, 
+    "TRACT": "2507", 
+    "ACCESS2": 0.06857737521629574, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5044093027231562, 
+    "TRACT": "2229", 
+    "ACCESS2": 0.2544287446736606, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23189779150471881, 
+    "TRACT": "0321", 
+    "ACCESS2": 0.05377658570476603, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07976611311155807, 
+    "TRACT": "4604", 
+    "ACCESS2": 0.006362632800925877, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4035848138154532, 
+    "TRACT": "2108", 
+    "ACCESS2": 0.16288070194245402, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16444400908279844, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 0.027041832123223496, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10293936229797594, 
+    "TRACT": "0902", 
+    "ACCESS2": 0.010596512310313952, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10892635273488945, 
+    "TRACT": "6716", 
+    "ACCESS2": 0.011864950320125559, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24830332431501084, 
+    "TRACT": "1912", 
+    "ACCESS2": 0.06165454086588546, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.33684928701783445, 
+    "TRACT": "0811", 
+    "ACCESS2": 0.11346744216442343, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13076657253659785, 
+    "TRACT": "8436", 
+    "ACCESS2": 0.017099896492969304, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6436248908276361, 
+    "TRACT": "2808", 
+    "ACCESS2": 0.41425300009288646, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10232226641144443, 
+    "TRACT": "6718", 
+    "ACCESS2": 0.010469846203574608, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11548897154795858, 
+    "TRACT": "1005", 
+    "ACCESS2": 0.013337702549205185, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14709140969761447, 
+    "TRACT": "1203", 
+    "ACCESS2": 0.021635882806831472, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41626077837146686, 
+    "TRACT": "0804", 
+    "ACCESS2": 0.17327303561041946, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.151713113370753, 
+    "TRACT": "6108", 
+    "ACCESS2": 0.023016868768646954, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2935070714657428, 
+    "TRACT": "2516", 
+    "ACCESS2": 0.08614640100039667, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11304144848977972, 
+    "TRACT": "6810", 
+    "ACCESS2": 0.01277836907666752, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.280548786375843, 
+    "TRACT": "3201", 
+    "ACCESS2": 0.0787076215369584, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4701597672804552, 
+    "TRACT": "2718", 
+    "ACCESS2": 0.2210502067692118, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08062679809314854, 
+    "TRACT": "7301", 
+    "ACCESS2": 0.006500680570753341, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09400758642694064, 
+    "TRACT": "7105", 
+    "ACCESS2": 0.008837426305818715, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10785573026016367, 
+    "TRACT": "6609", 
+    "ACCESS2": 0.011632858549953183, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15424741832224803, 
+    "TRACT": "8355", 
+    "ACCESS2": 0.023792266059078578, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22963388055267855, 
+    "TRACT": "8402", 
+    "ACCESS2": 0.05273171909768183, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1593820461996667, 
+    "TRACT": "5808", 
+    "ACCESS2": 0.025402636650792686, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13495418486902508, 
+    "TRACT": "3812", 
+    "ACCESS2": 0.018212632013662997, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13852147732849876, 
+    "TRACT": "6119", 
+    "ACCESS2": 0.019188199681269797, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.38585808243313396, 
+    "TRACT": "8433", 
+    "ACCESS2": 0.14888645977897524, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2161053047591286, 
+    "TRACT": "2504", 
+    "ACCESS2": 0.04670150274503585, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23302794838010576, 
+    "TRACT": "8408", 
+    "ACCESS2": 0.054302024726241245, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09175128829341393, 
+    "TRACT": "4305", 
+    "ACCESS2": 0.008418298903501155, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07026577451519413, 
+    "TRACT": "4910", 
+    "ACCESS2": 0.004937279068220103, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13010766620250455, 
+    "TRACT": "3819", 
+    "ACCESS2": 0.016928004804662344, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12536253844365228, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 0.015715766045036196, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28864414714543835, 
+    "TRACT": "0506", 
+    "ACCESS2": 0.08331544368131746, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28143847386580817, 
+    "TRACT": "3104", 
+    "ACCESS2": 0.0792076145719152, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2819928487082665, 
+    "TRACT": "8320", 
+    "ACCESS2": 0.0795199667226033, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11373615959863645, 
+    "TRACT": "6607", 
+    "ACCESS2": 0.012935914000246504, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13466575776461046, 
+    "TRACT": "8364", 
+    "ACCESS2": 0.018134866314316742, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15349177966427577, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 0.023559726424506586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.157587548228544, 
+    "TRACT": "2407", 
+    "ACCESS2": 1.340008931813772, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20003647599088967, 
+    "TRACT": "0310", 
+    "ACCESS2": 0.040014591726853774, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10572770158237531, 
+    "TRACT": "8104", 
+    "ACCESS2": 0.011178346881891805, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16105432715558138, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 0.02593849629553704, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17142127455749162, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 0.029385253370914927, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26253517599664894, 
+    "TRACT": "3008", 
+    "ACCESS2": 0.06892471863559144, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3779636441341959, 
+    "TRACT": "0627", 
+    "ACCESS2": 0.1428565162872011, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12023415895763655, 
+    "TRACT": "1201", 
+    "ACCESS2": 0.014456252980250214, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19319637956198563, 
+    "TRACT": "5906", 
+    "ACCESS2": 0.03732484107585882, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15863715606434206, 
+    "TRACT": "1710", 
+    "ACCESS2": 0.02516574728418242, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12246922028364865, 
+    "TRACT": "8350", 
+    "ACCESS2": 0.014998709916884857, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.37963017480359473, 
+    "TRACT": "8333", 
+    "ACCESS2": 0.1441190696214079, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1014294539374099, 
+    "TRACT": "4212", 
+    "ACCESS2": 0.010287934126041157, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11043551599368268, 
+    "TRACT": "5609", 
+    "ACCESS2": 0.012196003192790942, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4539221662882876, 
+    "TRACT": "0706", 
+    "ACCESS2": 0.20604533304785178, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10459784435308697, 
+    "TRACT": "4110", 
+    "ACCESS2": 0.010940709043312607, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14892375553640136, 
+    "TRACT": "6113", 
+    "ACCESS2": 0.022178284963065835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20695163229409888, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 0.0428289781091919, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32907003632955567, 
+    "TRACT": "2517", 
+    "ACCESS2": 0.10828708880993508, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10314780362055315, 
+    "TRACT": "6720", 
+    "ACCESS2": 0.010639469391744198, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19041208488678515, 
+    "TRACT": "1601", 
+    "ACCESS2": 0.03625676207093228, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23915736823351724, 
+    "TRACT": "3206", 
+    "ACCESS2": 0.05719624678038217, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.334193807314022, 
+    "TRACT": "0624", 
+    "ACCESS2": 0.11168550084704165, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1839890152002158, 
+    "TRACT": "0313", 
+    "ACCESS2": 0.03385195771434523, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.321959174605996, 
+    "TRACT": "8391", 
+    "ACCESS2": 0.10365771011297423, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14152438251209382, 
+    "TRACT": "5703", 
+    "ACCESS2": 0.020029150845429444, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3021195365026003, 
+    "TRACT": "3107", 
+    "ACCESS2": 0.09127621433654605, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12781498391095825, 
+    "TRACT": "8361", 
+    "ACCESS2": 0.016336670112158516, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07322322871103348, 
+    "TRACT": "4908", 
+    "ACCESS2": 0.005361641222868319, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6640222150909318, 
+    "TRACT": "2434", 
+    "ACCESS2": 0.44092550213426784, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8278611341836979, 
+    "TRACT": "2225", 
+    "ACCESS2": 0.6853540574919186, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09458624836732452, 
+    "TRACT": "4302", 
+    "ACCESS2": 0.008946558380205197, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2938595928263175, 
+    "TRACT": "0813", 
+    "ACCESS2": 0.08635346029604911, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07291083234523119, 
+    "TRACT": "5001", 
+    "ACCESS2": 0.005315989473274409, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2087552979943428, 
+    "TRACT": "1511", 
+    "ACCESS2": 0.04357877444070687, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10998117664674546, 
+    "TRACT": "4205", 
+    "ACCESS2": 0.012095859216602629, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0396866170323957, 
+    "TRACT": "2415", 
+    "ACCESS2": 1.0809482616362676, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2550303428961106, 
+    "TRACT": "0503", 
+    "ACCESS2": 0.06504047579770775, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31110673895640106, 
+    "TRACT": "8419", 
+    "ACCESS2": 0.09678740302408628, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3295381387766318, 
+    "TRACT": "0509", 
+    "ACCESS2": 0.10859538490836664, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18122595582087006, 
+    "TRACT": "8315", 
+    "ACCESS2": 0.03284284706318794, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07576354726676585, 
+    "TRACT": "7204", 
+    "ACCESS2": 0.005740115094443461, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24605542180875525, 
+    "TRACT": "1610", 
+    "ACCESS2": 0.06054327060148448, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26331152380323286, 
+    "TRACT": "2512", 
+    "ACCESS2": 0.06933295856758047, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3219933594102305, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 0.10367972350428586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34503205205855647, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 0.11904711694773842, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6885132425572963, 
+    "TRACT": "8423", 
+    "ACCESS2": 0.4740504851767624, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10843796937079854, 
+    "TRACT": "6715", 
+    "ACCESS2": 0.011758793201262243, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.334618107158701, 
+    "TRACT": "2409", 
+    "ACCESS2": 1.7812054919558742, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18890517618476615, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 0.03568516558939754, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30102070284438226, 
+    "TRACT": "0615", 
+    "ACCESS2": 0.0906134635409259, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19735752899847056, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 0.038949994252382145, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20873186643157585, 
+    "TRACT": "1602", 
+    "ACCESS2": 0.04356899206400922, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20169569394989012, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 0.04068115295792774, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.203751152779193, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 0.04151453225885005, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24755642553939733, 
+    "TRACT": "0601", 
+    "ACCESS2": 0.06128418382584317, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.42748212795482154, 
+    "TRACT": "2705", 
+    "ACCESS2": 0.1827409697207824, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.524053367878841, 
+    "TRACT": "8309", 
+    "ACCESS2": 0.2746319323851559, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17944727475373423, 
+    "TRACT": "0308", 
+    "ACCESS2": 0.032201324416542186, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11754947633535533, 
+    "TRACT": "6502", 
+    "ACCESS2": 0.013817879386716263, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41287786756369604, 
+    "TRACT": "2602", 
+    "ACCESS2": 0.17046813352394494, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08180258433722219, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 0.006691662804248349, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1395626381326106, 
+    "TRACT": "6116", 
+    "ACCESS2": 0.01947772996253402, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11342043817651445, 
+    "TRACT": "8362", 
+    "ACCESS2": 0.012864195796152538, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06914504082187235, 
+    "TRACT": "5102", 
+    "ACCESS2": 0.004781036670258394, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15336638541610426, 
+    "TRACT": "8359", 
+    "ACCESS2": 0.023521248175601032, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13705917913319765, 
+    "TRACT": "6201", 
+    "ACCESS2": 0.018785218584665964, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08883856682422336, 
+    "TRACT": "7111", 
+    "ACCESS2": 0.007892290955381999, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6497051107322924, 
+    "TRACT": "2213", 
+    "ACCESS2": 0.4221167309116603, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26025032414612903, 
+    "TRACT": "2515", 
+    "ACCESS2": 0.06773023121816524, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08031093376225079, 
+    "TRACT": "4314", 
+    "ACCESS2": 0.006449846081764634, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2920207397717768, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 0.08527611245685579, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32560557486644254, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 0.10601899038410652, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3462364212594963, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 0.11987965940658336, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17739072859272206, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 0.03146747059065678, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16642666065316047, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 0.027697833376162235, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17785955118815958, 
+    "TRACT": "1711", 
+    "ACCESS2": 0.03163401994885356, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.48738316719786384, 
+    "TRACT": "2827", 
+    "ACCESS2": 0.2375423516678209, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24954439879454912, 
+    "TRACT": "0602", 
+    "ACCESS2": 0.06227240696973298, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1659756990797438, 
+    "TRACT": "3514", 
+    "ACCESS2": 0.027547932685009664, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12488730696460595, 
+    "TRACT": "0103", 
+    "ACCESS2": 0.015596839440871715, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14213331428434964, 
+    "TRACT": "6301", 
+    "ACCESS2": 0.02020187902945371, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7199475422999118, 
+    "TRACT": "8322", 
+    "ACCESS2": 0.5183244636636832, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1630711899194497, 
+    "TRACT": "8426", 
+    "ACCESS2": 0.02659221298174523, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09051683452514757, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.008193297332452946, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07036823494759575, 
+    "TRACT": "7502", 
+    "ACCESS2": 0.004951688489640037, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3002625588879774, 
+    "TRACT": "8416", 
+    "ACCESS2": 0.0901576042699561, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8524381205969072, 
+    "TRACT": "2416", 
+    "ACCESS2": 0.7266507494467872, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12421263757774174, 
+    "TRACT": "1705", 
+    "ACCESS2": 0.01542877933401942, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3219551484640368, 
+    "TRACT": "0634", 
+    "ACCESS2": 0.10365511762249996, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08397700295807774, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 0.007052137025820996, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08763534414748089, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 0.007679953543847414, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08334034195324874, 
+    "TRACT": "7201", 
+    "ACCESS2": 0.006945612596884432, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08924238870565042, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 0.0079642039418904, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13496396846959058, 
+    "TRACT": "3903", 
+    "ACCESS2": 0.01821527278506064, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09347590710937367, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 0.008737745209920255, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2081705913855355, 
+    "TRACT": "3403", 
+    "ACCESS2": 0.043334995117803594, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19925749676209684, 
+    "TRACT": "8397", 
+    "ACCESS2": 0.03970355001589703, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1933895495342426, 
+    "TRACT": "5802", 
+    "ACCESS2": 0.03739951786905727, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16488886540278636, 
+    "TRACT": "1303", 
+    "ACCESS2": 0.027188337933818193, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22824173317822585, 
+    "TRACT": "6007", 
+    "ACCESS2": 0.052094288764200435, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24978617136046166, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 0.06239313140291793, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23594825819320248, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 0.05567158054440613, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13444068301986595, 
+    "TRACT": "0104", 
+    "ACCESS2": 0.018074297250848075, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1562854313008856, 
+    "TRACT": "5702", 
+    "ACCESS2": 0.02442513603690383, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14704236219505246, 
+    "TRACT": "6302", 
+    "ACCESS2": 0.02162145627990099, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.44332541886820725, 
+    "TRACT": "8329", 
+    "ACCESS2": 0.1965374270146714, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.49803356137405974, 
+    "TRACT": "2210", 
+    "ACCESS2": 0.2480374282549293, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17695906112443158, 
+    "TRACT": "1503", 
+    "ACCESS2": 0.03131450931404031, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07337360811690115, 
+    "TRACT": "7402", 
+    "ACCESS2": 0.005383686368092583, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.014990780742832, 
+    "TRACT": "2413", 
+    "ACCESS2": 4.060187846478609, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16824502270894823, 
+    "TRACT": "8316", 
+    "ACCESS2": 0.028306387666334507, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3036666344495138, 
+    "TRACT": "0631", 
+    "ACCESS2": 0.09221342487789466, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07524809303450324, 
+    "TRACT": "7306", 
+    "ACCESS2": 0.005662275505329255, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6738774914053406, 
+    "TRACT": "8323", 
+    "ACCESS2": 0.45411087342275486, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32127540923354797, 
+    "TRACT": "2605", 
+    "ACCESS2": 0.10321788857818374, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12172173627956698, 
+    "TRACT": "6707", 
+    "ACCESS2": 0.01481618108291245, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07313640769127, 
+    "TRACT": "4805", 
+    "ACCESS2": 0.005348934129983658, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12333335687569948, 
+    "TRACT": "3906", 
+    "ACCESS2": 0.015211116918228648, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5941483641939292, 
+    "TRACT": "8370", 
+    "ACCESS2": 0.35301227867432206, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5169156429551205, 
+    "TRACT": "2304", 
+    "ACCESS2": 0.2672017819317057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.108970273940831, 
+    "TRACT": "8425", 
+    "ACCESS2": 0.01187452060273975, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2535364909047806, 
+    "TRACT": "8413", 
+    "ACCESS2": 0.06428075222030988, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3233513983437167, 
+    "TRACT": "0507", 
+    "ACCESS2": 0.10455612681083694, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23345046302099307, 
+    "TRACT": "1611", 
+    "ACCESS2": 0.05449911868471605, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6861388665130905, 
+    "TRACT": "2311", 
+    "ACCESS2": 0.4707865441398687, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3027854449685108, 
+    "TRACT": "0715", 
+    "ACCESS2": 0.09167902568477908, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11917565155877975, 
+    "TRACT": "8348", 
+    "ACCESS2": 0.014202835924459683, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07571990516924582, 
+    "TRACT": "4905", 
+    "ACCESS2": 0.005733504038839579, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3981477117583488, 
+    "TRACT": "2801", 
+    "ACCESS2": 0.15852160037840918, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.1463879712296874, 
+    "TRACT": "2431", 
+    "ACCESS2": 1.3142053805801186, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2801826203392527, 
+    "TRACT": "3105", 
+    "ACCESS2": 0.07850230074016981, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.94885955478603, 
+    "TRACT": "8324", 
+    "ACCESS2": 0.9003344547087432, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0700129520221708, 
+    "TRACT": "7403", 
+    "ACCESS2": 0.00490181345085879, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4020116209152447, 
+    "TRACT": "2831", 
+    "ACCESS2": 0.16161334335090244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4010565669982123, 
+    "TRACT": "2608", 
+    "ACCESS2": 0.16084636993239154, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0854917158924078, 
+    "TRACT": "4312", 
+    "ACCESS2": 0.007308833486228172, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23272811610073024, 
+    "TRACT": "0409", 
+    "ACCESS2": 0.054162376023794964, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2984958348446148, 
+    "TRACT": "2518", 
+    "ACCESS2": 0.08909976341958353, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14808446455250757, 
+    "TRACT": "6112", 
+    "ACCESS2": 0.021929008641802875, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1802814207210372, 
+    "TRACT": "8318", 
+    "ACCESS2": 0.03250139065719562, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22772034014240744, 
+    "TRACT": "0319", 
+    "ACCESS2": 0.051856553314573735, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08397149499425782, 
+    "TRACT": "7115", 
+    "ACCESS2": 0.007051211971570667, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20143289400666486, 
+    "TRACT": "3404", 
+    "ACCESS2": 0.04057521078790028, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16852680349174542, 
+    "TRACT": "3515", 
+    "ACCESS2": 0.028401283495145375, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09803659011151009, 
+    "TRACT": "8056", 
+    "ACCESS2": 0.009611173000692237, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06756612649846962, 
+    "TRACT": "5101", 
+    "ACCESS2": 0.004565181450007197, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12717133248123672, 
+    "TRACT": "6204", 
+    "ACCESS2": 0.016172547805053256, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4598565947684075, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 0.21146808775199538, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.42658935578955476, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 0.18197847847294732, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27361013377763405, 
+    "TRACT": "2924", 
+    "ACCESS2": 0.07486250530581481, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4679812849473112, 
+    "TRACT": "0710", 
+    "ACCESS2": 0.2190064830609365, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2193175723885567, 
+    "TRACT": "0407", 
+    "ACCESS2": 0.04810019755840981, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10047244900787833, 
+    "TRACT": "6905", 
+    "ACCESS2": 0.01009471300964071, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09104902136684456, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 0.008289924291860118, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8861971194666229, 
+    "TRACT": "2420", 
+    "ACCESS2": 0.7853453345509401, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11693135549406317, 
+    "TRACT": "8345", 
+    "ACCESS2": 0.013672941897678974, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06590457148280879, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.004343412542332654, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06484961175353206, 
+    "TRACT": "5302", 
+    "ACCESS2": 0.004205472144583843, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.060759430735024295, 
+    "TRACT": "5205", 
+    "ACCESS2": 0.0036917084232442154, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7144396495377959, 
+    "TRACT": "2216", 
+    "ACCESS2": 0.5104240128316886, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07302521505487691, 
+    "TRACT": "7205", 
+    "ACCESS2": 0.005332682033811023, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13340455468733906, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 0.017796775211327238, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.05519743777272772, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.0030467571366741488, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.0108382420730058, 
+    "TRACT": "2403", 
+    "ACCESS2": 1.0217939516372447, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09383366134349562, 
+    "TRACT": "6912", 
+    "ACCESS2": 0.008804756001125826, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15270907838213676, 
+    "TRACT": "0302", 
+    "ACCESS2": 0.023320062620321592, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3219263713240122, 
+    "TRACT": "2838", 
+    "ACCESS2": 0.10363658855384579, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20173430708323792, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 0.040696730654354134, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18319451250195415, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 0.03356022941082863, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5498662850499784, 
+    "TRACT": "8368", 
+    "ACCESS2": 0.30235293143466413, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10129650217406329, 
+    "TRACT": "6404", 
+    "ACCESS2": 0.010260981352700007, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.931478453386348, 
+    "TRACT": "2425", 
+    "ACCESS2": 35.18243664298651, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08992614887955293, 
+    "TRACT": "4309", 
+    "ACCESS2": 0.008086712252307518, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06678358062603297, 
+    "TRACT": "7505", 
+    "ACCESS2": 0.004460046641233848, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.256938130173499, 
+    "TRACT": "2503", 
+    "ACCESS2": 0.06601720273705391, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30379343989189866, 
+    "TRACT": "8311", 
+    "ACCESS2": 0.09229045412135264, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2385509576744505, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 0.05690655940739747, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23151647326741823, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 0.053599877394183176, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08796192734495491, 
+    "TRACT": "8342", 
+    "ACCESS2": 0.007737300662239125, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10707164393644196, 
+    "TRACT": "6811", 
+    "ACCESS2": 0.011464336935252208, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1363229864387278, 
+    "TRACT": "1101", 
+    "ACCESS2": 0.01858395663157357, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3652370651758131, 
+    "TRACT": "0713", 
+    "ACCESS2": 0.13339811377824115, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.05501110991891005, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.0030262222145104037, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2838167837718442, 
+    "TRACT": "0620", 
+    "ACCESS2": 0.08055196675059377, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08991368200885175, 
+    "TRACT": "7112", 
+    "ACCESS2": 0.00808447021238891, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5393487373201334, 
+    "TRACT": "8325", 
+    "ACCESS2": 0.29089706044882224, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1155652844955561, 
+    "TRACT": "6712", 
+    "ACCESS2": 0.01335533498053882, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2104715482737232, 
+    "TRACT": "1508", 
+    "ACCESS2": 0.04429827263273819, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09764615236611435, 
+    "TRACT": "7103", 
+    "ACCESS2": 0.00953477107190642, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.736762575962531, 
+    "TRACT": "2226", 
+    "ACCESS2": 0.5428190933389444, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12713457326422156, 
+    "TRACT": "1001", 
+    "ACCESS2": 0.016163199719075715, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1185465164345136, 
+    "TRACT": "4106", 
+    "ACCESS2": 0.0140532765587584, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.35137584665742716, 
+    "TRACT": "0512", 
+    "ACCESS2": 0.12346498561422375, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18514636217920685, 
+    "TRACT": "8410", 
+    "ACCESS2": 0.03427917542819404, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5677107843567212, 
+    "TRACT": "2228", 
+    "ACCESS2": 0.32229553467492356, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10171974245231141, 
+    "TRACT": "6814", 
+    "ACCESS2": 0.010346906004564563, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17409219017304634, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 0.030308090679248133, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17920292289745499, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 0.032113687574991195, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1713157617729145, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 0.02934909023183399, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5778352145748573, 
+    "TRACT": "8381", 
+    "ACCESS2": 0.33389353520277143, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07606789350258153, 
+    "TRACT": "7305", 
+    "ACCESS2": 0.005786324421920086, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4165583956293322, 
+    "TRACT": "2109", 
+    "ACCESS2": 0.17352089696928327, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07436473149513168, 
+    "TRACT": "4607", 
+    "ACCESS2": 0.005530113290343029, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11105810662194446, 
+    "TRACT": "4112", 
+    "ACCESS2": 0.012333903046451183, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.31358568628085143, 
+    "TRACT": "3109", 
+    "ACCESS2": 0.09833598264023256, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.23868474556178837, 
+    "TRACT": "8314", 
+    "ACCESS2": 0.056970407763895656, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32975182929822894, 
+    "TRACT": "8437", 
+    "ACCESS2": 0.10873626892552832, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11519064887092552, 
+    "TRACT": "6711", 
+    "ACCESS2": 0.013268885587304853, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.32052932116996724, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 0.10273904572968, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12084224382590242, 
+    "TRACT": "4005", 
+    "ACCESS2": 0.014602847892878851, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09069217164668643, 
+    "TRACT": "6915", 
+    "ACCESS2": 0.008225069997992034, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12991457006553175, 
+    "TRACT": "6308", 
+    "ACCESS2": 0.016877795515311957, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29350117248800667, 
+    "TRACT": "2922", 
+    "ACCESS2": 0.08614293825183465, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1275555769484789, 
+    "TRACT": "1006", 
+    "ACCESS2": 0.01627042521065932, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3757068748761538, 
+    "TRACT": "0803", 
+    "ACCESS2": 0.14115565582920586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.148805831820191, 
+    "TRACT": "1701", 
+    "ACCESS2": 0.022143175583698972, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25084368380679684, 
+    "TRACT": "3006", 
+    "ACCESS2": 0.06292255370576427, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10707580406324087, 
+    "TRACT": "6403", 
+    "ACCESS2": 0.01146522781578955, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19426987849262065, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 0.037740785689537586, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41585808015093384, 
+    "TRACT": "8386", 
+    "ACCESS2": 0.17293794282682054, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16136945047234208, 
+    "TRACT": "1801", 
+    "ACCESS2": 0.026040099545745668, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09806858403690534, 
+    "TRACT": "7104", 
+    "ACCESS2": 0.009617447175003565, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2144781346624977, 
+    "TRACT": "8317", 
+    "ACCESS2": 0.046000870248304494, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07741427818811022, 
+    "TRACT": "4803", 
+    "ACCESS2": 0.005992970467386118, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10081103339974519, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 0.01016286445512454, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34560129956484864, 
+    "TRACT": "0817", 
+    "ACCESS2": 0.11944025826091226, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10440556489041251, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 0.010900521980086139, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11277965629061389, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 0.012719250873029005, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15770940698189284, 
+    "TRACT": "6104", 
+    "ACCESS2": 0.024872257050580313, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12811827010459292, 
+    "TRACT": "8079", 
+    "ACCESS2": 0.016414291134593428, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20982858328910364, 
+    "TRACT": "8401", 
+    "ACCESS2": 0.0440280343651123, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13860955973028677, 
+    "TRACT": "6118", 
+    "ACCESS2": 0.01921261004862394, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2931109536686578, 
+    "TRACT": "2405", 
+    "ACCESS2": 1.6721359384978656, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2724389057595872, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 0.07422295737148124, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3232594266807036, 
+    "TRACT": "0623", 
+    "ACCESS2": 0.10449665693793721, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.28376016489259925, 
+    "TRACT": "8390", 
+    "ACCESS2": 0.08051983117987511, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10775090202123662, 
+    "TRACT": "8081", 
+    "ACCESS2": 0.011610256886390134, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16710166008829808, 
+    "TRACT": "0304", 
+    "ACCESS2": 0.027922964804265107, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3878697272819453, 
+    "TRACT": "0818", 
+    "ACCESS2": 0.15044292534177062, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06680733805079861, 
+    "TRACT": "4913", 
+    "ACCESS2": 0.004463220417433684, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11353767458934638, 
+    "TRACT": "6608", 
+    "ACCESS2": 0.012890803551156313, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06122790509323546, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.0037488563621062487, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3225881909158324, 
+    "TRACT": "2610", 
+    "ACCESS2": 0.10406314091834955, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 2.588466224161498, 
+    "TRACT": "2423", 
+    "ACCESS2": 6.700157393624884, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11687594427993568, 
+    "TRACT": "6606", 
+    "ACCESS2": 0.013659986351326632, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27307261332550464, 
+    "TRACT": "3103", 
+    "ACCESS2": 0.07456865214842057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14567532556594695, 
+    "TRACT": "8365", 
+    "ACCESS2": 0.021221300478744633, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.17446797141342968, 
+    "TRACT": "2505", 
+    "ACCESS2": 0.03043907304911731, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08963865842175081, 
+    "TRACT": "4306", 
+    "ACCESS2": 0.008035089083651317, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.2770155613882137, 
+    "TRACT": "2406", 
+    "ACCESS2": 1.6307687440276546, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07804133825044594, 
+    "TRACT": "4701", 
+    "ACCESS2": 0.006090450475920517, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24507298503984462, 
+    "TRACT": "1902", 
+    "ACCESS2": 0.0600607679963399, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13304853715411497, 
+    "TRACT": "3818", 
+    "ACCESS2": 0.017701913238849912, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15193656960639826, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 0.0230847211837599, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16680578933599927, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 0.02782417135600577, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3924757244520832, 
+    "TRACT": "0626", 
+    "ACCESS2": 0.15403719428418752, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08894840160980262, 
+    "TRACT": "7109", 
+    "ACCESS2": 0.007911818148938739, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11353433706455682, 
+    "TRACT": "6714", 
+    "ACCESS2": 0.0128900456926884, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34014260141828445, 
+    "TRACT": "8430", 
+    "ACCESS2": 0.11569698929959793, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22543402158079548, 
+    "TRACT": "2520", 
+    "ACCESS2": 0.050820498086090564, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1467844099541131, 
+    "TRACT": "8357", 
+    "ACCESS2": 0.02154566300557714, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26725573789814466, 
+    "TRACT": "3009", 
+    "ACCESS2": 0.0714256294394818, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19547471937573252, 
+    "TRACT": "1507", 
+    "ACCESS2": 0.03821036591502138, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.190773640397655, 
+    "TRACT": "8305", 
+    "ACCESS2": 0.036394581870573775, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10590256294456941, 
+    "TRACT": "6812", 
+    "ACCESS2": 0.011215352838228486, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.24285086957169597, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 0.058976544851728895, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2584107977167173, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 0.06677614037659022, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10278882943188439, 
+    "TRACT": "6904", 
+    "ACCESS2": 0.010565543455977022, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09306109906560832, 
+    "TRACT": "7107", 
+    "ACCESS2": 0.008660368159298966, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9620750474027797, 
+    "TRACT": "2222", 
+    "ACCESS2": 0.9255883968350608, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3285631146886518, 
+    "TRACT": "0816", 
+    "ACCESS2": 0.10795372033390817, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.48491570621664376, 
+    "TRACT": "0707", 
+    "ACCESS2": 0.23514324213558638, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09363352930823357, 
+    "TRACT": "7106", 
+    "ACCESS2": 0.008767237810715835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14618914298138821, 
+    "TRACT": "5704", 
+    "ACCESS2": 0.02137126552563277, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22061589120958555, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 0.04867137145419969, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2728790269294654, 
+    "TRACT": "0611", 
+    "ACCESS2": 0.07446296333797191, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21054566880649495, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 0.044329478653174256, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09643951536352048, 
+    "TRACT": "4303", 
+    "ACCESS2": 0.009300580123550702, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3432872995611113, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 0.1178461700399602, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3920463953502668, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 0.1537003761071377, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26185193309469296, 
+    "TRACT": "0605", 
+    "ACCESS2": 0.06856643486542756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13411435346219294, 
+    "TRACT": "5705", 
+    "ACCESS2": 0.017986659804582028, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1696772421653451, 
+    "TRACT": "6103", 
+    "ACCESS2": 0.028790366508837168, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.29484226146279324, 
+    "TRACT": "3106", 
+    "ACCESS2": 0.08693195914449414, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.875919158417065, 
+    "TRACT": "8366", 
+    "ACCESS2": 0.7672343720820595, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09773402423716249, 
+    "TRACT": "0901", 
+    "ACCESS2": 0.009551939493590265, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20909343625371735, 
+    "TRACT": "6009", 
+    "ACCESS2": 0.043720065084387354, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3513900473360634, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 0.12347496536684087, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2979607935224771, 
+    "TRACT": "2511", 
+    "ACCESS2": 0.08878063447654423, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8479852522194887, 
+    "TRACT": "2301", 
+    "ACCESS2": 0.71907898798175, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22235405418137763, 
+    "TRACT": "1903", 
+    "ACCESS2": 0.04944132541089503, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19309181560301739, 
+    "TRACT": "0312", 
+    "ACCESS2": 0.03728444925286967, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2086045079447804, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 0.04351584073488394, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22749541430525158, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 0.051754163529918074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21080621795118523, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 0.044439261526882615, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1539342812629286, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 0.023695762947934417, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2807515458663824, 
+    "TRACT": "0612", 
+    "ACCESS2": 0.07882143050636344, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.152999926250116, 
+    "TRACT": "5601", 
+    "ACCESS2": 0.023408977432540935, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1549433115087706, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 0.024007429781303928, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2512623795297975, 
+    "TRACT": "3204", 
+    "ACCESS2": 0.06313278336697599, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11234716635855382, 
+    "TRACT": "5611", 
+    "ACCESS2": 0.012621885788796567, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18185537618824055, 
+    "TRACT": "0309", 
+    "ACCESS2": 0.03307137784856649, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18630118310300323, 
+    "TRACT": "3405", 
+    "ACCESS2": 0.034708130825578734, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12796636786793067, 
+    "TRACT": "8352", 
+    "ACCESS2": 0.01637539130531056, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14353207490741848, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 0.020601456527228786, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1319330663604736, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 0.01740633399927713, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09641119978092749, 
+    "TRACT": "6909", 
+    "ACCESS2": 0.009295119443197913, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12269752084718523, 
+    "TRACT": "8363", 
+    "ACCESS2": 0.015054681622045454, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14251279459761518, 
+    "TRACT": "8358", 
+    "ACCESS2": 0.020309896624022057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15112024421735917, 
+    "TRACT": "6115", 
+    "ACCESS2": 0.02283732821231428, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22234900762979917, 
+    "TRACT": "1603", 
+    "ACCESS2": 0.049439081193956486, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2571232820593513, 
+    "TRACT": "3007", 
+    "ACCESS2": 0.06611238217697273, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2139610901005867, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 0.045779348077031386, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.203805642734609, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 0.041536740010467074, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.35141390901703734, 
+    "TRACT": "0702", 
+    "ACCESS2": 0.1234917354506346, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08122239513809079, 
+    "TRACT": "4503", 
+    "ACCESS2": 0.006597077471968154, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1728764812592115, 
+    "TRACT": "5806", 
+    "ACCESS2": 0.029886277772566507, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11305390609427743, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 0.0127811856831737, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19653639056433608, 
+    "TRACT": "0311", 
+    "ACCESS2": 0.03862655281605726, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9956590916699328, 
+    "TRACT": "2408", 
+    "ACCESS2": 0.9913370268249957, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4539800930188424, 
+    "TRACT": "2601", 
+    "ACCESS2": 0.20609792485739678, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14578509483299834, 
+    "TRACT": "1709", 
+    "ACCESS2": 0.021253293875466317, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2304286902725079, 
+    "TRACT": "2514", 
+    "ACCESS2": 0.05309738130070338, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7031614501134565, 
+    "TRACT": "2214", 
+    "ACCESS2": 0.494436024925659, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2556308989351751, 
+    "TRACT": "1612", 
+    "ACCESS2": 0.0653471564904057, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.7083003155411483, 
+    "TRACT": "2302", 
+    "ACCESS2": 0.5016893369956901, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10731872105358312, 
+    "TRACT": "4203", 
+    "ACCESS2": 0.011517307888576784, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06580909814544343, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 0.004330837398716606, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.19237113357223157, 
+    "TRACT": "1512", 
+    "ACCESS2": 0.03700665303186536, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15714638058032926, 
+    "TRACT": "3805", 
+    "ACCESS2": 0.024694984929497683, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2426778405768032, 
+    "TRACT": "3005", 
+    "ACCESS2": 0.0588925343070203, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07672579189850083, 
+    "TRACT": "7202", 
+    "ACCESS2": 0.005886847142452055, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13226428644781785, 
+    "TRACT": "3902", 
+    "ACCESS2": 0.01749384146955041, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21661151394894498, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 0.04692054797525398, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22814845895858743, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 0.05205171932517825, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07920040996152596, 
+    "TRACT": "4903", 
+    "ACCESS2": 0.00627270493807378, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41009756849843476, 
+    "TRACT": "8421", 
+    "ACCESS2": 0.16818001568832835, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3454035110776532, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 0.11930358546477048, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.36849114318841014, 
+    "TRACT": "8429", 
+    "ACCESS2": 0.1357857226083014, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07067009304459257, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 0.00499426205093137, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22886565992251934, 
+    "TRACT": "6006", 
+    "ACCESS2": 0.05237949029177027, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0683970011739237, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 0.0046781497695857184, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06203889205398728, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.003848824127286286, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34582887810130514, 
+    "TRACT": "0629", 
+    "ACCESS2": 0.11959761292880736, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2025474123273724, 
+    "TRACT": "1401", 
+    "ACCESS2": 0.041025454240514604, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10396427807545974, 
+    "TRACT": "6610", 
+    "ACCESS2": 0.010808571115751519, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6736485277280071, 
+    "TRACT": "2308", 
+    "ACCESS2": 0.45380233891011146, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14397946703824435, 
+    "TRACT": "5602", 
+    "ACCESS2": 0.02073008692861689, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5446370612241656, 
+    "TRACT": "2211", 
+    "ACCESS2": 0.29662952845889545, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18783074917532705, 
+    "TRACT": "1502", 
+    "ACCESS2": 0.03528039033576462, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11123648315852075, 
+    "TRACT": "4206", 
+    "ACCESS2": 0.01237355518547587, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16234660729145192, 
+    "TRACT": "8396", 
+    "ACCESS2": 0.026356420899044906, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1864937679530379, 
+    "TRACT": "5803", 
+    "ACCESS2": 0.03477992548532155, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26695887478472546, 
+    "TRACT": "0618", 
+    "ACCESS2": 0.07126704082632675, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.538496413166975, 
+    "TRACT": "2435", 
+    "ACCESS2": 0.2899783869936975, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07097293511729215, 
+    "TRACT": "7401", 
+    "ACCESS2": 0.005037157519163362, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3473659733290432, 
+    "TRACT": "2604", 
+    "ACCESS2": 0.12066311942683353, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1202767345360324, 
+    "TRACT": "4105", 
+    "ACCESS2": 0.014466492870651208, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0756024846614116, 
+    "TRACT": "4804", 
+    "ACCESS2": 0.005715735686978978, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13004498770266926, 
+    "TRACT": "6704", 
+    "ACCESS2": 0.016911698826587395, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.20070267995164212, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 0.04028156573977129, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22204814454701471, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 0.04930537849677195, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6017840481546823, 
+    "TRACT": "2429", 
+    "ACCESS2": 2.565712136922802, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12459667283879773, 
+    "TRACT": "6203", 
+    "ACCESS2": 0.015524330882498397, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.25398458567780124, 
+    "TRACT": "2925", 
+    "ACCESS2": 0.06450816976192437, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.47464296992082866, 
+    "TRACT": "2205", 
+    "ACCESS2": 0.22528594889526465, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08819749041192161, 
+    "TRACT": "8424", 
+    "ACCESS2": 0.007778797314961005, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07690664471565027, 
+    "TRACT": "4906", 
+    "ACCESS2": 0.005914632001419257, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.27859252284768016, 
+    "TRACT": "8414", 
+    "ACCESS2": 0.0776137937866352, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.16422735619266987, 
+    "TRACT": "5701", 
+    "ACCESS2": 0.02697062452203406, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10511745154892776, 
+    "TRACT": "0903", 
+    "ACCESS2": 0.011049678620141177, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26394290295186074, 
+    "TRACT": "3102", 
+    "ACCESS2": 0.06966585601865538, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2668575281008438, 
+    "TRACT": "0632", 
+    "ACCESS2": 0.07121294030409264, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.11076177740952274, 
+    "TRACT": "8349", 
+    "ACCESS2": 0.012268171334916662, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3566769720485208, 
+    "TRACT": "0511", 
+    "ACCESS2": 0.12721846238970128, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2644863802241786, 
+    "TRACT": "0610", 
+    "ACCESS2": 0.06995304532408878, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13990715485093985, 
+    "TRACT": "6303", 
+    "ACCESS2": 0.019574011978484865, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12072262228581472, 
+    "TRACT": "6709", 
+    "ACCESS2": 0.01457395153156349, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3947808562442021, 
+    "TRACT": "2305", 
+    "ACCESS2": 0.15585192445690538, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.4446815480897263, 
+    "TRACT": "8373", 
+    "ACCESS2": 0.19774167921147556, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9383266672562683, 
+    "TRACT": "2432", 
+    "ACCESS2": 0.8804569344842557, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.39214311007104896, 
+    "TRACT": "2107", 
+    "ACCESS2": 0.15377621877619482, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.34670109884742156, 
+    "TRACT": "2003", 
+    "ACCESS2": 0.12020165194200957, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.30320978259798154, 
+    "TRACT": "0714", 
+    "ACCESS2": 0.09193617226311522, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.26411612088404335, 
+    "TRACT": "1901", 
+    "ACCESS2": 0.0697573253108346, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3850769699804861, 
+    "TRACT": "2832", 
+    "ACCESS2": 0.14828427280935216, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.6045147839527728, 
+    "TRACT": "8369", 
+    "ACCESS2": 0.36543812401746756, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12552561355710948, 
+    "TRACT": "3905", 
+    "ACCESS2": 0.015756679658888786, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.1053733362625655, 
+    "TRACT": "2424", 
+    "ACCESS2": 37.27558357514589, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10823361621026138, 
+    "TRACT": "6407", 
+    "ACCESS2": 0.011714515677950156, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.3366584890192152, 
+    "TRACT": "2912", 
+    "ACCESS2": 0.11333893822870104, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.3153699428344366, 
+    "TRACT": "0815", 
+    "ACCESS2": 0.09945820084339581, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21579581208883342, 
+    "TRACT": "0318", 
+    "ACCESS2": 0.0465678325150791, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1470709303462769, 
+    "TRACT": "6111", 
+    "ACCESS2": 0.021629858552919438, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.37197483270271264, 
+    "TRACT": "2607", 
+    "ACCESS2": 0.13836527616421104, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12840685635431887, 
+    "TRACT": "6701", 
+    "ACCESS2": 0.01648832075879868, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1430965509688836, 
+    "TRACT": "8306", 
+    "ACCESS2": 0.020476622899190305, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2857174462295276, 
+    "TRACT": "1607", 
+    "ACCESS2": 0.08163445907992299, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13628215832518195, 
+    "TRACT": "0106", 
+    "ACCESS2": 0.01857282667776996, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13895992881682676, 
+    "TRACT": "6304", 
+    "ACCESS2": 0.019309861816777556, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0665515901233444, 
+    "TRACT": "5202", 
+    "ACCESS2": 0.004429114147945631, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2324588849652261, 
+    "TRACT": "0408", 
+    "ACCESS2": 0.05403713319927623, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.10590593137319668, 
+    "TRACT": "4207", 
+    "ACCESS2": 0.011216066300024244, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.21985028244317115, 
+    "TRACT": "0406", 
+    "ACCESS2": 0.048334146690342125, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.40148292006462705, 
+    "TRACT": "0717", 
+    "ACCESS2": 0.1611885351036197, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.14020454206739696, 
+    "TRACT": "1103", 
+    "ACCESS2": 0.019657313616328484, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.08718697343703315, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 0.0076015683371099246, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13616056587325426, 
+    "TRACT": "6120", 
+    "ACCESS2": 0.018539699698924814, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.4458410777111521, 
+    "TRACT": "2427", 
+    "ACCESS2": 2.0904564219969455, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.12029013301787322, 
+    "TRACT": "8346", 
+    "ACCESS2": 0.014469716101457634, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.22924706478788173, 
+    "TRACT": "8411", 
+    "ACCESS2": 0.05255421671385924, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.15227902219580863, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 0.02318890060091158, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.0642948646814021, 
+    "TRACT": "5301", 
+    "ACCESS2": 0.004133829624399807, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.8593714262073358, 
+    "TRACT": "2402", 
+    "ACCESS2": 0.7385192481816304, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07295846471801411, 
+    "TRACT": "7206", 
+    "ACCESS2": 0.0053229375740097085, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.41368438607853986, 
+    "TRACT": "0514", 
+    "ACCESS2": 0.17113477128517846, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.07413907984388515, 
+    "TRACT": "4907", 
+    "ACCESS2": 0.005496603160097978, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13441706024441225, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 0.01806794608474995, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.13563714573203633, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 0.01839743530233366, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.37816219397738443, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 0.14300664495378893, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.5161287934897164, 
+    "TRACT": "8422", 
+    "ACCESS2": 0.2663889314691503, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.18281115757813848, 
+    "TRACT": "8399", 
+    "ACCESS2": 0.03341991933505898, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.06720184290972088, 
+    "TRACT": "7504", 
+    "ACCESS2": 0.004516087690462803, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 0.9290217662686661, 
+    "TRACT": "8310", 
+    "ACCESS2": 0.863081442200952, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.2813937096308903, 
+    "TRACT": "2909", 
+    "ACCESS2": 0.0791824198198338, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 1.6040411673367527, 
+    "TRACT": "2410", 
+    "ACCESS2": 2.5729480665110525, 
+    "YEAR": 2000, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1333737893925071, 
+    "TRACT": "1707", 
+    "ACCESS2": 0.01778856769691684, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.1540446359185894, 
+    "TRACT": "0303", 
+    "ACCESS2": 0.023729749855290763, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Laundry, Late Hour", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 0.09938208937450795, 
+    "TRACT": "6911", 
+    "ACCESS2": 0.009876799688442683, 
+    "YEAR": 2000, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }
+]

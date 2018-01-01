@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.19950505835603372, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.7521285336422197, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 21.672185882922314, 
+    "YEAR": 2002, 
+    "ACCESS1": 33.41365056455621, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 37.58753269436874, 
+    "YEAR": 2002, 
+    "ACCESS1": 47.82451828994112, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 3.2373042448277873, 
+    "YEAR": 2002, 
+    "ACCESS1": 18.93889738598454, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.47225017631196936, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.111316718093771, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.7438037870623068, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.843536012315334, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.8371251297766834, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.652407490738163, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.958661232272533, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.103237936022923, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.8430339563264709, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.193910454924865, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.1749925741681457, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.959906444572491, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.5403165045496834, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.169034444145177, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.041443844117500094, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.8037797260569383, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.41153284311946176, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.581097182694384, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.45669645652250646, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.157813719993921, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.240254207225355, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.5998962922668856, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 96.94450285417368, 
+    "YEAR": 2002, 
+    "ACCESS1": 67.27134457580934, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 23.96538788052061, 
+    "YEAR": 2002, 
+    "ACCESS1": 30.920753209197624, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.09299551387894474, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.1834357382725866, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.040049224341123665, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.5518255906712853, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 5.3077047208552095, 
+    "YEAR": 2002, 
+    "ACCESS1": 18.114393738418524, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 3.158229592359796, 
+    "YEAR": 2002, 
+    "ACCESS1": 20.411337609095238, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.5756097746039728, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.52595071510844, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 9.621168874695462, 
+    "YEAR": 2002, 
+    "ACCESS1": 26.91945004737868, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.09388167838656464, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.4705273819226319, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 42.992324368106, 
+    "YEAR": 2002, 
+    "ACCESS1": 23.50199532267801, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 3.1131125421850316, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.647696613011284, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.7468557701298082, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.19936280981721, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 284.70386524213507, 
+    "YEAR": 2002, 
+    "ACCESS1": 174.66968446904417, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 6.455318094693246, 
+    "YEAR": 2002, 
+    "ACCESS1": 26.564042805870365, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.2806607808423838, 
+    "YEAR": 2002, 
+    "ACCESS1": 13.249501799743433, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.0758986870239435, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.105033031107608, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 3.652950344970959, 
+    "YEAR": 2002, 
+    "ACCESS1": 18.110342024681277, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 30.0106537180375, 
+    "YEAR": 2002, 
+    "ACCESS1": 69.02667676083998, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 4.02784954912279, 
+    "YEAR": 2002, 
+    "ACCESS1": 20.46930906543559, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.12416273882682047, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.9510903671982078, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 26.696935193207594, 
+    "YEAR": 2002, 
+    "ACCESS1": 58.84673603599947, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.4119194641967103, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.979859672726184, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 169.3371262416015, 
+    "YEAR": 2002, 
+    "ACCESS1": 91.9275856625202, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.4618690415430682, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.901267948544226, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.36448578423586087, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.087620530313275, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 22.067359786252087, 
+    "YEAR": 2002, 
+    "ACCESS1": 38.47570591768348, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 18.12504264018434, 
+    "YEAR": 2002, 
+    "ACCESS1": 42.27838297358586, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.8657285434224422, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.313639563441486, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 170.41966663878983, 
+    "YEAR": 2002, 
+    "ACCESS1": 84.69645980294725, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.5732871336639972, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.937365416360228, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 3.6545789859509132, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.488694437933648, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.6185474547961648, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.5317442142540845, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.20110594453554964, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.5345261032776336, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 36.26127409591266, 
+    "YEAR": 2002, 
+    "ACCESS1": 57.19202493920432, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.11607116338143252, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.9008226776176462, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.28868286940338794, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.9688686079275561, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.29596056125707, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.147489758186476, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 14.197820629465234, 
+    "YEAR": 2002, 
+    "ACCESS1": 36.88091103774194, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.2675435399781567, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.024891677753006, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.04410385694252966, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.8284791535930655, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.619559687906476, 
+    "YEAR": 2002, 
+    "ACCESS1": 10.677923078723229, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.6987339928605962, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.642240143139917, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 4.500357718217006, 
+    "YEAR": 2002, 
+    "ACCESS1": 23.881880604635064, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.050353134739452, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.40279517097937, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.4644890990007764, 
+    "YEAR": 2002, 
+    "ACCESS1": 14.290022525375205, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.8899322076724806, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.507347139124779, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.3740417740418166, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.507787108095805, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.30238398672687056, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.302438304321621, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.17003330143813236, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.802541986393871, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.7541104695957324, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.987043510382552, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.36669371850293486, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.74587122498653, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.30614374637319774, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.0512087174887776, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.1985584170086694, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.284007248536712, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 1.289693222938195, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.686714646128344, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.9547494010420385, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.701028643075905, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.7474306642113198, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.136219207537156, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 2.0652863173896807, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.711550176478797, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.40510014420177404, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.534503102323268, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.5631384000484896, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.28159418597211, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 4.696859785344725, 
+    "YEAR": 2002, 
+    "ACCESS1": 29.41767699819692, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 0.7261500890540173, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.560304831326756, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement-TCC", 
+    "ACCESS2": 21.85361116901786, 
+    "YEAR": 2002, 
+    "ACCESS1": 69.20296813546835, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

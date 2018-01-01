@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.8376097827583759, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.1971585083932177, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.6104334193705591, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.037447965426414, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.2172570721253722, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.594062197599548, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 5.155547822746422, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.903860556185279, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 13.41572075236026, 
+    "YEAR": 2017, 
+    "ACCESS1": 15.637128445112, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.9347738301838634, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.142092371586326, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.1852841214670868, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.86533283800818, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.934393365800325, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.095525421180064, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.9185349043360093, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.17268470983346, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.0152108775282294, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.847613484041659, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.24743260518062593, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.2932745292834116, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.1451977923826804, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8553168841916599, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.9016673755632403, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.190488533638429, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.6079755416296837, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.175281516531943, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.6752750422949004, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.668539991500736, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.7446375186560588, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.117953033773396, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.9582102009382014, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.848221186264079, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.24427322248986724, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.1868734419328206, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.2635536033469093, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7558367962030752, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 16.696805640783122, 
+    "YEAR": 2017, 
+    "ACCESS1": 18.545033091394743, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 8.629153306758168, 
+    "YEAR": 2017, 
+    "ACCESS1": 19.02029834815726, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.48235153203285447, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.398827075259566, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.9765181043185882, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.012500466285112, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 12.944489810857519, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.141298784497217, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.8639167565152577, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.565567390805721, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 6.38781215135562, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.146478688992003, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.5184499030222507, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.575909731339948, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 12.798933150052552, 
+    "YEAR": 2017, 
+    "ACCESS1": 34.96467900155091, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 3.7280578052607383, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.545555855995044, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.8599207163939662, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.03119246752651, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.25823193136853795, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.7520065867817527, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 3.801025093097796, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.357014266424668, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 12.189116552838792, 
+    "YEAR": 2017, 
+    "ACCESS1": 29.598505092490342, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.9383379998407841, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.785558966706563, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.8409864367199424, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.634413264610658, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 43.41555680738101, 
+    "YEAR": 2017, 
+    "ACCESS1": 42.28920749448558, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.27985042009684147, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.450963087663872, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.3854010843564137, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.85314832252515, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.7027955452121568, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.62039573576043, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.4193935161251234, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.0578080976649855, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.7917549182782968, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.171554580241376, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 11.62514270944794, 
+    "YEAR": 2017, 
+    "ACCESS1": 27.208143692012996, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.099363333544631, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.65069669641254, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 3.78611897770371, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.499491248412246, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.5918898278476983, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.653043151918316, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.7311447479621405, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.754568229544552, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.1934585716629942, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.5415541266760453, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.9074405087509019, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.308611211974786, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 36.75663936113077, 
+    "YEAR": 2017, 
+    "ACCESS1": 38.60084296633636, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.21259398479176972, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.664916964596135, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.30482660357584673, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.445209246131517, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.10324967970357206, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8701412429029799, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.6913050156623917, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.157491127875305, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 2.005695279926285, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.359351904222322, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.31390321183053166, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.1243049451966542, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.8495133965581865, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.158326798371905, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.25747893465250143, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.8839452543407522, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.456495863975147, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.310267066931942, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.4784046670068116, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.802179542881923, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.9074086193560296, 
+    "YEAR": 2017, 
+    "ACCESS1": 11.459917540131281, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.6804078882992006, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.254080475468512, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.36718457290904527, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.1119067487502603, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.4247031044105551, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.216500876183336, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.5260857158487298, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.882764998939902, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.7789999116117614, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.536002105004362, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.4886953493328208, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.787510592830558, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.37170344428501795, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.2933632001507775, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.7813350579892278, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.6517994821020507, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 2.993878737020475, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.897183833648374, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 4.688029944689985, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.852160534590299, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.1577375133342431, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.957745192731366, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 3.0537140500546, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.812379094116455, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.09871915910993499, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.2114561083026278, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 0.36825976249519565, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.015913139051445, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 2.537596781711619, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.696152662820051, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1.0212806984789553, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.2425413978197835, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 62.07224812926077, 
+    "YEAR": 2017, 
+    "ACCESS1": 61.124527128363304, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]
