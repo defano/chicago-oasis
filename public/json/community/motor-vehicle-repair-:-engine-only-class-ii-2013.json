@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 337.96119655836895, 
+    "YEAR": 2013, 
+    "ACCESS1": 679.1625183939293, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1734.5885957112673, 
+    "YEAR": 2013, 
+    "ACCESS1": 2351.9260439630707, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2468.9825791541625, 
+    "YEAR": 2013, 
+    "ACCESS1": 3212.231497823418, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2720.4265949869514, 
+    "YEAR": 2013, 
+    "ACCESS1": 4099.227530291488, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 738.3548137288254, 
+    "YEAR": 2013, 
+    "ACCESS1": 1913.551664644534, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2121.8975502334183, 
+    "YEAR": 2013, 
+    "ACCESS1": 2574.60929108999, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 576.2652895209284, 
+    "YEAR": 2013, 
+    "ACCESS1": 2027.5129050712137, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 606.2527628467783, 
+    "YEAR": 2013, 
+    "ACCESS1": 1880.3167844519724, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 542.4777829457961, 
+    "YEAR": 2013, 
+    "ACCESS1": 1717.5040296777963, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 529.3324334238673, 
+    "YEAR": 2013, 
+    "ACCESS1": 1800.1728310200317, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 422.8021435425196, 
+    "YEAR": 2013, 
+    "ACCESS1": 1169.060012167025, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 26.444566801674764, 
+    "YEAR": 2013, 
+    "ACCESS1": 167.21690791070475, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 466.5911671635162, 
+    "YEAR": 2013, 
+    "ACCESS1": 1252.2966757222268, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 5033.7093518065985, 
+    "YEAR": 2013, 
+    "ACCESS1": 1350.3749497772658, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 667.8853594772912, 
+    "YEAR": 2013, 
+    "ACCESS1": 1075.437661731497, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1731.7427879604752, 
+    "YEAR": 2013, 
+    "ACCESS1": 2893.3860795719615, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 4670.043370838474, 
+    "YEAR": 2013, 
+    "ACCESS1": 3645.0422811701806, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 136.89342891978862, 
+    "YEAR": 2013, 
+    "ACCESS1": 294.4133295722084, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 46.78357557979979, 
+    "YEAR": 2013, 
+    "ACCESS1": 139.16803388778743, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 10897.171168157192, 
+    "YEAR": 2013, 
+    "ACCESS1": 3101.009731271449, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 4847.286807069552, 
+    "YEAR": 2013, 
+    "ACCESS1": 5129.800691259176, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1474.7185164048049, 
+    "YEAR": 2013, 
+    "ACCESS1": 2486.526627410325, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2584.7876758951375, 
+    "YEAR": 2013, 
+    "ACCESS1": 3417.3941633792347, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 77.97787531946699, 
+    "YEAR": 2013, 
+    "ACCESS1": 357.60934736333905, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 230.17692294022524, 
+    "YEAR": 2013, 
+    "ACCESS1": 954.666573778319, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2023.1388810428693, 
+    "YEAR": 2013, 
+    "ACCESS1": 2532.718677945654, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1072.161092249318, 
+    "YEAR": 2013, 
+    "ACCESS1": 2607.9507347284753, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 5984.814671770614, 
+    "YEAR": 2013, 
+    "ACCESS1": 8430.58419237672, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 5798.212604391991, 
+    "YEAR": 2013, 
+    "ACCESS1": 5064.035747724313, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1833.6759044560906, 
+    "YEAR": 2013, 
+    "ACCESS1": 2714.427217033562, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 757.5487875829875, 
+    "YEAR": 2013, 
+    "ACCESS1": 1456.0724589930012, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1574.7576415200438, 
+    "YEAR": 2013, 
+    "ACCESS1": 3261.401462436727, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 8095.717390816053, 
+    "YEAR": 2013, 
+    "ACCESS1": 9154.102895267639, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 4334.574713698629, 
+    "YEAR": 2013, 
+    "ACCESS1": 4330.166268556035, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 114.62895125562135, 
+    "YEAR": 2013, 
+    "ACCESS1": 454.51446342930285, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2918.4267219449534, 
+    "YEAR": 2013, 
+    "ACCESS1": 4855.92089046391, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1071.8827942706162, 
+    "YEAR": 2013, 
+    "ACCESS1": 1475.205457557244, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 3076.3219237108765, 
+    "YEAR": 2013, 
+    "ACCESS1": 3906.7925494317824, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 506.30652107092413, 
+    "YEAR": 2013, 
+    "ACCESS1": 1505.6562059316084, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 659.8492261545389, 
+    "YEAR": 2013, 
+    "ACCESS1": 1252.9028778374843, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2307.9061020552394, 
+    "YEAR": 2013, 
+    "ACCESS1": 3255.5346585441184, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 3179.324208133458, 
+    "YEAR": 2013, 
+    "ACCESS1": 5176.034662167284, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 799.9838025011236, 
+    "YEAR": 2013, 
+    "ACCESS1": 2108.459590485433, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 3642.638656594772, 
+    "YEAR": 2013, 
+    "ACCESS1": 4361.033595396966, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 327.8895835429165, 
+    "YEAR": 2013, 
+    "ACCESS1": 1045.554918500075, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 147.86327464376814, 
+    "YEAR": 2013, 
+    "ACCESS1": 560.0933544575635, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 162.1069956135902, 
+    "YEAR": 2013, 
+    "ACCESS1": 1064.4080045504281, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 667.2181217402399, 
+    "YEAR": 2013, 
+    "ACCESS1": 962.6351639143371, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2220.8228312681663, 
+    "YEAR": 2013, 
+    "ACCESS1": 4242.882890682031, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 179.4187748965497, 
+    "YEAR": 2013, 
+    "ACCESS1": 487.6714353296562, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 613.3239225980288, 
+    "YEAR": 2013, 
+    "ACCESS1": 412.921753785057, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 355.6685967873951, 
+    "YEAR": 2013, 
+    "ACCESS1": 502.5519866445174, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 6458.818316435774, 
+    "YEAR": 2013, 
+    "ACCESS1": 5501.561786319276, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 773.0292936347159, 
+    "YEAR": 2013, 
+    "ACCESS1": 2693.6886549855135, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 30.613768371361896, 
+    "YEAR": 2013, 
+    "ACCESS1": 187.24105116612924, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1679.711801854469, 
+    "YEAR": 2013, 
+    "ACCESS1": 2151.563448155745, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 521.2154623658489, 
+    "YEAR": 2013, 
+    "ACCESS1": 1009.3616075516289, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 6553.862788857103, 
+    "YEAR": 2013, 
+    "ACCESS1": 5808.209603040109, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 483.61833982582084, 
+    "YEAR": 2013, 
+    "ACCESS1": 1082.9456843594096, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 3033.3191025480805, 
+    "YEAR": 2013, 
+    "ACCESS1": 4135.064829896229, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 223.16650484960314, 
+    "YEAR": 2013, 
+    "ACCESS1": 1073.3869014497589, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 966.1057744965136, 
+    "YEAR": 2013, 
+    "ACCESS1": 1283.300309829142, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1678.232028175073, 
+    "YEAR": 2013, 
+    "ACCESS1": 1289.5911353545378, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1348.6577383153667, 
+    "YEAR": 2013, 
+    "ACCESS1": 706.9766255870637, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1119.8853442982636, 
+    "YEAR": 2013, 
+    "ACCESS1": 2135.46489880758, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 692.992221509302, 
+    "YEAR": 2013, 
+    "ACCESS1": 1428.0354960958834, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 551.113895026793, 
+    "YEAR": 2013, 
+    "ACCESS1": 943.8114223781846, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 290.6452209207503, 
+    "YEAR": 2013, 
+    "ACCESS1": 880.3969207373273, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2186.4257502672804, 
+    "YEAR": 2013, 
+    "ACCESS1": 2775.4850502303048, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1144.033299210452, 
+    "YEAR": 2013, 
+    "ACCESS1": 1370.5152210070557, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 1178.4885566549042, 
+    "YEAR": 2013, 
+    "ACCESS1": 2051.4167945387617, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 2546.6951630855488, 
+    "YEAR": 2013, 
+    "ACCESS1": 4032.6235978679806, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 158.08432973825583, 
+    "YEAR": 2013, 
+    "ACCESS1": 558.6099876754511, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 98.37091610660524, 
+    "YEAR": 2013, 
+    "ACCESS1": 480.813070659514, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 3855.0709995254615, 
+    "YEAR": 2013, 
+    "ACCESS1": 6502.29073578496, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 5925.1434786418795, 
+    "YEAR": 2013, 
+    "ACCESS1": 2156.1600705796345, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair : Engine Only (Class II)", 
+    "ACCESS2": 21914.09477393409, 
+    "YEAR": 2013, 
+    "ACCESS1": 9277.75234399829, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

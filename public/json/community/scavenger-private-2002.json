@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 21.02543458624628, 
+    "YEAR": 2002, 
+    "ACCESS1": 140.57859054857573, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 37.403084746196946, 
+    "YEAR": 2002, 
+    "ACCESS1": 324.0332019509772, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 71.97380929182071, 
+    "YEAR": 2002, 
+    "ACCESS1": 418.52556684808377, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 687.3178879777029, 
+    "YEAR": 2002, 
+    "ACCESS1": 1375.9371931993337, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 179.4814860110533, 
+    "YEAR": 2002, 
+    "ACCESS1": 466.56855132131057, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 86.15523515047201, 
+    "YEAR": 2002, 
+    "ACCESS1": 461.1323080868197, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 59.13481648638882, 
+    "YEAR": 2002, 
+    "ACCESS1": 453.2287781456205, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 177.38652289976218, 
+    "YEAR": 2002, 
+    "ACCESS1": 630.1037524179533, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 62.72908760676988, 
+    "YEAR": 2002, 
+    "ACCESS1": 403.54620114865736, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 75.42547140692233, 
+    "YEAR": 2002, 
+    "ACCESS1": 466.6836415411214, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 25.026939709969962, 
+    "YEAR": 2002, 
+    "ACCESS1": 164.92740773052367, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 3.309841447895309, 
+    "YEAR": 2002, 
+    "ACCESS1": 36.66007182318925, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 30.56304335316218, 
+    "YEAR": 2002, 
+    "ACCESS1": 259.42723368199336, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 61.67367789783609, 
+    "YEAR": 2002, 
+    "ACCESS1": 262.68926504933285, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 37.014920620661385, 
+    "YEAR": 2002, 
+    "ACCESS1": 204.76626887654953, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 92.23933403431882, 
+    "YEAR": 2002, 
+    "ACCESS1": 489.4851289642352, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 119.22803463846525, 
+    "YEAR": 2002, 
+    "ACCESS1": 510.46315357815945, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 8.782660242011765, 
+    "YEAR": 2002, 
+    "ACCESS1": 59.987898976594465, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 5.81217233864962, 
+    "YEAR": 2002, 
+    "ACCESS1": 30.669321595460158, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1858.1305268233805, 
+    "YEAR": 2002, 
+    "ACCESS1": 1748.071537799422, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 990.1646275464493, 
+    "YEAR": 2002, 
+    "ACCESS1": 1774.9404213205257, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 48.514805969958864, 
+    "YEAR": 2002, 
+    "ACCESS1": 332.70968363024474, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 89.60362164930231, 
+    "YEAR": 2002, 
+    "ACCESS1": 420.07355150520027, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 111.27506722832076, 
+    "YEAR": 2002, 
+    "ACCESS1": 112.08061000952827, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 123.8941577982934, 
+    "YEAR": 2002, 
+    "ACCESS1": 373.65259358762626, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 698.8091454234599, 
+    "YEAR": 2002, 
+    "ACCESS1": 1097.1128657978788, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 405.0270813030623, 
+    "YEAR": 2002, 
+    "ACCESS1": 649.9791390063306, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 595.8828469755109, 
+    "YEAR": 2002, 
+    "ACCESS1": 1953.9294119224937, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 307.2927234857972, 
+    "YEAR": 2002, 
+    "ACCESS1": 993.9285725351266, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 381.131903689802, 
+    "YEAR": 2002, 
+    "ACCESS1": 769.7922614184295, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 22.349770826427847, 
+    "YEAR": 2002, 
+    "ACCESS1": 199.05776145817285, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 533.2031097560329, 
+    "YEAR": 2002, 
+    "ACCESS1": 1068.9860978354473, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 631.35226925684, 
+    "YEAR": 2002, 
+    "ACCESS1": 1808.8494982297452, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 196.05325257292208, 
+    "YEAR": 2002, 
+    "ACCESS1": 544.5949345830674, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 14.398025473587237, 
+    "YEAR": 2002, 
+    "ACCESS1": 98.334718672973, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1754.866473823448, 
+    "YEAR": 2002, 
+    "ACCESS1": 2065.2120629643227, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 37.47256002675027, 
+    "YEAR": 2002, 
+    "ACCESS1": 186.05762845643076, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 79.39187700317481, 
+    "YEAR": 2002, 
+    "ACCESS1": 554.1528530439602, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 76.4579980932948, 
+    "YEAR": 2002, 
+    "ACCESS1": 340.69786473035714, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 37.40269965389697, 
+    "YEAR": 2002, 
+    "ACCESS1": 229.10719929137352, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 51.15661132232587, 
+    "YEAR": 2002, 
+    "ACCESS1": 404.54364950245434, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1399.9139740217418, 
+    "YEAR": 2002, 
+    "ACCESS1": 2159.699357515245, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 94.05404368089627, 
+    "YEAR": 2002, 
+    "ACCESS1": 476.73250206482743, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 192.11159526938772, 
+    "YEAR": 2002, 
+    "ACCESS1": 740.5887697948631, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 47.61245922341437, 
+    "YEAR": 2002, 
+    "ACCESS1": 258.77293262475513, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 59.94143962418682, 
+    "YEAR": 2002, 
+    "ACCESS1": 204.25136341018458, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 15.654964971730317, 
+    "YEAR": 2002, 
+    "ACCESS1": 182.12712286352905, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 30.156701456318018, 
+    "YEAR": 2002, 
+    "ACCESS1": 189.71363324796047, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 1575.2316145889808, 
+    "YEAR": 2002, 
+    "ACCESS1": 2032.7943449202485, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 10.699105775908127, 
+    "YEAR": 2002, 
+    "ACCESS1": 95.84503506446337, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 28.79988164268771, 
+    "YEAR": 2002, 
+    "ACCESS1": 112.77006085449912, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 10.331723194542926, 
+    "YEAR": 2002, 
+    "ACCESS1": 66.94511307224475, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 191.8838383041917, 
+    "YEAR": 2002, 
+    "ACCESS1": 648.5923904259258, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 179.54298369690778, 
+    "YEAR": 2002, 
+    "ACCESS1": 783.7262154006576, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 5.206174906841158, 
+    "YEAR": 2002, 
+    "ACCESS1": 41.49818394404266, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 68.43660989300089, 
+    "YEAR": 2002, 
+    "ACCESS1": 302.0458228768265, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 20.77666953156522, 
+    "YEAR": 2002, 
+    "ACCESS1": 129.97989933305988, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 431.76912556290216, 
+    "YEAR": 2002, 
+    "ACCESS1": 736.2709335517208, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 144.24450367959494, 
+    "YEAR": 2002, 
+    "ACCESS1": 392.93803399382614, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 175.81813285089095, 
+    "YEAR": 2002, 
+    "ACCESS1": 853.2858876461938, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 54.34201661010968, 
+    "YEAR": 2002, 
+    "ACCESS1": 301.53177448641344, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 36.37077590846849, 
+    "YEAR": 2002, 
+    "ACCESS1": 235.89278413965664, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 158.93563843593967, 
+    "YEAR": 2002, 
+    "ACCESS1": 304.1244684856588, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 13.092667614286277, 
+    "YEAR": 2002, 
+    "ACCESS1": 127.95143194343356, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 81.27668565320228, 
+    "YEAR": 2002, 
+    "ACCESS1": 440.56918144042004, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 45.5992633102225, 
+    "YEAR": 2002, 
+    "ACCESS1": 263.2843932269705, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 35.69405439581572, 
+    "YEAR": 2002, 
+    "ACCESS1": 181.76207808846104, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 23.911208718789304, 
+    "YEAR": 2002, 
+    "ACCESS1": 174.29783926959976, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 328.75363966569535, 
+    "YEAR": 2002, 
+    "ACCESS1": 794.0676641830119, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 597.0751225846224, 
+    "YEAR": 2002, 
+    "ACCESS1": 672.9504529920472, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 76.76494714309344, 
+    "YEAR": 2002, 
+    "ACCESS1": 437.95981887957123, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 315.48591648565997, 
+    "YEAR": 2002, 
+    "ACCESS1": 1053.1699948920118, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 7.800163558388063, 
+    "YEAR": 2002, 
+    "ACCESS1": 85.67673343330891, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 30.95340396721817, 
+    "YEAR": 2002, 
+    "ACCESS1": 147.85386689496985, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 795.2491585390503, 
+    "YEAR": 2002, 
+    "ACCESS1": 1391.6621815567494, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 100.92477004576006, 
+    "YEAR": 2002, 
+    "ACCESS1": 423.1084906600051, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Scavenger, Private", 
+    "ACCESS2": 2990.115402558381, 
+    "YEAR": 2002, 
+    "ACCESS1": 3479.8554535198878, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

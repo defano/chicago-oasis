@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.12288982904433525, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.357087642818626, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.47043711847026215, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.110027910723197, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.7783852892413875, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.054648925540922, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.4261665479207775, 
+    "YEAR": 2015, 
+    "ACCESS1": 10.307433317493112, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.2805988322030037, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.4231755300630216, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.48373108729035125, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.987647688679169, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.5481198597331594, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.959401858118323, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.3194000605450866, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.288730100631986, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.5844223993117458, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.388327774694286, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.8457343808380389, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.509936049313956, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.18240501164587228, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.8031604021269556, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.02276109210261248, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.3695446566844837, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.2547644939261798, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.761485254455177, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.2962939055905758, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.1027287113715722, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.14013723490903013, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.7132600058732, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.1085391393886928, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.300270849366813, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.065645382793484, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.633438523412709, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.058915497693833786, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5944174497917472, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.024652098049470772, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.2719457757232341, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 5.155189366308044, 
+    "YEAR": 2015, 
+    "ACCESS1": 12.820020184298375, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.372689101932597, 
+    "YEAR": 2015, 
+    "ACCESS1": 11.203879972653336, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.35119328736560823, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.3937991508736824, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.6440165451060949, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.6030884193699295, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.055223939821466776, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.7039820621873689, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 36.185930762409, 
+    "YEAR": 2015, 
+    "ACCESS1": 20.508183853821194, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.665066672364429, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.887228483399584, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.47159446326635707, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.600076882005096, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 5.980312319977834, 
+    "YEAR": 2015, 
+    "ACCESS1": 24.516547452417125, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.308207243084416, 
+    "YEAR": 2015, 
+    "ACCESS1": 10.118354539178622, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.239402043126195, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.082750268580425, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.19351114369433398, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.151497298801026, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.6696905051852116, 
+    "YEAR": 2015, 
+    "ACCESS1": 9.735693678235787, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 4.741321704233534, 
+    "YEAR": 2015, 
+    "ACCESS1": 19.307704166422685, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.6516283762996912, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.212785124199433, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.07315826233840858, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9351868146415901, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 8.540946678998255, 
+    "YEAR": 2015, 
+    "ACCESS1": 22.253677385441616, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.20315633830956184, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.9101642872125475, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.0017104542323334, 
+    "YEAR": 2015, 
+    "ACCESS1": 7.1354219995797274, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.29156762018439264, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.9545801031913697, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.2242545160162894, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.0056534779276047, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.581123472152627, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.928917309513944, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 60.28161450732426, 
+    "YEAR": 2015, 
+    "ACCESS1": 42.959723570802716, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.6016715936542346, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.436113247418271, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.8096222309157945, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.676596598400586, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.41302048502080524, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.722244014001856, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 2.1326604115824055, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.281967479348743, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.14682075255820137, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.9733088162845838, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.11282908713969121, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.6447629395771008, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 78.16905812445452, 
+    "YEAR": 2015, 
+    "ACCESS1": 61.59006829581392, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.06457124594465823, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8797131445866185, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.22180707101937536, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.1482789048131852, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.0745090169612398, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6684483929622145, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.0587698556282406, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.880566623141852, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.7378305079857388, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.814636125656774, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.02436678220297341, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.38209203346906195, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.5399295558797056, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.1123968595894107, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.18086886157727938, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.47204578778603, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.9948787767282576, 
+    "YEAR": 2015, 
+    "ACCESS1": 7.091133463477048, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.6376165992366851, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.877376358538146, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.0041292174281211, 
+    "YEAR": 2015, 
+    "ACCESS1": 7.536060952759385, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.6628957254029145, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.7247937455257234, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.2114863358337711, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.101735303814591, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.18165373930661224, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.0854833522231804, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.09849014376119565, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.3297867249790827, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.4395587430550488, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.7835809370881908, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.21931886355601224, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.291322389570722, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.1948337504162711, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.5274320989449086, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.11213246684906976, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.5336046871132625, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.9503041961751697, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.322325109576733, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.7861018343337586, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.424073843330861, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.49916944987832906, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.231200410197383, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.5481894953566537, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.854793465845818, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.07557703326286455, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9520258193852664, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.4335422172648256, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.9700606291560119, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 1.737532150194677, 
+    "YEAR": 2015, 
+    "ACCESS1": 11.132079087261069, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 0.49964699579783056, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.456371306786112, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "ACCESS2": 17.63685297408149, 
+    "YEAR": 2015, 
+    "ACCESS1": 38.196181644687165, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

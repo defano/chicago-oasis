@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Commercial Garage", 
+    "LEGAL_NAME": "G.O. PARKING, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "G.O. PARKNG INC", 
+    "POP_AT_RISK": 83649, 
+    "ZIP": 60611, 
+    "ADDRESS": "1000  -01010 N LAKE SHORE DR", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.624235, 
+    "LATTITUDE": 41.900752974
+  }, 
+  {
+    "BUSINESS_TYPE": "Commercial Garage", 
+    "LEGAL_NAME": "LANDMARK PARKING INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "LANDMARK LOOP PARKING", 
+    "POP_AT_RISK": 31950, 
+    "ZIP": 60607, 
+    "ADDRESS": "817-907 S WELLS ST", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.633415995, 
+    "LATTITUDE": 41.871781287
+  }, 
+  {
+    "BUSINESS_TYPE": "Commercial Garage", 
+    "LEGAL_NAME": "G.O. PARKING, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "G. O. PARKING INC", 
+    "POP_AT_RISK": 74900, 
+    "ZIP": 60613, 
+    "ADDRESS": "3600 N LAKE SHORE DR #", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.643649759, 
+    "LATTITUDE": 41.948683674
+  }
+]

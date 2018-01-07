@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.014879885973788816, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.2727124656565733, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 2.4370438796847607, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.3465938487054645, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 47.33497845484512, 
+    "YEAR": 2018, 
+    "ACCESS1": 16.994683564487886, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.2053054230251166, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.7531094169526233, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.037633558270554125, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7250814118014578, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.053538220192566606, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7669012781683879, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.05578813229030173, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9143688684640924, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.08406594579801992, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9162818369055696, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.050319394133522065, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7438322877029339, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.06251665076644691, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.8658517330420711, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.5321543943600294, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.737922934820662, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0036188075494170946, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.08507408867330629, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.030200679696232493, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.5493266759239205, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0338295772694129, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.41096417656925455, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0198655682456743, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.3727220889513837, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 3.1934235249948615, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.0122878931516475, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.9380396259548006, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.05090740788084, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.006631577756889077, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.11515553607273733, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0030071057118906796, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.05483708336418595, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.13621512370064198, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.22367361418092, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.19661387248318193, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.8794500766097004, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.2851667834528029, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.7555796830277417, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 4.469251790283319, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.777276799046913, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.007547877768456956, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.15039927015559895, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.07644792232721409, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.6175047438544977, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0952417587921187, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9752472543480862, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.055001981081059526, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.907842311647006, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 3.4258681740020145, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.588119170289403, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.4941531559366348, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.712133219796519, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.18354915904714833, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.353467001185778, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.24878150911969693, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.399612587022259, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.22801692666553075, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.6525263595316857, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1.4930272340504693, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.328095526626788, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.8206839498276248, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.3652226634474105, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.009879650967176037, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.19864030759948823, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.9411356293696025, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.310928022831424, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.3851242459063783, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.5133760423115714, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 6.220952249279029, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.011473313598383, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.03345445765096719, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.5782002604047309, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.02865494614436971, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4143708277172221, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 18.870427951690818, 
+    "YEAR": 2018, 
+    "ACCESS1": 13.390485612126982, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.35519837833295914, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.6597101676763826, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.053540087147538044, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7665003260731277, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 2.4527033068478565, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.723706928694213, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.03156186893824025, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4350321818282617, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0334373539828655, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.31624450229645407, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.11441243278878269, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.9998295848338652, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.017315252250398788, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.3720983530471386, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.47118892845900295, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.0602910141267468, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.010225658285076666, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.20219470188915786, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.01315420635796338, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.16207260160693937, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.04735857291999139, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.307682581412542, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 2.6346858072630943, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.127610148994208, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.09854845194922948, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.2151847428462803, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.003851934272027632, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.08774196053802062, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.28971437386584403, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.3143033592046482, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 2.1337829519231826, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.848373010317932, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.638330644539175, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.274131473586957, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.04735284952297992, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4859167825039025, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.09480031836329265, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.340568645303839, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.041641055454640585, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.5397175487423213, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.03284117149379011, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4793514275996921, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.023895135735873423, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.43699668424498384, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.01377686972537524, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.28735804070191784, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.06404179696253572, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.8377881075232062, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.029651606305318108, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4868940322855436, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.023120882276408378, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.3040486196328086, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.01707417605592921, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.34565696649667116, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.07817421295805493, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.8834669712481407, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.0441802594422223, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.4698827524939979, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.049043929488971114, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.7667326865684376, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.11075746287320777, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.3713428277125213, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.09054744184523546, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.6011430010883163, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.021167186162503224, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.25188744770338467, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.5066503888765292, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.464535864252425, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 0.04819487579292921, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.6207375033444321, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1.0169847764182314, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.590035591422417, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

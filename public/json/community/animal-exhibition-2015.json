@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.01872515629006335, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.30586196944002997, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.18365408795563382, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.4833853173028895, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.36398689571395476, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.9965664005596424, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5890584618284554, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.9623425854922685, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.05163431902237831, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8492406526001723, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.096104772678308, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.02691697368625, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.06799472891109891, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.0091228533407692, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.10566779938184102, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.0271970520187688, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.06474665081668905, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8434959734441151, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.07690265994511007, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9601080110143989, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.2175479396439777, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.1296609214071105, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.004423610065511476, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.09405704847337075, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.03607676205670755, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6003078070794674, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.07759814935879336, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6220651052710658, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.03028143562422081, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.460093609865176, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.2809349436803941, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.8324940845360604, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.0396927344354643, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.1740222823074045, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.008430848707150246, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.1298267863244742, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.003929604209078297, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.06268655524973674, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.21994331575918089, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.5522899111422972, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.500443690521221, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.996406266149023, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.790555786157121, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.319382496941094, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.6229375178544297, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.6093612690763526, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.009913758944574108, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.17238216618294386, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.07704030971913679, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6199753334568271, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.14106024715551513, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.186371574022122, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.08330232615012811, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.1168675917478048, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.9132208126432804, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.551482881047811, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.9484378927169406, 
+    "YEAR": 2015, 
+    "ACCESS1": 5.3027409117181, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.8405637472383407, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.8849718181700372, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.3431464309523098, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.6451599084168331, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.6333956643462676, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.7475281739709843, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.519416901286505, 
+    "YEAR": 2015, 
+    "ACCESS1": 8.061990266979688, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 2.905397611962687, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.207449461686915, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.012213739232859153, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.22087568554233242, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5254083847088248, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.2251013034169276, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.3844237881152315, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.5128231735019646, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.31834030730468865, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.323163766413975, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.0451689621510042, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6717640110641426, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.05634250694957911, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5807239621649841, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.3054623919781532, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.0601211993097452, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5540778108138127, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.305023839783396, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.08014798688204142, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.9375690053290089, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.5845638158458966, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.856310399662031, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.0429490702487329, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5074945768882199, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.038106691667924956, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.33742445484948924, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.24085177740980324, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.4242677121626741, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.023778007021321084, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.43597923331264243, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.3768970541742299, 
+    "YEAR": 2015, 
+    "ACCESS1": 2.739074548616085, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.01615704064844142, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.254136148289022, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.01851806847410461, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.19232373199078245, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.7587068204449665, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.2261843117144036, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.4366455569733145, 
+    "YEAR": 2015, 
+    "ACCESS1": 4.551384038855602, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.13033407490234686, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.3974050754080676, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.005031693770955225, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.10027333071804695, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.7018124894223474, 
+    "YEAR": 2015, 
+    "ACCESS1": 3.187572326549179, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.15430298572865644, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.7834396941836249, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 335.5886130458088, 
+    "YEAR": 2015, 
+    "ACCESS1": 35.8073367053946, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.06298827602059702, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5606824885223237, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.15323400989221617, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.7036282835747114, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.05067309705399692, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5952502072450406, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.07261821387740647, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.7128110169542362, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.034895629196850596, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.5279456832078753, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.016288710744322185, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.31248885581007085, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.15693126827181944, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.3103996195154501, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.05158905931323551, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6420418329353159, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.048898987933102996, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.4421062261385357, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.02525739939176523, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.42038885777246765, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.1598872148482279, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.2623159971167461, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.0784048160987367, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6257248506648396, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.06715220724708001, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.8969493539480249, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.1801815478403184, 
+    "YEAR": 2015, 
+    "ACCESS1": 1.7478934309739365, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.09652508475378489, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.6204603693373218, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.025301060459473106, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.27531871353499826, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 13.329845123962246, 
+    "YEAR": 2015, 
+    "ACCESS1": 15.421923002761, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 0.09113946343644332, 
+    "YEAR": 2015, 
+    "ACCESS1": 0.853381503542544, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Animal Exhibition", 
+    "ACCESS2": 1.4194577603610705, 
+    "YEAR": 2015, 
+    "ACCESS1": 6.56768245501181, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

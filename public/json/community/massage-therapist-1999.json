@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.09643435585880623, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.1448559224559904, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 3.71101164183964, 
+    "YEAR": 1999, 
+    "ACCESS1": 9.771905799214707, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 20.033631573741683, 
+    "YEAR": 1999, 
+    "ACCESS1": 17.973288006241386, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.2422926038043924, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.1351190006327, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.2195369178175121, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.911206587965745, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.3625674392870354, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.2625400007083374, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.4374687445940958, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.13560327168589, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.385979162511607, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.375225045104724, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.48638222294798134, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.6433521860795683, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.7457003959075985, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.592882283535023, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.7150290694094369, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.152409328026142, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.01810487426029154, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.3216346073997898, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.1999024567531288, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.3265367275857036, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.20484656279432778, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.6724823261286517, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.1088160476922977, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.4587149939732937, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 11.660751872093565, 
+    "YEAR": 1999, 
+    "ACCESS1": 16.79544254480962, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.9248262529977223, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.2325807239404885, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.046458170203201477, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.49849483707400716, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.019328375358816676, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.22937913227158946, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.074037802095371, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.869233791557605, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.365851633124607, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.06404359460057, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.5294987100738849, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.055900344893434, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.381742429738615, 
+    "YEAR": 1999, 
+    "ACCESS1": 10.092622595046363, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.043307435963300986, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.6005869658068186, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 3.533547851814352, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.494793482594309, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 3.286906491948208, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.657006665844371, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.36603134450322894, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.8403644616696497, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 116.14598323555994, 
+    "YEAR": 1999, 
+    "ACCESS1": 67.1004869413254, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.5717648682641894, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.339832858845572, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.7270674415655435, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.630554949339218, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.40536677435406004, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.9540751027952328, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.1903937328528962, 
+    "YEAR": 1999, 
+    "ACCESS1": 6.38397406780225, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.562563544847115, 
+    "YEAR": 1999, 
+    "ACCESS1": 18.552788183905484, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.3066998319860814, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.028508400670616, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.05741947812049896, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.7978809067821951, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 8.144836578831637, 
+    "YEAR": 1999, 
+    "ACCESS1": 19.455344909297175, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.5566469369337347, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.9284282824085563, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 9.407134081688096, 
+    "YEAR": 1999, 
+    "ACCESS1": 18.62401782794502, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.22923373495256677, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.4778286581086575, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.16533587285222415, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.6541582573809146, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 55.13066175262213, 
+    "YEAR": 1999, 
+    "ACCESS1": 23.13329248337966, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 5.0245654626088205, 
+    "YEAR": 1999, 
+    "ACCESS1": 14.861811171161383, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.4882321675339705, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.6532842942534214, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 6.417006585801911, 
+    "YEAR": 1999, 
+    "ACCESS1": 14.79634543822766, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.3596360807584965, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.26299952066833, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 11.50826172470842, 
+    "YEAR": 1999, 
+    "ACCESS1": 6.329299645864484, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.22093132490097614, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.36295826209051, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.08895272175107967, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.4203431767134531, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.601898376185581, 
+    "YEAR": 1999, 
+    "ACCESS1": 15.679741723062055, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.050488793265489676, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.7583247968358624, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.22105029023651945, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.9711917190190513, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.09596921833939741, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.7476088353593584, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 3.4883208753186237, 
+    "YEAR": 1999, 
+    "ACCESS1": 11.355115837404277, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.8275888124777515, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.574225743845912, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.0193277798153346, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.3317927486905897, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.6293003147320505, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.30829831879523, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 2.2706152026713275, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.06134053846848, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.2815041009691925, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.9055508960514915, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 4.056735472370237, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.288814923788764, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.7862814328740315, 
+    "YEAR": 1999, 
+    "ACCESS1": 6.163333542423454, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.639642680029496, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.1478705730906174, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.15752800388375085, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7711392097194008, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.14124117167146863, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7645219757096, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.0773988936031005, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.1395559663720372, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.31522123655698964, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.126470055053688, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.16684847184082383, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.9244010097075066, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.13959517061515717, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.2361920958946433, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.08785631421695954, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.3192255979638066, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.6581773407625048, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.090201144786959, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.6067089236582596, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.617378409689534, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.40105482870011677, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.5161798802833553, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.2933585290464074, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.1689669601011925, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.15301650073278308, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.294466076662609, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.5166760872768831, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.7463946896524616, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 1.4215404449496345, 
+    "YEAR": 1999, 
+    "ACCESS1": 10.063726485293154, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 0.3681870401754253, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.766387848646664, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Therapist", 
+    "ACCESS2": 5.170524331678092, 
+    "YEAR": 1999, 
+    "ACCESS1": 21.36727638664458, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

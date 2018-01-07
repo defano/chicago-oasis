@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 163.07611380994064, 
+    "YEAR": 2012, 
+    "ACCESS1": 237.665781393097, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 419.9014485089729, 
+    "YEAR": 2012, 
+    "ACCESS1": 436.67759357030195, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 480.5529833965705, 
+    "YEAR": 2012, 
+    "ACCESS1": 550.213441663609, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 569.8953205487963, 
+    "YEAR": 2012, 
+    "ACCESS1": 773.1662083409265, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 516.9420738695087, 
+    "YEAR": 2012, 
+    "ACCESS1": 727.6017443524095, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 696.1900527351057, 
+    "YEAR": 2012, 
+    "ACCESS1": 701.8424833854632, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 411.8369056986567, 
+    "YEAR": 2012, 
+    "ACCESS1": 728.3524637783753, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 176.82371127933897, 
+    "YEAR": 2012, 
+    "ACCESS1": 481.44633377298504, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 606.0031181283952, 
+    "YEAR": 2012, 
+    "ACCESS1": 614.3183905901739, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 279.1633231228765, 
+    "YEAR": 2012, 
+    "ACCESS1": 571.3136084703764, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 33.81110298456055, 
+    "YEAR": 2012, 
+    "ACCESS1": 170.68625637549542, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 12.767784010984862, 
+    "YEAR": 2012, 
+    "ACCESS1": 50.264805665649284, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 487.4288975186828, 
+    "YEAR": 2012, 
+    "ACCESS1": 440.0938952587995, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 67.89676000633106, 
+    "YEAR": 2012, 
+    "ACCESS1": 216.51857892105994, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 222.09584476972583, 
+    "YEAR": 2012, 
+    "ACCESS1": 330.72397276338944, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 671.7519928746506, 
+    "YEAR": 2012, 
+    "ACCESS1": 575.388155616266, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 396.1681226815358, 
+    "YEAR": 2012, 
+    "ACCESS1": 556.3985016994111, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 75.031151188478, 
+    "YEAR": 2012, 
+    "ACCESS1": 110.21581283997145, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 19.824663371622087, 
+    "YEAR": 2012, 
+    "ACCESS1": 48.583539015926306, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 369.7519060980917, 
+    "YEAR": 2012, 
+    "ACCESS1": 617.4437462044033, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 322.8426673940904, 
+    "YEAR": 2012, 
+    "ACCESS1": 846.8198604073998, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 61.71570097781415, 
+    "YEAR": 2012, 
+    "ACCESS1": 327.3427399824463, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 258.20640038189805, 
+    "YEAR": 2012, 
+    "ACCESS1": 493.5524875161372, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 50.63881627186555, 
+    "YEAR": 2012, 
+    "ACCESS1": 126.10167446929988, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 418.9022617429034, 
+    "YEAR": 2012, 
+    "ACCESS1": 318.3264183594114, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 226.08210468958225, 
+    "YEAR": 2012, 
+    "ACCESS1": 525.3904837316675, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1170.3215214039467, 
+    "YEAR": 2012, 
+    "ACCESS1": 1037.7680045552331, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 860.8349118796783, 
+    "YEAR": 2012, 
+    "ACCESS1": 1638.1310834432293, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 700.7505194753908, 
+    "YEAR": 2012, 
+    "ACCESS1": 903.4413821498019, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 306.6811789290665, 
+    "YEAR": 2012, 
+    "ACCESS1": 533.655786539054, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 54.68961989106436, 
+    "YEAR": 2012, 
+    "ACCESS1": 207.85282425984886, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1626.9793067750509, 
+    "YEAR": 2012, 
+    "ACCESS1": 735.5407044588326, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1551.8963940548226, 
+    "YEAR": 2012, 
+    "ACCESS1": 1644.6220287273682, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 311.7820408235021, 
+    "YEAR": 2012, 
+    "ACCESS1": 549.1265389685185, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 53.01896669626817, 
+    "YEAR": 2012, 
+    "ACCESS1": 142.16110932793197, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 779.0789802322078, 
+    "YEAR": 2012, 
+    "ACCESS1": 1072.3633830260999, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 47.15272522982168, 
+    "YEAR": 2012, 
+    "ACCESS1": 188.12167494855586, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 256.19658052802305, 
+    "YEAR": 2012, 
+    "ACCESS1": 635.7588151253079, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 496.63300396618723, 
+    "YEAR": 2012, 
+    "ACCESS1": 586.7555583439713, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 141.91221897658392, 
+    "YEAR": 2012, 
+    "ACCESS1": 286.5782040963952, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 308.3388218364854, 
+    "YEAR": 2012, 
+    "ACCESS1": 510.199625167617, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1323.9732946506476, 
+    "YEAR": 2012, 
+    "ACCESS1": 1296.2500215358807, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 378.36208992367364, 
+    "YEAR": 2012, 
+    "ACCESS1": 668.0274250624012, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1831.875263338178, 
+    "YEAR": 2012, 
+    "ACCESS1": 802.2776560395813, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 198.773602023657, 
+    "YEAR": 2012, 
+    "ACCESS1": 334.9390336377886, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 98.60554746475792, 
+    "YEAR": 2012, 
+    "ACCESS1": 157.38366926744297, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 17.297382155342017, 
+    "YEAR": 2012, 
+    "ACCESS1": 174.1075404277829, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 192.1627072430338, 
+    "YEAR": 2012, 
+    "ACCESS1": 318.6204335189043, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 954.2588913378177, 
+    "YEAR": 2012, 
+    "ACCESS1": 1159.177828892829, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 45.89982743107093, 
+    "YEAR": 2012, 
+    "ACCESS1": 136.342965074415, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 123.88356099807586, 
+    "YEAR": 2012, 
+    "ACCESS1": 110.92631352920979, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 17.701806590753286, 
+    "YEAR": 2012, 
+    "ACCESS1": 68.19946292136356, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 416.4808482889968, 
+    "YEAR": 2012, 
+    "ACCESS1": 717.0906523811018, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 560.0882925649778, 
+    "YEAR": 2012, 
+    "ACCESS1": 792.7521111132169, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 11.397381207889728, 
+    "YEAR": 2012, 
+    "ACCESS1": 56.97530118543908, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 348.7762221433475, 
+    "YEAR": 2012, 
+    "ACCESS1": 356.84049365206516, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 94.4475578569929, 
+    "YEAR": 2012, 
+    "ACCESS1": 163.1353460036113, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 419.5073227824605, 
+    "YEAR": 2012, 
+    "ACCESS1": 776.9476295215327, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 134.53225667450795, 
+    "YEAR": 2012, 
+    "ACCESS1": 262.28528122017764, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1215.3865035522313, 
+    "YEAR": 2012, 
+    "ACCESS1": 1252.951988563511, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 104.21285625993535, 
+    "YEAR": 2012, 
+    "ACCESS1": 315.17717991643997, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 44.98302744831196, 
+    "YEAR": 2012, 
+    "ACCESS1": 234.49851076565312, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 298.5634746718127, 
+    "YEAR": 2012, 
+    "ACCESS1": 453.15899406165295, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 64.49279389976611, 
+    "YEAR": 2012, 
+    "ACCESS1": 178.90634455901574, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 69.3001989357531, 
+    "YEAR": 2012, 
+    "ACCESS1": 381.6394287840852, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 190.12124131857448, 
+    "YEAR": 2012, 
+    "ACCESS1": 390.2411748305758, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 81.04442362019542, 
+    "YEAR": 2012, 
+    "ACCESS1": 186.70369979622444, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 154.22480092128254, 
+    "YEAR": 2012, 
+    "ACCESS1": 290.4684115329263, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 161.35600857682837, 
+    "YEAR": 2012, 
+    "ACCESS1": 478.6776769031492, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 197.2038824289407, 
+    "YEAR": 2012, 
+    "ACCESS1": 270.2347148640754, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 670.8465031915705, 
+    "YEAR": 2012, 
+    "ACCESS1": 782.2624623273782, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 392.41392635737475, 
+    "YEAR": 2012, 
+    "ACCESS1": 912.389727537974, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 9.977030958971389, 
+    "YEAR": 2012, 
+    "ACCESS1": 84.67670857244147, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 35.382435056248255, 
+    "YEAR": 2012, 
+    "ACCESS1": 130.72943897432796, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 559.5644945669795, 
+    "YEAR": 2012, 
+    "ACCESS1": 1134.5032550692083, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 191.7546423758793, 
+    "YEAR": 2012, 
+    "ACCESS1": 427.15480195688724, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Day Care Center Under 2 and 2 - 6 Years", 
+    "ACCESS2": 1201.939447169691, 
+    "YEAR": 2012, 
+    "ACCESS1": 1856.4405182790854, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

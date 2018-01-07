@@ -1,0 +1,50 @@
+[
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "LEGAL_NAME": "JOHN J CLARK", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "CLARK MGMT CO", 
+    "POP_AT_RISK": 70973, 
+    "ZIP": 60625, 
+    "ADDRESS": "4701 N ST LOUIS AVE  1", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.715609483, 
+    "LATTITUDE": 41.966650216
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "LEGAL_NAME": "THE LORALI LLC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "THE LORALI", 
+    "POP_AT_RISK": 67896, 
+    "ZIP": 60640, 
+    "ADDRESS": "1039 W LAWRENCE AVE  1", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.656366867, 
+    "LATTITUDE": 41.968958573
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "LEGAL_NAME": "JAMES M. JONES", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "LUGO HOTEL / SRO", 
+    "POP_AT_RISK": 46942, 
+    "ZIP": 60608, 
+    "ADDRESS": "2008 S BLUE ISLAND AVE  1", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.66395145, 
+    "LATTITUDE": 41.854787671
+  }, 
+  {
+    "BUSINESS_TYPE": "Single Room Occupancy Class I", 
+    "LEGAL_NAME": "East Park Apartments", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "EAST PARK APARTMENTS", 
+    "POP_AT_RISK": 33926, 
+    "ZIP": 60624, 
+    "ADDRESS": "3300 W MAYPOLE AVE  1ST", 
+    "YEAR": 2000, 
+    "LONGITUDE": -87.7089025, 
+    "LATTITUDE": 41.883698022
+  }
+]

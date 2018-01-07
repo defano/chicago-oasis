@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 8.822002564322377, 
+    "YEAR": 2015, 
+    "ACCESS1": 92.018900767997, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 765.9184721644698, 
+    "YEAR": 2015, 
+    "ACCESS1": 552.8280779399518, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 609.1605305346656, 
+    "YEAR": 2015, 
+    "ACCESS1": 721.2253745730085, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 294.04291643725855, 
+    "YEAR": 2015, 
+    "ACCESS1": 745.520264996045, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 20.806043639026406, 
+    "YEAR": 2015, 
+    "ACCESS1": 236.0144980658901, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 35.289643683892955, 
+    "YEAR": 2015, 
+    "ACCESS1": 274.105577571721, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 47.08988976569177, 
+    "YEAR": 2015, 
+    "ACCESS1": 340.4791991020039, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 211.89024242520858, 
+    "YEAR": 2015, 
+    "ACCESS1": 519.886409590551, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 110.35755869865464, 
+    "YEAR": 2015, 
+    "ACCESS1": 330.7795502596585, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 412.4949619112407, 
+    "YEAR": 2015, 
+    "ACCESS1": 455.6270611598651, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 70.80914305342485, 
+    "YEAR": 2015, 
+    "ACCESS1": 190.75589723604205, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1.5308583145192751, 
+    "YEAR": 2015, 
+    "ACCESS1": 25.152288659141682, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 18.05306206337672, 
+    "YEAR": 2015, 
+    "ACCESS1": 185.66061503929575, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 23.923163837794974, 
+    "YEAR": 2015, 
+    "ACCESS1": 148.43946175277475, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 45.009368247501534, 
+    "YEAR": 2015, 
+    "ACCESS1": 129.7312048429161, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 2906.0205559161236, 
+    "YEAR": 2015, 
+    "ACCESS1": 977.1829402176447, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 277.43894042271603, 
+    "YEAR": 2015, 
+    "ACCESS1": 620.5612755255131, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 4.456738217292573, 
+    "YEAR": 2015, 
+    "ACCESS1": 40.514359289858106, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1.7877826311159768, 
+    "YEAR": 2015, 
+    "ACCESS1": 18.54049937024238, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 775.0024737595708, 
+    "YEAR": 2015, 
+    "ACCESS1": 802.6244012327587, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 651.7656158032761, 
+    "YEAR": 2015, 
+    "ACCESS1": 891.1130564789373, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 77.97400158450478, 
+    "YEAR": 2015, 
+    "ACCESS1": 323.4107494784146, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 405.38794374951823, 
+    "YEAR": 2015, 
+    "ACCESS1": 570.0260940196745, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 3.9210179933935394, 
+    "YEAR": 2015, 
+    "ACCESS1": 48.15048161937374, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1434.21893751198, 
+    "YEAR": 2015, 
+    "ACCESS1": 699.8811819790088, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 229.0410875417572, 
+    "YEAR": 2015, 
+    "ACCESS1": 544.1781373839418, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 35.25557428093426, 
+    "YEAR": 2015, 
+    "ACCESS1": 317.02354423945076, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 4414.236869967947, 
+    "YEAR": 2015, 
+    "ACCESS1": 3122.721264665826, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 277.3563670620322, 
+    "YEAR": 2015, 
+    "ACCESS1": 832.9006772112584, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 102.67461184105342, 
+    "YEAR": 2015, 
+    "ACCESS1": 446.05649292533144, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 44.24860070299923, 
+    "YEAR": 2015, 
+    "ACCESS1": 210.321421327423, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 209.6527299624864, 
+    "YEAR": 2015, 
+    "ACCESS1": 669.1755830303438, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1753.318717284305, 
+    "YEAR": 2015, 
+    "ACCESS1": 2027.5606157091422, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 241.41711301326504, 
+    "YEAR": 2015, 
+    "ACCESS1": 561.0487143290628, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 5.0332327277858635, 
+    "YEAR": 2015, 
+    "ACCESS1": 63.29225149539725, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 2398.872748355644, 
+    "YEAR": 2015, 
+    "ACCESS1": 1918.4015783393788, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 152.1367270607734, 
+    "YEAR": 2015, 
+    "ACCESS1": 220.8848765648936, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1307.3717164424215, 
+    "YEAR": 2015, 
+    "ACCESS1": 1059.706915373406, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 22.01643985775121, 
+    "YEAR": 2015, 
+    "ACCESS1": 202.52182288142737, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 16.502539439254758, 
+    "YEAR": 2015, 
+    "ACCESS1": 139.79896599142748, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 175.04863719348475, 
+    "YEAR": 2015, 
+    "ACCESS1": 569.3431434893217, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 6336.843878921068, 
+    "YEAR": 2015, 
+    "ACCESS1": 1915.251274082232, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 49.88801380762585, 
+    "YEAR": 2015, 
+    "ACCESS1": 305.0473924112515, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1525.379203848002, 
+    "YEAR": 2015, 
+    "ACCESS1": 1248.7553037828973, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 115.4838819635646, 
+    "YEAR": 2015, 
+    "ACCESS1": 209.30353436030234, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 273.05334043712196, 
+    "YEAR": 2015, 
+    "ACCESS1": 250.84703485443902, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 17.952801130112885, 
+    "YEAR": 2015, 
+    "ACCESS1": 171.14933045031466, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 8.456260387650264, 
+    "YEAR": 2015, 
+    "ACCESS1": 114.23518481805947, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 3329.891927967544, 
+    "YEAR": 2015, 
+    "ACCESS1": 2280.97419976748, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 6.445345378293895, 
+    "YEAR": 2015, 
+    "ACCESS1": 63.152852163367, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 19.645881437914884, 
+    "YEAR": 2015, 
+    "ACCESS1": 76.90249667375413, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 11.075934019734849, 
+    "YEAR": 2015, 
+    "ACCESS1": 60.76988802770571, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 861.68440418202, 
+    "YEAR": 2015, 
+    "ACCESS1": 845.1541037485949, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 215.5785311736199, 
+    "YEAR": 2015, 
+    "ACCESS1": 602.7764712129264, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 1.699844110016558, 
+    "YEAR": 2015, 
+    "ACCESS1": 26.26921256590599, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 93.66983047965053, 
+    "YEAR": 2015, 
+    "ACCESS1": 294.83025889396765, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 44.376954513258816, 
+    "YEAR": 2015, 
+    "ACCESS1": 165.75783839175452, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 245.4056694506281, 
+    "YEAR": 2015, 
+    "ACCESS1": 686.5854420864309, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 182.75084578696269, 
+    "YEAR": 2015, 
+    "ACCESS1": 299.4243573145959, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 76.86692703714837, 
+    "YEAR": 2015, 
+    "ACCESS1": 514.5451803796577, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 74.23106934983458, 
+    "YEAR": 2015, 
+    "ACCESS1": 257.82614838442726, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 19.280404747363793, 
+    "YEAR": 2015, 
+    "ACCESS1": 151.98276559103124, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 14.628971674262043, 
+    "YEAR": 2015, 
+    "ACCESS1": 145.46626911377535, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 6.593678197780076, 
+    "YEAR": 2015, 
+    "ACCESS1": 89.45119734103302, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 68.22730807560451, 
+    "YEAR": 2015, 
+    "ACCESS1": 279.91569634352385, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 16.172260900710263, 
+    "YEAR": 2015, 
+    "ACCESS1": 159.72001454575474, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 14.706246924833119, 
+    "YEAR": 2015, 
+    "ACCESS1": 106.64044768357483, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 14.64806862954229, 
+    "YEAR": 2015, 
+    "ACCESS1": 111.00280502606196, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 81.07773401677434, 
+    "YEAR": 2015, 
+    "ACCESS1": 368.2622322343934, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 60.86490793845134, 
+    "YEAR": 2015, 
+    "ACCESS1": 223.95558033149598, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 44.15652184971626, 
+    "YEAR": 2015, 
+    "ACCESS1": 294.5632799750547, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 193.55880285767964, 
+    "YEAR": 2015, 
+    "ACCESS1": 609.4773193179814, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 10.86775214029086, 
+    "YEAR": 2015, 
+    "ACCESS1": 87.22880186215112, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 260.0860902301676, 
+    "YEAR": 2015, 
+    "ACCESS1": 140.79561605434372, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 170.03144117706293, 
+    "YEAR": 2015, 
+    "ACCESS1": 891.459831430359, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 38.14859828060018, 
+    "YEAR": 2015, 
+    "ACCESS1": 236.99358824872735, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant", 
+    "ACCESS2": 2588.791091027087, 
+    "YEAR": 2015, 
+    "ACCESS1": 2826.4532863576337, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

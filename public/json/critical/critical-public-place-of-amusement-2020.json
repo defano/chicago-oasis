@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement", 
+    "LEGAL_NAME": "SURGE BILLIARDS, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "SURGE BILLIARDS", 
+    "POP_AT_RISK": 79582, 
+    "ZIP": 60618, 
+    "ADDRESS": "3241 W MONTROSE AVE", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.709867963, 
+    "LATTITUDE": 41.961059135
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement", 
+    "LEGAL_NAME": "BAR 22, LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "BAR 22", 
+    "POP_AT_RISK": 35264, 
+    "ZIP": 60616, 
+    "ADDRESS": "2244 S MICHIGAN AVE 1ST AND 2ND", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.623916951, 
+    "LATTITUDE": 41.851579626
+  }, 
+  {
+    "BUSINESS_TYPE": "Public Place of Amusement", 
+    "LEGAL_NAME": "MLCL GROUP, LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "PERSONA", 
+    "POP_AT_RISK": 43864, 
+    "ZIP": 60607, 
+    "ADDRESS": "408-412 S WELLS ST 1", 
+    "YEAR": 2020, 
+    "LONGITUDE": -87.633834613, 
+    "LATTITUDE": 41.876603277
+  }
+]

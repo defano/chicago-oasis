@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.12012973760439578, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.536398772699114, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.5824163132300781, 
+    "YEAR": 2018, 
+    "ACCESS1": 7.8517949171147965, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 20.158027837944523, 
+    "YEAR": 2018, 
+    "ACCESS1": 18.38441018120576, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 7.027819425615001, 
+    "YEAR": 2018, 
+    "ACCESS1": 19.066476770389595, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.2994658460527786, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.052987636379051, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.5891947631085298, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.997940977307023, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.4902892201573057, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.361502316499711, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.3897573531613414, 
+    "YEAR": 2018, 
+    "ACCESS1": 7.202828714918419, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.5089514108549096, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.662495960628131, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.668152008110653, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.568395545353412, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.5125364478160722, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.3575668120597744, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.024327585461112092, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.43908415389561617, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.23935125915573982, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.0671771093306743, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.449943377814906, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.923692198846591, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.16187144085978833, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.107741985474663, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 29.688217436558848, 
+    "YEAR": 2018, 
+    "ACCESS1": 22.190819043342124, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 3.9440267199411436, 
+    "YEAR": 2018, 
+    "ACCESS1": 12.185683319378587, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.05635438028755734, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.6648899940641764, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.02471879234089776, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.31168114946069164, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 5.124397900590045, 
+    "YEAR": 2018, 
+    "ACCESS1": 14.026540177423964, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 4.800611027843093, 
+    "YEAR": 2018, 
+    "ACCESS1": 17.64038449473346, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.8585270917493178, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.0846004720241895, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 3.2165264705096632, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.517174493824186, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.05787353979809487, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.8264775804952149, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 2.009636551424482, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.942436505676979, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 2.1406349598744496, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.82838994334758, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.5123915874256777, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.471449380461976, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 50.667039993351686, 
+    "YEAR": 2018, 
+    "ACCESS1": 53.71650665000843, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1030.9423937363763, 
+    "YEAR": 2018, 
+    "ACCESS1": 58.50694935053816, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 5.945836167259819, 
+    "YEAR": 2018, 
+    "ACCESS1": 13.96773893388349, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.4582692269887124, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.779843697064908, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 21.45831094995484, 
+    "YEAR": 2018, 
+    "ACCESS1": 26.898653446915404, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 16.272146217805663, 
+    "YEAR": 2018, 
+    "ACCESS1": 40.8377339172347, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.8790358084112515, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.075754493376063, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.0737930073258985, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.0779144411936254, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 9.585634971207915, 
+    "YEAR": 2018, 
+    "ACCESS1": 27.26249659475182, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.5534481737847714, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.565419798898958, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 5.8285559777900655, 
+    "YEAR": 2018, 
+    "ACCESS1": 16.192781478306102, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.2918661439608188, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.3793316475550044, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.2989284924321355, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.6325085747012054, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 2.433347242125905, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.253722822072236, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 356.6180073190664, 
+    "YEAR": 2018, 
+    "ACCESS1": 69.09160540390496, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.6001256008875495, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.034017802349485, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 35.532971273489004, 
+    "YEAR": 2018, 
+    "ACCESS1": 27.203393101427874, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.36056514914235394, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.8874592452793673, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.7194231994167939, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.7789506349435524, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.30641568825382653, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.2689993311733954, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.12622996851391108, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.9961002065570896, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 10.343907518277524, 
+    "YEAR": 2018, 
+    "ACCESS1": 27.179878496432696, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.07856055932092901, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.111897823261625, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.18435900901620084, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.1819370604090398, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.18610470264366824, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.2132012561030656, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 4.893594155712018, 
+    "YEAR": 2018, 
+    "ACCESS1": 15.483270142102546, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.3252868711461276, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.696616484437047, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.02685711744278249, 
+    "YEAR": 2018, 
+    "ACCESS1": 0.46071575659702485, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.9424661150452067, 
+    "YEAR": 2018, 
+    "ACCESS1": 6.661074896401965, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.734362807745371, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.1181461593203714, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 2.9801545585161606, 
+    "YEAR": 2018, 
+    "ACCESS1": 13.962620463482077, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.9809887735546581, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.22456235966138, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.0875361528044392, 
+    "YEAR": 2018, 
+    "ACCESS1": 8.901231010485478, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.48441926856555084, 
+    "YEAR": 2018, 
+    "ACCESS1": 3.611055445329562, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.3093956136646659, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.899362862780883, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.19998233569145052, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.5032648269119426, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.09836213127391125, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.5263824039921265, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.6934301405725712, 
+    "YEAR": 2018, 
+    "ACCESS1": 5.389251992587187, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.27071907156554303, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.906212088301628, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.2734996748052786, 
+    "YEAR": 2018, 
+    "ACCESS1": 2.0505984487873175, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.1300845754525298, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.8936664417955553, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.319633830386291, 
+    "YEAR": 2018, 
+    "ACCESS1": 7.028018360965779, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.9106971216411697, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.106692304844966, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.4780571777562288, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.720892912876337, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 1.590495185034366, 
+    "YEAR": 2018, 
+    "ACCESS1": 10.120221178380811, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.16724182370292373, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.6196149876708632, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.27867014654932715, 
+    "YEAR": 2018, 
+    "ACCESS1": 1.7840321317768062, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 5.735313246744991, 
+    "YEAR": 2018, 
+    "ACCESS1": 22.344239488367027, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 0.626192142414951, 
+    "YEAR": 2018, 
+    "ACCESS1": 4.3757093241690335, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Industrial Private Event Venue", 
+    "ACCESS2": 130.88193778902706, 
+    "YEAR": 2018, 
+    "ACCESS1": 96.4302167378999, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

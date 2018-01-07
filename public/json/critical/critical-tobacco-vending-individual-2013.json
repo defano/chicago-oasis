@@ -1,3 +1,98 @@
 [
-{"STATE":"IL","ZIP":60654,"LATTITUDE":41.89335935419248,"ADDRESS":"632 N DEARBORN ST  ","YEAR":2013,"DOING_BUSINESS_AS_NAME":"CASTLE","POP_AT_RISK":1634608,"BUSINESS_TYPE":"Tobacco Vending, Individual","LEGAL_NAME":"EXCALIBUR CHICAGO, INC.","LONGITUDE":-87.62984514678733},
-{}]
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "BERNIE'S, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "BERNIE'S", 
+    "POP_AT_RISK": 89758, 
+    "ZIP": 60613, 
+    "ADDRESS": "3664 N CLARK ST 1 AND 2", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.658009262, 
+    "LATTITUDE": 41.948843781
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "EXCALIBUR CHICAGO, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "CASTLE", 
+    "POP_AT_RISK": 86032, 
+    "ZIP": 60654, 
+    "ADDRESS": "632 N DEARBORN ST", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.629845147, 
+    "LATTITUDE": 41.893359354
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "SUNSET INN,INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "SUNSET INN,INC", 
+    "POP_AT_RISK": 32432, 
+    "ZIP": 60632, 
+    "ADDRESS": "5221 S CICERO AVE", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.742756929, 
+    "LATTITUDE": 41.798005974
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "BURTONS TAP & GRILL INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "OLLIES", 
+    "POP_AT_RISK": 67483, 
+    "ZIP": 60640, 
+    "ADDRESS": "1064 W BERWYN AVE", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.657641276, 
+    "LATTITUDE": 41.978291592
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "GORDON LOUNGE, INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "BREWBAKERS", 
+    "POP_AT_RISK": 22491, 
+    "ZIP": 60643, 
+    "ADDRESS": "10350 S WESTERN AVE", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.681719587, 
+    "LATTITUDE": 41.704868712
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "GAMBLERS I, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "GAMBLERS", 
+    "POP_AT_RISK": 63203, 
+    "ZIP": 60630, 
+    "ADDRESS": "4906-4908 N PULASKI RD", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.728235181, 
+    "LATTITUDE": 41.970321862
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "SPECTRUM SPORTS BAR & GRILL, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "SPECTRUM SPORTS BAR & GRILL", 
+    "POP_AT_RISK": 42059, 
+    "ZIP": 60661, 
+    "ADDRESS": "233 S HALSTED ST", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.647099736, 
+    "LATTITUDE": 41.878172572
+  }, 
+  {
+    "BUSINESS_TYPE": "Tobacco Vending, Individual", 
+    "LEGAL_NAME": "D. O'D CORPORATION", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "O'DONNELLS", 
+    "POP_AT_RISK": 54619, 
+    "ZIP": 60630, 
+    "ADDRESS": "4500 N ELSTON AVE 1ST", 
+    "YEAR": 2013, 
+    "LONGITUDE": -87.73215028, 
+    "LATTITUDE": 41.962469735
+  }
+]

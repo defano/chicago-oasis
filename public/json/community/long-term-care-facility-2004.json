@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 13.530401238736456, 
+    "YEAR": 2004, 
+    "ACCESS1": 60.41624562452105, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1052.3886395808263, 
+    "YEAR": 2004, 
+    "ACCESS1": 568.6536849762601, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 465.1867187276263, 
+    "YEAR": 2004, 
+    "ACCESS1": 449.91472823627606, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 192.14976988694812, 
+    "YEAR": 2004, 
+    "ACCESS1": 304.0327878021248, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 40.3215536056865, 
+    "YEAR": 2004, 
+    "ACCESS1": 159.05839704539787, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 30.894653677035787, 
+    "YEAR": 2004, 
+    "ACCESS1": 155.372858267625, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 469.6569486057822, 
+    "YEAR": 2004, 
+    "ACCESS1": 277.8404644839575, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 482.69848437618464, 
+    "YEAR": 2004, 
+    "ACCESS1": 293.6969605275077, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1374.9843067977263, 
+    "YEAR": 2004, 
+    "ACCESS1": 230.50364559690772, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 114.59019279631882, 
+    "YEAR": 2004, 
+    "ACCESS1": 226.30347895845878, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 34.38196354825073, 
+    "YEAR": 2004, 
+    "ACCESS1": 121.2634581229587, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1.1812993868384225, 
+    "YEAR": 2004, 
+    "ACCESS1": 14.380192551371119, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 167.677810691438, 
+    "YEAR": 2004, 
+    "ACCESS1": 144.3392721822897, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 18.54864381356482, 
+    "YEAR": 2004, 
+    "ACCESS1": 75.67401867929293, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 19.94389947703027, 
+    "YEAR": 2004, 
+    "ACCESS1": 82.53958962304759, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1702.0613095712883, 
+    "YEAR": 2004, 
+    "ACCESS1": 643.8790216817613, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 125.46815937563848, 
+    "YEAR": 2004, 
+    "ACCESS1": 276.55618099358435, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 6.038169436230493, 
+    "YEAR": 2004, 
+    "ACCESS1": 26.61565636998526, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 2.0255144954883866, 
+    "YEAR": 2004, 
+    "ACCESS1": 11.80713468916031, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 53.63275754984302, 
+    "YEAR": 2004, 
+    "ACCESS1": 212.46434857502433, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 317.34799106194885, 
+    "YEAR": 2004, 
+    "ACCESS1": 357.32894803928303, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 45.28782733940282, 
+    "YEAR": 2004, 
+    "ACCESS1": 179.90440061143116, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 386.87269854187383, 
+    "YEAR": 2004, 
+    "ACCESS1": 375.75992536204166, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 4.37166528660095, 
+    "YEAR": 2004, 
+    "ACCESS1": 30.26416165513273, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 23.810950871579287, 
+    "YEAR": 2004, 
+    "ACCESS1": 96.7574802923824, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 65.33205586659506, 
+    "YEAR": 2004, 
+    "ACCESS1": 202.1462603623579, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 57.00623082473634, 
+    "YEAR": 2004, 
+    "ACCESS1": 212.39253375044865, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 813.3255182864804, 
+    "YEAR": 2004, 
+    "ACCESS1": 1150.2028014159537, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 99.30330439536515, 
+    "YEAR": 2004, 
+    "ACCESS1": 332.71519940015844, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 52.16424906033147, 
+    "YEAR": 2004, 
+    "ACCESS1": 195.68922635231974, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 100.24701250526063, 
+    "YEAR": 2004, 
+    "ACCESS1": 152.13364379281302, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 58.585218020330096, 
+    "YEAR": 2004, 
+    "ACCESS1": 239.08964724918985, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 577.7279326386898, 
+    "YEAR": 2004, 
+    "ACCESS1": 761.0178373515959, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 114.20072237005606, 
+    "YEAR": 2004, 
+    "ACCESS1": 298.2100197448169, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 6.387017797943693, 
+    "YEAR": 2004, 
+    "ACCESS1": 39.620589426097425, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 756.3826560369127, 
+    "YEAR": 2004, 
+    "ACCESS1": 652.8005352018346, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 34.95462370260645, 
+    "YEAR": 2004, 
+    "ACCESS1": 121.9975957530917, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 15756.303465372459, 
+    "YEAR": 2004, 
+    "ACCESS1": 1068.7412479991099, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 26.173219748479756, 
+    "YEAR": 2004, 
+    "ACCESS1": 130.56847826848892, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 11.683679595472032, 
+    "YEAR": 2004, 
+    "ACCESS1": 75.58840397828014, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 473.3496795231578, 
+    "YEAR": 2004, 
+    "ACCESS1": 530.7198813958072, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 132.149427979011, 
+    "YEAR": 2004, 
+    "ACCESS1": 415.6780211497778, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 152.1299487129511, 
+    "YEAR": 2004, 
+    "ACCESS1": 212.89654901377585, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 306.27233951704386, 
+    "YEAR": 2004, 
+    "ACCESS1": 466.93310646322976, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 50.22514264621763, 
+    "YEAR": 2004, 
+    "ACCESS1": 116.21442475861895, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 26.41153848519417, 
+    "YEAR": 2004, 
+    "ACCESS1": 60.98982331143955, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 12.928849999287571, 
+    "YEAR": 2004, 
+    "ACCESS1": 98.55551942705617, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 12.732533017669091, 
+    "YEAR": 2004, 
+    "ACCESS1": 74.15890678494806, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 651.7653649088504, 
+    "YEAR": 2004, 
+    "ACCESS1": 508.6421202171614, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 6.86317112212295, 
+    "YEAR": 2004, 
+    "ACCESS1": 39.461110764586294, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 29.93439262408973, 
+    "YEAR": 2004, 
+    "ACCESS1": 45.94599037897374, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 22.50868558477772, 
+    "YEAR": 2004, 
+    "ACCESS1": 36.70020209731987, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 233.63495532869968, 
+    "YEAR": 2004, 
+    "ACCESS1": 423.52849133307706, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 747.673597568302, 
+    "YEAR": 2004, 
+    "ACCESS1": 416.3874764615805, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1.5654854927432573, 
+    "YEAR": 2004, 
+    "ACCESS1": 15.669000527137388, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 39.301740941608976, 
+    "YEAR": 2004, 
+    "ACCESS1": 134.4928916622682, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 97.70137269303042, 
+    "YEAR": 2004, 
+    "ACCESS1": 128.96063778250894, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 129.9133153845323, 
+    "YEAR": 2004, 
+    "ACCESS1": 346.73634604950666, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 62.99851075546359, 
+    "YEAR": 2004, 
+    "ACCESS1": 114.97107680207918, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 91.37574351435734, 
+    "YEAR": 2004, 
+    "ACCESS1": 309.78521806442916, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 1806.5746153579423, 
+    "YEAR": 2004, 
+    "ACCESS1": 180.57559885648877, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 9.562612926638042, 
+    "YEAR": 2004, 
+    "ACCESS1": 77.64469055028988, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 47.45155363770007, 
+    "YEAR": 2004, 
+    "ACCESS1": 106.00852374136836, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 7.761317666999647, 
+    "YEAR": 2004, 
+    "ACCESS1": 54.111506364884455, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 55.978969996303285, 
+    "YEAR": 2004, 
+    "ACCESS1": 145.4867160710645, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 31.757045123615157, 
+    "YEAR": 2004, 
+    "ACCESS1": 101.69892663310674, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 10.46881823527006, 
+    "YEAR": 2004, 
+    "ACCESS1": 55.74140123842029, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 58.8406728333807, 
+    "YEAR": 2004, 
+    "ACCESS1": 86.42089946503555, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 253.82273914237564, 
+    "YEAR": 2004, 
+    "ACCESS1": 191.32804684771932, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 23.33166469747868, 
+    "YEAR": 2004, 
+    "ACCESS1": 91.84146606155981, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 502.7640133228944, 
+    "YEAR": 2004, 
+    "ACCESS1": 224.83867220257696, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 108.53897205588906, 
+    "YEAR": 2004, 
+    "ACCESS1": 312.6334590371072, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 13.718945943278667, 
+    "YEAR": 2004, 
+    "ACCESS1": 57.272712098144865, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 33.60831058970743, 
+    "YEAR": 2004, 
+    "ACCESS1": 64.44942567463495, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 453.3146538620406, 
+    "YEAR": 2004, 
+    "ACCESS1": 508.0138456098145, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 44.307497163456716, 
+    "YEAR": 2004, 
+    "ACCESS1": 130.7169725886713, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Long-Term Care Facility", 
+    "ACCESS2": 466.63751180724927, 
+    "YEAR": 2004, 
+    "ACCESS1": 787.455354048942, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

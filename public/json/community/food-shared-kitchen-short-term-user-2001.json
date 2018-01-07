@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.0744542072534897, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.8320264611050676, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.265139118856492, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.845561213957444, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 4.892386316082053, 
+    "YEAR": 2001, 
+    "ACCESS1": 8.292287992001626, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.0356285479363974, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.333513861477632, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.1680756379920942, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.099592184656827, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.2843431073204989, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.391299622973491, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.3413388146301506, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.0414823248658203, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 2.7526603557674307, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.120185014635784, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.3805936608040889, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.7071172504704153, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.5809450085884863, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.4375681130630285, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.23979694684991995, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.5879875360165074, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.013591544223941019, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.22886161616781195, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.1545824562619159, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.6930876398192223, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.1618707164480457, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.2245237261037625, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.08295032660947298, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.0479582778491163, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 53.06835673253323, 
+    "YEAR": 2001, 
+    "ACCESS1": 24.83962300444469, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.2207112745245428, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.608080846959815, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.03605720792674952, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.36419734975413265, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.014917428360240128, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.16663690255287836, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 3.9247838176338066, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.514625451599894, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.1388265896713736, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.061106061898415, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.285808210240069, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.457597975238944, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.3432923220588389, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.842833119478075, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.03308207807227261, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.43252335878388193, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 6.661835089136806, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.227500821759782, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 2.4885727203124843, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.9413667808936035, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.2841271625608714, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.8005307498385053, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 25.997033685137765, 
+    "YEAR": 2001, 
+    "ACCESS1": 32.95270034091733, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.0968333934614762, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.7044093680633114, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.5492659256323287, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.2888643774577377, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.18839838390630667, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.6829842896000344, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.9743190113307915, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.724211771076142, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 2.9614553056316963, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.27167773390042, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.6416427734589468, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.076378289876847, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.04389810353081071, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.5750305972265651, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 3.7585132672281967, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.867780671983619, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.2293811631788882, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.5855487388407212, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 6.9263495914308075, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.317026176058821, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.17776177415385883, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.8080832175075745, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.12818824107796276, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.199319577524951, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.5752259940004176, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.807142264179828, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 5.818078471661163, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.870501138495436, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.38354540727775804, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.7121958157722825, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 5.894456243420503, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.757634667634997, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.2805235924593353, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.6917853532002223, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 17.8660677914007, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.631920939098575, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.11956191596770313, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.434694071391167, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.06711928743269088, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.0137434853907639, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 4.261046847947049, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.375707778554453, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.03800057292837119, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.5399637777195114, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.16887644746537553, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.7326521084492645, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.055171455781113835, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.46519171267593895, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.7660151344917525, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.535537859635439, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.3761139453091273, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.704124848546091, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.014525943796871579, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.23621532289797684, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.38762023051684347, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.1179839112851595, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.36604577549306816, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.5446701962675722, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.7488251901263772, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.945796221008838, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 2.495748209340201, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.8871993072474433, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.6197855772312555, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.563881388029717, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.4911388623917948, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.3685268482397306, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.11932502572028074, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.2631813164472419, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.10843435932476439, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.27497797093106, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.05895182069736011, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.8190034014385352, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.24132899526616125, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.2411606636810157, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.12812797801891, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.3882617225286125, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.10942703627478263, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.902041495623612, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.06639906796808903, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.9422756925893548, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.536855189863631, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.07432410395044, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.5010890113582247, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.0206001160817246, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.31342687175000083, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.592739899228745, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 1.0245544062570349, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.401944227841586, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.07269638582400817, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.7428849916703775, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.37748219111975645, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.313897692473362, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.960779539415015, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.759223232724696, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 0.293041737676991, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.0502279924586553, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen Short-Term User", 
+    "ACCESS2": 3.9249712226182543, 
+    "YEAR": 2001, 
+    "ACCESS1": 15.37513439925283, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

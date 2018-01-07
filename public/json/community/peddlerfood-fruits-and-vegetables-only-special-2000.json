@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.7314184189842916, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.873828381554719, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.03666916680851712, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.663147692699146, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.044193022230917284, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6968986065438808, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.16441642457924685, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.5688733242504456, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.3441800871887393, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.189848744042798, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.37812461923744894, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.0318101938229423, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 13.281324162095665, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.867655594378242, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.31126826726864654, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.7602408921194697, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 3.137542940557595, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.808269331185221, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.4058196547042612, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.083419104008122, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.01700287184144257, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.318980835570535, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.04134906940247515, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.2875715833161203, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 2.3690228457621156, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.647458470947953, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.08285565637888596, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6432567829672193, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2644372963750473, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3542526251826126, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.05302876071006325, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7974118904116746, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.05072596728615137, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7120560576091157, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 4.055817111478375, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.6970586957096367, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.32236986512061555, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5677762456466592, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.1796501605056704, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4049420225323601, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2370627617136863, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.063397654653983, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.03740543459620485, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6411221100285835, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.04229101179120759, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6819230186775843, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2622643326428204, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8675571757020737, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.06733496302762688, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.579643639626363, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.24445007315853856, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.5603770771942131, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.5039723786476837, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.686430631967897, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.18674701821223527, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.5179945895769493, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.10151808838490371, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2328441568625248, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.08112693705291647, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9002596884367311, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.02144011840470579, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.413969322631491, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.11302259973812469, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1639546713937807, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.16376494791026155, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.101250268061208, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.05313380426323384, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8617684537521643, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.33895790900141226, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1421770996126015, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.13815079678432726, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.6609410321039686, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.018746066198526187, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.33528402782802746, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.06262335634899262, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0314674739741616, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 8.993461995372492, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.475967583613707, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.12839953265958154, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8766291039506738, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.044157168089021294, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7858176159400901, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2375749152978484, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.175751189736458, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.1948212254573856, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.5851785044086393, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.07106166202515773, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9968092814586732, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.7621734903330727, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.126945677733796, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.058692534511061496, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.41861792713195134, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.020318425463550595, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.4260000979634737, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2351421359735659, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.367283013689035, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.1915003724143308, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.9549429667953002, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.07814014988693742, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5579586691327243, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.11114076483911713, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.4689264942550744, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.007734652782697884, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.1243606893569098, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.06397443831218429, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9791923989714513, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.8537709389769909, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.56281899262871, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.047593052850227455, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.3073936853531245, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.03168120822905528, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.4357851687239184, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.013510692235914279, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.23243008977687712, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.07744516900921289, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1466618447851487, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.12993724109160598, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8029692186318971, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 1.1785466902389685, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.705783366787241, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.4826286661377341, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8339450557494978, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.09026254340558426, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7896202081912036, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.5810928470568882, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.1399445771060246, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.28849175665804894, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3070101152028228, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.13495909029718864, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2145260582463369, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.23236057582648662, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.349770907127271, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.07688112576628392, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5541407402069726, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.19819972065429953, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.168803867023179, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2102719032298783, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4469613715200622, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.1148645123752989, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7571578943699825, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 15.738289161866566, 
+    "YEAR": 2000, 
+    "ACCESS1": 11.06773542533782, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.718810835904274, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.4764021692469638, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.009168093209094319, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.19147763939032603, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.1279553403205323, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6184662254694906, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.14557260138313008, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8648397361337405, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.2258593821110227, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.340962660887015, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Peddler,food - (fruits and vegetables only) - special", 
+    "ACCESS2": 0.24976383600494637, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.778597663261448, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

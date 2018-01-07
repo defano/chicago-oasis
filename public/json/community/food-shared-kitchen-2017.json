@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.32971460407739867, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.5533926259801816, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.3966212810771972, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.924108085004315, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 2.9277313154153375, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.604698091306654, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 89.36917314382096, 
+    "YEAR": 2017, 
+    "ACCESS1": 60.056566588668254, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.8887515372740799, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.697553402236622, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.3215219664147435, 
+    "YEAR": 2017, 
+    "ACCESS1": 15.277183972226748, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.3324715457379415, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.316882192279577, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 4.155175161084555, 
+    "YEAR": 2017, 
+    "ACCESS1": 16.79043168842826, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.5327123515022791, 
+    "YEAR": 2017, 
+    "ACCESS1": 11.155029491187568, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.9034906442720092, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.98163272240517, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.7580789126574867, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.612148340907297, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.06160705196765366, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.9814380378609088, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.6224446712763486, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.924801463786993, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 5.288817073162676, 
+    "YEAR": 2017, 
+    "ACCESS1": 11.161134447348832, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.5448253651557602, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.305735327919157, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 4.868307591856075, 
+    "YEAR": 2017, 
+    "ACCESS1": 17.78946345098123, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 6.816842839560712, 
+    "YEAR": 2017, 
+    "ACCESS1": 19.64215906897333, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.15854157191762894, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.5536696883216747, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.07072033436617833, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7344066555687814, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 134.88824801988994, 
+    "YEAR": 2017, 
+    "ACCESS1": 51.936393178428645, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 26.717019916798073, 
+    "YEAR": 2017, 
+    "ACCESS1": 51.563356336299755, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 2.2453431731758715, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.38798227066907, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 2.940843571236816, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.636374551555772, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.16220808742018625, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.9311311993511924, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.0049431052101356, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.082908406107425, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 10.548627441105392, 
+    "YEAR": 2017, 
+    "ACCESS1": 24.37606901691101, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.8565888268179287, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.192397881876968, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 163.87111236025487, 
+    "YEAR": 2017, 
+    "ACCESS1": 97.6850678397126, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 13.700697061895049, 
+    "YEAR": 2017, 
+    "ACCESS1": 36.526131304896744, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 10.545432449397063, 
+    "YEAR": 2017, 
+    "ACCESS1": 25.391856388134023, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.858808017108428, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.968611930136158, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 21.709101410421244, 
+    "YEAR": 2017, 
+    "ACCESS1": 39.176988325947455, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 21.027734263923485, 
+    "YEAR": 2017, 
+    "ACCESS1": 60.3551004797494, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 7.274013566088434, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.372326773274384, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.19461569741203913, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.4518009910343785, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 27.634802559291614, 
+    "YEAR": 2017, 
+    "ACCESS1": 48.82650499749785, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.0287252238113747, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.386073961652158, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.244610619163886, 
+    "YEAR": 2017, 
+    "ACCESS1": 19.06307412113282, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.8848320316865439, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.15367706114599, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 2.504379061635042, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.917724418032284, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.917211512322619, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.788504222085564, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 109.72972746411995, 
+    "YEAR": 2017, 
+    "ACCESS1": 82.93180969117968, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 2.4411759250410543, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.529476413283623, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 7.3936223563746815, 
+    "YEAR": 2017, 
+    "ACCESS1": 25.204146069403542, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.2295756365791584, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.246729707854339, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.617584554652765, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.6346888658329295, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.6068128866160257, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.307722922843502, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.3603173136590214, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.699380110784291, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 12.735340994519262, 
+    "YEAR": 2017, 
+    "ACCESS1": 41.18507105279473, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.26387774555003524, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.791997497869344, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.7281080560561272, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.109123765408303, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.5180509652139724, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.5495147419182658, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 7.149149451409801, 
+    "YEAR": 2017, 
+    "ACCESS1": 24.289549386699296, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 4.454308606937193, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.513359407724113, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.07226781771429326, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.0576497743104558, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 12.502093342749065, 
+    "YEAR": 2017, 
+    "ACCESS1": 16.05856384862507, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.7186318932933892, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.466868920179599, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 96.39672304372014, 
+    "YEAR": 2017, 
+    "ACCESS1": 46.74415438680624, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.3581932749817383, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.234040903428976, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 5.225864441023812, 
+    "YEAR": 2017, 
+    "ACCESS1": 25.487612829730296, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.3665872642482855, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.357563025412434, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.3781389979687604, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.272803254616012, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.6507492792414973, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.221153397949459, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.2471962198263804, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.3984972104105102, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 47.38791143569113, 
+    "YEAR": 2017, 
+    "ACCESS1": 28.82911232074904, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.230606661481708, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.157353247509505, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 3.5879507805716537, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.027823660029899, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.4060509334085436, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.625263593985002, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 18.055789922427714, 
+    "YEAR": 2017, 
+    "ACCESS1": 27.22968704765879, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 38.180083614150305, 
+    "YEAR": 2017, 
+    "ACCESS1": 19.799072051265355, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 1.5463532963936413, 
+    "YEAR": 2017, 
+    "ACCESS1": 11.665316992512357, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 15.088868603632525, 
+    "YEAR": 2017, 
+    "ACCESS1": 33.391762104775125, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.2934410629445914, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.9494133873660413, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 0.7598751320048165, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.049300128966787, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 13.290366327094748, 
+    "YEAR": 2017, 
+    "ACCESS1": 45.055263660413054, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 4.616750944933172, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.691726474247284, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Food - Shared Kitchen", 
+    "ACCESS2": 98.01138634598809, 
+    "YEAR": 2017, 
+    "ACCESS1": 108.404683957408, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

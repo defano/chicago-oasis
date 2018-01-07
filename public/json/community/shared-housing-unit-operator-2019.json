@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.0101670473038387, 
+    "YEAR": 2019, 
+    "ACCESS1": 8.85569261100433, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 71.94939855161383, 
+    "YEAR": 2019, 
+    "ACCESS1": 61.703278358319125, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 285.945799605756, 
+    "YEAR": 2019, 
+    "ACCESS1": 93.24298468570733, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 11.217102009610251, 
+    "YEAR": 2019, 
+    "ACCESS1": 53.042686253253414, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 2.089463726163576, 
+    "YEAR": 2019, 
+    "ACCESS1": 21.876622530963683, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 3.5164375873076574, 
+    "YEAR": 2019, 
+    "ACCESS1": 25.113661274024203, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 6.065786633681335, 
+    "YEAR": 2019, 
+    "ACCESS1": 34.75886320296167, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 124.37699483089635, 
+    "YEAR": 2019, 
+    "ACCESS1": 79.08686378424578, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 10.571231360610057, 
+    "YEAR": 2019, 
+    "ACCESS1": 35.29376328595329, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 382.999839967873, 
+    "YEAR": 2019, 
+    "ACCESS1": 79.5840043655671, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 3.631973353132002, 
+    "YEAR": 2019, 
+    "ACCESS1": 17.796338800425175, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.1500033200877735, 
+    "YEAR": 2019, 
+    "ACCESS1": 2.2873036358890797, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 2.1193294495232218, 
+    "YEAR": 2019, 
+    "ACCESS1": 17.98156116611343, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.8445449065790516, 
+    "YEAR": 2019, 
+    "ACCESS1": 12.505269547273658, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.9793884618479342, 
+    "YEAR": 2019, 
+    "ACCESS1": 10.806709297920833, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 22.52393287911748, 
+    "YEAR": 2019, 
+    "ACCESS1": 57.8006415636739, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 95.91845937736385, 
+    "YEAR": 2019, 
+    "ACCESS1": 73.75713180224037, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.5359130287299764, 
+    "YEAR": 2019, 
+    "ACCESS1": 3.9851432418987143, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.20103719393496858, 
+    "YEAR": 2019, 
+    "ACCESS1": 1.7759029431553603, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 32.130570210514996, 
+    "YEAR": 2019, 
+    "ACCESS1": 60.11689656010527, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 12.68240698018068, 
+    "YEAR": 2019, 
+    "ACCESS1": 60.44832218488177, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 19.33900392788951, 
+    "YEAR": 2019, 
+    "ACCESS1": 35.55726304351983, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 26.978530349670063, 
+    "YEAR": 2019, 
+    "ACCESS1": 55.740948270461736, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.4053550091948666, 
+    "YEAR": 2019, 
+    "ACCESS1": 4.477948608790397, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 10.422789524529948, 
+    "YEAR": 2019, 
+    "ACCESS1": 26.067896611888767, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 96.8163976822703, 
+    "YEAR": 2019, 
+    "ACCESS1": 69.03914817033434, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 3.7752929868562513, 
+    "YEAR": 2019, 
+    "ACCESS1": 29.964625606184363, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 69.17112481804632, 
+    "YEAR": 2019, 
+    "ACCESS1": 174.64027766614706, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 25.32642003589275, 
+    "YEAR": 2019, 
+    "ACCESS1": 71.23710216281022, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 7.220803724937264, 
+    "YEAR": 2019, 
+    "ACCESS1": 35.091450088727676, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 3.901620590287016, 
+    "YEAR": 2019, 
+    "ACCESS1": 20.041541315661764, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 12.393154042560198, 
+    "YEAR": 2019, 
+    "ACCESS1": 49.16073718093573, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 238.3469847687187, 
+    "YEAR": 2019, 
+    "ACCESS1": 198.34856137976675, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 32.707858210764826, 
+    "YEAR": 2019, 
+    "ACCESS1": 56.54806781938828, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.5379242274930032, 
+    "YEAR": 2019, 
+    "ACCESS1": 5.9289100260974985, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 48.57727945716858, 
+    "YEAR": 2019, 
+    "ACCESS1": 111.24752420027288, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 4.842105867264583, 
+    "YEAR": 2019, 
+    "ACCESS1": 19.303848063052715, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 24.794108509634913, 
+    "YEAR": 2019, 
+    "ACCESS1": 72.37745924105361, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 2.5516176803032384, 
+    "YEAR": 2019, 
+    "ACCESS1": 19.666524213644124, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.4807726459673687, 
+    "YEAR": 2019, 
+    "ACCESS1": 12.342729644207946, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 339.52288383814664, 
+    "YEAR": 2019, 
+    "ACCESS1": 89.17614326539015, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 36.02151934632532, 
+    "YEAR": 2019, 
+    "ACCESS1": 101.53358054030411, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 6.363124066398706, 
+    "YEAR": 2019, 
+    "ACCESS1": 31.08824061544177, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 283.86893061732553, 
+    "YEAR": 2019, 
+    "ACCESS1": 111.33072244875464, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 8.065536946204332, 
+    "YEAR": 2019, 
+    "ACCESS1": 22.752697533490952, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 18.976945606150288, 
+    "YEAR": 2019, 
+    "ACCESS1": 20.334164919834397, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.8493475365955032, 
+    "YEAR": 2019, 
+    "ACCESS1": 15.884472304273974, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.7662829978300808, 
+    "YEAR": 2019, 
+    "ACCESS1": 10.300065782229426, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 404.8681595420621, 
+    "YEAR": 2019, 
+    "ACCESS1": 144.07083045345584, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.4271161306297843, 
+    "YEAR": 2019, 
+    "ACCESS1": 5.488926066994363, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 4.498388530420708, 
+    "YEAR": 2019, 
+    "ACCESS1": 9.66361921590363, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.2979558283216952, 
+    "YEAR": 2019, 
+    "ACCESS1": 5.766441141858401, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 32.163590179273136, 
+    "YEAR": 2019, 
+    "ACCESS1": 76.09352066332396, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 206.84493786968295, 
+    "YEAR": 2019, 
+    "ACCESS1": 103.91520743242691, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.16285520872811754, 
+    "YEAR": 2019, 
+    "ACCESS1": 2.3807150439421823, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 8.309749319996598, 
+    "YEAR": 2019, 
+    "ACCESS1": 26.468261654121623, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 6.108504803431753, 
+    "YEAR": 2019, 
+    "ACCESS1": 17.25545926282833, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 14.723278488022812, 
+    "YEAR": 2019, 
+    "ACCESS1": 60.18656604565071, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 70.43686011955651, 
+    "YEAR": 2019, 
+    "ACCESS1": 39.7180799781866, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 8.781294918782395, 
+    "YEAR": 2019, 
+    "ACCESS1": 49.95318236597099, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 77.60818402785549, 
+    "YEAR": 2019, 
+    "ACCESS1": 50.45657441587828, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.322777693628457, 
+    "YEAR": 2019, 
+    "ACCESS1": 12.849627793341696, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.3453654611610018, 
+    "YEAR": 2019, 
+    "ACCESS1": 13.331266428893356, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.6931968952493571, 
+    "YEAR": 2019, 
+    "ACCESS1": 8.317715069539215, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 2.672168018666166, 
+    "YEAR": 2019, 
+    "ACCESS1": 22.780978938599414, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.506732698299835, 
+    "YEAR": 2019, 
+    "ACCESS1": 14.348255185874603, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.2606581658268599, 
+    "YEAR": 2019, 
+    "ACCESS1": 9.26363590319897, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 0.7612529489501724, 
+    "YEAR": 2019, 
+    "ACCESS1": 9.616013987000265, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 6.826133999602534, 
+    "YEAR": 2019, 
+    "ACCESS1": 31.942181116784262, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 12.692751558791484, 
+    "YEAR": 2019, 
+    "ACCESS1": 23.347363841485183, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 5.524956100261525, 
+    "YEAR": 2019, 
+    "ACCESS1": 29.991261435802258, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 16.653487369337785, 
+    "YEAR": 2019, 
+    "ACCESS1": 61.091246829749146, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 1.0679072241695498, 
+    "YEAR": 2019, 
+    "ACCESS1": 8.207152092902241, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 27.927801253272676, 
+    "YEAR": 2019, 
+    "ACCESS1": 21.93072100220762, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 14.007971708026684, 
+    "YEAR": 2019, 
+    "ACCESS1": 75.14776487511033, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 3.671037008909229, 
+    "YEAR": 2019, 
+    "ACCESS1": 21.53850258914787, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Housing Unit Operator", 
+    "ACCESS2": 20948.918438392047, 
+    "YEAR": 2019, 
+    "ACCESS1": 381.26453368050824, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.17844738374445496, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.3341353755531737, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.15452932811340647, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.9246197868811565, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.21767800569219808, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.185881610961828, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.5381889685850907, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.735622725299834, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.3938744425446213, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.301485507564435, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.8995535203222418, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.429129647974222, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.9305271643349138, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.259707808795969, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 33.77499177687015, 
+    "YEAR": 2002, 
+    "ACCESS1": 24.321811231628672, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.3992904900252952, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.526756622483709, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.3255394548923367, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.413655810693522, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.0704099948302815, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.9166672115877024, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.02493578188646723, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.31582133388274913, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.3544916326318199, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.655798422021776, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.411966125602419, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.0235196701876927, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.1925991157264582, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.637715023745358, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.27062241482069777, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.546215918816845, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.28857586158500864, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.4006329949595457, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.09410055842906076, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.6130596512934507, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.03689366206734136, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.27163822288971545, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 4.672856969983463, 
+    "YEAR": 2002, 
+    "ACCESS1": 10.01696500609889, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.2934774914091176, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.994235665490054, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.15800627294535372, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.8618525530034804, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.20355989830537222, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.115177652903077, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.07341783333553115, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.6619457284861834, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.9855313540526884, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.1192209112940894, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 106.75267149756141, 
+    "YEAR": 2002, 
+    "ACCESS1": 33.072810111095336, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.8295521287779302, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.971020660332554, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.1017253842801107, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.638999226621582, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.6985427743839798, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.562268640625911, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.5803805624626158, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.401615051583642, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.08443837581595372, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.1612588563709934, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.0254119102627925, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.947292624506123, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.0663656372570849, 
+    "YEAR": 2002, 
+    "ACCESS1": 7.569054606987455, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.2477867809085182, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.628857471451532, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.09337581683203022, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.8615101660635236, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.9742442125166196, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.2275542297370405, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.08001577721221333, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.9793087686712952, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.2880639201610393, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.127290577486024, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.4865080583064437, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.1119360527013726, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.3324662466402443, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.991969413670636, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.19152346208771198, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.312915147391656, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 3.4613763961624455, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.591679967519365, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.7306816259772595, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.067317889685348, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.4065951801383266, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.3681653902924364, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.4566986872900787, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.147239822046877, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.5110254481227012, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.992789035740409, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.07287622635210415, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.1376031367342894, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.1368872036408535, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.4786765438062146, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.7903257132979389, 
+    "YEAR": 2002, 
+    "ACCESS1": 8.430702715651888, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.07917736349845743, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.795047327184103, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.469175199994897, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.982945444799259, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.034154574521539235, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.3695463844178695, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.3257700749814277, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.122890592578631, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 14.926747552429312, 
+    "YEAR": 2002, 
+    "ACCESS1": 20.33711372810331, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.028039199166227248, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.334492973651811, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.18004598611897824, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.468124888996553, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.06080535290939231, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.6971768056097746, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.38962606743137584, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.632597348415465, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 58.63325451046757, 
+    "YEAR": 2002, 
+    "ACCESS1": 20.729399592436085, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.550596882669712, 
+    "YEAR": 2002, 
+    "ACCESS1": 9.723259198835512, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.321613326406475, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.640036313821334, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.25091258732095256, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.8606256234667362, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.26852591066950143, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.067759131817943, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.11645629421533737, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.1799121418976068, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.5038942832022251, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.29744647686513, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.32161143192205777, 
+    "YEAR": 2002, 
+    "ACCESS1": 2.260573609854758, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.292401178818418, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.5266437838174312, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.14115818758941992, 
+    "YEAR": 2002, 
+    "ACCESS1": 1.4041171533125083, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.8731925685881996, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.082758436454872, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.8303410164555687, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.229611772297256, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.070418959133434, 
+    "YEAR": 2002, 
+    "ACCESS1": 5.036169273068724, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 7.641022670100479, 
+    "YEAR": 2002, 
+    "ACCESS1": 15.513080530681695, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.034087768539479195, 
+    "YEAR": 2002, 
+    "ACCESS1": 0.5220985876946769, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.080029307334808, 
+    "YEAR": 2002, 
+    "ACCESS1": 3.446594196350292, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 0.8164846365454246, 
+    "YEAR": 2002, 
+    "ACCESS1": 6.229368468587512, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 1.0633250558652487, 
+    "YEAR": 2002, 
+    "ACCESS1": 4.097009839830242, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Sports Facilities Authority License", 
+    "ACCESS2": 2.147925087981873, 
+    "YEAR": 2002, 
+    "ACCESS1": 11.467558777248769, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

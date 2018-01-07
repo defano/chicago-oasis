@@ -1,0 +1,38 @@
+[
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "LEGAL_NAME": "RASIER, LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "RASIER LLC", 
+    "POP_AT_RISK": 62717, 
+    "ZIP": 60606, 
+    "ADDRESS": "111 N CANAL ST 9", 
+    "YEAR": 2018, 
+    "LONGITUDE": -87.639637284, 
+    "LATTITUDE": 41.883565313
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "LEGAL_NAME": "LYFT, INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "LYFT", 
+    "POP_AT_RISK": 76739, 
+    "ZIP": 60601, 
+    "ADDRESS": "77 W WACKER DR  4100", 
+    "YEAR": 2018, 
+    "LONGITUDE": -87.630794578, 
+    "LATTITUDE": 41.886707738
+  }, 
+  {
+    "BUSINESS_TYPE": "Transportation Network Provider", 
+    "LEGAL_NAME": "RIVER NORTH TRANSIT LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "RIDE WITH VIA", 
+    "POP_AT_RISK": 44233, 
+    "ZIP": 60661, 
+    "ADDRESS": "650 W LAKE ST  310", 
+    "YEAR": 2018, 
+    "LONGITUDE": -87.644692947, 
+    "LATTITUDE": 41.885806216
+  }
+]

@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 91.38648283893126, 
+    "YEAR": 2010, 
+    "ACCESS1": 284.9512368729853, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1690.2881674768303, 
+    "YEAR": 2010, 
+    "ACCESS1": 1366.8750592219394, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1059.8264358804681, 
+    "YEAR": 2010, 
+    "ACCESS1": 1445.383208958694, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 956.187634743458, 
+    "YEAR": 2010, 
+    "ACCESS1": 1711.3130189815765, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 292.0405174201596, 
+    "YEAR": 2010, 
+    "ACCESS1": 798.2850368392275, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 813.1753408842958, 
+    "YEAR": 2010, 
+    "ACCESS1": 1086.5278885933124, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 314.3611369777732, 
+    "YEAR": 2010, 
+    "ACCESS1": 872.4565898461208, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 267.1302019031628, 
+    "YEAR": 2010, 
+    "ACCESS1": 796.4330802117522, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 185.83302716850775, 
+    "YEAR": 2010, 
+    "ACCESS1": 697.1656050081964, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 119.11442694756136, 
+    "YEAR": 2010, 
+    "ACCESS1": 729.0095926175995, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 163.68708980294946, 
+    "YEAR": 2010, 
+    "ACCESS1": 508.0167432208215, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 7.854379896922116, 
+    "YEAR": 2010, 
+    "ACCESS1": 69.23679833519395, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 391.8822297760328, 
+    "YEAR": 2010, 
+    "ACCESS1": 596.9375525945029, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 17033.35919220205, 
+    "YEAR": 2010, 
+    "ACCESS1": 634.5899810159102, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 87.1847013259339, 
+    "YEAR": 2010, 
+    "ACCESS1": 396.09859047529994, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1035.2776265905225, 
+    "YEAR": 2010, 
+    "ACCESS1": 1361.13862802456, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1478.878336134817, 
+    "YEAR": 2010, 
+    "ACCESS1": 1551.861053504788, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 44.52073383666539, 
+    "YEAR": 2010, 
+    "ACCESS1": 120.81743357609841, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 21.45401267463263, 
+    "YEAR": 2010, 
+    "ACCESS1": 58.72189621023996, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1513.8286639399291, 
+    "YEAR": 2010, 
+    "ACCESS1": 1193.9234537198154, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 2072.8439541736475, 
+    "YEAR": 2010, 
+    "ACCESS1": 2167.066731592543, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 489.36067289898904, 
+    "YEAR": 2010, 
+    "ACCESS1": 1010.2337505648992, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1676.5686363392665, 
+    "YEAR": 2010, 
+    "ACCESS1": 1644.8946558653315, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 76.42342556788283, 
+    "YEAR": 2010, 
+    "ACCESS1": 163.94552668839134, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 120.44391562703488, 
+    "YEAR": 2010, 
+    "ACCESS1": 423.0135335991302, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 807.6018223199342, 
+    "YEAR": 2010, 
+    "ACCESS1": 1035.152813073701, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 593.2878262244295, 
+    "YEAR": 2010, 
+    "ACCESS1": 1161.3997875968244, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1534.1248235931923, 
+    "YEAR": 2010, 
+    "ACCESS1": 3451.8066840804154, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1574.15302903214, 
+    "YEAR": 2010, 
+    "ACCESS1": 2112.207552446296, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 523.0298987276136, 
+    "YEAR": 2010, 
+    "ACCESS1": 1147.0493649451696, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 224.54984339521866, 
+    "YEAR": 2010, 
+    "ACCESS1": 598.6535269146161, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 637.9890629167794, 
+    "YEAR": 2010, 
+    "ACCESS1": 1387.5644574028831, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 2514.0656581233243, 
+    "YEAR": 2010, 
+    "ACCESS1": 3707.4891117220377, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 3606.9366478572247, 
+    "YEAR": 2010, 
+    "ACCESS1": 1860.7259380641603, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 48.54665858781553, 
+    "YEAR": 2010, 
+    "ACCESS1": 194.67851524588613, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1137.4261341162182, 
+    "YEAR": 2010, 
+    "ACCESS1": 1933.1099108293276, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 408.53837906325765, 
+    "YEAR": 2010, 
+    "ACCESS1": 624.4319439765759, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 2906.1484213473395, 
+    "YEAR": 2010, 
+    "ACCESS1": 2210.9356143762316, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 145.04068855267658, 
+    "YEAR": 2010, 
+    "ACCESS1": 608.430766245868, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 180.0520831165416, 
+    "YEAR": 2010, 
+    "ACCESS1": 499.86686309173825, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1192.7753132441358, 
+    "YEAR": 2010, 
+    "ACCESS1": 1570.5691688048378, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 10930.845636171036, 
+    "YEAR": 2010, 
+    "ACCESS1": 2408.036094609408, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 304.94117045332575, 
+    "YEAR": 2010, 
+    "ACCESS1": 880.6753430066526, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1020.4854450524878, 
+    "YEAR": 2010, 
+    "ACCESS1": 1763.8953171971746, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 101.79202000455953, 
+    "YEAR": 2010, 
+    "ACCESS1": 422.00772335162975, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 86.05466938876579, 
+    "YEAR": 2010, 
+    "ACCESS1": 250.1928836097819, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 66.41764998388197, 
+    "YEAR": 2010, 
+    "ACCESS1": 455.9339582129305, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 154.0699299736939, 
+    "YEAR": 2010, 
+    "ACCESS1": 390.99380386490196, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 643.1203703730299, 
+    "YEAR": 2010, 
+    "ACCESS1": 1753.9673831925277, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 385.8494721071741, 
+    "YEAR": 2010, 
+    "ACCESS1": 219.53992843290024, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 44.804325930146035, 
+    "YEAR": 2010, 
+    "ACCESS1": 159.2342337089927, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 130.99500253062558, 
+    "YEAR": 2010, 
+    "ACCESS1": 207.2695475915953, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 3492.0568896477753, 
+    "YEAR": 2010, 
+    "ACCESS1": 2481.129011654938, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 290.261729663999, 
+    "YEAR": 2010, 
+    "ACCESS1": 1103.3245143114762, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 10.88803978509017, 
+    "YEAR": 2010, 
+    "ACCESS1": 77.7148738388805, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 823.2882223247885, 
+    "YEAR": 2010, 
+    "ACCESS1": 991.11709104654, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 216.13070157380236, 
+    "YEAR": 2010, 
+    "ACCESS1": 448.28931437854345, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 3707.749427610659, 
+    "YEAR": 2010, 
+    "ACCESS1": 2739.860205080462, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 183.69823355932417, 
+    "YEAR": 2010, 
+    "ACCESS1": 454.65967717628524, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1112.0534575116378, 
+    "YEAR": 2010, 
+    "ACCESS1": 1810.9441638775982, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 73.2893101450366, 
+    "YEAR": 2010, 
+    "ACCESS1": 441.35497670044384, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 931.9879300879312, 
+    "YEAR": 2010, 
+    "ACCESS1": 594.6775252516265, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 333.2070104037127, 
+    "YEAR": 2010, 
+    "ACCESS1": 517.2417281832717, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 423.82641337408415, 
+    "YEAR": 2010, 
+    "ACCESS1": 282.08118230645675, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1442.7156414905187, 
+    "YEAR": 2010, 
+    "ACCESS1": 983.3084519827204, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 390.62197546719807, 
+    "YEAR": 2010, 
+    "ACCESS1": 621.0760051012967, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 156.80108679395642, 
+    "YEAR": 2010, 
+    "ACCESS1": 376.4266854954334, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 87.67033663034104, 
+    "YEAR": 2010, 
+    "ACCESS1": 350.4111903173619, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1110.142369036567, 
+    "YEAR": 2010, 
+    "ACCESS1": 1163.8523281959172, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 352.0912272230156, 
+    "YEAR": 2010, 
+    "ACCESS1": 542.3718133020872, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 282.85349936029195, 
+    "YEAR": 2010, 
+    "ACCESS1": 816.64965677862, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 1343.3229493823537, 
+    "YEAR": 2010, 
+    "ACCESS1": 1712.2217698282643, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 56.60468202725918, 
+    "YEAR": 2010, 
+    "ACCESS1": 236.80394470402638, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 35.90219970262152, 
+    "YEAR": 2010, 
+    "ACCESS1": 200.3822325384545, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 3399.955598650659, 
+    "YEAR": 2010, 
+    "ACCESS1": 2982.9576300768745, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 799.0626701224462, 
+    "YEAR": 2010, 
+    "ACCESS1": 887.0147506359789, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Motor Vehicle Repair: Engine/Body(Class III)", 
+    "ACCESS2": 2607.884404329466, 
+    "YEAR": 2010, 
+    "ACCESS1": 3859.8654923394106, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

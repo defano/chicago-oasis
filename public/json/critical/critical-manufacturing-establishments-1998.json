@@ -1,3 +1,74 @@
 [
-{"STATE":"IL","ZIP":60707,"LATTITUDE":41.931044871159735,"ADDRESS":"6614 W DIVERSEY AVE  1ST","YEAR":1998,"DOING_BUSINESS_AS_NAME":"NEWO PLATICS LTD","POP_AT_RISK":344808,"BUSINESS_TYPE":"Manufacturing Establishments","LEGAL_NAME":"NEWO PLASTICS, LTD.","LONGITUDE":-87.79121968743532},
-{}]
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "TECHPOL TOOL CORPORATION", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "TECHPOL TOOL CORPORATION", 
+    "POP_AT_RISK": 43458, 
+    "ZIP": 60639, 
+    "ADDRESS": "6057 W DICKENS AVE 1ST", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.777810116, 
+    "LATTITUDE": 41.917770629
+  }, 
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "G E MATHIS COMPANY", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "G.E. MATHIS COMPANY", 
+    "POP_AT_RISK": 11842, 
+    "ZIP": 60638, 
+    "ADDRESS": "6100 S OAK PARK AVE", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.791273874, 
+    "LATTITUDE": 41.781102089
+  }, 
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "PAM AM NORMAL", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "PAN AM DIVERSIFIED, INC", 
+    "POP_AT_RISK": 39229, 
+    "ZIP": 60609, 
+    "ADDRESS": "3555 S NORMAL AVE", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.638613685, 
+    "LATTITUDE": 41.829232733
+  }, 
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "TRENDLER COMPONENTS INC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "TRENDLER COMPONENTS", 
+    "POP_AT_RISK": 31588, 
+    "ZIP": 60632, 
+    "ADDRESS": "4540 W 51ST ST  1ST", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.737107374, 
+    "LATTITUDE": 41.80050041
+  }, 
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "NEWO PLASTICS, LTD.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "NEWO PLATICS LTD", 
+    "POP_AT_RISK": 43101, 
+    "ZIP": 60707, 
+    "ADDRESS": "6614 W DIVERSEY AVE  1ST", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.791219687, 
+    "LATTITUDE": 41.931044871
+  }, 
+  {
+    "BUSINESS_TYPE": "Manufacturing Establishments", 
+    "LEGAL_NAME": "I J DANSIGER & CO", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "I & J DANSIGER & CO", 
+    "POP_AT_RISK": 41446, 
+    "ZIP": 60607, 
+    "ADDRESS": "1220 W VAN BUREN ST 3RD", 
+    "YEAR": 1998, 
+    "LONGITUDE": -87.657888614, 
+    "LATTITUDE": 41.876615141
+  }
+]

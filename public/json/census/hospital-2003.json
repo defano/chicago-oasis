@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 29.976422508971584, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 249.36800272624262, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 18.06298324221644, 
+    "TRACT": "4003", 
+    "ACCESS2": 35.68282420628788, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 11.988317420030693, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 8.120979893028416, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.528336471275487, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 10.219100025173327, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.692825275049567, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 4.324581324661518, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.010309602049625, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 2.9711940520313527, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.92853455312087, 
+    "TRACT": "0705", 
+    "ACCESS2": 10.641820726406827, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.275455520520632, 
+    "TRACT": "8387", 
+    "ACCESS2": 4.917149279406967, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.033217388614801, 
+    "TRACT": "4406", 
+    "ACCESS2": 1.248463922141183, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.337719387855796, 
+    "TRACT": "7113", 
+    "ACCESS2": 0.8421687492823716, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.928986664646182, 
+    "TRACT": "3301", 
+    "ACCESS2": 3.721495006691656, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.36083354556376, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 2.4682787146161616, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.834250439924913, 
+    "TRACT": "8343", 
+    "ACCESS2": 3.298733305749067, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.53135884316982, 
+    "TRACT": "6708", 
+    "ACCESS2": 1.9191822588382959, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.208680929203964, 
+    "TRACT": "1202", 
+    "ACCESS2": 1.0725413799516486, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.590934742718225, 
+    "TRACT": "7102", 
+    "ACCESS2": 1.4501921666828541, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.965263168367892, 
+    "TRACT": "4107", 
+    "ACCESS2": 7.09787381234177, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.835264554235676, 
+    "TRACT": "1002", 
+    "ACCESS2": 1.4968405535671425, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 30.548768185564793, 
+    "TRACT": "0712", 
+    "ACCESS2": 126.08226533545745, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.062966956902564, 
+    "TRACT": "8331", 
+    "ACCESS2": 6.917243016340775, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.77566069939052, 
+    "TRACT": "0401", 
+    "ACCESS2": 4.85906620042504, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.956143614446384, 
+    "TRACT": "1702", 
+    "ACCESS2": 3.2149409164628358, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.069100027620138, 
+    "TRACT": "7304", 
+    "ACCESS2": 0.8168171369680083, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.760030873819044, 
+    "TRACT": "8382", 
+    "ACCESS2": 16.057364330152232, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.0544512420289, 
+    "TRACT": "1404", 
+    "ACCESS2": 1.931691269137544, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.827307164093098, 
+    "TRACT": "6903", 
+    "ACCESS2": 4.131107243629019, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.241661686287053, 
+    "TRACT": "3108", 
+    "ACCESS2": 4.2249693730816595, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.19751641014855, 
+    "TRACT": "4208", 
+    "ACCESS2": 7.53429303860097, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.381266410146123, 
+    "TRACT": "0609", 
+    "ACCESS2": 9.43642184670342, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 7.713390899150482, 
+    "TRACT": "6914", 
+    "ACCESS2": 2.4492275600403226, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.430375923452894, 
+    "TRACT": "6309", 
+    "ACCESS2": 1.2144747950560562, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.254327155023061, 
+    "TRACT": "6408", 
+    "ACCESS2": 0.7215257854679106, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.147538180303184, 
+    "TRACT": "4606", 
+    "ACCESS2": 3.5035361281450905, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.475246977758127, 
+    "TRACT": "6809", 
+    "ACCESS2": 18.30935212520398, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.5293330903145006, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.31222341494123335, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.965237582879187, 
+    "TRACT": "5206", 
+    "ACCESS2": 0.5065031185922922, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.14885494979798, 
+    "TRACT": "4004", 
+    "ACCESS2": 9.695874381609633, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.724340576906746, 
+    "TRACT": "8434", 
+    "ACCESS2": 2.3312378868916412, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.875888686682917, 
+    "TRACT": "4802", 
+    "ACCESS2": 2.2304359876323776, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.595686221068266, 
+    "TRACT": "6702", 
+    "ACCESS2": 1.800569761071415, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.031307005623686, 
+    "TRACT": "1704", 
+    "ACCESS2": 1.1302784244108133, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 11.997619686952325, 
+    "TRACT": "2203", 
+    "ACCESS2": 4.106350615322854, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.245300851206307, 
+    "TRACT": "1007", 
+    "ACCESS2": 1.3990347973638921, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 16.504351939983998, 
+    "TRACT": "0622", 
+    "ACCESS2": 13.399051381716275, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.253586047668111, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.7504730347514625, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.049805426179063, 
+    "TRACT": "0205", 
+    "ACCESS2": 2.2396551196343255, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.628217615315828, 
+    "TRACT": "0608", 
+    "ACCESS2": 10.780499349875399, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.017576199076904, 
+    "TRACT": "4409", 
+    "ACCESS2": 1.322598133228365, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.197036927085865, 
+    "TRACT": "3511", 
+    "ACCESS2": 3.183872886762144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.7972384091430706, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.5273197815403509, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.916299687508159, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.6086030707031355, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.289840293490609, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.9221761993779647, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.026230173610516, 
+    "TRACT": "8400", 
+    "ACCESS2": 2.460402595549277, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 12.53376609693511, 
+    "TRACT": "0510", 
+    "ACCESS2": 4.781467943573401, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.706719183276126, 
+    "TRACT": "4109", 
+    "ACCESS2": 3.2158347853053195, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.071419708700729, 
+    "TRACT": "2506", 
+    "ACCESS2": 1.936405761930644, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 7.98136658490529, 
+    "TRACT": "4307", 
+    "ACCESS2": 3.39433824254137, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.760849052894958, 
+    "TRACT": "8403", 
+    "ACCESS2": 2.1566811756382736, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.34627253101681, 
+    "TRACT": "0305", 
+    "ACCESS2": 6.464300971266909, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.97143629206205, 
+    "TRACT": "8420", 
+    "ACCESS2": 4.440863354894055, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.170559454134227, 
+    "TRACT": "7303", 
+    "ACCESS2": 0.7883593615142505, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.292068282086028, 
+    "TRACT": "4912", 
+    "ACCESS2": 2.480682995575952, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.771804658963463, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 1.9945719341609636, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.208509601672057, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 2.92430952361728, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.563494300067603, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 1.8406866528654708, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.459194267033483, 
+    "TRACT": "2828", 
+    "ACCESS2": 9.158348536246063, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 14.918878278739859, 
+    "TRACT": "2422", 
+    "ACCESS2": 9.699854088885862, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.411839490667726, 
+    "TRACT": "6401", 
+    "ACCESS2": 0.7502575081147457, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.446491694064391, 
+    "TRACT": "6605", 
+    "ACCESS2": 1.8274497064884698, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.63991970517175, 
+    "TRACT": "8431", 
+    "ACCESS2": 33.15586654233705, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.1164818019106555, 
+    "TRACT": "5002", 
+    "ACCESS2": 1.1690016200393214, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.177492464720897, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 8.157686099507552, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.254877778240099, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 12.03366416284774, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 16.191332661350938, 
+    "TRACT": "4204", 
+    "ACCESS2": 25.944960018693394, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.738555356962082, 
+    "TRACT": "5201", 
+    "ACCESS2": 0.8332296229613455, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.38369473432663, 
+    "TRACT": "1004", 
+    "ACCESS2": 15.170853316716146, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.164683740645428, 
+    "TRACT": "1506", 
+    "ACCESS2": 12.043456477379426, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.007912471301138, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 4.258355510405321, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.079119864463783, 
+    "TRACT": "1908", 
+    "ACCESS2": 2.5794422294345707, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.240574619234526, 
+    "TRACT": "7108", 
+    "ACCESS2": 1.2450406872424555, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.757491331611874, 
+    "TRACT": "0703", 
+    "ACCESS2": 23.643862587096176, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.376553935787889, 
+    "TRACT": "5607", 
+    "ACCESS2": 0.6976668027824715, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.037514567385363, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 6.243148154341465, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.612463540520455, 
+    "TRACT": "4403", 
+    "ACCESS2": 1.5436057130208412, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.261911775988112, 
+    "TRACT": "2809", 
+    "ACCESS2": 7.951811190732247, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.94131682549552, 
+    "TRACT": "3012", 
+    "ACCESS2": 7.040164162799002, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.740409733347456, 
+    "TRACT": "6719", 
+    "ACCESS2": 1.577047211037546, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.672053643230757, 
+    "TRACT": "8340", 
+    "ACCESS2": 1.0606514430464795, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.4022003533729688, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.3550038215735459, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.9067799786972603, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.5735388753835021, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 7.370816673076709, 
+    "TRACT": "6813", 
+    "ACCESS2": 2.09343722695951, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.206085568756421, 
+    "TRACT": "5204", 
+    "ACCESS2": 0.5968403202878143, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.087555085221592, 
+    "TRACT": "8378", 
+    "ACCESS2": 7.12178009963464, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.623779992636516, 
+    "TRACT": "0604", 
+    "ACCESS2": 8.214636689963974, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.146606824193826, 
+    "TRACT": "3510", 
+    "ACCESS2": 6.084376151893232, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.937688065728649, 
+    "TRACT": "8356", 
+    "ACCESS2": 2.859921720068398, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.231313429984831, 
+    "TRACT": "0101", 
+    "ACCESS2": 1.1884683015151125, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.109178953116851, 
+    "TRACT": "4108", 
+    "ACCESS2": 5.316916790364836, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 16.644056867728025, 
+    "TRACT": "8367", 
+    "ACCESS2": 17.685784289260678, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.106259889393051, 
+    "TRACT": "8432", 
+    "ACCESS2": 3.0090725890428063, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.703921936153091, 
+    "TRACT": "1301", 
+    "ACCESS2": 1.8843914869793954, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.274158217087791, 
+    "TRACT": "4304", 
+    "ACCESS2": 9.302520042334399, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.388554970791729, 
+    "TRACT": "2306", 
+    "ACCESS2": 3.309576993371103, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.973095373165083, 
+    "TRACT": "8339", 
+    "ACCESS2": 1.8810951809745395, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 16.739519752580218, 
+    "TRACT": "0501", 
+    "ACCESS2": 17.132044640438494, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.549227186169711, 
+    "TRACT": "4605", 
+    "ACCESS2": 16.638206252341732, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.704665663817563, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 3.1491255672796234, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.647425180639418, 
+    "TRACT": "2510", 
+    "ACCESS2": 2.8289760880843375, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.605302439773771, 
+    "TRACT": "3011", 
+    "ACCESS2": 6.795460534508973, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.946474563358712, 
+    "TRACT": "5003", 
+    "ACCESS2": 1.4284816589169933, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.018070144966943, 
+    "TRACT": "8351", 
+    "ACCESS2": 1.545216391165511, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.596379560284724, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 1.3518204546462846, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.075008120616578, 
+    "TRACT": "5608", 
+    "ACCESS2": 0.6122661577489541, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.06299638680983, 
+    "TRACT": "6806", 
+    "ACCESS2": 2.5438558690853728, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.01864489557869, 
+    "TRACT": "3602", 
+    "ACCESS2": 2.9545816538119367, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.983136371508927, 
+    "TRACT": "2804", 
+    "ACCESS2": 7.460733930780659, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.514376127610754, 
+    "TRACT": "1609", 
+    "ACCESS2": 4.163270933349746, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.774340960810601, 
+    "TRACT": "3801", 
+    "ACCESS2": 2.5214468389175915, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.333384903419375, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 2.1039477098163615, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.762935855723002, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 6.980026799110189, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.602754060627376, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 4.649858977852057, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.571883793570562, 
+    "TRACT": "5610", 
+    "ACCESS2": 0.48809961444750377, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.708766977043825, 
+    "TRACT": "7101", 
+    "ACCESS2": 1.5309361042664456, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.467993832111485, 
+    "TRACT": "5907", 
+    "ACCESS2": 1.8848078604531722, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.6970097121533065, 
+    "TRACT": "6504", 
+    "ACCESS2": 1.1269312085929357, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.089512040280752, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 0.8655928138018136, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.95409766468925, 
+    "TRACT": "3406", 
+    "ACCESS2": 2.4905487284341885, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.521968456034389, 
+    "TRACT": "6114", 
+    "ACCESS2": 1.5072724748368045, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.825915720170727, 
+    "TRACT": "1405", 
+    "ACCESS2": 2.412500177917942, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.324438331441792, 
+    "TRACT": "4111", 
+    "ACCESS2": 8.029745817036822, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.670201166248559, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 2.692809630732742, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.987620484079945, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 2.4337235480453248, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.836212819126425, 
+    "TRACT": "2215", 
+    "ACCESS2": 5.1655263168913, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.034910379555274, 
+    "TRACT": "2513", 
+    "ACCESS2": 1.8979607604602098, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.810465493659394, 
+    "TRACT": "1302", 
+    "ACCESS2": 1.8443395396802351, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.171550962800518, 
+    "TRACT": "0314", 
+    "ACCESS2": 9.990196237476866, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.845169713997382, 
+    "TRACT": "0625", 
+    "ACCESS2": 6.456807891580228, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.25415835253789, 
+    "TRACT": "8392", 
+    "ACCESS2": 12.2929818338415, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.7047612209764464, 
+    "TRACT": "5807", 
+    "ACCESS2": 1.5350606583176287, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.904952103095717, 
+    "TRACT": "0502", 
+    "ACCESS2": 14.360460789218255, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.5034551622851975, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 0.847601226540798, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.831101227457049, 
+    "TRACT": "3802", 
+    "ACCESS2": 2.5349631976714804, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.289854908486396, 
+    "TRACT": "7708", 
+    "ACCESS2": 0.4961617755452216, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 13.176360297850632, 
+    "TRACT": "2433", 
+    "ACCESS2": 5.515306528338629, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.91899689882028, 
+    "TRACT": "8360", 
+    "ACCESS2": 2.7140900436722575, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.408838085266732, 
+    "TRACT": "2819", 
+    "ACCESS2": 3.9517053637488915, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 7.373701585069342, 
+    "TRACT": "6913", 
+    "ACCESS2": 2.0505192810675568, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.027211775028755, 
+    "TRACT": "4102", 
+    "ACCESS2": 5.018487679923843, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.801533583928258, 
+    "TRACT": "2714", 
+    "ACCESS2": 52.753573576403504, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 34.18773249626643, 
+    "TRACT": "8308", 
+    "ACCESS2": 268.51454684565095, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.671320821855824, 
+    "TRACT": "0801", 
+    "ACCESS2": 6.092561717648432, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.82871044818984, 
+    "TRACT": "2303", 
+    "ACCESS2": 4.497028393444433, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.13582130056346, 
+    "TRACT": "4202", 
+    "ACCESS2": 10.033012625976031, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.012475463071278, 
+    "TRACT": "3817", 
+    "ACCESS2": 2.8755988363376557, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.262637238363882, 
+    "TRACT": "9801", 
+    "ACCESS2": 0.6806538252574457, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 15.597954340123428, 
+    "TRACT": "2414", 
+    "ACCESS2": 11.964547154554888, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.245633486816967, 
+    "TRACT": "6611", 
+    "ACCESS2": 1.9622821817381102, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.757708275098859, 
+    "TRACT": "1703", 
+    "ACCESS2": 1.5663676465064669, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 13.139620089663152, 
+    "TRACT": "2309", 
+    "ACCESS2": 6.701624515210122, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.421624004263814, 
+    "TRACT": "1402", 
+    "ACCESS2": 4.481597504055601, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.786865211211766, 
+    "TRACT": "5603", 
+    "ACCESS2": 0.8177944276972899, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.213674061874135, 
+    "TRACT": "8418", 
+    "ACCESS2": 4.160055594066146, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.619025814285802, 
+    "TRACT": "7203", 
+    "ACCESS2": 0.6131402203298673, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 13.093858652823045, 
+    "TRACT": "0508", 
+    "ACCESS2": 5.5855763838921755, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.164564173945001, 
+    "TRACT": "3016", 
+    "ACCESS2": 2.8022687832014412, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.367873299782692, 
+    "TRACT": "3901", 
+    "ACCESS2": 2.3803941215379596, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 16.15235236503797, 
+    "TRACT": "0718", 
+    "ACCESS2": 13.184337756927945, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.24873792262951, 
+    "TRACT": "8395", 
+    "ACCESS2": 5.55792033183295, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.147363238223148, 
+    "TRACT": "5804", 
+    "ACCESS2": 1.3117476266765724, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.183133252037712, 
+    "TRACT": "1204", 
+    "ACCESS2": 1.483293769370658, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.581748598094574, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 3.961522458618279, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.951625130855858, 
+    "TRACT": "8439", 
+    "ACCESS2": 12.212610250376299, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 16.21565334167858, 
+    "TRACT": "0628", 
+    "ACCESS2": 12.275928187917879, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.767838231889614, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 3.3399129871749538, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.388635825528803, 
+    "TRACT": "6117", 
+    "ACCESS2": 1.5301970797805673, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.965393638637208, 
+    "TRACT": "2428", 
+    "ACCESS2": 9.100167230863033, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.016912650545404, 
+    "TRACT": "5103", 
+    "ACCESS2": 2.2737127330165765, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.988259246882333, 
+    "TRACT": "6202", 
+    "ACCESS2": 0.912592145020198, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 11.72061890487339, 
+    "TRACT": "2204", 
+    "ACCESS2": 3.906778598850796, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.586405087263408, 
+    "TRACT": "2001", 
+    "ACCESS2": 5.5595388171117825, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.03003113525967, 
+    "TRACT": "2508", 
+    "ACCESS2": 2.315853518598409, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.216731082027389, 
+    "TRACT": "5905", 
+    "ACCESS2": 1.787325072125014, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.990445331961286, 
+    "TRACT": "0317", 
+    "ACCESS2": 13.048192765371544, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.51626537388436, 
+    "TRACT": "2916", 
+    "ACCESS2": 34.34818598353077, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 22.55513230951829, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 87.27682767330923, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 20.30173620817135, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 28.818817261024066, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.030484563000717, 
+    "TRACT": "6501", 
+    "ACCESS2": 1.0952066278657013, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.313832236568308, 
+    "TRACT": "4407", 
+    "ACCESS2": 1.4653302375637638, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.277084209209395, 
+    "TRACT": "2603", 
+    "ACCESS2": 4.960294251298549, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.206945407623967, 
+    "TRACT": "6705", 
+    "ACCESS2": 1.7025625292884898, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.265434363582752, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 0.2656409895040758, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 11.550428619462023, 
+    "TRACT": "2101", 
+    "ACCESS2": 4.060444947980365, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.854886763739958, 
+    "TRACT": "7110", 
+    "ACCESS2": 1.060719607163332, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.868619773194679, 
+    "TRACT": "2212", 
+    "ACCESS2": 4.200412439955633, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.568047106701133, 
+    "TRACT": "0505", 
+    "ACCESS2": 6.923066839894279, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.48836532526497, 
+    "TRACT": "6004", 
+    "ACCESS2": 2.692628238398906, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.074625994820543, 
+    "TRACT": "2002", 
+    "ACCESS2": 3.440685916511041, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.15243490979194, 
+    "TRACT": "3814", 
+    "ACCESS2": 3.0425258590762843, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.306991357204126, 
+    "TRACT": "0603", 
+    "ACCESS2": 7.660380185369263, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.741985506766904, 
+    "TRACT": "3904", 
+    "ACCESS2": 4.205978754389721, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.775876479593381, 
+    "TRACT": "4610", 
+    "ACCESS2": 1.7545491154608064, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.845021019353449, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 0.6636287928472359, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.669189816975044, 
+    "TRACT": "6406", 
+    "ACCESS2": 0.519530264478274, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 16.61467324747041, 
+    "TRACT": "2713", 
+    "ACCESS2": 24.244560191011004, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.873820443003885, 
+    "TRACT": "8415", 
+    "ACCESS2": 10.422637461733904, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.080507448464884, 
+    "TRACT": "7503", 
+    "ACCESS2": 0.47087238626951566, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.49587456522353, 
+    "TRACT": "1909", 
+    "ACCESS2": 2.8827201190614327, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.886145999718865, 
+    "TRACT": "2606", 
+    "ACCESS2": 4.31159251503963, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.729125156159368, 
+    "TRACT": "8307", 
+    "ACCESS2": 11.831104886004042, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.28176142589902, 
+    "TRACT": "6706", 
+    "ACCESS2": 1.8076515320485387, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.926220469017185, 
+    "TRACT": "1604", 
+    "ACCESS2": 3.2436924961563762, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.961189568877968, 
+    "TRACT": "5604", 
+    "ACCESS2": 0.8753483644687744, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.463441436417954, 
+    "TRACT": "1102", 
+    "ACCESS2": 1.247732473451627, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 7.183988815478639, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 2.0376836432431853, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.681540640832668, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 1.6854445051818057, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.313798282424398, 
+    "TRACT": "5203", 
+    "ACCESS2": 0.6541806872979191, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.032811123475728, 
+    "TRACT": "6805", 
+    "ACCESS2": 2.215974220421734, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.187520044972915, 
+    "TRACT": "0810", 
+    "ACCESS2": 7.593303895576851, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.332706064606187, 
+    "TRACT": "5801", 
+    "ACCESS2": 1.917923440436908, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.77225483360543, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 52.49031813703593, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.102796607923516, 
+    "TRACT": "6110", 
+    "ACCESS2": 1.9140209918323434, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.49889644966286, 
+    "TRACT": "8438", 
+    "ACCESS2": 2.3601959702097144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.211184791952022, 
+    "TRACT": "6121", 
+    "ACCESS2": 2.17014721930552, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.272701259788661, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 1.7628408868986396, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.010849090422962, 
+    "TRACT": "6305", 
+    "ACCESS2": 1.3607048972427072, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.490903369684934, 
+    "TRACT": "7506", 
+    "ACCESS2": 0.882707149208414, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.919519859537766, 
+    "TRACT": "8412", 
+    "ACCESS2": 7.850707087726178, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 27.297496006117164, 
+    "TRACT": "2412", 
+    "ACCESS2": 156.97352026311037, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 51.31814288843721, 
+    "TRACT": "0630", 
+    "ACCESS2": 726.1289523121193, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.838681485168577, 
+    "TRACT": "8383", 
+    "ACCESS2": 5.714049598871271, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.850961416439537, 
+    "TRACT": "7307", 
+    "ACCESS2": 0.9413562208268975, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.044156037032694, 
+    "TRACT": "3501", 
+    "ACCESS2": 14.754887163914132, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 14.487295765600342, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 9.465373099701676, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.352972798804328, 
+    "TRACT": "0202", 
+    "ACCESS2": 1.1835781866892972, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.7776815390749094, 
+    "TRACT": "4904", 
+    "ACCESS2": 1.2114614601092415, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.384112952068353, 
+    "TRACT": "3907", 
+    "ACCESS2": 2.675518571828586, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.916546492207869, 
+    "TRACT": "7001", 
+    "ACCESS2": 1.42013021212543, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.68954755639895, 
+    "TRACT": "2307", 
+    "ACCESS2": 4.610272010236872, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.823092773413826, 
+    "TRACT": "8371", 
+    "ACCESS2": 9.489547400929451, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.504206367753298, 
+    "TRACT": "8347", 
+    "ACCESS2": 2.78243271990315, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.271807928464858, 
+    "TRACT": "2430", 
+    "ACCESS2": 7.443583409850011, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.6160528509172907, 
+    "TRACT": "7404", 
+    "ACCESS2": 0.33257405219933617, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.3605563451269145, 
+    "TRACT": "4911", 
+    "ACCESS2": 1.9436009445406808, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.130586016137116, 
+    "TRACT": "8398", 
+    "ACCESS2": 2.444348269076323, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.187542360073202, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 7.3445682205801095, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.191197155873239, 
+    "TRACT": "1708", 
+    "ACCESS2": 1.2446276509752523, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.432799798993123, 
+    "TRACT": "0716", 
+    "ACCESS2": 19.091232140737553, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.538198464948828, 
+    "TRACT": "7207", 
+    "ACCESS2": 0.6627512057910581, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.957338259937824, 
+    "TRACT": "4201", 
+    "ACCESS2": 5.94825083731911, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 19.37236880117657, 
+    "TRACT": "2411", 
+    "ACCESS2": 35.26530762302025, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.438587567035312, 
+    "TRACT": "1706", 
+    "ACCESS2": 0.8639580617402992, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.053425689592519, 
+    "TRACT": "6910", 
+    "ACCESS2": 2.6512813865224047, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.805582647204986, 
+    "TRACT": "3807", 
+    "ACCESS2": 2.4837252142522734, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.0665351885097065, 
+    "TRACT": "8428", 
+    "ACCESS2": 1.2861512281878686, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.427234316945315, 
+    "TRACT": "8407", 
+    "ACCESS2": 20.600929224125505, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.774061457148471, 
+    "TRACT": "1104", 
+    "ACCESS2": 1.3963774536122608, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.921143284811896, 
+    "TRACT": "1608", 
+    "ACCESS2": 3.9823142486039598, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.975437549101398, 
+    "TRACT": "8380", 
+    "ACCESS2": 10.762701196342034, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.147106358507143, 
+    "TRACT": "8319", 
+    "ACCESS2": 7.041697853850723, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.4395998377400065, 
+    "TRACT": "6703", 
+    "ACCESS2": 1.6907714337041262, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.132589193026522, 
+    "TRACT": "3302", 
+    "ACCESS2": 3.186901804670544, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.489172190691413, 
+    "TRACT": "8313", 
+    "ACCESS2": 2.585175069318247, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.169468268466785, 
+    "TRACT": "8374", 
+    "ACCESS2": 7.8302806401821945, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.720891896852129, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 3.396842704553778, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.831425773106925, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 3.4286983867594065, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.39466240269821, 
+    "TRACT": "1910", 
+    "ACCESS2": 2.534936491083626, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.771252334500872, 
+    "TRACT": "8344", 
+    "ACCESS2": 6.552493305537186, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.59367762580711, 
+    "TRACT": "3504", 
+    "ACCESS2": 5.608274659317257, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.335173953324988, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 5.516767578119644, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.304148710070073, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 4.40605168585142, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.140426790488614, 
+    "TRACT": "6505", 
+    "ACCESS2": 0.7392234184312556, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.273000408909528, 
+    "TRACT": "4602", 
+    "ACCESS2": 1.917187715276608, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.976699019217389, 
+    "TRACT": "2519", 
+    "ACCESS2": 3.1360968056103187, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 12.752427146563035, 
+    "TRACT": "8330", 
+    "ACCESS2": 5.475770568675778, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.266671180992953, 
+    "TRACT": "4008", 
+    "ACCESS2": 7.634280368229653, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 20.556228868136664, 
+    "TRACT": "0711", 
+    "ACCESS2": 32.138499714130596, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.211670880941474, 
+    "TRACT": "8326", 
+    "ACCESS2": 9.459510442038933, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.559908855672431, 
+    "TRACT": "7114", 
+    "ACCESS2": 0.9393404061633939, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.520058079453198, 
+    "TRACT": "2715", 
+    "ACCESS2": 21.000304915299097, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 14.128303631552422, 
+    "TRACT": "8417", 
+    "ACCESS2": 15.577923903850905, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.67463980095826, 
+    "TRACT": "7501", 
+    "ACCESS2": 0.9316268145876657, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.745953185867137, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 3.563218303767727, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.133646668952669, 
+    "TRACT": "1003", 
+    "ACCESS2": 5.785540215879177, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.781723911483407, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 4.080169077655174, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 21.763336765629962, 
+    "TRACT": "2315", 
+    "ACCESS2": 97.0068698515769, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.090173865692457, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 0.7777189173920023, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.353234450171767, 
+    "TRACT": "2104", 
+    "ACCESS2": 13.257211161773592, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.303592371211156, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 3.7338131921134945, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.536641143551224, 
+    "TRACT": "0201", 
+    "ACCESS2": 1.2987937721855995, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 5.938895455849748, 
+    "TRACT": "4601", 
+    "ACCESS2": 1.472311717809742, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.043907792651371, 
+    "TRACT": "4914", 
+    "ACCESS2": 4.891149623550134, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.898369462003151, 
+    "TRACT": "8404", 
+    "ACCESS2": 2.149398057495364, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.061025233641756, 
+    "TRACT": "4308", 
+    "ACCESS2": 5.326902392924425, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.175194857385414, 
+    "TRACT": "8312", 
+    "ACCESS2": 2.9893256843642253, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.404799341258169, 
+    "TRACT": "8435", 
+    "ACCESS2": 2.9441844305107283, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.002440897153047, 
+    "TRACT": "2502", 
+    "ACCESS2": 2.2842418505302886, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.361122631255103, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 14.801541636661359, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.810290502487461, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 1.8259383564019889, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.029982296236838, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 57.008776268957, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 36.63396614911548, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 800.229288506759, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 14.347039907294878, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 42.27530436453399, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.002717069779822, 
+    "TRACT": "1911", 
+    "ACCESS2": 2.335869812233435, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 12.029979974595605, 
+    "TRACT": "2609", 
+    "ACCESS2": 6.352350278697788, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 14.721784283774706, 
+    "TRACT": "0403", 
+    "ACCESS2": 30.051290152484228, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.85101801586273, 
+    "TRACT": "2426", 
+    "ACCESS2": 23.169892000049607, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.354771540787978, 
+    "TRACT": "6405", 
+    "ACCESS2": 0.44218191092972464, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.85768205926167, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 7.255960795130356, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.204314805185785, 
+    "TRACT": "0204", 
+    "ACCESS2": 1.6715681480826323, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.28039035529256, 
+    "TRACT": "4408", 
+    "ACCESS2": 1.522657591446173, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.221231122968734, 
+    "TRACT": "6713", 
+    "ACCESS2": 2.0961618400647195, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.096397256289746, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 2.7418410859771374, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.654800043135902, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 3.3661260888776368, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.979846003337263, 
+    "TRACT": "1613", 
+    "ACCESS2": 28.332590010888996, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.816695021341419, 
+    "TRACT": "2712", 
+    "ACCESS2": 10.888868218901104, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 17.623717531667495, 
+    "TRACT": "0704", 
+    "ACCESS2": 15.595116103678286, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.496007323036245, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 3.511491282397257, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.612237858979306, 
+    "TRACT": "4101", 
+    "ACCESS2": 2.9826272506908755, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.923671489506745, 
+    "TRACT": "2227", 
+    "ACCESS2": 4.455915710244817, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.0040677082255645, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.604623481475638, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 13.280460602391274, 
+    "TRACT": "0513", 
+    "ACCESS2": 5.5015644850740255, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 12.591029270722286, 
+    "TRACT": "0819", 
+    "ACCESS2": 5.2269985330278335, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 17.44021212074593, 
+    "TRACT": "0621", 
+    "ACCESS2": 17.2236987393452, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.798193250358098, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 7.4918346839198735, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.393889243161727, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 13.996045070430828, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.243547330108879, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 0.825154554147758, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.554423483393114, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 7.333657319085575, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.5302161627190225, 
+    "TRACT": "4801", 
+    "ACCESS2": 3.7904765292095526, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.921637777258754, 
+    "TRACT": "2312", 
+    "ACCESS2": 7.445458521182332, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.94954448295525, 
+    "TRACT": "3815", 
+    "ACCESS2": 2.7200646853110855, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.078553091023077, 
+    "TRACT": "7002", 
+    "ACCESS2": 0.7524427894855144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 13.993824625071538, 
+    "TRACT": "2421", 
+    "ACCESS2": 6.969291947680878, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.840047909664978, 
+    "TRACT": "8321", 
+    "ACCESS2": 49.99290132929767, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.40990295373725, 
+    "TRACT": "6604", 
+    "ACCESS2": 1.4320216302784228, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.702156542742022, 
+    "TRACT": "1408", 
+    "ACCESS2": 8.276993087471991, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.507948320890653, 
+    "TRACT": "2507", 
+    "ACCESS2": 2.0633194548930835, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.078362483909391, 
+    "TRACT": "2229", 
+    "ACCESS2": 3.655973301436307, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 17.53436978753645, 
+    "TRACT": "0321", 
+    "ACCESS2": 23.938769049697807, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.598529128421655, 
+    "TRACT": "4604", 
+    "ACCESS2": 7.289689429293421, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 11.616596291379297, 
+    "TRACT": "2108", 
+    "ACCESS2": 3.8619269952105237, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.291416821249839, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 1.600214593217229, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.154199560462201, 
+    "TRACT": "0902", 
+    "ACCESS2": 1.1953511527531437, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.15352367029057, 
+    "TRACT": "6716", 
+    "ACCESS2": 1.8473660238334002, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.564484086813328, 
+    "TRACT": "1912", 
+    "ACCESS2": 2.1909097112036826, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.62670313049882, 
+    "TRACT": "0811", 
+    "ACCESS2": 9.677275007540338, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.617768894727828, 
+    "TRACT": "8436", 
+    "ACCESS2": 3.8915480066862917, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.097594854538496, 
+    "TRACT": "2808", 
+    "ACCESS2": 7.41818623142413, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.845086336678725, 
+    "TRACT": "6718", 
+    "ACCESS2": 1.6259638571415316, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.994742762830289, 
+    "TRACT": "1005", 
+    "ACCESS2": 2.1455568093093262, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.876353664075913, 
+    "TRACT": "1203", 
+    "ACCESS2": 1.3489293667855307, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.440389956914268, 
+    "TRACT": "0804", 
+    "ACCESS2": 6.377304728430185, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.465153691395829, 
+    "TRACT": "6108", 
+    "ACCESS2": 2.1011250871176506, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.21165753763332, 
+    "TRACT": "2516", 
+    "ACCESS2": 2.6325146864708366, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.121828481569867, 
+    "TRACT": "6810", 
+    "ACCESS2": 2.97543630924219, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.62337125298703, 
+    "TRACT": "3201", 
+    "ACCESS2": 6.045535044056076, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.67227791881534, 
+    "TRACT": "2718", 
+    "ACCESS2": 9.984588865370315, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.471707789108655, 
+    "TRACT": "7301", 
+    "ACCESS2": 0.9651743593479855, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.881323205684956, 
+    "TRACT": "7105", 
+    "ACCESS2": 1.1079523452993998, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.42045411914698, 
+    "TRACT": "6609", 
+    "ACCESS2": 5.066908258009756, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.616203366203553, 
+    "TRACT": "8355", 
+    "ACCESS2": 2.208759336969429, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.588674695544718, 
+    "TRACT": "8402", 
+    "ACCESS2": 2.633705664553006, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.3955249785065105, 
+    "TRACT": "5808", 
+    "ACCESS2": 1.4097614655816026, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.30893610887479, 
+    "TRACT": "3812", 
+    "ACCESS2": 3.3080176670186687, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.745908314806247, 
+    "TRACT": "6119", 
+    "ACCESS2": 1.747917636113591, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 20.385448503233135, 
+    "TRACT": "8433", 
+    "ACCESS2": 48.956619477880594, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.072956434964315, 
+    "TRACT": "2504", 
+    "ACCESS2": 2.220338919317042, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.462928954955416, 
+    "TRACT": "8408", 
+    "ACCESS2": 3.125877728772657, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.922710831809217, 
+    "TRACT": "4305", 
+    "ACCESS2": 7.217999734467416, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.096810348395972, 
+    "TRACT": "4910", 
+    "ACCESS2": 4.077799528117872, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.951359729430836, 
+    "TRACT": "3819", 
+    "ACCESS2": 4.45472063257085, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.653738986570048, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 1.4103851624429218, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.04237136897559, 
+    "TRACT": "0506", 
+    "ACCESS2": 7.3851371883546175, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.447117460659328, 
+    "TRACT": "3104", 
+    "ACCESS2": 3.2359552290046016, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.92605100221651, 
+    "TRACT": "8320", 
+    "ACCESS2": 11.636220931258558, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.706832698976797, 
+    "TRACT": "6607", 
+    "ACCESS2": 4.057292666286321, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.337484214748672, 
+    "TRACT": "8364", 
+    "ACCESS2": 2.2456092659509044, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.884272271000668, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 1.375593595225905, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.45961259443605, 
+    "TRACT": "2407", 
+    "ACCESS2": 9.206721135599944, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 30.8169541266453, 
+    "TRACT": "0310", 
+    "ACCESS2": 319.3619293205732, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.535780086029492, 
+    "TRACT": "8104", 
+    "ACCESS2": 1.8796241013391444, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.22965330815062, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 1.7588458070389712, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.956688140019311, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 2.8853668111759885, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.027438160213602, 
+    "TRACT": "3008", 
+    "ACCESS2": 5.563602637684813, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 14.753979873097004, 
+    "TRACT": "0627", 
+    "ACCESS2": 8.190555894398738, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.605095103721673, 
+    "TRACT": "1201", 
+    "ACCESS2": 0.9184786940890628, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.405263046648527, 
+    "TRACT": "5906", 
+    "ACCESS2": 1.8674040376269476, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.994938662268742, 
+    "TRACT": "1710", 
+    "ACCESS2": 1.7716957741292265, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.174077244746976, 
+    "TRACT": "8350", 
+    "ACCESS2": 2.1564270398452283, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.182692471892945, 
+    "TRACT": "8333", 
+    "ACCESS2": 5.539828268732796, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.519304894916997, 
+    "TRACT": "4212", 
+    "ACCESS2": 4.341444492246076, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.705090679003446, 
+    "TRACT": "5609", 
+    "ACCESS2": 0.5185536943615062, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.745043627560827, 
+    "TRACT": "0706", 
+    "ACCESS2": 7.892031707628165, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.270567597688826, 
+    "TRACT": "4110", 
+    "ACCESS2": 4.228132685002651, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.6308414506709275, 
+    "TRACT": "6113", 
+    "ACCESS2": 1.5682174106376618, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.285596420746007, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 2.7618220599895618, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.82743594477622, 
+    "TRACT": "2517", 
+    "ACCESS2": 3.108632365550688, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.660313627403129, 
+    "TRACT": "6720", 
+    "ACCESS2": 1.7138147825963022, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.275159958049908, 
+    "TRACT": "1601", 
+    "ACCESS2": 2.0821251402817307, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.720947092647489, 
+    "TRACT": "3206", 
+    "ACCESS2": 2.802145664017238, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 14.522254632102559, 
+    "TRACT": "0624", 
+    "ACCESS2": 7.737644154847364, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.18604383618207, 
+    "TRACT": "0313", 
+    "ACCESS2": 19.014613752806607, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.168519389750983, 
+    "TRACT": "8391", 
+    "ACCESS2": 4.009548839621466, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.1979029087137985, 
+    "TRACT": "5703", 
+    "ACCESS2": 0.9584670488182413, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.01692007161575, 
+    "TRACT": "3107", 
+    "ACCESS2": 3.913778241696002, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.314169045000066, 
+    "TRACT": "8361", 
+    "ACCESS2": 5.170937251856659, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.4304542700105705, 
+    "TRACT": "4908", 
+    "ACCESS2": 1.2664082140920534, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 12.848291206336127, 
+    "TRACT": "2434", 
+    "ACCESS2": 5.069464520616172, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.936702826926393, 
+    "TRACT": "2225", 
+    "ACCESS2": 5.7503423405665535, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.684523957749429, 
+    "TRACT": "4302", 
+    "ACCESS2": 5.569860382852595, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 17.912728340327, 
+    "TRACT": "0813", 
+    "ACCESS2": 40.429672887336025, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.575615953803101, 
+    "TRACT": "5001", 
+    "ACCESS2": 1.2721147848850742, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.912280803486665, 
+    "TRACT": "1511", 
+    "ACCESS2": 7.25771235730961, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.365374926340332, 
+    "TRACT": "4205", 
+    "ACCESS2": 21.841604652370123, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.403313619729257, 
+    "TRACT": "2415", 
+    "ACCESS2": 7.71564841637921, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.933275388961128, 
+    "TRACT": "0503", 
+    "ACCESS2": 20.25381536187901, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.776420726078666, 
+    "TRACT": "8419", 
+    "ACCESS2": 3.447698519526085, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 12.733214845017766, 
+    "TRACT": "0509", 
+    "ACCESS2": 5.220065441380502, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.2983350446335, 
+    "TRACT": "8315", 
+    "ACCESS2": 3.9746847869624466, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.40309184939985, 
+    "TRACT": "7204", 
+    "ACCESS2": 0.5404197654662648, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.203324069747136, 
+    "TRACT": "1610", 
+    "ACCESS2": 4.334233550290615, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.547959834668212, 
+    "TRACT": "2512", 
+    "ACCESS2": 2.1222418308368796, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.827457322882266, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 8.256918236808211, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.232206040273265, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 5.433844770894295, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 13.806724373781003, 
+    "TRACT": "8423", 
+    "ACCESS2": 6.185755853289591, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.027671587611126, 
+    "TRACT": "6715", 
+    "ACCESS2": 1.9622368360820905, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 15.523421294432303, 
+    "TRACT": "2409", 
+    "ACCESS2": 13.181311103899448, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.00077597885443, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 2.6942460295035358, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.073008465506263, 
+    "TRACT": "0615", 
+    "ACCESS2": 9.026369646352421, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.260617205720248, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 2.848871530668492, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.868859090160827, 
+    "TRACT": "1602", 
+    "ACCESS2": 2.5047979272358964, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.867907031114973, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 16.212695101793713, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 14.489453776589373, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 11.363749320622073, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.489823420490346, 
+    "TRACT": "0601", 
+    "ACCESS2": 10.806436766684305, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 14.747009073455681, 
+    "TRACT": "2705", 
+    "ACCESS2": 16.234959331084294, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 12.592143964648509, 
+    "TRACT": "8309", 
+    "ACCESS2": 4.615204613928389, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.032306771616492, 
+    "TRACT": "0308", 
+    "ACCESS2": 8.72225932494607, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.65581870832003, 
+    "TRACT": "6502", 
+    "ACCESS2": 0.862151892818496, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.286204521462091, 
+    "TRACT": "2602", 
+    "ACCESS2": 6.856693179427068, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.364350872951153, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 0.8899877869737362, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.278659523679257, 
+    "TRACT": "6116", 
+    "ACCESS2": 1.474787870494611, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 25.16138861936041, 
+    "TRACT": "8362", 
+    "ACCESS2": 90.8912137663627, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.646490754452685, 
+    "TRACT": "5102", 
+    "ACCESS2": 1.9144627473204363, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.818453158857237, 
+    "TRACT": "8359", 
+    "ACCESS2": 2.457581408561476, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.32859350409195, 
+    "TRACT": "6201", 
+    "ACCESS2": 1.0395536376858747, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.697885565926152, 
+    "TRACT": "7111", 
+    "ACCESS2": 0.9864540857193917, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.217553364995245, 
+    "TRACT": "2213", 
+    "ACCESS2": 4.537729066968072, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.664094575123647, 
+    "TRACT": "2515", 
+    "ACCESS2": 2.345997068885441, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.270461197535639, 
+    "TRACT": "4314", 
+    "ACCESS2": 1.638260328802539, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 16.16616030277284, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 14.644528284398563, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.847036321066177, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 24.568848898071085, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 22.10101317369866, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 37.84548522940223, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.6114830079382045, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 1.518027627009322, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.330051190036092, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 1.382151288451051, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.204974295540133, 
+    "TRACT": "1711", 
+    "ACCESS2": 3.42872935675432, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.478132886236375, 
+    "TRACT": "2827", 
+    "ACCESS2": 9.044023328921838, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 16.105906918332536, 
+    "TRACT": "0602", 
+    "ACCESS2": 13.539267045530611, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.130080251255984, 
+    "TRACT": "3514", 
+    "ACCESS2": 2.863298562369642, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.696888896491076, 
+    "TRACT": "0103", 
+    "ACCESS2": 1.4657812481484171, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.199564306460137, 
+    "TRACT": "6301", 
+    "ACCESS2": 1.4150634090940597, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 13.477644711684475, 
+    "TRACT": "8322", 
+    "ACCESS2": 5.853388083195702, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.22038780715243, 
+    "TRACT": "8426", 
+    "ACCESS2": 1.8232202772972605, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.049256226492584, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.45845894359672773, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.27297591321719, 
+    "TRACT": "7502", 
+    "ACCESS2": 0.5699895093515289, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 13.25617209989797, 
+    "TRACT": "8416", 
+    "ACCESS2": 10.604112239447163, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 13.829814042095034, 
+    "TRACT": "2416", 
+    "ACCESS2": 6.309372526903767, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.4159289355452565, 
+    "TRACT": "1705", 
+    "ACCESS2": 0.8584389528855785, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 23.020865051325586, 
+    "TRACT": "0634", 
+    "ACCESS2": 48.13888140625395, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.935844095918489, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 2.008634227862478, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 7.601077706120249, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 2.659998161852082, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.036292201191101, 
+    "TRACT": "7201", 
+    "ACCESS2": 0.7325284503696953, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.240425261657566, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 0.8254401037333848, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.883766567847399, 
+    "TRACT": "3903", 
+    "ACCESS2": 2.7804457173099717, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.549345431308502, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 1.0204473625388746, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.866857270556594, 
+    "TRACT": "3403", 
+    "ACCESS2": 3.4830658508643695, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.893132871520049, 
+    "TRACT": "8397", 
+    "ACCESS2": 2.155564784843953, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.079664682099878, 
+    "TRACT": "5802", 
+    "ACCESS2": 1.7970552335214693, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.648923843898531, 
+    "TRACT": "1303", 
+    "ACCESS2": 2.724246128500638, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.372780441453706, 
+    "TRACT": "6007", 
+    "ACCESS2": 2.4384444016663953, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.80799924171987, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 4.011487726324523, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.766088025974888, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 4.126665851663199, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.907044597262927, 
+    "TRACT": "0104", 
+    "ACCESS2": 2.668433021106743, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.568672502895459, 
+    "TRACT": "5702", 
+    "ACCESS2": 1.0850562054807114, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.012618340878824, 
+    "TRACT": "6302", 
+    "ACCESS2": 1.2952753185310786, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.053127414195986, 
+    "TRACT": "8329", 
+    "ACCESS2": 15.060055878873092, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.159100878801915, 
+    "TRACT": "2210", 
+    "ACCESS2": 3.6403766818208703, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.884442272054563, 
+    "TRACT": "1503", 
+    "ACCESS2": 2.244785572712033, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.001306095412563, 
+    "TRACT": "7402", 
+    "ACCESS2": 0.4154703325128904, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 19.081134607049822, 
+    "TRACT": "2413", 
+    "ACCESS2": 31.866939263004426, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.784022894042156, 
+    "TRACT": "8316", 
+    "ACCESS2": 7.723645467496413, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 22.228109446796427, 
+    "TRACT": "0631", 
+    "ACCESS2": 46.56580801864558, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.955337210086866, 
+    "TRACT": "7306", 
+    "ACCESS2": 0.8578496580622, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.9132606676073, 
+    "TRACT": "8323", 
+    "ACCESS2": 6.285756546478061, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.297090106948044, 
+    "TRACT": "2605", 
+    "ACCESS2": 3.664748305264622, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.379445211415962, 
+    "TRACT": "6707", 
+    "ACCESS2": 1.8177415843420521, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.493737295768145, 
+    "TRACT": "4805", 
+    "ACCESS2": 6.456722199119586, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.26182767698008, 
+    "TRACT": "3906", 
+    "ACCESS2": 3.610894306918328, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.301746968844466, 
+    "TRACT": "8370", 
+    "ACCESS2": 8.293041205679382, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.194304820598939, 
+    "TRACT": "2304", 
+    "ACCESS2": 3.8521868030633666, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.481577081791979, 
+    "TRACT": "8425", 
+    "ACCESS2": 7.006269280696698, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.324660192901531, 
+    "TRACT": "8413", 
+    "ACCESS2": 3.7484306926963127, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 13.47355662034565, 
+    "TRACT": "0507", 
+    "ACCESS2": 6.025632620701903, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.66222617755415, 
+    "TRACT": "1611", 
+    "ACCESS2": 3.6264586765231033, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.845594443451942, 
+    "TRACT": "2311", 
+    "ACCESS2": 8.75157372380999, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.565228308344135, 
+    "TRACT": "0715", 
+    "ACCESS2": 5.740607766022867, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.778166197338596, 
+    "TRACT": "8348", 
+    "ACCESS2": 3.822970430537776, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.56470474890224, 
+    "TRACT": "4905", 
+    "ACCESS2": 1.1540591473407729, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.780982649289795, 
+    "TRACT": "2801", 
+    "ACCESS2": 4.291594510636627, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.914382767472135, 
+    "TRACT": "2431", 
+    "ACCESS2": 6.734885109205873, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.43392830233875, 
+    "TRACT": "3105", 
+    "ACCESS2": 3.23410948318294, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.740164391929007, 
+    "TRACT": "8324", 
+    "ACCESS2": 7.240789497078853, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.8305650022220146, 
+    "TRACT": "7403", 
+    "ACCESS2": 0.38135296967561727, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 14.078700610384931, 
+    "TRACT": "2831", 
+    "ACCESS2": 11.035959218545893, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.671169263655804, 
+    "TRACT": "2608", 
+    "ACCESS2": 7.500085438755314, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.763595801637852, 
+    "TRACT": "4312", 
+    "ACCESS2": 8.899171888628205, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.47477338899543, 
+    "TRACT": "0409", 
+    "ACCESS2": 26.98709462131203, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.59802736210105, 
+    "TRACT": "2518", 
+    "ACCESS2": 3.0905752563281914, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.7482806695754665, 
+    "TRACT": "6112", 
+    "ACCESS2": 1.6413108341419564, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.321028395030675, 
+    "TRACT": "8318", 
+    "ACCESS2": 3.3281801738897774, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.777897995556227, 
+    "TRACT": "0319", 
+    "ACCESS2": 21.02490920934879, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.715745133291022, 
+    "TRACT": "7115", 
+    "ACCESS2": 1.0317355250462452, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.115472100043577, 
+    "TRACT": "3404", 
+    "ACCESS2": 4.198620779640186, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.050593192654981, 
+    "TRACT": "3515", 
+    "ACCESS2": 2.685791977444048, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.816488507104199, 
+    "TRACT": "8056", 
+    "ACCESS2": 0.9776159143898554, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.1103337740364, 
+    "TRACT": "5101", 
+    "ACCESS2": 1.2203597497631462, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.140571221884916, 
+    "TRACT": "6204", 
+    "ACCESS2": 1.0402434388736317, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.139982673781931, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 3.6219005223727616, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.128087855519135, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 3.669087436210557, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.144546100893287, 
+    "TRACT": "2924", 
+    "ACCESS2": 3.6493432154659624, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 16.93925099670458, 
+    "TRACT": "0710", 
+    "ACCESS2": 14.208541252063158, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 14.956103580545049, 
+    "TRACT": "0407", 
+    "ACCESS2": 14.64486921327984, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.039796835723559, 
+    "TRACT": "6905", 
+    "ACCESS2": 3.705925205026297, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.708704635686941, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 0.5952381158568923, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.4579045035351, 
+    "TRACT": "2420", 
+    "ACCESS2": 5.813343101991671, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.732651060987004, 
+    "TRACT": "8345", 
+    "ACCESS2": 6.5686826172316195, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 2.871389226598652, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.19598190966766735, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.874420623981791, 
+    "TRACT": "5302", 
+    "ACCESS2": 1.7747845806627363, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 3.932955518371535, 
+    "TRACT": "5205", 
+    "ACCESS2": 0.49110788879200723, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 13.160409731006459, 
+    "TRACT": "2216", 
+    "ACCESS2": 5.521539476839575, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.209966810477788, 
+    "TRACT": "7205", 
+    "ACCESS2": 0.49204052486508304, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.384956629164028, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 1.8989901574415302, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.350330690880473, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.3271187285399354, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.562019660760061, 
+    "TRACT": "2403", 
+    "ACCESS2": 8.253703813466544, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 6.938262579834126, 
+    "TRACT": "6912", 
+    "ACCESS2": 1.69905799944374, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.37221092633324, 
+    "TRACT": "0302", 
+    "ACCESS2": 6.554736268181556, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.187484461932979, 
+    "TRACT": "2838", 
+    "ACCESS2": 4.042022107485828, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 14.610119749153148, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 16.468267119834035, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.42155097068287, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 10.317421392317353, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.39174621447482, 
+    "TRACT": "8368", 
+    "ACCESS2": 14.0393962892354, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.445403473609476, 
+    "TRACT": "6404", 
+    "ACCESS2": 0.46085117800627556, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.04431495669957, 
+    "TRACT": "2425", 
+    "ACCESS2": 16.987255740638407, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.051088533800687, 
+    "TRACT": "4309", 
+    "ACCESS2": 14.255595949557007, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.020758008041585, 
+    "TRACT": "7505", 
+    "ACCESS2": 0.5092993546010295, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.51784878382573, 
+    "TRACT": "2503", 
+    "ACCESS2": 2.0904004018441413, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.176460899327466, 
+    "TRACT": "8311", 
+    "ACCESS2": 5.020591438265995, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.636677264840742, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 2.368587477303721, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.711687909828067, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 2.5790713553850995, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.880033620718091, 
+    "TRACT": "8342", 
+    "ACCESS2": 32.094975285056385, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.612202783499731, 
+    "TRACT": "6811", 
+    "ACCESS2": 2.3528357494618266, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.249519979337013, 
+    "TRACT": "1101", 
+    "ACCESS2": 1.1352609305508068, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 34.337955026526764, 
+    "TRACT": "0713", 
+    "ACCESS2": 215.2805153875665, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.3258443649265, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.31434752954242273, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.24126162572878, 
+    "TRACT": "0620", 
+    "ACCESS2": 16.552263498360425, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.576543886634209, 
+    "TRACT": "7112", 
+    "ACCESS2": 0.9438985894002676, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 14.712820215111824, 
+    "TRACT": "8325", 
+    "ACCESS2": 7.753938497780789, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.291374224916369, 
+    "TRACT": "6712", 
+    "ACCESS2": 1.9094766255859108, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.007475328799108, 
+    "TRACT": "1508", 
+    "ACCESS2": 3.219244989004919, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.346077040321253, 
+    "TRACT": "7103", 
+    "ACCESS2": 1.324291438371568, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 12.44837307357776, 
+    "TRACT": "2226", 
+    "ACCESS2": 5.066999594887468, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.006909056801957, 
+    "TRACT": "1001", 
+    "ACCESS2": 1.201516181069834, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.00483793939811, 
+    "TRACT": "4106", 
+    "ACCESS2": 9.73846663921739, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 13.330949899856321, 
+    "TRACT": "0512", 
+    "ACCESS2": 5.686120083631144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.130224747695928, 
+    "TRACT": "8410", 
+    "ACCESS2": 12.621752917718585, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.496100694520633, 
+    "TRACT": "2228", 
+    "ACCESS2": 4.026399821595379, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.06611846861198, 
+    "TRACT": "6814", 
+    "ACCESS2": 1.8019608124989888, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.382211382192338, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 7.502097279298398, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.02989902448169, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 8.500332225248686, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.084176872759812, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 7.10997941232407, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 18.239744264916286, 
+    "TRACT": "8381", 
+    "ACCESS2": 30.764057091851797, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.233823769978096, 
+    "TRACT": "7305", 
+    "ACCESS2": 1.0069027907676182, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 11.93524959948646, 
+    "TRACT": "2109", 
+    "ACCESS2": 4.071993168177347, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.250004679499725, 
+    "TRACT": "4607", 
+    "ACCESS2": 2.0543701032371176, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.262633386083115, 
+    "TRACT": "4112", 
+    "ACCESS2": 13.82882172678646, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.701765198715103, 
+    "TRACT": "3109", 
+    "ACCESS2": 4.978934717905494, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.732932801415503, 
+    "TRACT": "8314", 
+    "ACCESS2": 6.072956149526846, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 12.359019607083008, 
+    "TRACT": "8437", 
+    "ACCESS2": 4.8620337776105, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.412084323034326, 
+    "TRACT": "6711", 
+    "ACCESS2": 1.9572389038953597, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.77563936862137, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 15.87460234597393, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.807035592832655, 
+    "TRACT": "4005", 
+    "ACCESS2": 6.321001141696539, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 8.337332453270042, 
+    "TRACT": "6915", 
+    "ACCESS2": 3.639910238980169, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.719977834441755, 
+    "TRACT": "6308", 
+    "ACCESS2": 1.402970604356268, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.28408165860763, 
+    "TRACT": "2922", 
+    "ACCESS2": 5.26499077778549, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.275611568363696, 
+    "TRACT": "1006", 
+    "ACCESS2": 1.723344884028578, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.211796523510237, 
+    "TRACT": "0803", 
+    "ACCESS2": 6.271991247946812, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.656907231569504, 
+    "TRACT": "1701", 
+    "ACCESS2": 1.4861732116622033, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.793866812009663, 
+    "TRACT": "3006", 
+    "ACCESS2": 3.444593612947457, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.774134737401139, 
+    "TRACT": "6403", 
+    "ACCESS2": 0.5421052527333261, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.20243162936974, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 2.8525427368979974, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.392855017469842, 
+    "TRACT": "8386", 
+    "ACCESS2": 13.498924376615799, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.203646394309452, 
+    "TRACT": "1801", 
+    "ACCESS2": 2.176554511974784, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.220619478038897, 
+    "TRACT": "7104", 
+    "ACCESS2": 1.3361098433097818, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.988327907681422, 
+    "TRACT": "8317", 
+    "ACCESS2": 2.817456868016667, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.578312046909363, 
+    "TRACT": "4803", 
+    "ACCESS2": 2.145170269726502, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.7301319356486236, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 0.7917735306203233, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 13.049706832064185, 
+    "TRACT": "0817", 
+    "ACCESS2": 8.39880837224162, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.807467992630297, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 0.7632595400063698, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.943429612370406, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 0.6968560694952038, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.760804086213215, 
+    "TRACT": "6104", 
+    "ACCESS2": 1.5828814887674214, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.9723576467513775, 
+    "TRACT": "8079", 
+    "ACCESS2": 0.9762147399950424, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 9.638591901786048, 
+    "TRACT": "8401", 
+    "ACCESS2": 3.017103108168965, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.5126138046606386, 
+    "TRACT": "6118", 
+    "ACCESS2": 1.6015814391271843, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 16.251591219879924, 
+    "TRACT": "2405", 
+    "ACCESS2": 16.460173970466144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 16.12982460190211, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 12.84559770222516, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.489487428087664, 
+    "TRACT": "0623", 
+    "ACCESS2": 10.13436767808012, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.3783592587322, 
+    "TRACT": "8390", 
+    "ACCESS2": 3.1317585507560968, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.085561352643242, 
+    "TRACT": "8081", 
+    "ACCESS2": 0.8008251357290701, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 10.966383937177229, 
+    "TRACT": "0304", 
+    "ACCESS2": 5.276335316376844, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.452251019494701, 
+    "TRACT": "0818", 
+    "ACCESS2": 5.631079318388034, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.362946638805463, 
+    "TRACT": "4913", 
+    "ACCESS2": 12.45921973736151, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.154076588341784, 
+    "TRACT": "6608", 
+    "ACCESS2": 13.123058174545253, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.093968522392202, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.7344413685557447, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.589645956694511, 
+    "TRACT": "2610", 
+    "ACCESS2": 3.979550450727644, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 16.59509963072219, 
+    "TRACT": "2423", 
+    "ACCESS2": 17.256795740141524, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.660420758775091, 
+    "TRACT": "6606", 
+    "ACCESS2": 4.4991834789626, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.308539830645314, 
+    "TRACT": "3103", 
+    "ACCESS2": 3.116091394605328, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.535137603942438, 
+    "TRACT": "8365", 
+    "ACCESS2": 2.422785018992583, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.673760780355845, 
+    "TRACT": "2505", 
+    "ACCESS2": 7.117983474362737, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.018942318200324, 
+    "TRACT": "4306", 
+    "ACCESS2": 4.923946979870263, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.563857047693258, 
+    "TRACT": "2406", 
+    "ACCESS2": 13.457757365336619, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 6.244204003565341, 
+    "TRACT": "4701", 
+    "ACCESS2": 1.6236896310310993, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.229972282188038, 
+    "TRACT": "1902", 
+    "ACCESS2": 3.022160506110271, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.50589965601924, 
+    "TRACT": "3818", 
+    "ACCESS2": 3.6402740815091916, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 8.042452383599462, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 2.18427309852627, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.404342258708297, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 3.6743327383597753, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.880658346195329, 
+    "TRACT": "0626", 
+    "ACCESS2": 6.439059114868626, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.121358469662549, 
+    "TRACT": "7109", 
+    "ACCESS2": 1.1977941505814214, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.346534466251532, 
+    "TRACT": "6714", 
+    "ACCESS2": 2.633482381199769, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.582151635310128, 
+    "TRACT": "8430", 
+    "ACCESS2": 5.432873855614279, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.389107464129307, 
+    "TRACT": "2520", 
+    "ACCESS2": 2.810859033432861, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.740795160396114, 
+    "TRACT": "8357", 
+    "ACCESS2": 2.4083702302182965, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.755071080848147, 
+    "TRACT": "3009", 
+    "ACCESS2": 7.3336207471702, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.647334967663774, 
+    "TRACT": "1507", 
+    "ACCESS2": 6.975545605235158, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.698774219504254, 
+    "TRACT": "8305", 
+    "ACCESS2": 1.627914833347592, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.488361581044563, 
+    "TRACT": "6812", 
+    "ACCESS2": 3.894540118368022, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.826758286653035, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 8.397222698594888, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 12.736963780987278, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 7.549209038813081, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.021014590723464, 
+    "TRACT": "6904", 
+    "ACCESS2": 3.858814964511652, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.061469863609919, 
+    "TRACT": "7107", 
+    "ACCESS2": 1.1546434419972997, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.253649724010378, 
+    "TRACT": "2222", 
+    "ACCESS2": 8.119939537392641, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.921777452816334, 
+    "TRACT": "0816", 
+    "ACCESS2": 12.701524648333695, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 13.539630494679685, 
+    "TRACT": "0707", 
+    "ACCESS2": 5.7627168202473324, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.0236217482426895, 
+    "TRACT": "7106", 
+    "ACCESS2": 1.1427429698883698, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.505435931154103, 
+    "TRACT": "5704", 
+    "ACCESS2": 1.072256256088841, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.591332331053136, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 4.136054380867493, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.750781182439653, 
+    "TRACT": "0611", 
+    "ACCESS2": 11.805085901120613, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.619132329567709, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 4.428957595190009, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.645774104792807, 
+    "TRACT": "4303", 
+    "ACCESS2": 4.944060144105814, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.773337384171912, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 2.770351943958618, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.271902491223502, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 3.07540955188363, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.525865261741435, 
+    "TRACT": "0605", 
+    "ACCESS2": 11.284631684770394, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.993889362027861, 
+    "TRACT": "5705", 
+    "ACCESS2": 0.9003903536698628, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.828990718067407, 
+    "TRACT": "6103", 
+    "ACCESS2": 1.581784890902688, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.761962182868183, 
+    "TRACT": "3106", 
+    "ACCESS2": 3.586053548491542, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 15.162006941272828, 
+    "TRACT": "8366", 
+    "ACCESS2": 11.916915882998364, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.6481264824105875, 
+    "TRACT": "0901", 
+    "ACCESS2": 0.7193356594252326, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.082793765182076, 
+    "TRACT": "6009", 
+    "ACCESS2": 2.266814732957066, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.141859983780696, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 4.039274739996072, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.08876734474545, 
+    "TRACT": "2511", 
+    "ACCESS2": 2.423423678679594, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.017293343803958, 
+    "TRACT": "2301", 
+    "ACCESS2": 6.1047902555000855, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.956284408256504, 
+    "TRACT": "1903", 
+    "ACCESS2": 3.2565571199303585, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.525942154531418, 
+    "TRACT": "0312", 
+    "ACCESS2": 15.25305647024297, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 7.951683078783215, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 1.8066556672608711, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.643637603017272, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 2.2877175580923907, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 8.151317920047058, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 1.9349662387423276, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.833259743456026, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 2.8272213145411267, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.040870542077466, 
+    "TRACT": "0612", 
+    "ACCESS2": 9.226879805610956, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.3351212806303945, 
+    "TRACT": "5601", 
+    "ACCESS2": 1.0007277163955364, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 9.266957493621065, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 3.3074403940570143, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 10.014170024472126, 
+    "TRACT": "3204", 
+    "ACCESS2": 3.0993805558906544, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.920062611536503, 
+    "TRACT": "5611", 
+    "ACCESS2": 0.5749252835344955, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 13.352706820323258, 
+    "TRACT": "0309", 
+    "ACCESS2": 10.221997906402676, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.435346850268669, 
+    "TRACT": "3405", 
+    "ACCESS2": 3.0912010665313567, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.645323965059339, 
+    "TRACT": "8352", 
+    "ACCESS2": 0.7824524619775108, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.139977993417833, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 4.500256055821207, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.438253669099096, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 2.051946079430283, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.369541905818785, 
+    "TRACT": "6909", 
+    "ACCESS2": 2.9928527880734737, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.793681763281809, 
+    "TRACT": "8363", 
+    "ACCESS2": 6.462852773607284, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.914409724694636, 
+    "TRACT": "8358", 
+    "ACCESS2": 2.6552817154028925, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.401010364406918, 
+    "TRACT": "6115", 
+    "ACCESS2": 1.4412212045456685, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.40674934518687, 
+    "TRACT": "1603", 
+    "ACCESS2": 2.893692911549618, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.357798015117238, 
+    "TRACT": "3007", 
+    "ACCESS2": 4.280027899437554, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 17.692342171436398, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 24.21886645119653, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.223424869131335, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 56.020356354352444, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 20.89865514231077, 
+    "TRACT": "0702", 
+    "ACCESS2": 28.855588561022724, 
+    "YEAR": 2003, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 7.987832720806836, 
+    "TRACT": "4503", 
+    "ACCESS2": 4.102966453444454, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.610869782734759, 
+    "TRACT": "5806", 
+    "ACCESS2": 1.4998241473403313, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.9190494272594, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 1.158319598885146, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.763028626550827, 
+    "TRACT": "0311", 
+    "ACCESS2": 15.812319132388382, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 13.656432597533342, 
+    "TRACT": "2408", 
+    "ACCESS2": 7.233467225927887, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.56592640517817, 
+    "TRACT": "2601", 
+    "ACCESS2": 9.960477821424483, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.368043876679165, 
+    "TRACT": "1709", 
+    "ACCESS2": 1.4200372937561327, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.099589966072774, 
+    "TRACT": "2514", 
+    "ACCESS2": 2.0610685810085108, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.633094729557095, 
+    "TRACT": "2214", 
+    "ACCESS2": 5.009326010066791, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.599879208819594, 
+    "TRACT": "1612", 
+    "ACCESS2": 6.233611592001634, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.350631618263328, 
+    "TRACT": "2302", 
+    "ACCESS2": 5.1347509406726, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 14.214442473569356, 
+    "TRACT": "4203", 
+    "ACCESS2": 17.13914572193564, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.64407274950902, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 0.3514896246765873, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.564797162192749, 
+    "TRACT": "1512", 
+    "ACCESS2": 13.36553667842409, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 8.74757474700561, 
+    "TRACT": "3805", 
+    "ACCESS2": 2.331688609299198, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.296696343831647, 
+    "TRACT": "3005", 
+    "ACCESS2": 2.870631077976079, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.7503086232909455, 
+    "TRACT": "7202", 
+    "ACCESS2": 0.6840147585319412, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.767914158014143, 
+    "TRACT": "3902", 
+    "ACCESS2": 2.7122607392902602, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.520131650372356, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 2.209995263973199, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 8.90620933385388, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 2.5363788390440973, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.736412863011387, 
+    "TRACT": "4903", 
+    "ACCESS2": 1.1405875138164, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 11.156305381131673, 
+    "TRACT": "8421", 
+    "ACCESS2": 4.734625309508836, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.923057905800627, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 6.287899250871904, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.887190082026622, 
+    "TRACT": "8429", 
+    "ACCESS2": 6.743190560217211, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.522052982448197, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 1.8601860340284366, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.44887636606935, 
+    "TRACT": "6006", 
+    "ACCESS2": 2.4898119935739427, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.116538951448232, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 4.382682352970955, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.151658312159803, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.5925464428293011, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.609441846999143, 
+    "TRACT": "0629", 
+    "ACCESS2": 28.559102209256444, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 12.064161392114634, 
+    "TRACT": "1401", 
+    "ACCESS2": 8.450543832144584, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.058795785413889, 
+    "TRACT": "6610", 
+    "ACCESS2": 3.2985610774899823, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.580414936387395, 
+    "TRACT": "2308", 
+    "ACCESS2": 5.788137221443202, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.022694522624121, 
+    "TRACT": "5602", 
+    "ACCESS2": 0.8919157492470053, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 11.477558701708055, 
+    "TRACT": "2211", 
+    "ACCESS2": 3.8711645836292647, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.153191603857538, 
+    "TRACT": "1502", 
+    "ACCESS2": 2.1710697494054414, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.189034321109714, 
+    "TRACT": "4206", 
+    "ACCESS2": 13.062010672201659, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 9.190477553164754, 
+    "TRACT": "8396", 
+    "ACCESS2": 3.055327605478636, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.730967623197186, 
+    "TRACT": "5803", 
+    "ACCESS2": 1.616556961147181, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.72216625741906, 
+    "TRACT": "0618", 
+    "ACCESS2": 11.524199196898785, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 12.461551284274202, 
+    "TRACT": "2435", 
+    "ACCESS2": 4.65473046484464, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.9895496425302666, 
+    "TRACT": "7401", 
+    "ACCESS2": 0.42805355397474903, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.540703969977093, 
+    "TRACT": "2604", 
+    "ACCESS2": 3.9292002970870796, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 12.809002043864579, 
+    "TRACT": "4105", 
+    "ACCESS2": 12.093717943356896, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.741697693117355, 
+    "TRACT": "4804", 
+    "ACCESS2": 6.131201786872997, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.313246612950472, 
+    "TRACT": "6704", 
+    "ACCESS2": 1.6242465743266734, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.306837984273605, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 3.150467474848434, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.27486054645748, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 2.2656485884057065, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 14.56051188900501, 
+    "TRACT": "2429", 
+    "ACCESS2": 8.048758560450011, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.811752772965555, 
+    "TRACT": "6203", 
+    "ACCESS2": 0.8766996442026653, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.204786964033286, 
+    "TRACT": "2925", 
+    "ACCESS2": 2.6903427091097116, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 11.460116069437944, 
+    "TRACT": "2205", 
+    "ACCESS2": 3.7521196770914353, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.318481155815369, 
+    "TRACT": "8424", 
+    "ACCESS2": 1.3249342666607993, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.426337747924329, 
+    "TRACT": "4906", 
+    "ACCESS2": 1.0612982559271302, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.016337198272257, 
+    "TRACT": "8414", 
+    "ACCESS2": 5.084903808959115, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.953674421239986, 
+    "TRACT": "5701", 
+    "ACCESS2": 1.2360339391824275, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.692094702121798, 
+    "TRACT": "0903", 
+    "ACCESS2": 2.2268575070050245, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.204822440701705, 
+    "TRACT": "3102", 
+    "ACCESS2": 3.0668478538212613, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 16.143934765969934, 
+    "TRACT": "0632", 
+    "ACCESS2": 16.419455011223324, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.440620175265591, 
+    "TRACT": "8349", 
+    "ACCESS2": 2.0636515464842144, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 12.908082752701867, 
+    "TRACT": "0511", 
+    "ACCESS2": 5.1692595298286985, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 16.25430881321343, 
+    "TRACT": "0610", 
+    "ACCESS2": 14.504366701591865, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.581329006078512, 
+    "TRACT": "6303", 
+    "ACCESS2": 1.1450199014838616, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.751009935401544, 
+    "TRACT": "6709", 
+    "ACCESS2": 2.138609595783356, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.155746938513213, 
+    "TRACT": "2305", 
+    "ACCESS2": 3.00585736851277, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 14.833483529220258, 
+    "TRACT": "8373", 
+    "ACCESS2": 12.046722426287818, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 13.538277912927102, 
+    "TRACT": "2432", 
+    "ACCESS2": 6.072639499224376, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 11.379760501715095, 
+    "TRACT": "2107", 
+    "ACCESS2": 3.7572362635798813, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 10.013634801995073, 
+    "TRACT": "2003", 
+    "ACCESS2": 3.043393166310075, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 14.44796400069766, 
+    "TRACT": "0714", 
+    "ACCESS2": 9.434515949731027, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.719291084195756, 
+    "TRACT": "1901", 
+    "ACCESS2": 3.5838210602231064, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 12.880971438597065, 
+    "TRACT": "2832", 
+    "ACCESS2": 7.320469836797757, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.075860004907343, 
+    "TRACT": "8369", 
+    "ACCESS2": 11.304047805548532, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.559330159835309, 
+    "TRACT": "3905", 
+    "ACCESS2": 3.991874129727522, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.879726575763268, 
+    "TRACT": "2424", 
+    "ACCESS2": 24.332576036864644, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.030137000121797, 
+    "TRACT": "6407", 
+    "ACCESS2": 0.6279434032973377, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 12.591236001811673, 
+    "TRACT": "2912", 
+    "ACCESS2": 7.118491989565824, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.707088950061564, 
+    "TRACT": "0815", 
+    "ACCESS2": 24.27244225354011, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 17.917277295101574, 
+    "TRACT": "0318", 
+    "ACCESS2": 21.99588309057417, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.87642433958666, 
+    "TRACT": "6111", 
+    "ACCESS2": 1.7297122661903142, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 11.63269637678283, 
+    "TRACT": "2607", 
+    "ACCESS2": 5.389217506806151, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.790328627400726, 
+    "TRACT": "6701", 
+    "ACCESS2": 1.969004595976777, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 8.338317022600616, 
+    "TRACT": "8306", 
+    "ACCESS2": 2.676665299852207, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 11.84153944145294, 
+    "TRACT": "1607", 
+    "ACCESS2": 4.921867159754733, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.829799943310336, 
+    "TRACT": "0106", 
+    "ACCESS2": 2.3621512783586875, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.7859489687062755, 
+    "TRACT": "6304", 
+    "ACCESS2": 1.261805338310833, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 4.784454090300556, 
+    "TRACT": "5202", 
+    "ACCESS2": 0.9178318129784406, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 20.394041642741275, 
+    "TRACT": "0408", 
+    "ACCESS2": 70.12005773476889, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 10.904479374601841, 
+    "TRACT": "4207", 
+    "ACCESS2": 6.8535739502046, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 17.34522247486894, 
+    "TRACT": "0406", 
+    "ACCESS2": 21.451925228443073, 
+    "YEAR": 2003, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 14.954405778374296, 
+    "TRACT": "0717", 
+    "ACCESS2": 9.954024461126059, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.435945589892215, 
+    "TRACT": "1103", 
+    "ACCESS2": 1.319538177818304, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.532326301370747, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 0.5403604237744989, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.99843966465812, 
+    "TRACT": "6120", 
+    "ACCESS2": 1.9722562014997567, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 18.244451372906347, 
+    "TRACT": "2427", 
+    "ACCESS2": 29.605276789359078, 
+    "YEAR": 2003, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 9.773572249248373, 
+    "TRACT": "8346", 
+    "ACCESS2": 5.218156309190302, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.153651650786225, 
+    "TRACT": "8411", 
+    "ACCESS2": 3.616898351992003, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.873559875877039, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 1.569275848062722, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.964263035040441, 
+    "TRACT": "5301", 
+    "ACCESS2": 1.9060943719240309, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 14.159581044002021, 
+    "TRACT": "2402", 
+    "ACCESS2": 6.904624340485525, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.3534522914382725, 
+    "TRACT": "7206", 
+    "ACCESS2": 0.5569540467754596, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 12.798172253407676, 
+    "TRACT": "0514", 
+    "ACCESS2": 4.888573402455563, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.367327032647787, 
+    "TRACT": "4907", 
+    "ACCESS2": 1.259319915141078, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.010728098777475, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 1.5257006814863543, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.913317126302655, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 1.4500557212541776, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 11.118731712021155, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 3.8936007985236443, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 13.223472118714161, 
+    "TRACT": "8422", 
+    "ACCESS2": 5.599084401489831, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.641714565740106, 
+    "TRACT": "8399", 
+    "ACCESS2": 2.03450495281561, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.8859726019318663, 
+    "TRACT": "7504", 
+    "ACCESS2": 0.4305460604973403, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 14.305717978079636, 
+    "TRACT": "8310", 
+    "ACCESS2": 7.647595601521296, 
+    "YEAR": 2003, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 9.805640412908406, 
+    "TRACT": "2909", 
+    "ACCESS2": 3.1876779119392755, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 15.867435306421827, 
+    "TRACT": "2410", 
+    "ACCESS2": 13.489740660595013, 
+    "YEAR": 2003, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.7650889879889595, 
+    "TRACT": "1707", 
+    "ACCESS2": 1.015300197364149, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 9.572439775580168, 
+    "TRACT": "0303", 
+    "ACCESS2": 3.909908113229603, 
+    "YEAR": 2003, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Hospital", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 7.759054093856937, 
+    "TRACT": "6911", 
+    "ACCESS2": 2.4430379870793946, 
+    "YEAR": 2003, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }
+]

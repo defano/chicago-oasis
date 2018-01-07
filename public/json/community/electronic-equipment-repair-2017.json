@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.014173288543636253, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.2661593344121664, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 2.3517738118862987, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.2622300466786465, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 9.455117742253979, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.41200062173926, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.19229383307996042, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.6968589179457814, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.03609480539843742, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7101422590385659, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.051163443539161337, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7497185297870039, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.05273321024710159, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8889955463084679, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.07738943389823788, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8791919297509745, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.0473749676212218, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7217461834227492, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.058500179268349405, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8375898394813861, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.7444970160665594, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.0386494356320832, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.0034848730705133316, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.08348496677278938, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.028690591614406676, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.5354261977481695, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.032364266442558416, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.40198279271441273, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.019143143375136926, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.3658901428821047, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 1.9032182025214717, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.695256622893694, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.8171762610601422, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.851014161294443, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.006300752180226429, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.11224656410699413, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.002868578715566724, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.0535591142156657, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.1248042700089086, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.1713326176144307, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.18506393285738185, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.8236211101637898, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.3089409236353727, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.8267125247250655, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 4.374789723444955, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.791640065142664, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.007236051019708697, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.14726444665936395, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.06799217649503497, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.5824330475901662, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.08787194819674526, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.936798810822917, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.05256070913855721, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8874833698576226, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 2.491527288251008, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.078454695727567, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.45349054170399744, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.599031636932276, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.1730570827142508, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.31425687868749, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.2931430499068022, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.516919429121866, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.210297301087205, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.5871398234608736, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 1.3047413729433657, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.917288527341649, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.8953697964488339, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.514801082579261, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.00944820099906862, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.1942626250195374, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.7654700671395195, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.8912217854865823, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.47221841292384725, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.674900015185322, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 3.9741978355937913, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.08316977691118, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.031866254173512375, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.564317766789974, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.027561104674651456, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.40639520788857464, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 87.73133297018374, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.885176151509842, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.3197457452156075, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.523848486472145, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.05065473813795876, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7456122503532013, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 1.7206962198152078, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.828682782553952, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.029652577077579498, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.42167864951014333, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.03030795197160467, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.3011145664960118, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.1260216725439566, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.0484923970313589, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.01670622605178662, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.3654979976196568, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.4060074387300937, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.8418432731649355, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.009910499636760672, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.19905652717206682, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.012280471161015882, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.15660704821624008, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.04979126376734644, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.31545561134905464, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 2.3736634946446418, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.873178280649992, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.09175653414526382, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.1726079697828973, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.0037165073480788357, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.08618671388791059, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.2764158309951476, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.283212341122564, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 4.922171101376896, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.190962604135681, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.6440025995622939, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.2904101708787983, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.0434867365096375, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.4657176872006867, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.08997333669117998, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.3060715620677015, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.03877464249606822, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.5208191170735242, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.031893672353905, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.47240595601197494, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.02293098269011974, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.4280968569204396, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.013173804195426195, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.2810065761905933, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.06197515607682959, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8242828424797572, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.02856924445405179, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.4779324698038501, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.02216677276029131, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.2977128441079172, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.016496856016689234, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.33976689837025725, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.07384482029144651, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.8586859977448421, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.04123489579136854, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.4539571460336156, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.04646550671186907, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7463253297453059, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.10414915342719772, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.329848143748226, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.10578108241780737, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.6496123443276767, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.019576461194554147, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.2422433877220489, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.4943951613659114, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.421949332278738, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.045821803196001244, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.6052749214385269, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Electronic Equipment Repair", 
+    "ACCESS2": 0.8878355098940425, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.224881507163928, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

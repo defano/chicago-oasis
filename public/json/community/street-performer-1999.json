@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 5.427625354033127, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.297253268675495, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 10.50412677733776, 
+    "YEAR": 1999, 
+    "ACCESS1": 15.660303940822825, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.2144564975008265, 
+    "YEAR": 1999, 
+    "ACCESS1": 11.26875570078672, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 14.678374526790526, 
+    "YEAR": 1999, 
+    "ACCESS1": 23.917332826587568, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.7135245058599307, 
+    "YEAR": 1999, 
+    "ACCESS1": 9.935566673397057, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.7771123482498634, 
+    "YEAR": 1999, 
+    "ACCESS1": 9.526671166511376, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 6.9384233653990135, 
+    "YEAR": 1999, 
+    "ACCESS1": 17.8062231464207, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.8656378598368586, 
+    "YEAR": 1999, 
+    "ACCESS1": 12.792140164951798, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.897453102699762, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.626008688574387, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.382816994530491, 
+    "YEAR": 1999, 
+    "ACCESS1": 14.086523724975795, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.968660400661108, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.83166223319441, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.10689402645847013, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.9714633705166915, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 52.793495079995694, 
+    "YEAR": 1999, 
+    "ACCESS1": 24.066798637723206, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.7466441990986892, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.3335364462466925, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.530608317111703, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.279894143412913, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.478876232519341, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.116989148132902, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.5480968000792112, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.985159240074184, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.6207221675940784, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.758592480876346, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.3265191425058529, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.0125378771292017, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 229.1698910475268, 
+    "YEAR": 1999, 
+    "ACCESS1": 44.98811363235051, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 7.479972867384872, 
+    "YEAR": 1999, 
+    "ACCESS1": 22.883560496785545, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.2949668540474377, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.102820334262695, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.814052590637684, 
+    "YEAR": 1999, 
+    "ACCESS1": 9.689914902090859, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.4521503443210264, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.2104277735893945, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.7298442050490328, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.990891068996277, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 9.573372749880718, 
+    "YEAR": 1999, 
+    "ACCESS1": 17.235504137211333, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.413914360459512, 
+    "YEAR": 1999, 
+    "ACCESS1": 12.6165479028592, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 6.1143384393947375, 
+    "YEAR": 1999, 
+    "ACCESS1": 31.49885371946736, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.500016736593541, 
+    "YEAR": 1999, 
+    "ACCESS1": 16.50771202506333, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.04906960585115, 
+    "YEAR": 1999, 
+    "ACCESS1": 12.103530613916904, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 6.622206935566135, 
+    "YEAR": 1999, 
+    "ACCESS1": 10.132409308051292, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 76.40187635229366, 
+    "YEAR": 1999, 
+    "ACCESS1": 32.8204712010915, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 5.214136665481527, 
+    "YEAR": 1999, 
+    "ACCESS1": 26.370459664576316, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.9746711502254146, 
+    "YEAR": 1999, 
+    "ACCESS1": 11.507580789258105, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.1913370592732995, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.5624090285735055, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.476153597857107, 
+    "YEAR": 1999, 
+    "ACCESS1": 18.88045056455697, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.3822140820071895, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.499697514058688, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 207.97344836235308, 
+    "YEAR": 1999, 
+    "ACCESS1": 52.88726327128799, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.533879081767909, 
+    "YEAR": 1999, 
+    "ACCESS1": 9.729488162697596, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.6395850945017352, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.432410100967892, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.801801887681999, 
+    "YEAR": 1999, 
+    "ACCESS1": 14.248187871119667, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 40.80381546517403, 
+    "YEAR": 1999, 
+    "ACCESS1": 42.32052819537429, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 15.170189366369101, 
+    "YEAR": 1999, 
+    "ACCESS1": 17.756861929702772, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.5534820580629383, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.127975101284528, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 12.270064605390692, 
+    "YEAR": 1999, 
+    "ACCESS1": 12.20050184659765, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.3401338784713017, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.9027742488960215, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.05679316677859, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.721583906421656, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.4807720558755509, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.253291901151899, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.3342376850225115, 
+    "YEAR": 1999, 
+    "ACCESS1": 20.456480881939342, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.20161690808651106, 
+    "YEAR": 1999, 
+    "ACCESS1": 2.0590397432472227, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.2769872587201734, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.79694089477321, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.20180980992463404, 
+    "YEAR": 1999, 
+    "ACCESS1": 1.441024087100733, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.246863742977117, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.023971014252052, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 9.967396726505305, 
+    "YEAR": 1999, 
+    "ACCESS1": 21.939160871081675, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.10700262301893469, 
+    "YEAR": 1999, 
+    "ACCESS1": 0.992199847470109, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.919405819952146, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.328269066014501, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.7068820204910304, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.522601639094624, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.0685372401929563, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.612313327095773, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.2866658417743118, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.617254996396597, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 6.909562906036969, 
+    "YEAR": 1999, 
+    "ACCESS1": 21.574885196537856, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.3675503223666294, 
+    "YEAR": 1999, 
+    "ACCESS1": 8.151008172974757, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.5177522488870524, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.41557289571891, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.8562637617008034, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.615477678430028, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.0703529658212056, 
+    "YEAR": 1999, 
+    "ACCESS1": 4.437580341804103, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.0375546821306036, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.740722501036654, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.7200336830522202, 
+    "YEAR": 1999, 
+    "ACCESS1": 5.380703938043247, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.521661791730531, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.2594985293015766, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.4130658686935678, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.7926843107313837, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.6303759070448463, 
+    "YEAR": 1999, 
+    "ACCESS1": 11.042712803530668, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 2.3767704435541854, 
+    "YEAR": 1999, 
+    "ACCESS1": 6.976911345699055, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 4.526081113304635, 
+    "YEAR": 1999, 
+    "ACCESS1": 13.857274124327889, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 11.20842596939323, 
+    "YEAR": 1999, 
+    "ACCESS1": 24.25055204101501, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 9.974944184131283, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.358383815310445, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 0.8530327006049362, 
+    "YEAR": 1999, 
+    "ACCESS1": 3.3896837720941084, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 3.715688408641574, 
+    "YEAR": 1999, 
+    "ACCESS1": 20.77064047618561, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 1.669870995710903, 
+    "YEAR": 1999, 
+    "ACCESS1": 7.856253861211744, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Street Performer", 
+    "ACCESS2": 11.743280386946566, 
+    "YEAR": 1999, 
+    "ACCESS1": 38.08602012133806, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

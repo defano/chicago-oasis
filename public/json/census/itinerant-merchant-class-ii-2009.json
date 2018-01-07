@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 32, 
+    "ACCESS1": 39.08175368365479, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 50.44963284463723, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.360661158328774, 
+    "TRACT": "4003", 
+    "ACCESS2": 1.4555182452169908, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 40.14172246612893, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 72.6057722991519, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 39.3236567282553, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 74.50931245761203, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.778706787867713, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 0.5307378454315186, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.574587422292435, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 0.4879219641699648, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 56.959032639191804, 
+    "TRACT": "0705", 
+    "ACCESS2": 88.9824765045903, 
+    "YEAR": 2009, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.408233356105846, 
+    "TRACT": "8387", 
+    "ACCESS2": 2.260693079342551, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.033764058459564, 
+    "TRACT": "4406", 
+    "ACCESS2": 0.636763927834563, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.964761893901124, 
+    "TRACT": "7113", 
+    "ACCESS2": 1.6021855120975776, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 16.85681637930089, 
+    "TRACT": "3301", 
+    "ACCESS2": 5.479990838184129, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 15.813093483264256, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 17.0990205567474, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.127432144031004, 
+    "TRACT": "8343", 
+    "ACCESS2": 0.6140082169659812, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.805191980804848, 
+    "TRACT": "6708", 
+    "ACCESS2": 0.9298869106939607, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.841134304312524, 
+    "TRACT": "1202", 
+    "ACCESS2": 2.1653523876299174, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.849472039661492, 
+    "TRACT": "7102", 
+    "ACCESS2": 0.802636271489226, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.166985480470256, 
+    "TRACT": "4107", 
+    "ACCESS2": 6.558076499989711, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.317824120401728, 
+    "TRACT": "1002", 
+    "ACCESS2": 1.9714897069901733, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 55, 
+    "ACCESS1": 64.13051775473376, 
+    "TRACT": "0712", 
+    "ACCESS2": 169.02362506478465, 
+    "YEAR": 2009, 
+    "ONE_MILE": 17, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 23.574859588664538, 
+    "TRACT": "8331", 
+    "ACCESS2": 10.392067329025398, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.39702114505281, 
+    "TRACT": "0401", 
+    "ACCESS2": 6.460786332703076, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.796757062481655, 
+    "TRACT": "1702", 
+    "ACCESS2": 2.667944289587042, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.452414058362557, 
+    "TRACT": "7304", 
+    "ACCESS2": 1.274130151653964, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 17.606239886889014, 
+    "TRACT": "8382", 
+    "ACCESS2": 4.972627886748306, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.896517862606402, 
+    "TRACT": "1404", 
+    "ACCESS2": 5.442130334991092, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.21357664437997, 
+    "TRACT": "6903", 
+    "ACCESS2": 0.8511787099469228, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.953364286647297, 
+    "TRACT": "3108", 
+    "ACCESS2": 3.5812810590841733, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.599773298862324, 
+    "TRACT": "4208", 
+    "ACCESS2": 1.166807207029097, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 29.456117784031328, 
+    "TRACT": "0609", 
+    "ACCESS2": 18.30780552020567, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.593036285535534, 
+    "TRACT": "6914", 
+    "ACCESS2": 0.7221537123617348, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.748417861332808, 
+    "TRACT": "6309", 
+    "ACCESS2": 0.896018973929502, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.919104158782636, 
+    "TRACT": "6408", 
+    "ACCESS2": 0.770224522369822, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.496778326613327, 
+    "TRACT": "4606", 
+    "ACCESS2": 0.4737191952490329, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.549035445601156, 
+    "TRACT": "6809", 
+    "ACCESS2": 0.9111395655859426, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.589545695897846, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.4779415587796244, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.404228880978628, 
+    "TRACT": "5206", 
+    "ACCESS2": 0.2959833799583569, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.353729803109617, 
+    "TRACT": "4004", 
+    "ACCESS2": 1.2810883014039096, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.599361739161916, 
+    "TRACT": "8434", 
+    "ACCESS2": 1.6298949881386189, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.796412545098123, 
+    "TRACT": "4802", 
+    "ACCESS2": 0.5445945554382099, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.151405041829431, 
+    "TRACT": "6702", 
+    "ACCESS2": 1.0046070938859493, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.713631037894562, 
+    "TRACT": "1704", 
+    "ACCESS2": 1.913619834007456, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 40.89780242020986, 
+    "TRACT": "2203", 
+    "ACCESS2": 64.05541696070577, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.369537974148916, 
+    "TRACT": "1007", 
+    "ACCESS2": 2.718967755695523, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 43.63097959189784, 
+    "TRACT": "0622", 
+    "ACCESS2": 47.72628446591892, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.258914085250771, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.6940008647286315, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.03670911126024, 
+    "TRACT": "0205", 
+    "ACCESS2": 3.882949343250062, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 28.639909243604336, 
+    "TRACT": "0608", 
+    "ACCESS2": 17.761585556135376, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.823161171017216, 
+    "TRACT": "4409", 
+    "ACCESS2": 0.5770779979478453, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.86110239200849, 
+    "TRACT": "3511", 
+    "ACCESS2": 1.9082909009662863, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.603563580672102, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.411478307371746, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.557313395247771, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.38250795293932494, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.80849035633862, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.45730064843573953, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.526612569455358, 
+    "TRACT": "8400", 
+    "ACCESS2": 2.10651160547656, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 34.11856581298171, 
+    "TRACT": "0510", 
+    "ACCESS2": 23.526239972779017, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.544108347091038, 
+    "TRACT": "4109", 
+    "ACCESS2": 5.262694588550074, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.908991239173474, 
+    "TRACT": "2506", 
+    "ACCESS2": 2.323192092497748, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.410788871105796, 
+    "TRACT": "4307", 
+    "ACCESS2": 0.7019009234811858, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.970353424260963, 
+    "TRACT": "8403", 
+    "ACCESS2": 1.7998166280397303, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 18.170421978548898, 
+    "TRACT": "0305", 
+    "ACCESS2": 9.283466096231322, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.930881358992892, 
+    "TRACT": "8420", 
+    "ACCESS2": 2.3137696908268097, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.109722634914488, 
+    "TRACT": "7303", 
+    "ACCESS2": 2.135789602395878, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.264236444660379, 
+    "TRACT": "4912", 
+    "ACCESS2": 0.6159795260948718, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.405555869794748, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 3.2463172775083398, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.204846964938442, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 7.20513036852572, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.96428859021402, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 2.8949003742318364, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.476608450567813, 
+    "TRACT": "2828", 
+    "ACCESS2": 4.216283530580957, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 28.426653116056368, 
+    "TRACT": "2422", 
+    "ACCESS2": 14.723838163906422, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.151143560742812, 
+    "TRACT": "6401", 
+    "ACCESS2": 0.8191391295604062, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.217660205933294, 
+    "TRACT": "6605", 
+    "ACCESS2": 0.8021481126872906, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.454963531474855, 
+    "TRACT": "8431", 
+    "ACCESS2": 2.7052815998199438, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.094762137145573, 
+    "TRACT": "5002", 
+    "ACCESS2": 0.4447330538651232, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.929912112815078, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 1.7557856579435611, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.189021325556936, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 1.5238496724434034, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.045387307707653, 
+    "TRACT": "4204", 
+    "ACCESS2": 1.4965078329280477, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.874203481279418, 
+    "TRACT": "5201", 
+    "ACCESS2": 0.3601783807642176, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.077950681050337, 
+    "TRACT": "1004", 
+    "ACCESS2": 2.9430281340822475, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.570992888225073, 
+    "TRACT": "1506", 
+    "ACCESS2": 2.9784300907685335, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 15.840659087915071, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 4.518070219970388, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.988622617646191, 
+    "TRACT": "1908", 
+    "ACCESS2": 4.115087386765687, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.678264844773308, 
+    "TRACT": "7108", 
+    "ACCESS2": 0.8102891131155326, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 54.95807770578752, 
+    "TRACT": "0703", 
+    "ACCESS2": 84.45954680547031, 
+    "YEAR": 2009, 
+    "ONE_MILE": 22, 
+    "TWO_MILE": 37
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.526400694209282, 
+    "TRACT": "5607", 
+    "ACCESS2": 1.0316407104171132, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 34.018106786025974, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 24.116593431581325, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.321570637540325, 
+    "TRACT": "4403", 
+    "ACCESS2": 0.6746118427042808, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.29973564321687, 
+    "TRACT": "2809", 
+    "ACCESS2": 5.242151228920491, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.470704911327163, 
+    "TRACT": "3012", 
+    "ACCESS2": 2.3334670798422783, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.029836052231294, 
+    "TRACT": "6719", 
+    "ACCESS2": 0.8173947332769742, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.050412713798589, 
+    "TRACT": "8340", 
+    "ACCESS2": 0.6991829505710703, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.115196974268356, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.27869957007560076, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.449235470861928, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.33901969597988235, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.974391735908262, 
+    "TRACT": "6813", 
+    "ACCESS2": 0.7957713050874573, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.557395815188343, 
+    "TRACT": "5204", 
+    "ACCESS2": 0.31444510529523384, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 20.034233184575157, 
+    "TRACT": "8378", 
+    "ACCESS2": 6.3618208038642, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 42.97994923959579, 
+    "TRACT": "0604", 
+    "ACCESS2": 66.50292054338311, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 24
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.562707427390903, 
+    "TRACT": "3510", 
+    "ACCESS2": 2.194249623626356, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.909849110603615, 
+    "TRACT": "8356", 
+    "ACCESS2": 1.272369967117478, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.356313602704015, 
+    "TRACT": "0101", 
+    "ACCESS2": 7.488038638411206, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.894058434405373, 
+    "TRACT": "4108", 
+    "ACCESS2": 18.398451640672707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 18.720419561928786, 
+    "TRACT": "8367", 
+    "ACCESS2": 5.468961750989643, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.850320382998419, 
+    "TRACT": "8432", 
+    "ACCESS2": 3.0635150169890535, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.135556944714427, 
+    "TRACT": "1301", 
+    "ACCESS2": 2.895339090787174, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.717167292351998, 
+    "TRACT": "4304", 
+    "ACCESS2": 0.790462479868936, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.81692046085503, 
+    "TRACT": "2306", 
+    "ACCESS2": 3.9444426492921267, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.259053298345489, 
+    "TRACT": "8339", 
+    "ACCESS2": 0.4272039159053229, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 32.53746116441981, 
+    "TRACT": "0501", 
+    "ACCESS2": 30.806658308103607, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.9548991790175405, 
+    "TRACT": "4605", 
+    "ACCESS2": 0.5728723160667786, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.11330704558554, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 5.11255579772896, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.743602646322655, 
+    "TRACT": "2510", 
+    "ACCESS2": 2.891587864509793, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.991777319317702, 
+    "TRACT": "3011", 
+    "ACCESS2": 2.1362247795372222, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.896624207791648, 
+    "TRACT": "5003", 
+    "ACCESS2": 0.42016040835362445, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.978759138139212, 
+    "TRACT": "8351", 
+    "ACCESS2": 0.9487115411489446, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.855297208410244, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 4.637461578277699, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.669706478363229, 
+    "TRACT": "5608", 
+    "ACCESS2": 1.6324480167861275, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.839415345075523, 
+    "TRACT": "6806", 
+    "ACCESS2": 0.948317765707575, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.68551421009184, 
+    "TRACT": "3602", 
+    "ACCESS2": 1.8561173047486723, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 22.683700837425746, 
+    "TRACT": "2804", 
+    "ACCESS2": 8.503973889983563, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 19.187240156813765, 
+    "TRACT": "1609", 
+    "ACCESS2": 6.718348179562494, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.110511850425572, 
+    "TRACT": "3801", 
+    "ACCESS2": 1.6876036328722757, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.44194257766025, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 2.384868461346254, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.862093294375659, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 0.8867563189953248, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.629868607204551, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 0.782659286425601, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.950097646916229, 
+    "TRACT": "5610", 
+    "ACCESS2": 15.109629506681395, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.757308373392376, 
+    "TRACT": "7101", 
+    "ACCESS2": 0.7757270032984602, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.802148214026642, 
+    "TRACT": "5907", 
+    "ACCESS2": 1.773066729383312, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.849058320500104, 
+    "TRACT": "6504", 
+    "ACCESS2": 0.7499117489470654, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.017382161354076, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 1.2251505955832656, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.055745298372111, 
+    "TRACT": "3406", 
+    "ACCESS2": 1.9357181972979025, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.909836989080238, 
+    "TRACT": "6114", 
+    "ACCESS2": 1.1805195629597791, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.672271625605118, 
+    "TRACT": "1405", 
+    "ACCESS2": 4.414398607960475, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.217500383227092, 
+    "TRACT": "4111", 
+    "ACCESS2": 9.073846674789188, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.449972495880667, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 3.7062671132812413, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.459889970850032, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 0.8445113068544053, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 40.336473338980475, 
+    "TRACT": "2215", 
+    "ACCESS2": 62.66251766318652, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.491778344216359, 
+    "TRACT": "2513", 
+    "ACCESS2": 2.063071003976858, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.876220235247313, 
+    "TRACT": "1302", 
+    "ACCESS2": 3.747569249227149, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 32, 
+    "ACCESS1": 25.45954398019878, 
+    "TRACT": "0314", 
+    "ACCESS2": 13.73146532684383, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 42.01323335139541, 
+    "TRACT": "0625", 
+    "ACCESS2": 43.83995237519455, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.96413507489788, 
+    "TRACT": "8392", 
+    "ACCESS2": 2.818416520636953, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.58734591820759, 
+    "TRACT": "5807", 
+    "ACCESS2": 1.3550607300488793, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 29.34448576410525, 
+    "TRACT": "0502", 
+    "ACCESS2": 22.252986418891155, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.008044528814888, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 0.7712095020072535, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.206663322676352, 
+    "TRACT": "3802", 
+    "ACCESS2": 1.695786578313911, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.7738272022018045, 
+    "TRACT": "7708", 
+    "ACCESS2": 0.7462434036799126, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 27.000932661647077, 
+    "TRACT": "2433", 
+    "ACCESS2": 12.662685464948382, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.687264785551664, 
+    "TRACT": "8360", 
+    "ACCESS2": 1.5984334092086856, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 30.448404461551494, 
+    "TRACT": "2819", 
+    "ACCESS2": 24.883079095370032, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.656002502524848, 
+    "TRACT": "6913", 
+    "ACCESS2": 0.7339975027513338, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.696457759202325, 
+    "TRACT": "4102", 
+    "ACCESS2": 3.8699047067824766, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.723985265087597, 
+    "TRACT": "2714", 
+    "ACCESS2": 3.244383970017166, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 26.44399338088049, 
+    "TRACT": "8308", 
+    "ACCESS2": 17.37671054153769, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 31.474177302555958, 
+    "TRACT": "0801", 
+    "ACCESS2": 18.584142370997107, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 20.435019940940297, 
+    "TRACT": "2303", 
+    "ACCESS2": 7.130131962041751, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.237955036253869, 
+    "TRACT": "4202", 
+    "ACCESS2": 2.080249930317129, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.157838445688638, 
+    "TRACT": "3817", 
+    "ACCESS2": 1.3632061009462055, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.207587163910047, 
+    "TRACT": "9801", 
+    "ACCESS2": 0.8926011703475855, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 48, 
+    "ACCESS1": 33.378814286093686, 
+    "TRACT": "2414", 
+    "ACCESS2": 23.628882633964437, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 22
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.862623220378579, 
+    "TRACT": "6611", 
+    "ACCESS2": 0.7785635230114683, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.727802213052165, 
+    "TRACT": "1703", 
+    "ACCESS2": 2.279587306303805, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 20.462692344234107, 
+    "TRACT": "2309", 
+    "ACCESS2": 6.929938570531565, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 17.152999057432424, 
+    "TRACT": "1402", 
+    "ACCESS2": 5.142608494393088, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.829726609038611, 
+    "TRACT": "5603", 
+    "ACCESS2": 0.9776681388630707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.988716051049986, 
+    "TRACT": "8418", 
+    "ACCESS2": 0.8731985363722949, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.298334320016089, 
+    "TRACT": "7203", 
+    "ACCESS2": 5.8447164369380395, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 34.463938732619, 
+    "TRACT": "0508", 
+    "ACCESS2": 24.318314721424244, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.762085374924164, 
+    "TRACT": "3016", 
+    "ACCESS2": 1.6923272284608304, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.437129129794837, 
+    "TRACT": "3901", 
+    "ACCESS2": 1.764226384768105, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 52, 
+    "ACCESS1": 51.32376898805307, 
+    "TRACT": "0718", 
+    "ACCESS2": 71.4291935569413, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.705206181025012, 
+    "TRACT": "8395", 
+    "ACCESS2": 2.2304380692477674, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.0122945841665, 
+    "TRACT": "5804", 
+    "ACCESS2": 1.1866762984192765, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 17.3317593643039, 
+    "TRACT": "1204", 
+    "ACCESS2": 34.040714851997826, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.438552411880096, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 1.9224153578088279, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.495246481430189, 
+    "TRACT": "8439", 
+    "ACCESS2": 1.3320362005950788, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 60.07844374658932, 
+    "TRACT": "0628", 
+    "ACCESS2": 156.43657845541873, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.972614326412947, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 2.107920576224834, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.474186241587411, 
+    "TRACT": "6117", 
+    "ACCESS2": 1.070561189523507, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 21.18884164092645, 
+    "TRACT": "2428", 
+    "ACCESS2": 7.191167641540872, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.181025643924851, 
+    "TRACT": "5103", 
+    "ACCESS2": 0.4268077975980895, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.7383098367025935, 
+    "TRACT": "6202", 
+    "ACCESS2": 0.9081679142918543, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 36.430812638568796, 
+    "TRACT": "2204", 
+    "ACCESS2": 50.072501137001304, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 16.9650309339209, 
+    "TRACT": "2001", 
+    "ACCESS2": 4.994528954136331, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.633228092291143, 
+    "TRACT": "2508", 
+    "ACCESS2": 2.928718120553097, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.314399197670035, 
+    "TRACT": "5905", 
+    "ACCESS2": 1.5831101740141296, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 28, 
+    "ACCESS1": 26.739339877936157, 
+    "TRACT": "0317", 
+    "ACCESS2": 17.119852241351474, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.675724575462008, 
+    "TRACT": "2916", 
+    "ACCESS2": 2.8264918348876917, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 34.90659706114852, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 27.225078620113173, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 48.036942639102875, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 98.46095548864044, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.367841639534825, 
+    "TRACT": "6501", 
+    "ACCESS2": 0.8262390826719207, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.98344649519015, 
+    "TRACT": "4407", 
+    "ACCESS2": 0.602554402929323, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.602835848895735, 
+    "TRACT": "2603", 
+    "ACCESS2": 2.7587617230725905, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.88803681581056, 
+    "TRACT": "6705", 
+    "ACCESS2": 0.9354854028727254, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.2173558013819115, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 0.41203777510609146, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 33, 
+    "ACCESS1": 31.076302274375486, 
+    "TRACT": "2101", 
+    "ACCESS2": 30.3981751815306, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.5472564470347665, 
+    "TRACT": "7110", 
+    "ACCESS2": 0.865184901666695, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 27.11095285885223, 
+    "TRACT": "2212", 
+    "ACCESS2": 15.697923908114012, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 31.7374444163492, 
+    "TRACT": "0505", 
+    "ACCESS2": 21.698597613571494, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 22
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 13.085908174385471, 
+    "TRACT": "6004", 
+    "ACCESS2": 2.790894078823021, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 17.302264456013262, 
+    "TRACT": "2002", 
+    "ACCESS2": 5.19693416748728, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.298055179205415, 
+    "TRACT": "3814", 
+    "ACCESS2": 1.4428156564211092, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 42.820230975297775, 
+    "TRACT": "0603", 
+    "ACCESS2": 71.45340880953708, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.292094490763624, 
+    "TRACT": "3904", 
+    "ACCESS2": 1.8409324591938097, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.1688813444412816, 
+    "TRACT": "4610", 
+    "ACCESS2": 0.41160157264874414, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.451517686861246, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 0.8675435228101748, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.808182193663048, 
+    "TRACT": "6406", 
+    "ACCESS2": 0.9982047787402516, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 15.236553209193206, 
+    "TRACT": "2713", 
+    "ACCESS2": 3.491425015206115, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.13564284148469, 
+    "TRACT": "8415", 
+    "ACCESS2": 2.5591366454676923, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.836135919670553, 
+    "TRACT": "7503", 
+    "ACCESS2": 6.218103080062335, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.839225187671683, 
+    "TRACT": "1909", 
+    "ACCESS2": 4.30840797273251, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.916430122496505, 
+    "TRACT": "2606", 
+    "ACCESS2": 2.463493197657938, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 33.717630513042444, 
+    "TRACT": "8307", 
+    "ACCESS2": 33.228813066026866, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.758190034786305, 
+    "TRACT": "6706", 
+    "ACCESS2": 0.91277219922065, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 17.99265184273723, 
+    "TRACT": "1604", 
+    "ACCESS2": 5.729218196837359, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.9258077823208595, 
+    "TRACT": "5604", 
+    "ACCESS2": 0.9676382866845615, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.125659845155823, 
+    "TRACT": "1102", 
+    "ACCESS2": 2.493278332190938, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.370971748469069, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 0.6721283596608667, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.152666098706061, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 0.6305084421197795, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.5942280580582615, 
+    "TRACT": "5203", 
+    "ACCESS2": 0.32185578028578005, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.197275067258245, 
+    "TRACT": "6805", 
+    "ACCESS2": 1.0287081850186683, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 34.30928601425709, 
+    "TRACT": "0810", 
+    "ACCESS2": 23.754705672682952, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.356569158442015, 
+    "TRACT": "5801", 
+    "ACCESS2": 1.5843331678304307, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 42.28753910114428, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 59.50607464033682, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.054637078145765, 
+    "TRACT": "6110", 
+    "ACCESS2": 1.2504650312438634, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.879776853746812, 
+    "TRACT": "8438", 
+    "ACCESS2": 1.2286894210035888, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.625606108172096, 
+    "TRACT": "6121", 
+    "ACCESS2": 1.1428772531333176, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.823766665228318, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 5.1526791861469246, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.308223097550087, 
+    "TRACT": "6305", 
+    "ACCESS2": 1.0203035247413228, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.543309757443375, 
+    "TRACT": "7506", 
+    "ACCESS2": 0.8497125274302612, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.936575932559977, 
+    "TRACT": "8412", 
+    "ACCESS2": 2.9813791560698912, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 28.62253934128484, 
+    "TRACT": "2412", 
+    "ACCESS2": 14.81870582378873, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 20
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 54.00850835604374, 
+    "TRACT": "0630", 
+    "ACCESS2": 122.23475752490864, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 36
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 34.79360471821954, 
+    "TRACT": "8383", 
+    "ACCESS2": 23.451032499431097, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.996586230433718, 
+    "TRACT": "7307", 
+    "ACCESS2": 1.0531780757841278, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.199869793993743, 
+    "TRACT": "3501", 
+    "ACCESS2": 2.4767414020914837, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 31.18435680197211, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 20.939418217427768, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.319458405967826, 
+    "TRACT": "0202", 
+    "ACCESS2": 2.3073357049657166, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.722613692808838, 
+    "TRACT": "4904", 
+    "ACCESS2": 0.5678646347098361, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.278314926068356, 
+    "TRACT": "3907", 
+    "ACCESS2": 2.9610739538009136, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.784826412400464, 
+    "TRACT": "7001", 
+    "ACCESS2": 0.8245538483731161, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 17.960259253758572, 
+    "TRACT": "2307", 
+    "ACCESS2": 5.197254647877838, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.961282795685833, 
+    "TRACT": "8371", 
+    "ACCESS2": 4.981346994514941, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.225518846645008, 
+    "TRACT": "8347", 
+    "ACCESS2": 1.0507974641457258, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 23.43924235192266, 
+    "TRACT": "2430", 
+    "ACCESS2": 9.062312223353839, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.404975976567219, 
+    "TRACT": "7404", 
+    "ACCESS2": 12.436518539803654, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.575017209340118, 
+    "TRACT": "4911", 
+    "ACCESS2": 0.7172121760022581, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.044024283467495, 
+    "TRACT": "8398", 
+    "ACCESS2": 2.310281643096885, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.327981045619822, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 6.428979956914492, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.148090859479975, 
+    "TRACT": "1708", 
+    "ACCESS2": 2.6276320612336432, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 50, 
+    "ACCESS1": 46.269359981224255, 
+    "TRACT": "0716", 
+    "ACCESS2": 53.750364025271374, 
+    "YEAR": 2009, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.810959823042509, 
+    "TRACT": "7207", 
+    "ACCESS2": 2.326733121429924, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.916095916374509, 
+    "TRACT": "4201", 
+    "ACCESS2": 1.8269787629821743, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 26.63531063481311, 
+    "TRACT": "2411", 
+    "ACCESS2": 12.43532886384057, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.694666204058006, 
+    "TRACT": "1706", 
+    "ACCESS2": 1.4916805559782063, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.91709479444229, 
+    "TRACT": "6910", 
+    "ACCESS2": 0.7935130680249062, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.735632101121451, 
+    "TRACT": "3807", 
+    "ACCESS2": 1.5297960341943297, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.744452652627883, 
+    "TRACT": "8428", 
+    "ACCESS2": 1.1216180052054912, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.899568764932019, 
+    "TRACT": "8407", 
+    "ACCESS2": 2.496111529325216, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.5838801378442, 
+    "TRACT": "1104", 
+    "ACCESS2": 2.696414540934881, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 22.228513671784164, 
+    "TRACT": "1608", 
+    "ACCESS2": 10.312688701104967, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 18.606853723843862, 
+    "TRACT": "8380", 
+    "ACCESS2": 5.479627870300944, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 75.3319627545139, 
+    "TRACT": "8319", 
+    "ACCESS2": 1457.5439208490832, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.123417275860806, 
+    "TRACT": "6703", 
+    "ACCESS2": 0.993341030272998, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.567771746745237, 
+    "TRACT": "3302", 
+    "ACCESS2": 6.854763666803317, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.568303389215775, 
+    "TRACT": "8313", 
+    "ACCESS2": 3.346749995862556, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 16.631091100149852, 
+    "TRACT": "8374", 
+    "ACCESS2": 4.238058654220776, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 20.58307652449171, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 8.111484752706946, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 20.155348995166378, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 7.362562304665517, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.478325392656744, 
+    "TRACT": "1910", 
+    "ACCESS2": 3.9723838342350644, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.60430913920461, 
+    "TRACT": "8344", 
+    "ACCESS2": 1.2657184740983052, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.080933296251748, 
+    "TRACT": "3504", 
+    "ACCESS2": 2.8556170499095885, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.008077094553531, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 0.5852593113785911, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.205731481626357, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 0.6388522030678695, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.630955027196552, 
+    "TRACT": "6505", 
+    "ACCESS2": 0.7130676134617707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.5014993933632335, 
+    "TRACT": "4602", 
+    "ACCESS2": 0.47135460252672096, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.35704195124864, 
+    "TRACT": "2519", 
+    "ACCESS2": 1.9161273394057845, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 26.097072111526174, 
+    "TRACT": "8330", 
+    "ACCESS2": 12.758418200871612, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.881044475349602, 
+    "TRACT": "4008", 
+    "ACCESS2": 1.0902829556215274, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 56, 
+    "ACCESS1": 71.24311086338139, 
+    "TRACT": "0711", 
+    "ACCESS2": 192.64014515526776, 
+    "YEAR": 2009, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 54, 
+    "ACCESS1": 63.8989204651271, 
+    "TRACT": "8326", 
+    "ACCESS2": 141.96611266173795, 
+    "YEAR": 2009, 
+    "ONE_MILE": 17, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.5559457569819655, 
+    "TRACT": "7114", 
+    "ACCESS2": 1.0108280349475034, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.00789637415778, 
+    "TRACT": "2715", 
+    "ACCESS2": 2.9192180381372554, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.363693158812154, 
+    "TRACT": "8417", 
+    "ACCESS2": 2.263706805262145, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.82025916721905, 
+    "TRACT": "7501", 
+    "ACCESS2": 1.0092587479488797, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 21.257551434989427, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 9.398026811117779, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.567232047315747, 
+    "TRACT": "1003", 
+    "ACCESS2": 6.517966254113141, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 20.54512603211184, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 8.604543418109346, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.185161630514752, 
+    "TRACT": "2315", 
+    "ACCESS2": 4.006349979735896, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.5148766687492055, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 0.7976395621020074, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.589450304399314, 
+    "TRACT": "2104", 
+    "ACCESS2": 6.307071181229555, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.480916081544034, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 3.8079525737176096, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.11023704892838, 
+    "TRACT": "0201", 
+    "ACCESS2": 3.1968991954521795, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.5737473228135705, 
+    "TRACT": "4601", 
+    "ACCESS2": 0.4834840329720699, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.006001581762931, 
+    "TRACT": "4914", 
+    "ACCESS2": 0.4664301939865429, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.520473483751358, 
+    "TRACT": "8404", 
+    "ACCESS2": 2.0283115246623833, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.417382363632507, 
+    "TRACT": "4308", 
+    "ACCESS2": 0.7039032429768203, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 17.068053946646938, 
+    "TRACT": "8312", 
+    "ACCESS2": 4.813146304366772, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.112271939046137, 
+    "TRACT": "8435", 
+    "ACCESS2": 1.8254316591378965, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.120209377022569, 
+    "TRACT": "2502", 
+    "ACCESS2": 3.240268694133783, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.037419477724855, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 4.626544680784819, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.595998348936982, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 0.8683422752306735, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.990533166583965, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 5.013073707309508, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.656264757010842, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 4.798521374032053, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.239369706677914, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 4.610675901559315, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.620082848226714, 
+    "TRACT": "1911", 
+    "ACCESS2": 3.6558368239202585, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.110900639260237, 
+    "TRACT": "2609", 
+    "ACCESS2": 2.536229772340578, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.283815188449758, 
+    "TRACT": "0403", 
+    "ACCESS2": 5.341777240953914, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 22.812810845184934, 
+    "TRACT": "2426", 
+    "ACCESS2": 8.58012144225915, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.719471769920446, 
+    "TRACT": "6405", 
+    "ACCESS2": 1.2633689691235308, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 31.016765702484385, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 18.283722021673643, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.066062148428571, 
+    "TRACT": "0204", 
+    "ACCESS2": 3.6086797105572415, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.840385126955379, 
+    "TRACT": "4408", 
+    "ACCESS2": 0.5678900314042915, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.40330368366119, 
+    "TRACT": "6713", 
+    "ACCESS2": 0.851324277004732, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.125807179305308, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 5.567143306724455, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 16.06028005802456, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 19.081332390508766, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.004815855206687, 
+    "TRACT": "1613", 
+    "ACCESS2": 5.740387604022877, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 15.77449358294418, 
+    "TRACT": "2712", 
+    "ACCESS2": 3.7639349352153917, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 58.805857233802875, 
+    "TRACT": "0704", 
+    "ACCESS2": 105.34819855114034, 
+    "YEAR": 2009, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 37
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.257615918612185, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 4.017069863028814, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.56813786192154, 
+    "TRACT": "4101", 
+    "ACCESS2": 4.25301363775091, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 22.76737173978819, 
+    "TRACT": "2227", 
+    "ACCESS2": 9.44393932167879, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.0035073939078005, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.5759497570897472, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 41.20156062246538, 
+    "TRACT": "0513", 
+    "ACCESS2": 37.262560498559374, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 42
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 34.93959847005285, 
+    "TRACT": "0819", 
+    "ACCESS2": 25.478251735623182, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 41.82786145354524, 
+    "TRACT": "0621", 
+    "ACCESS2": 43.50558575293378, 
+    "YEAR": 2009, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.83279393852162, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 7.098250069118109, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 16.53194657925754, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 5.411423986534913, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.749886535170811, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 1.4693593010471628, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.124470972884183, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 5.711568323147707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.655665603305296, 
+    "TRACT": "4801", 
+    "ACCESS2": 0.5097212922884499, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.88352330458143, 
+    "TRACT": "2312", 
+    "ACCESS2": 4.445876699938661, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.471138281118877, 
+    "TRACT": "3815", 
+    "ACCESS2": 1.4694279505219432, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.502611168783204, 
+    "TRACT": "7002", 
+    "ACCESS2": 0.7184235909168929, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 30.149786008073644, 
+    "TRACT": "2421", 
+    "ACCESS2": 17.142787576316394, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 41.43364511148543, 
+    "TRACT": "8321", 
+    "ACCESS2": 109.08014522788609, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.468019906216917, 
+    "TRACT": "6604", 
+    "ACCESS2": 0.8430471860077661, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 20.59460250718338, 
+    "TRACT": "1408", 
+    "ACCESS2": 8.212618732343282, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.718766156585488, 
+    "TRACT": "2507", 
+    "ACCESS2": 2.588673903511185, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 19.837551100476894, 
+    "TRACT": "2229", 
+    "ACCESS2": 6.85248776992209, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 34.221817772326766, 
+    "TRACT": "0321", 
+    "ACCESS2": 46.85427280781566, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.78052399441313, 
+    "TRACT": "4604", 
+    "ACCESS2": 0.5322513486815171, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 35.060461599963205, 
+    "TRACT": "2108", 
+    "ACCESS2": 41.308934366516596, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.301779938308382, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 4.940998270856711, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.924163557891881, 
+    "TRACT": "0902", 
+    "ACCESS2": 1.2208718921706165, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.274574358778479, 
+    "TRACT": "6716", 
+    "ACCESS2": 0.837733656982592, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.799711939018454, 
+    "TRACT": "1912", 
+    "ACCESS2": 3.719647806800199, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 33.959308991648165, 
+    "TRACT": "0811", 
+    "ACCESS2": 23.816377946493844, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.281130787604067, 
+    "TRACT": "8436", 
+    "ACCESS2": 1.6445747959209676, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 17.78479459958387, 
+    "TRACT": "2808", 
+    "ACCESS2": 4.908432676237815, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.02617358516556, 
+    "TRACT": "6718", 
+    "ACCESS2": 0.813229837239067, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.293603487383027, 
+    "TRACT": "1005", 
+    "ACCESS2": 2.899985316144064, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.139625401919703, 
+    "TRACT": "1203", 
+    "ACCESS2": 2.727361666126402, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 48, 
+    "ACCESS1": 38.8925000638072, 
+    "TRACT": "0804", 
+    "ACCESS2": 36.93592565509036, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 37
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.671280875088607, 
+    "TRACT": "6108", 
+    "ACCESS2": 1.4544993955433199, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.512131559857629, 
+    "TRACT": "2516", 
+    "ACCESS2": 2.3559199866463723, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.528549913321111, 
+    "TRACT": "6810", 
+    "ACCESS2": 0.88748975521129, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 62.210718206340175, 
+    "TRACT": "3201", 
+    "ACCESS2": 202.0746821375638, 
+    "YEAR": 2009, 
+    "ONE_MILE": 14, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 15.32520475049302, 
+    "TRACT": "2718", 
+    "ACCESS2": 3.5543972889426563, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.156761178233932, 
+    "TRACT": "7301", 
+    "ACCESS2": 0.8089723501366664, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.811141629118426, 
+    "TRACT": "7105", 
+    "ACCESS2": 0.9345115973428385, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.044868627212558, 
+    "TRACT": "6609", 
+    "ACCESS2": 0.7899898451765811, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.96833507783237, 
+    "TRACT": "8355", 
+    "ACCESS2": 1.5619651030912494, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.525476988408537, 
+    "TRACT": "8402", 
+    "ACCESS2": 2.9849433239947523, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.083106343886746, 
+    "TRACT": "5808", 
+    "ACCESS2": 1.215012342753816, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.357558018263777, 
+    "TRACT": "3812", 
+    "ACCESS2": 1.5387443726000096, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.610622474187812, 
+    "TRACT": "6119", 
+    "ACCESS2": 1.1178068523784643, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.589333306350802, 
+    "TRACT": "8433", 
+    "ACCESS2": 3.2318711802145232, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.036526881899855, 
+    "TRACT": "2504", 
+    "ACCESS2": 2.6469661404759783, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.960955127495517, 
+    "TRACT": "8408", 
+    "ACCESS2": 1.7616647483805585, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.706869980237795, 
+    "TRACT": "4305", 
+    "ACCESS2": 0.8040811978776915, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.403786369646925, 
+    "TRACT": "4910", 
+    "ACCESS2": 0.5995366985078424, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.10506443168302, 
+    "TRACT": "3819", 
+    "ACCESS2": 1.527113892912927, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.516906358630525, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 9.838641777291507, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 36.52417759034398, 
+    "TRACT": "0506", 
+    "ACCESS2": 36.39361840017022, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 16.097896609116688, 
+    "TRACT": "3104", 
+    "ACCESS2": 4.450907101723418, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 42.191523957939474, 
+    "TRACT": "8320", 
+    "ACCESS2": 62.8715201290173, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.359950745261304, 
+    "TRACT": "6607", 
+    "ACCESS2": 0.8396212854912144, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.718375366086267, 
+    "TRACT": "8364", 
+    "ACCESS2": 1.6636714249760554, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.687201768894912, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 4.597031260350662, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 27.263733303850785, 
+    "TRACT": "2407", 
+    "ACCESS2": 13.70911753812514, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 22.612096359531765, 
+    "TRACT": "0310", 
+    "ACCESS2": 11.373101447777382, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.110387307590614, 
+    "TRACT": "8104", 
+    "ACCESS2": 1.5336304754186352, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.909389481087786, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 2.660886018910692, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.193421782227473, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 2.686348039366821, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.648286689350792, 
+    "TRACT": "3008", 
+    "ACCESS2": 1.9963746322809237, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 57.100172387879624, 
+    "TRACT": "0627", 
+    "ACCESS2": 148.6408127793704, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 41
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.43849563867218, 
+    "TRACT": "1201", 
+    "ACCESS2": 1.5578832692643756, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.648517899057119, 
+    "TRACT": "5906", 
+    "ACCESS2": 1.7041962487105022, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.173160014186612, 
+    "TRACT": "1710", 
+    "ACCESS2": 2.914161571769665, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.66447369340233, 
+    "TRACT": "8350", 
+    "ACCESS2": 0.8863722909932988, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 21.14107646089222, 
+    "TRACT": "8333", 
+    "ACCESS2": 8.398211691932131, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.251415680803075, 
+    "TRACT": "4212", 
+    "ACCESS2": 0.9369877039322305, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.418397624311151, 
+    "TRACT": "5609", 
+    "ACCESS2": 17.434637057712003, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 52.66632023334418, 
+    "TRACT": "0706", 
+    "ACCESS2": 68.18592208681189, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.669481283496653, 
+    "TRACT": "4110", 
+    "ACCESS2": 3.250242813542495, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.956368408092711, 
+    "TRACT": "6113", 
+    "ACCESS2": 1.197804803574083, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.435869234639515, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 4.714336524348651, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.171914096663441, 
+    "TRACT": "2517", 
+    "ACCESS2": 2.610166623213584, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.024484098030279, 
+    "TRACT": "6720", 
+    "ACCESS2": 0.8220391521431824, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.804199096564869, 
+    "TRACT": "1601", 
+    "ACCESS2": 4.513620364604221, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 22.511596749353316, 
+    "TRACT": "3206", 
+    "ACCESS2": 11.845026157652734, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 44.50521784649623, 
+    "TRACT": "0624", 
+    "ACCESS2": 51.1238001994323, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 19.9802423643892, 
+    "TRACT": "0313", 
+    "ACCESS2": 7.625189166314045, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 53.6714753558395, 
+    "TRACT": "8391", 
+    "ACCESS2": 214.63697775135006, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.070105398179175, 
+    "TRACT": "5703", 
+    "ACCESS2": 0.9767888820154266, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 15.200900260575075, 
+    "TRACT": "3107", 
+    "ACCESS2": 3.7510352150976507, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.839499200538597, 
+    "TRACT": "8361", 
+    "ACCESS2": 1.394141142298408, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.479417747612306, 
+    "TRACT": "4908", 
+    "ACCESS2": 0.5492064581581857, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 28.31244651508953, 
+    "TRACT": "2434", 
+    "ACCESS2": 14.336643209115802, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 25
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 33, 
+    "ACCESS1": 26.947150367485953, 
+    "TRACT": "2225", 
+    "ACCESS2": 14.123098880294897, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.980514711197259, 
+    "TRACT": "4302", 
+    "ACCESS2": 0.9367482372473591, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 33.76275256726356, 
+    "TRACT": "0813", 
+    "ACCESS2": 27.9324659128748, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.346511268066628, 
+    "TRACT": "5001", 
+    "ACCESS2": 0.47529756615938284, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.903469050693683, 
+    "TRACT": "1511", 
+    "ACCESS2": 3.9249730270565473, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.978173210133192, 
+    "TRACT": "4205", 
+    "ACCESS2": 1.3212156874097118, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 50, 
+    "ACCESS1": 41.51882938355749, 
+    "TRACT": "2415", 
+    "ACCESS2": 54.1414435233635, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 26.609566985016613, 
+    "TRACT": "0503", 
+    "ACCESS2": 16.555289988215367, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 21.2707232166705, 
+    "TRACT": "8419", 
+    "ACCESS2": 9.309282162803967, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 32.910457275944324, 
+    "TRACT": "0509", 
+    "ACCESS2": 22.441688358705875, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.170345676126317, 
+    "TRACT": "8315", 
+    "ACCESS2": 3.903672046649409, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.741855308621835, 
+    "TRACT": "7204", 
+    "ACCESS2": 3.8769763609548074, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.41278415565203, 
+    "TRACT": "1610", 
+    "ACCESS2": 5.276070279586343, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.258320626870375, 
+    "TRACT": "2512", 
+    "ACCESS2": 2.3197695323704615, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 21.008022256441343, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 8.99576194383689, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 21.482509489879106, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 10.066676114604556, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 50, 
+    "ACCESS1": 50.28720451115619, 
+    "TRACT": "8423", 
+    "ACCESS2": 101.45484428801929, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.218644011449107, 
+    "TRACT": "6715", 
+    "ACCESS2": 0.8293984118632562, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 23.199523097366168, 
+    "TRACT": "2409", 
+    "ACCESS2": 9.102943218282784, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.571579416398393, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 4.238957334400434, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 42.829367412977575, 
+    "TRACT": "0615", 
+    "ACCESS2": 49.89731344325649, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 34
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 16.1223321291186, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 4.526860930605199, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.467242645768884, 
+    "TRACT": "1602", 
+    "ACCESS2": 4.2123944110598535, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 22.0230667500004, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 10.653881201384499, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 21.35890375355492, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 10.051580944038818, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 37.280855413744675, 
+    "TRACT": "0601", 
+    "ACCESS2": 52.41229692852885, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 19
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.15515219671103, 
+    "TRACT": "2705", 
+    "ACCESS2": 2.983367593789251, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 46.534026514186586, 
+    "TRACT": "8309", 
+    "ACCESS2": 93.55260756722026, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 36
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 21.120211295539985, 
+    "TRACT": "0308", 
+    "ACCESS2": 15.767030555345832, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.242470173655876, 
+    "TRACT": "6502", 
+    "ACCESS2": 0.8141828633546594, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.094500366948749, 
+    "TRACT": "2602", 
+    "ACCESS2": 2.9699741465430862, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.413198117066608, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 1.02758530816029, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.43512423749229, 
+    "TRACT": "6116", 
+    "ACCESS2": 1.0573597453949921, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.76063884151415, 
+    "TRACT": "8362", 
+    "ACCESS2": 2.416835136298493, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.015179657221943, 
+    "TRACT": "5102", 
+    "ACCESS2": 0.391780664693863, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.240906860504749, 
+    "TRACT": "8359", 
+    "ACCESS2": 1.683065552112132, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.983239379028279, 
+    "TRACT": "6201", 
+    "ACCESS2": 0.9471606881170754, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.6870283281603875, 
+    "TRACT": "7111", 
+    "ACCESS2": 1.0042787551524994, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 29.959777102752614, 
+    "TRACT": "2213", 
+    "ACCESS2": 20.582584786017826, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.800421713559674, 
+    "TRACT": "2515", 
+    "ACCESS2": 2.1006549479627292, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.844122850296034, 
+    "TRACT": "4314", 
+    "ACCESS2": 0.5410423796313737, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 49, 
+    "ACCESS1": 34.7602976464979, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 25.724647237589544, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 48.675183784797376, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 87.40032648758908, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 54, 
+    "ACCESS1": 53.598652069071655, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 126.33537390674663, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.518996212644451, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 1.3267593401319318, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.157313402491747, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 1.227832725746802, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.314313269331915, 
+    "TRACT": "1711", 
+    "ACCESS2": 3.4364478720978657, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.298556581083485, 
+    "TRACT": "2827", 
+    "ACCESS2": 4.092649513842121, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 36.73661557347436, 
+    "TRACT": "0602", 
+    "ACCESS2": 53.97315317247651, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.980507955271488, 
+    "TRACT": "3514", 
+    "ACCESS2": 1.9286046355820088, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 21.290737203143127, 
+    "TRACT": "0103", 
+    "ACCESS2": 59.720827706459, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.48219965477597, 
+    "TRACT": "6301", 
+    "ACCESS2": 1.065288031981932, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 40.78956165067764, 
+    "TRACT": "8322", 
+    "ACCESS2": 38.87895338940119, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.920280948976577, 
+    "TRACT": "8426", 
+    "ACCESS2": 1.5003947769496175, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.400706028061996, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.6644643722673135, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.027973919327581, 
+    "TRACT": "7502", 
+    "ACCESS2": 3.4671833054795047, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.421849610724033, 
+    "TRACT": "8416", 
+    "ACCESS2": 2.2799208061346046, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 51, 
+    "ACCESS1": 43.18779791731168, 
+    "TRACT": "2416", 
+    "ACCESS2": 59.99206032881328, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.653349422642872, 
+    "TRACT": "1705", 
+    "ACCESS2": 1.39895369142686, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 50.558232180026444, 
+    "TRACT": "0634", 
+    "ACCESS2": 92.78001909493159, 
+    "YEAR": 2009, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 35
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.0700086219968075, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 0.6058522737587151, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.3084852317871, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 0.6563538315864871, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.98426827935366, 
+    "TRACT": "7201", 
+    "ACCESS2": 4.800119811557422, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.82780747467078, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 1.2155096066543787, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.58946724905685, 
+    "TRACT": "3903", 
+    "ACCESS2": 1.664852723897067, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.757192905043259, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 0.9413236873963966, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.310138845528257, 
+    "TRACT": "3403", 
+    "ACCESS2": 2.9430270362938127, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.695883307688181, 
+    "TRACT": "8397", 
+    "ACCESS2": 2.1371155341981924, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.027993931861271, 
+    "TRACT": "5802", 
+    "ACCESS2": 1.4748151368968334, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.287666892916118, 
+    "TRACT": "1303", 
+    "ACCESS2": 3.441186532661698, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.609799388227163, 
+    "TRACT": "6007", 
+    "ACCESS2": 2.4965621378488705, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 20.66276743327832, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 8.28663880797886, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 19.74201943570455, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 7.272089344167477, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.934071028047573, 
+    "TRACT": "0104", 
+    "ACCESS2": 7.356686489246473, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.534361108570907, 
+    "TRACT": "5702", 
+    "ACCESS2": 1.075086878059568, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.533477324635607, 
+    "TRACT": "6302", 
+    "ACCESS2": 1.0713611160923204, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 20.605369480328083, 
+    "TRACT": "8329", 
+    "ACCESS2": 7.4282235255315, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 22.52542953407691, 
+    "TRACT": "2210", 
+    "ACCESS2": 10.035802372683051, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.94279225755115, 
+    "TRACT": "1503", 
+    "ACCESS2": 3.1455498674942244, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.6483652128693915, 
+    "TRACT": "7402", 
+    "ACCESS2": 1.9761183797052397, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 30.419160973093263, 
+    "TRACT": "2413", 
+    "ACCESS2": 17.46704934327486, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.9871939068424, 
+    "TRACT": "8316", 
+    "ACCESS2": 5.579896024417353, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 46.33639753903256, 
+    "TRACT": "0631", 
+    "ACCESS2": 71.02606974551809, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.214484901900688, 
+    "TRACT": "7306", 
+    "ACCESS2": 1.1393420590203656, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 47.54696320724297, 
+    "TRACT": "8323", 
+    "ACCESS2": 55.681175181669936, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.483598602444635, 
+    "TRACT": "2605", 
+    "ACCESS2": 2.2955797114371657, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.7831080352959825, 
+    "TRACT": "6707", 
+    "ACCESS2": 0.9212616285319873, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.297001133420218, 
+    "TRACT": "4805", 
+    "ACCESS2": 0.43749801088461326, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.438931048477384, 
+    "TRACT": "3906", 
+    "ACCESS2": 2.4479441063746554, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 16.50552569611937, 
+    "TRACT": "8370", 
+    "ACCESS2": 4.153712834150335, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.840845061525282, 
+    "TRACT": "2304", 
+    "ACCESS2": 5.9317722014843275, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.574384581061991, 
+    "TRACT": "8425", 
+    "ACCESS2": 0.9703949369013084, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.243534733865188, 
+    "TRACT": "8413", 
+    "ACCESS2": 2.264540085499347, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 37.29379631786443, 
+    "TRACT": "0507", 
+    "ACCESS2": 31.94093768911133, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.13013245939698, 
+    "TRACT": "1611", 
+    "ACCESS2": 4.442600748073488, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 17.969945530317798, 
+    "TRACT": "2311", 
+    "ACCESS2": 5.083155230401816, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 30.41830645016283, 
+    "TRACT": "0715", 
+    "ACCESS2": 16.906110471581194, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.869874087596585, 
+    "TRACT": "8348", 
+    "ACCESS2": 0.967451194503042, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.617678717117428, 
+    "TRACT": "4905", 
+    "ACCESS2": 0.5613344003918794, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 33, 
+    "ACCESS1": 35.56357195600872, 
+    "TRACT": "2801", 
+    "ACCESS2": 37.05375002016936, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 24.602744929776964, 
+    "TRACT": "2431", 
+    "ACCESS2": 10.149066489543419, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.630090222935449, 
+    "TRACT": "3105", 
+    "ACCESS2": 4.120354908932719, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 30.440674019069014, 
+    "TRACT": "8324", 
+    "ACCESS2": 18.921291724010654, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 7.488973400849236, 
+    "TRACT": "7403", 
+    "ACCESS2": 5.254448354904413, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 18.686167806535295, 
+    "TRACT": "2831", 
+    "ACCESS2": 5.931178608206014, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.765669986204964, 
+    "TRACT": "2608", 
+    "ACCESS2": 2.813354588330021, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.213940929159535, 
+    "TRACT": "4312", 
+    "ACCESS2": 0.6404800652055058, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 38.24693769199441, 
+    "TRACT": "0409", 
+    "ACCESS2": 223.24979419264847, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.292263574964096, 
+    "TRACT": "2518", 
+    "ACCESS2": 2.2430544283263867, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.998216735804418, 
+    "TRACT": "6112", 
+    "ACCESS2": 1.2148114186216685, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.377325395117387, 
+    "TRACT": "8318", 
+    "ACCESS2": 4.042866009886963, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 28.181139089231433, 
+    "TRACT": "0319", 
+    "ACCESS2": 19.31322045731878, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.288064441692269, 
+    "TRACT": "7115", 
+    "ACCESS2": 0.7909783225562805, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.118337915672907, 
+    "TRACT": "3404", 
+    "ACCESS2": 2.860039199623914, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.004959091653083, 
+    "TRACT": "3515", 
+    "ACCESS2": 1.928581136887854, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.376738524836406, 
+    "TRACT": "8056", 
+    "ACCESS2": 1.0191762408094196, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.894680282384253, 
+    "TRACT": "5101", 
+    "ACCESS2": 0.3691201832448646, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.634659805911453, 
+    "TRACT": "6204", 
+    "ACCESS2": 0.8764217230281536, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 25.44019748522409, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 17.137851077727962, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 30.903946820411104, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 63.922174001329495, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.565899331349001, 
+    "TRACT": "2924", 
+    "ACCESS2": 1.9531962553885458, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 57, 
+    "ACCESS1": 64.58351710008439, 
+    "TRACT": "0710", 
+    "ACCESS2": 122.36996297908658, 
+    "YEAR": 2009, 
+    "ONE_MILE": 20, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 22.13200830505101, 
+    "TRACT": "0407", 
+    "ACCESS2": 11.253703457444837, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.142259640287823, 
+    "TRACT": "6905", 
+    "ACCESS2": 0.8807038440161118, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.2759516264958215, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 0.6919064454486337, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 31.614706153162658, 
+    "TRACT": "2420", 
+    "ACCESS2": 19.08274484646704, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 22
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.031106259593294, 
+    "TRACT": "8345", 
+    "ACCESS2": 1.094614005208229, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.57329134066916, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.308966449090978, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 4.99788060785425, 
+    "TRACT": "5302", 
+    "ACCESS2": 0.5112493155814329, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.394855323836709, 
+    "TRACT": "5205", 
+    "ACCESS2": 0.29235356572340165, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 39.962453870603746, 
+    "TRACT": "2216", 
+    "ACCESS2": 44.3437896693277, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 8.167369160197088, 
+    "TRACT": "7205", 
+    "ACCESS2": 6.518299174472204, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.984878899897822, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 8.448562271944592, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.0143519395824825, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.2513811382202015, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 39.06428608373123, 
+    "TRACT": "2403", 
+    "ACCESS2": 34.971928158836505, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.662231136583962, 
+    "TRACT": "6912", 
+    "ACCESS2": 0.7428802632929956, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.849883906615462, 
+    "TRACT": "0302", 
+    "ACCESS2": 5.319352557304823, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.059589328081177, 
+    "TRACT": "2838", 
+    "ACCESS2": 5.805782887872871, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 19.735149814065505, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 7.76176552762786, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 17.498454928646815, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 5.664242995548498, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 15.673212138549037, 
+    "TRACT": "8368", 
+    "ACCESS2": 3.715414474583066, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.269891689230226, 
+    "TRACT": "6404", 
+    "ACCESS2": 2.2208320744477805, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 23.730155478459857, 
+    "TRACT": "2425", 
+    "ACCESS2": 9.372255332196445, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.546670095611851, 
+    "TRACT": "4309", 
+    "ACCESS2": 0.7416349980631785, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 5.8273438187003554, 
+    "TRACT": "7505", 
+    "ACCESS2": 1.2622053677992828, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.20360860813659, 
+    "TRACT": "2503", 
+    "ACCESS2": 2.967536738888345, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 21.9633998865687, 
+    "TRACT": "8311", 
+    "ACCESS2": 9.737718748636626, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.432988184105302, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 5.1687228532861305, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.808475619822518, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 6.48886766357256, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.375377520358658, 
+    "TRACT": "8342", 
+    "ACCESS2": 0.682475292783251, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.251130147140433, 
+    "TRACT": "6811", 
+    "ACCESS2": 0.8376820570047935, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.811038583942548, 
+    "TRACT": "1101", 
+    "ACCESS2": 2.282197253863339, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 55, 
+    "ACCESS1": 61.903017081107926, 
+    "TRACT": "0713", 
+    "ACCESS2": 305.52663689209635, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 3.9798313526817246, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.240312059447069, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 43.220260639973496, 
+    "TRACT": "0620", 
+    "ACCESS2": 78.08170846400444, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.827532917787698, 
+    "TRACT": "7112", 
+    "ACCESS2": 1.14470727418512, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 70.98634390211515, 
+    "TRACT": "8325", 
+    "ACCESS2": 271.511656245875, 
+    "YEAR": 2009, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 35
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.522239691474483, 
+    "TRACT": "6712", 
+    "ACCESS2": 0.8728660961821515, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.343844794637505, 
+    "TRACT": "1508", 
+    "ACCESS2": 3.5657845118438756, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.863397583428256, 
+    "TRACT": "7103", 
+    "ACCESS2": 0.8315020102287024, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 31, 
+    "ACCESS1": 24.88095550560073, 
+    "TRACT": "2226", 
+    "ACCESS2": 11.64218297209859, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.03717017765639, 
+    "TRACT": "1001", 
+    "ACCESS2": 2.045384351441215, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.417145017019736, 
+    "TRACT": "4106", 
+    "ACCESS2": 3.3474484333498205, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 38.363241096702424, 
+    "TRACT": "0512", 
+    "ACCESS2": 31.427632512041928, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 13.508475157743623, 
+    "TRACT": "8410", 
+    "ACCESS2": 3.1519486103649847, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 21.20632504684747, 
+    "TRACT": "2228", 
+    "ACCESS2": 8.004483078236833, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.014710780073017, 
+    "TRACT": "6814", 
+    "ACCESS2": 0.806251820208213, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.734791572018274, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 7.1533692147512395, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 19.718741725715855, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 8.470168972254054, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.595891276020104, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 7.779264582092772, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 20.32978425090159, 
+    "TRACT": "8381", 
+    "ACCESS2": 6.787482647170329, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.937254827405422, 
+    "TRACT": "7305", 
+    "ACCESS2": 0.802804950627807, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 36.76593154419859, 
+    "TRACT": "2109", 
+    "ACCESS2": 39.35152434830751, 
+    "YEAR": 2009, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 23
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.3848820886068225, 
+    "TRACT": "4607", 
+    "ACCESS2": 0.4500755581469767, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.513451443596546, 
+    "TRACT": "4112", 
+    "ACCESS2": 5.243085720496647, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.527973867949948, 
+    "TRACT": "3109", 
+    "ACCESS2": 3.3139923286263815, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.694621233410134, 
+    "TRACT": "8314", 
+    "ACCESS2": 1.6679404105817228, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 32.7539697450063, 
+    "TRACT": "8437", 
+    "ACCESS2": 26.994419353446805, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 22
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.539060771423194, 
+    "TRACT": "6711", 
+    "ACCESS2": 0.8789486587217626, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 34.240577907548335, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 25.868702611673026, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.313580627866198, 
+    "TRACT": "4005", 
+    "ACCESS2": 1.1981230932555473, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.521071437406109, 
+    "TRACT": "6915", 
+    "ACCESS2": 0.7106388567478359, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.85634808318561, 
+    "TRACT": "6308", 
+    "ACCESS2": 0.9187538974016072, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.081627278215915, 
+    "TRACT": "2922", 
+    "ACCESS2": 2.142655277812799, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.760152076732311, 
+    "TRACT": "1006", 
+    "ACCESS2": 4.565676839169454, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 36.7535401535561, 
+    "TRACT": "0803", 
+    "ACCESS2": 32.759103748979776, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 35
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.607969913781194, 
+    "TRACT": "1701", 
+    "ACCESS2": 2.1097265158183762, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.172860063345071, 
+    "TRACT": "3006", 
+    "ACCESS2": 1.8227551156040982, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.083720127674544, 
+    "TRACT": "6403", 
+    "ACCESS2": 1.2260315729252342, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.150405648712066, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 5.639168392773694, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.529189494402933, 
+    "TRACT": "8386", 
+    "ACCESS2": 3.17344704823504, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.942538410083822, 
+    "TRACT": "1801", 
+    "ACCESS2": 5.4844389619590626, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.879316343991526, 
+    "TRACT": "7104", 
+    "ACCESS2": 0.8523944677267058, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.988153575408083, 
+    "TRACT": "8317", 
+    "ACCESS2": 3.861379811531977, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.62239496219964, 
+    "TRACT": "4803", 
+    "ACCESS2": 0.511451230838745, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.356336814612731, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 0.9963282221498697, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 42.655255706620736, 
+    "TRACT": "0817", 
+    "ACCESS2": 52.94298736671804, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.536414905256441, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 1.0379552910092005, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.839477637838282, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 1.0733144918850381, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.331342567142306, 
+    "TRACT": "6104", 
+    "ACCESS2": 1.300739176408107, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.333896799442076, 
+    "TRACT": "8079", 
+    "ACCESS2": 1.7860079868682908, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.139784748220839, 
+    "TRACT": "8401", 
+    "ACCESS2": 2.839593056481601, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.512232977859052, 
+    "TRACT": "6118", 
+    "ACCESS2": 1.0844066006890474, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 32.15892879557963, 
+    "TRACT": "2405", 
+    "ACCESS2": 19.774627202836253, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 41.32918512360265, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 86.95468160747426, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 45.24270532818129, 
+    "TRACT": "0623", 
+    "ACCESS2": 52.14418239707342, 
+    "YEAR": 2009, 
+    "ONE_MILE": 14, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 25.073999172284243, 
+    "TRACT": "8390", 
+    "ACCESS2": 15.661581779504434, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.343503146198637, 
+    "TRACT": "8081", 
+    "ACCESS2": 1.1992719001093652, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 18.65089560708678, 
+    "TRACT": "0304", 
+    "ACCESS2": 11.491157780962123, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 38.52446336891033, 
+    "TRACT": "0818", 
+    "ACCESS2": 41.240592182779544, 
+    "YEAR": 2009, 
+    "ONE_MILE": 13, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 5.1294797781723185, 
+    "TRACT": "4913", 
+    "ACCESS2": 0.530795728620596, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.280478116931476, 
+    "TRACT": "6608", 
+    "ACCESS2": 0.8204984057864881, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.601565748553733, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.3842594239142144, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.436189034209965, 
+    "TRACT": "2610", 
+    "ACCESS2": 2.270997670856218, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 26.706735650090952, 
+    "TRACT": "2423", 
+    "ACCESS2": 12.5115866239029, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.402873170783101, 
+    "TRACT": "6606", 
+    "ACCESS2": 0.8379196774699998, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 16.169554621255415, 
+    "TRACT": "3103", 
+    "ACCESS2": 4.5479364819430925, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.346640179801195, 
+    "TRACT": "8365", 
+    "ACCESS2": 1.7642954675643434, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.728288058230907, 
+    "TRACT": "2505", 
+    "ACCESS2": 2.4185995337880484, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.5667394608904255, 
+    "TRACT": "4306", 
+    "ACCESS2": 0.7578406198652085, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 29.337721467050127, 
+    "TRACT": "2406", 
+    "ACCESS2": 16.096267206750596, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 22
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.682459870511817, 
+    "TRACT": "4701", 
+    "ACCESS2": 0.5313316122728277, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.005616586544459, 
+    "TRACT": "1902", 
+    "ACCESS2": 4.164078578667415, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.06257658572304, 
+    "TRACT": "3818", 
+    "ACCESS2": 1.3984466193836806, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.524334859506483, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 3.101370501951093, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 15.00863389334971, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 3.871344096801775, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 49.76805489763307, 
+    "TRACT": "0626", 
+    "ACCESS2": 103.23705658041666, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 41
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.4807700341079855, 
+    "TRACT": "7109", 
+    "ACCESS2": 0.77075931941962, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.380720993711098, 
+    "TRACT": "6714", 
+    "ACCESS2": 0.8454249671867946, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.785008114061856, 
+    "TRACT": "8430", 
+    "ACCESS2": 2.405346010786774, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.706426604274121, 
+    "TRACT": "2520", 
+    "ACCESS2": 1.708668770455322, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.673785414708565, 
+    "TRACT": "8357", 
+    "ACCESS2": 1.4946814632883199, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.892100296649346, 
+    "TRACT": "3009", 
+    "ACCESS2": 2.09109730515595, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.394155988886688, 
+    "TRACT": "1507", 
+    "ACCESS2": 3.2403826612302504, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.645448285667495, 
+    "TRACT": "8305", 
+    "ACCESS2": 1.3534908632483882, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.253320651106916, 
+    "TRACT": "6812", 
+    "ACCESS2": 0.845657476094497, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 22.490082362875974, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 10.379441249110569, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 24.56556387570984, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 13.775488907551306, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.216346693439943, 
+    "TRACT": "6904", 
+    "ACCESS2": 0.8747547977580501, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.729850395979261, 
+    "TRACT": "7107", 
+    "ACCESS2": 0.8641457409347261, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 34.69970489755181, 
+    "TRACT": "2222", 
+    "ACCESS2": 24.43858002365771, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 45.291341935425656, 
+    "TRACT": "0816", 
+    "ACCESS2": 65.47500872053321, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 45.632373979520814, 
+    "TRACT": "0707", 
+    "ACCESS2": 47.96061306470626, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 40
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.765036079229708, 
+    "TRACT": "7106", 
+    "ACCESS2": 0.8832621754255369, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.286247559837486, 
+    "TRACT": "5704", 
+    "ACCESS2": 1.0133607698821343, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.581734212126833, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 6.210265736207442, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 45.73908972491382, 
+    "TRACT": "0611", 
+    "ACCESS2": 131.3070769759018, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 23
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 17.97335641685888, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 5.733089040199164, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.081052688753783, 
+    "TRACT": "4303", 
+    "ACCESS2": 0.9633894539413643, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.49520299370024, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 4.53670310217276, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 18.041889717419497, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 5.593891941094007, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 38.44602908290745, 
+    "TRACT": "0605", 
+    "ACCESS2": 43.04888477567569, 
+    "YEAR": 2009, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 19
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.8202127691661865, 
+    "TRACT": "5705", 
+    "ACCESS2": 0.9297228758251254, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.676007849546028, 
+    "TRACT": "6103", 
+    "ACCESS2": 1.3921878149808338, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 15.61728652286752, 
+    "TRACT": "3106", 
+    "ACCESS2": 4.050581763272578, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 19.02499356162952, 
+    "TRACT": "8366", 
+    "ACCESS2": 5.737506537965225, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.418728857788384, 
+    "TRACT": "0901", 
+    "ACCESS2": 0.9477292378429465, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.150311571794559, 
+    "TRACT": "6009", 
+    "ACCESS2": 2.3239508109565707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 25.6622126503142, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 16.544410297916137, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 13.024009482288191, 
+    "TRACT": "2511", 
+    "ACCESS2": 2.600988283661355, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 31, 
+    "ACCESS1": 23.635429950527904, 
+    "TRACT": "2301", 
+    "ACCESS2": 9.923355357798552, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.65885418919013, 
+    "TRACT": "1903", 
+    "ACCESS2": 5.890784206007298, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 21.88363142101633, 
+    "TRACT": "0312", 
+    "ACCESS2": 10.033696039289861, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.942938602949148, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 1.4327881904931379, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.480299810912246, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 1.5944310904592989, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.071788176080219, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 1.4719489251557591, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.859835135702994, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 4.1493676114793265, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 41.3018569298445, 
+    "TRACT": "0612", 
+    "ACCESS2": 51.21387955343019, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.380061892285672, 
+    "TRACT": "5601", 
+    "ACCESS2": 1.0516978264320649, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.53758694246022, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 4.882220214499548, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 27.49138979280598, 
+    "TRACT": "3204", 
+    "ACCESS2": 20.462796025945448, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.45983985990222, 
+    "TRACT": "5611", 
+    "ACCESS2": 1.588545812434841, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 24.547650782585507, 
+    "TRACT": "0309", 
+    "ACCESS2": 48.81577257042627, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.955430263023421, 
+    "TRACT": "3405", 
+    "ACCESS2": 2.302724424575107, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.605718089976769, 
+    "TRACT": "8352", 
+    "ACCESS2": 0.9315560050939963, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.058517156493298, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 5.284417541123422, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.648306220349234, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 21.756385647691282, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.8720649568916725, 
+    "TRACT": "6909", 
+    "ACCESS2": 0.7981165021045183, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.251074665542703, 
+    "TRACT": "8363", 
+    "ACCESS2": 2.2980749838385646, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.659488312046717, 
+    "TRACT": "8358", 
+    "ACCESS2": 1.5407929457269376, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.8783853012595, 
+    "TRACT": "6115", 
+    "ACCESS2": 1.1667077785057955, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.611802706383294, 
+    "TRACT": "1603", 
+    "ACCESS2": 4.77956028417372, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.411154325747551, 
+    "TRACT": "3007", 
+    "ACCESS2": 1.9079857543592469, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 28, 
+    "ACCESS1": 29.59645502412176, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 39.766071021269106, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.676728545027323, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 15.473396150124627, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 50.262617194153954, 
+    "TRACT": "0702", 
+    "ACCESS2": 64.48662392430182, 
+    "YEAR": 2009, 
+    "ONE_MILE": 19, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.87827249141822, 
+    "TRACT": "4503", 
+    "ACCESS2": 0.556306631759997, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.485716662637826, 
+    "TRACT": "5806", 
+    "ACCESS2": 1.3221153479325776, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.125661684896387, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 0.7855520869554309, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 22.426488568758813, 
+    "TRACT": "0311", 
+    "ACCESS2": 10.936782336834044, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 32, 
+    "ACCESS1": 25.376972871044654, 
+    "TRACT": "2408", 
+    "ACCESS2": 11.669784155414826, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.613384987057408, 
+    "TRACT": "2601", 
+    "ACCESS2": 3.203310227435166, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.927900284074134, 
+    "TRACT": "1709", 
+    "ACCESS2": 4.795948391567271, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.089607876783909, 
+    "TRACT": "2514", 
+    "ACCESS2": 1.8668768838201921, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 33.77389534982843, 
+    "TRACT": "2214", 
+    "ACCESS2": 30.468428611972996, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 18
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 16.520465876775393, 
+    "TRACT": "1612", 
+    "ACCESS2": 4.683668079946964, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 21.80516337012815, 
+    "TRACT": "2302", 
+    "ACCESS2": 8.259354355140921, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.128889028305403, 
+    "TRACT": "4203", 
+    "ACCESS2": 1.7396171484053826, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.963777261609837, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 1.5801695389775143, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.23537001369507, 
+    "TRACT": "1512", 
+    "ACCESS2": 4.144633999621056, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.280727528665235, 
+    "TRACT": "3805", 
+    "ACCESS2": 1.6751159726575353, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.911643686654983, 
+    "TRACT": "3005", 
+    "ACCESS2": 1.7335676710858794, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 7.180039143886473, 
+    "TRACT": "7202", 
+    "ACCESS2": 2.6352876146703164, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.54398635072833, 
+    "TRACT": "3902", 
+    "ACCESS2": 1.7211826690037901, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.327486007474262, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 1.5516331227747988, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 10.609587909878833, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 1.6386240780675472, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.862118199094255, 
+    "TRACT": "4903", 
+    "ACCESS2": 0.6176594901313597, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 14.700687319013134, 
+    "TRACT": "8421", 
+    "ACCESS2": 3.2931560891659015, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 33.32663591670947, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 21.650174748638307, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 16.14067913995797, 
+    "TRACT": "8429", 
+    "ACCESS2": 4.17071938440466, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.31149964959598, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 0.5211349284145868, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.984495183614506, 
+    "TRACT": "6006", 
+    "ACCESS2": 2.688530703570443, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.158282466650117, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 0.4957147258987292, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.533366314271951, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.3280409740180025, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 56.17851972373665, 
+    "TRACT": "0629", 
+    "ACCESS2": 113.80193939914446, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 38
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.142972188360353, 
+    "TRACT": "1401", 
+    "ACCESS2": 5.937712008484068, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.997908603297431, 
+    "TRACT": "6610", 
+    "ACCESS2": 0.8125137353592798, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 19.22556536214581, 
+    "TRACT": "2308", 
+    "ACCESS2": 6.020287859072167, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.09685567894838, 
+    "TRACT": "5602", 
+    "ACCESS2": 1.0127901000781787, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 24.470505888186405, 
+    "TRACT": "2211", 
+    "ACCESS2": 12.2826883641953, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.934606208442764, 
+    "TRACT": "1502", 
+    "ACCESS2": 3.7379569269804045, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.929056701913243, 
+    "TRACT": "4206", 
+    "ACCESS2": 1.2018179273476668, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.918099895763845, 
+    "TRACT": "8396", 
+    "ACCESS2": 1.9173975430818735, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.66145225451227, 
+    "TRACT": "5803", 
+    "ACCESS2": 1.361982563783954, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 36.25541561658941, 
+    "TRACT": "0618", 
+    "ACCESS2": 32.42841226082435, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 30.903574048939035, 
+    "TRACT": "2435", 
+    "ACCESS2": 19.326368294915795, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.918692201600757, 
+    "TRACT": "7401", 
+    "ACCESS2": 2.556604587940756, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.138857869311337, 
+    "TRACT": "2604", 
+    "ACCESS2": 2.568260966278006, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.065126894021859, 
+    "TRACT": "4105", 
+    "ACCESS2": 2.2445580959720117, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 5.482380052800268, 
+    "TRACT": "4804", 
+    "ACCESS2": 0.4777135696940595, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.092189667391294, 
+    "TRACT": "6704", 
+    "ACCESS2": 0.9822541760324869, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.284504321087576, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 3.395137425454867, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.15426169574418, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 3.978705514907308, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 28, 
+    "ACCESS1": 22.322766522408962, 
+    "TRACT": "2429", 
+    "ACCESS2": 8.09472661525904, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.496803560054653, 
+    "TRACT": "6203", 
+    "ACCESS2": 0.8631031082413885, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.032920915474012, 
+    "TRACT": "2925", 
+    "ACCESS2": 1.7689479651936602, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 31.146723927168253, 
+    "TRACT": "2205", 
+    "ACCESS2": 29.006154705880984, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.3881228880697005, 
+    "TRACT": "8424", 
+    "ACCESS2": 0.7139423443241217, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.828700465696798, 
+    "TRACT": "4906", 
+    "ACCESS2": 0.6746807816320654, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.81895551585219, 
+    "TRACT": "8414", 
+    "ACCESS2": 2.048896527725402, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.867936320883006, 
+    "TRACT": "5701", 
+    "ACCESS2": 1.1496858525143863, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.20147830635421, 
+    "TRACT": "0903", 
+    "ACCESS2": 1.513161038989233, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 16.42819920289507, 
+    "TRACT": "3102", 
+    "ACCESS2": 4.801032672417895, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 32.611474584067096, 
+    "TRACT": "0632", 
+    "ACCESS2": 22.642733430283123, 
+    "YEAR": 2009, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.377246883015555, 
+    "TRACT": "8349", 
+    "ACCESS2": 0.854553315313067, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 35.74134368273844, 
+    "TRACT": "0511", 
+    "ACCESS2": 25.44462780362058, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 37.818414938069175, 
+    "TRACT": "0610", 
+    "ACCESS2": 41.2923606920902, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 23
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.144982853081755, 
+    "TRACT": "6303", 
+    "ACCESS2": 0.9793268018238613, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.823745542267924, 
+    "TRACT": "6709", 
+    "ACCESS2": 0.9387492194557079, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.40021270566462, 
+    "TRACT": "2305", 
+    "ACCESS2": 4.3436183623834745, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 14.67128183235906, 
+    "TRACT": "8373", 
+    "ACCESS2": 3.2272631489043073, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 25.79452408938336, 
+    "TRACT": "2432", 
+    "ACCESS2": 11.34357913010662, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 31.14154612818317, 
+    "TRACT": "2107", 
+    "ACCESS2": 27.584518566022844, 
+    "YEAR": 2009, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 17.396073216310008, 
+    "TRACT": "2003", 
+    "ACCESS2": 5.1998989802585145, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 48, 
+    "ACCESS1": 33.482847976019315, 
+    "TRACT": "0714", 
+    "ACCESS2": 22.28215790712514, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 24
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 15.843127520585172, 
+    "TRACT": "1901", 
+    "ACCESS2": 4.344996770928336, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 19.468598947706596, 
+    "TRACT": "2832", 
+    "ACCESS2": 6.688540916804588, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.23919271884398, 
+    "TRACT": "8369", 
+    "ACCESS2": 4.0029449229787835, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.364271437322415, 
+    "TRACT": "3905", 
+    "ACCESS2": 2.1106100657745803, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 25.114225276542513, 
+    "TRACT": "2424", 
+    "ACCESS2": 10.726694619792175, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.879848105819871, 
+    "TRACT": "6407", 
+    "ACCESS2": 0.8100011239312176, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 12.913815129643343, 
+    "TRACT": "2912", 
+    "ACCESS2": 2.4631456308592, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 46.003546990588575, 
+    "TRACT": "0815", 
+    "ACCESS2": 71.15427717844157, 
+    "YEAR": 2009, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 25.330730297472112, 
+    "TRACT": "0318", 
+    "ACCESS2": 14.251427571867062, 
+    "YEAR": 2009, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.03491082607384, 
+    "TRACT": "6111", 
+    "ACCESS2": 1.2315546743394028, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 13.325324938009524, 
+    "TRACT": "2607", 
+    "ACCESS2": 2.6282210483403095, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.175936310220411, 
+    "TRACT": "6701", 
+    "ACCESS2": 1.0162519175522688, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.726619419285395, 
+    "TRACT": "8306", 
+    "ACCESS2": 4.980464975436013, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 28, 
+    "ACCESS1": 29.18427373318878, 
+    "TRACT": "1607", 
+    "ACCESS2": 32.45423472811246, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.411275834359692, 
+    "TRACT": "0106", 
+    "ACCESS2": 8.63334293299352, 
+    "YEAR": 2009, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.190302980322926, 
+    "TRACT": "6304", 
+    "ACCESS2": 0.9901868955136732, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.816097138538653, 
+    "TRACT": "5202", 
+    "ACCESS2": 0.3539580558694912, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 24.62184594511073, 
+    "TRACT": "0408", 
+    "ACCESS2": 16.67549619465066, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.573926982041211, 
+    "TRACT": "4207", 
+    "ACCESS2": 1.0658251799474887, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 25.85576638822347, 
+    "TRACT": "0406", 
+    "ACCESS2": 24.64792800753064, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 49, 
+    "ACCESS1": 45.153114662837815, 
+    "TRACT": "0717", 
+    "ACCESS2": 65.06971113287284, 
+    "YEAR": 2009, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.784812360674279, 
+    "TRACT": "1103", 
+    "ACCESS2": 2.3491110758708875, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.166068822976976, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 0.7077726257969224, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.603301208494576, 
+    "TRACT": "6120", 
+    "ACCESS2": 1.1271450923205502, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 20.647530809952052, 
+    "TRACT": "2427", 
+    "ACCESS2": 6.83078200400522, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.069705322403165, 
+    "TRACT": "8346", 
+    "ACCESS2": 1.0496390932638577, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 15.096624318630125, 
+    "TRACT": "8411", 
+    "ACCESS2": 3.994373418225227, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.181857791354414, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 2.3141645500088397, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 4.851974670933134, 
+    "TRACT": "5301", 
+    "ACCESS2": 0.4362761902973604, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 54, 
+    "ACCESS1": 47.714465144434485, 
+    "TRACT": "2402", 
+    "ACCESS2": 75.67237886361691, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.622837330114073, 
+    "TRACT": "7206", 
+    "ACCESS2": 15.783725357503092, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 38.34122476557861, 
+    "TRACT": "0514", 
+    "ACCESS2": 30.315121716749836, 
+    "YEAR": 2009, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 5.668813090358493, 
+    "TRACT": "4907", 
+    "ACCESS2": 0.6539429447621506, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.402612707500541, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 2.8400020228007907, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.026992953477972, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 2.4753045822729787, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 28.16043533441029, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 33.641791836439694, 
+    "YEAR": 2009, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 48, 
+    "ACCESS1": 37.40763609898882, 
+    "TRACT": "8422", 
+    "ACCESS2": 27.232983391022444, 
+    "YEAR": 2009, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 37
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.00960254491447, 
+    "TRACT": "8399", 
+    "ACCESS2": 1.8795193198106708, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 6.1410923636727786, 
+    "TRACT": "7504", 
+    "ACCESS2": 1.6659772828279096, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 38.58705263442036, 
+    "TRACT": "8310", 
+    "ACCESS2": 31.545315493615814, 
+    "YEAR": 2009, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 11.612594693928466, 
+    "TRACT": "2909", 
+    "ACCESS2": 1.966570764360695, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 25.446676465857642, 
+    "TRACT": "2410", 
+    "ACCESS2": 11.2902573295707, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.3224223264164, 
+    "TRACT": "1707", 
+    "ACCESS2": 1.918946195557975, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 15.809196762637912, 
+    "TRACT": "0303", 
+    "ACCESS2": 5.2893125168835375, 
+    "YEAR": 2009, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Itinerant Merchant, Class II", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.953040660960166, 
+    "TRACT": "6911", 
+    "ACCESS2": 0.7925033331396517, 
+    "YEAR": 2009, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }
+]

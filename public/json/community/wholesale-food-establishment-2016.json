@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 100.8620761850557, 
+    "YEAR": 2016, 
+    "ACCESS1": 395.73877956836355, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 142.2776610296837, 
+    "YEAR": 2016, 
+    "ACCESS1": 883.0111609639614, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 465.75056375445894, 
+    "YEAR": 2016, 
+    "ACCESS1": 1219.0176506147302, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2317.568866132099, 
+    "YEAR": 2016, 
+    "ACCESS1": 3393.3500586917694, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 233.65670834429736, 
+    "YEAR": 2016, 
+    "ACCESS1": 1046.2799759530303, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 7437.7541907016275, 
+    "YEAR": 2016, 
+    "ACCESS1": 1462.2060811721324, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 209.32281845841507, 
+    "YEAR": 2016, 
+    "ACCESS1": 1263.6034566889075, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 807.6235878305232, 
+    "YEAR": 2016, 
+    "ACCESS1": 1836.6778961466377, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 240.36595333956092, 
+    "YEAR": 2016, 
+    "ACCESS1": 1157.3392238916254, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 260.1219825140534, 
+    "YEAR": 2016, 
+    "ACCESS1": 1313.7925954046327, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 105.57151196825302, 
+    "YEAR": 2016, 
+    "ACCESS1": 479.20265431387276, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 21.83263880337274, 
+    "YEAR": 2016, 
+    "ACCESS1": 100.38369872062565, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 796.2317264569402, 
+    "YEAR": 2016, 
+    "ACCESS1": 830.6802271602439, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2072.8815523320286, 
+    "YEAR": 2016, 
+    "ACCESS1": 1066.8726471528935, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 64.43847955315087, 
+    "YEAR": 2016, 
+    "ACCESS1": 500.3260937761355, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 733.6680525297917, 
+    "YEAR": 2016, 
+    "ACCESS1": 1337.7227108683176, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1228.3437423715243, 
+    "YEAR": 2016, 
+    "ACCESS1": 1583.160479107571, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 31.114320744996547, 
+    "YEAR": 2016, 
+    "ACCESS1": 166.28116334877078, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 32.138189006908625, 
+    "YEAR": 2016, 
+    "ACCESS1": 84.25964437922049, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 7329.2811099684595, 
+    "YEAR": 2016, 
+    "ACCESS1": 3818.9376346232875, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 3782.514678077426, 
+    "YEAR": 2016, 
+    "ACCESS1": 4378.048753245217, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 237.46206471574422, 
+    "YEAR": 2016, 
+    "ACCESS1": 978.3244316759989, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 695.1418487778743, 
+    "YEAR": 2016, 
+    "ACCESS1": 1314.7934272072869, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 173.25081813227885, 
+    "YEAR": 2016, 
+    "ACCESS1": 241.6798378155203, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 346.14868235846245, 
+    "YEAR": 2016, 
+    "ACCESS1": 899.8018903273279, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 3466.413675779795, 
+    "YEAR": 2016, 
+    "ACCESS1": 2936.03072512407, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 419.17130248097124, 
+    "YEAR": 2016, 
+    "ACCESS1": 1475.6404100289005, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1647.7426310501746, 
+    "YEAR": 2016, 
+    "ACCESS1": 4175.48997027502, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 5490.951145208234, 
+    "YEAR": 2016, 
+    "ACCESS1": 2856.145183816058, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1212.9946993290448, 
+    "YEAR": 2016, 
+    "ACCESS1": 1929.410357409138, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 121.86033187502751, 
+    "YEAR": 2016, 
+    "ACCESS1": 585.822930620349, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1355.6198857796235, 
+    "YEAR": 2016, 
+    "ACCESS1": 2602.110036001579, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2128.7274906093876, 
+    "YEAR": 2016, 
+    "ACCESS1": 4491.384599283525, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 542.468211377492, 
+    "YEAR": 2016, 
+    "ACCESS1": 1567.5474901825676, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 53.30226153222515, 
+    "YEAR": 2016, 
+    "ACCESS1": 268.5641263941981, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 943.7401680874492, 
+    "YEAR": 2016, 
+    "ACCESS1": 2846.9246174444856, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 192.191107223928, 
+    "YEAR": 2016, 
+    "ACCESS1": 556.8609353261378, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 727.9131871502242, 
+    "YEAR": 2016, 
+    "ACCESS1": 1607.6428860269407, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 359.4237971260407, 
+    "YEAR": 2016, 
+    "ACCESS1": 922.9891826218692, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 173.7340856050241, 
+    "YEAR": 2016, 
+    "ACCESS1": 699.3393235516245, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 357.6750868319018, 
+    "YEAR": 2016, 
+    "ACCESS1": 1184.6597027128626, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 102342.41525775178, 
+    "YEAR": 2016, 
+    "ACCESS1": 6153.285331020777, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 507.89476857837184, 
+    "YEAR": 2016, 
+    "ACCESS1": 1453.8230067568463, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 934.9011050561137, 
+    "YEAR": 2016, 
+    "ACCESS1": 1931.4063437508498, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 204.02328328575354, 
+    "YEAR": 2016, 
+    "ACCESS1": 772.7544561941417, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 240.7773033813546, 
+    "YEAR": 2016, 
+    "ACCESS1": 554.517978897493, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 50.35252792890365, 
+    "YEAR": 2016, 
+    "ACCESS1": 504.14918076875153, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 57.82207312543637, 
+    "YEAR": 2016, 
+    "ACCESS1": 466.17145012370526, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1432.9029563125077, 
+    "YEAR": 2016, 
+    "ACCESS1": 3326.440979525766, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 26.231566792793448, 
+    "YEAR": 2016, 
+    "ACCESS1": 249.88234626538411, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 218.14402506617637, 
+    "YEAR": 2016, 
+    "ACCESS1": 376.0691923027806, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 65.70039092383104, 
+    "YEAR": 2016, 
+    "ACCESS1": 204.78990727279998, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2212.747773451357, 
+    "YEAR": 2016, 
+    "ACCESS1": 2111.2470654785984, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 918.9516631324815, 
+    "YEAR": 2016, 
+    "ACCESS1": 2394.4094934691434, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 16.250173704968155, 
+    "YEAR": 2016, 
+    "ACCESS1": 107.7851590210941, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 968.6579841678858, 
+    "YEAR": 2016, 
+    "ACCESS1": 1054.948054243343, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 114.34991045891225, 
+    "YEAR": 2016, 
+    "ACCESS1": 389.8185908719641, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1146.6896313017141, 
+    "YEAR": 2016, 
+    "ACCESS1": 2298.6318036185858, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1439.1495737493212, 
+    "YEAR": 2016, 
+    "ACCESS1": 1266.9952715708398, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 711.9995159240523, 
+    "YEAR": 2016, 
+    "ACCESS1": 2540.6068628779044, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 189.9925633020556, 
+    "YEAR": 2016, 
+    "ACCESS1": 849.4156178357255, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 209.83459321990873, 
+    "YEAR": 2016, 
+    "ACCESS1": 728.901095460332, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 98.36137324654777, 
+    "YEAR": 2016, 
+    "ACCESS1": 623.0854102239441, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 53.78270984878973, 
+    "YEAR": 2016, 
+    "ACCESS1": 354.6544709720235, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 683.885519452029, 
+    "YEAR": 2016, 
+    "ACCESS1": 1459.4453733355754, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 159.21050808017418, 
+    "YEAR": 2016, 
+    "ACCESS1": 730.5938837361591, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 292.3670554970369, 
+    "YEAR": 2016, 
+    "ACCESS1": 617.2646637850435, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 48.09934727901504, 
+    "YEAR": 2016, 
+    "ACCESS1": 434.61434356835105, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2078.454167234071, 
+    "YEAR": 2016, 
+    "ACCESS1": 2355.078632256846, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 1259.2805327899016, 
+    "YEAR": 2016, 
+    "ACCESS1": 1419.208404648087, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 563.6938780592318, 
+    "YEAR": 2016, 
+    "ACCESS1": 1322.134414605982, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 3632.6793331967447, 
+    "YEAR": 2016, 
+    "ACCESS1": 3653.3225959779775, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 29.461198396261974, 
+    "YEAR": 2016, 
+    "ACCESS1": 241.5977123620356, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 108.01144899665248, 
+    "YEAR": 2016, 
+    "ACCESS1": 412.91775099960364, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 2117.8104152008646, 
+    "YEAR": 2016, 
+    "ACCESS1": 3665.989981160614, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 738.4184282227651, 
+    "YEAR": 2016, 
+    "ACCESS1": 1391.7100406132663, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Wholesale Food Establishment", 
+    "ACCESS2": 5333.593147017632, 
+    "YEAR": 2016, 
+    "ACCESS1": 6822.562417283463, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

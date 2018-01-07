@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.33209134977207755, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.8259833235361573, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 2.0301282755054504, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.182656792210464, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 6.27742444258826, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.240987031150933, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 12.882806290537989, 
+    "YEAR": 2017, 
+    "ACCESS1": 38.93862918003053, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.7991278529543178, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.916305270993991, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.6008913105967058, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.299681521627665, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.424490520495432, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.670450435885428, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 5.8379647165377815, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.585723565754556, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.5516143702036538, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.150269526652698, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 2.134457368448232, 
+    "YEAR": 2017, 
+    "ACCESS1": 14.837611236574986, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.8274385685115344, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.4532198839778605, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.06295702654054795, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.059254999058171, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.6680888528501387, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.674213295968314, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.122469631316193, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.909922550240295, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.41985548037138676, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.087889786496604, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 8.585559523305525, 
+    "YEAR": 2017, 
+    "ACCESS1": 25.53442282593429, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 9.919030253685024, 
+    "YEAR": 2017, 
+    "ACCESS1": 26.040646001037832, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.15878021392301647, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.6707111499067635, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.06797082557309216, 
+    "YEAR": 2017, 
+    "ACCESS1": 0.7740949684141205, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 194.58723938267252, 
+    "YEAR": 2017, 
+    "ACCESS1": 73.36811210539801, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 12.040922014925956, 
+    "YEAR": 2017, 
+    "ACCESS1": 40.97920184733933, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.539244014950028, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.123209729965671, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 4.027191267320323, 
+    "YEAR": 2017, 
+    "ACCESS1": 18.40960679683264, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.1543624106446822, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.0224687309792726, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 12.957423773065305, 
+    "YEAR": 2017, 
+    "ACCESS1": 21.323705175312732, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 12.671988229120585, 
+    "YEAR": 2017, 
+    "ACCESS1": 29.183103271543406, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.4055852234006376, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.554520695483014, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 101.9605182211029, 
+    "YEAR": 2017, 
+    "ACCESS1": 114.00495351182329, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 17.326333216142956, 
+    "YEAR": 2017, 
+    "ACCESS1": 43.90298290966897, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 6.205011350855704, 
+    "YEAR": 2017, 
+    "ACCESS1": 23.100146453320296, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.8141269000518467, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.527502877630356, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 15.607982164445174, 
+    "YEAR": 2017, 
+    "ACCESS1": 38.76357255859955, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 123.53788258846178, 
+    "YEAR": 2017, 
+    "ACCESS1": 108.77933461055723, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.3001336416002363, 
+    "YEAR": 2017, 
+    "ACCESS1": 19.663452586457346, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.19861143386287536, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.6495378840458654, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 33.311167160167685, 
+    "YEAR": 2017, 
+    "ACCESS1": 72.24067585391766, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.9385362185785033, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.930946632786262, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 5.103345276847941, 
+    "YEAR": 2017, 
+    "ACCESS1": 25.833799225484118, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.8140969304966954, 
+    "YEAR": 2017, 
+    "ACCESS1": 8.445996073151997, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.7604102520809384, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.289753367620781, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 2.8191259247130382, 
+    "YEAR": 2017, 
+    "ACCESS1": 17.80596433216561, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 119.46488157784829, 
+    "YEAR": 2017, 
+    "ACCESS1": 119.92594279517039, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.810088649382951, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.994001609700346, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 80.67840703589425, 
+    "YEAR": 2017, 
+    "ACCESS1": 55.85837862198961, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.1471087291890858, 
+    "YEAR": 2017, 
+    "ACCESS1": 7.657793476946998, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.5314592327758674, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.00213683585581, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.5730577047238028, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.690772852681137, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.3252256867656703, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.804749834467447, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 148.28418801506368, 
+    "YEAR": 2017, 
+    "ACCESS1": 113.23215608479222, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.19700389335247545, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.64166342216727, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.6592763576329543, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.2845589012358114, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.3294211906390013, 
+    "YEAR": 2017, 
+    "ACCESS1": 2.4056120691446674, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 7.482236013413301, 
+    "YEAR": 2017, 
+    "ACCESS1": 28.75370956290842, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 4.7231155054708145, 
+    "YEAR": 2017, 
+    "ACCESS1": 24.242148070419656, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.06910547817289839, 
+    "YEAR": 2017, 
+    "ACCESS1": 1.1082470339773063, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.4065668064881036, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.832328516676068, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.9544264558107837, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.544666195169448, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 5.15858587741244, 
+    "YEAR": 2017, 
+    "ACCESS1": 27.118216359342455, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 5.010104344869395, 
+    "YEAR": 2017, 
+    "ACCESS1": 13.561918288760411, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.1890834129730967, 
+    "YEAR": 2017, 
+    "ACCESS1": 22.659685212183266, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.628516866518022, 
+    "YEAR": 2017, 
+    "ACCESS1": 9.85208599814502, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.7304795359542702, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.690907110745259, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.5322965017113334, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.1178045022722864, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.2634646727520327, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.7438342422050486, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.6026450038885318, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.319749768173804, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.696276781538208, 
+    "YEAR": 2017, 
+    "ACCESS1": 6.983652125977894, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.6962743840723704, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.89614972865676, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.3326066005774536, 
+    "YEAR": 2017, 
+    "ACCESS1": 4.5409244684949535, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.931960521758483, 
+    "YEAR": 2017, 
+    "ACCESS1": 17.824407431060347, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 3.7672125022842313, 
+    "YEAR": 2017, 
+    "ACCESS1": 11.807744468113542, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.3962316885940027, 
+    "YEAR": 2017, 
+    "ACCESS1": 12.046981922998262, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 5.290494936042722, 
+    "YEAR": 2017, 
+    "ACCESS1": 27.10812027718969, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 0.30214516533293545, 
+    "YEAR": 2017, 
+    "ACCESS1": 3.2589616571880464, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.0145286525039006, 
+    "YEAR": 2017, 
+    "ACCESS1": 5.048560308356662, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 8.32096324835436, 
+    "YEAR": 2017, 
+    "ACCESS1": 41.49249076830999, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 1.7725882844996832, 
+    "YEAR": 2017, 
+    "ACCESS1": 10.93536675002253, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Bicycle Messenger Service", 
+    "ACCESS2": 272.4074959084217, 
+    "YEAR": 2017, 
+    "ACCESS1": 185.86992015165129, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

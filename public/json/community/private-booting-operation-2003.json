@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.07655772783563748, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.2287238165253849, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 10.568010793998567, 
+    "YEAR": 2003, 
+    "ACCESS1": 16.935528367967397, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 7.390696046070387, 
+    "YEAR": 2003, 
+    "ACCESS1": 17.37516980266598, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.5000033880505295, 
+    "YEAR": 2003, 
+    "ACCESS1": 9.268079300045303, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.1917714614008281, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.253885202943473, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.2999400473727253, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.5972160001702673, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.2966753148242854, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.179107502438131, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.548707041513579, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.577359280676059, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.27934548973619333, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.467130106150204, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.3558478406432237, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.077790768659791, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.3024832154281833, 
+    "YEAR": 2003, 
+    "ACCESS1": 5.283281828188334, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.01746814305673177, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.3723353357367144, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.15501136105117314, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.471074507286942, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.20048187143757895, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.9781038155729211, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.10181942557904888, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.6781010414072017, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 5.858474940816448, 
+    "YEAR": 2003, 
+    "ACCESS1": 16.419807030073912, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 55.62663604161853, 
+    "YEAR": 2003, 
+    "ACCESS1": 32.18261986957222, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.03471391632779372, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.5229311190898567, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.015531503836176418, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.24759159879828258, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.0191536328901023, 
+    "YEAR": 2003, 
+    "ACCESS1": 6.512914596687677, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.3381245670212536, 
+    "YEAR": 2003, 
+    "ACCESS1": 9.626856791602307, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.5051520847463524, 
+    "YEAR": 2003, 
+    "ACCESS1": 7.675480636879875, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 7.981280300871196, 
+    "YEAR": 2003, 
+    "ACCESS1": 17.549077276646607, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.03804984715250772, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.6715835765512203, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.6627791392037381, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.4394492576974454, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.6488108544818962, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.97725117542782, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.2940156225093147, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.166105187417493, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 55.30775457632101, 
+    "YEAR": 2003, 
+    "ACCESS1": 67.95627072246383, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 5.420963195259873, 
+    "YEAR": 2003, 
+    "ACCESS1": 16.919164407356426, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.4406823049812847, 
+    "YEAR": 2003, 
+    "ACCESS1": 7.372805209559674, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.8695170800475228, 
+    "YEAR": 2003, 
+    "ACCESS1": 5.124697691696781, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.9136289976745835, 
+    "YEAR": 2003, 
+    "ACCESS1": 9.295537621137758, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 28.78081147545528, 
+    "YEAR": 2003, 
+    "ACCESS1": 48.474601783083116, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 7.123104621181666, 
+    "YEAR": 2003, 
+    "ACCESS1": 16.847566363305635, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.04950366901739315, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.8841606396926941, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 174.86240917297462, 
+    "YEAR": 2003, 
+    "ACCESS1": 58.33452149739263, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 1.349164691178085, 
+    "YEAR": 2003, 
+    "ACCESS1": 5.425696669229808, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 8.318548724935885, 
+    "YEAR": 2003, 
+    "ACCESS1": 21.671753877871343, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.1759655296153332, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.632381977083063, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.158471323944204, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.9325657914880567, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 58.35936437866656, 
+    "YEAR": 2003, 
+    "ACCESS1": 33.515674954054596, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 3.190282929320708, 
+    "YEAR": 2003, 
+    "ACCESS1": 15.261472401724966, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.3027924038722999, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.6060659081109887, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 31.758800151282788, 
+    "YEAR": 2003, 
+    "ACCESS1": 33.71841913340599, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.1811496861802851, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.058926940298223, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.24394436621917984, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.6500630778072405, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.4482303312601487, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.897702875266023, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.08569115057962827, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.6480958283430827, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 6.419661343583083, 
+    "YEAR": 2003, 
+    "ACCESS1": 19.84203929972511, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.051464770431257766, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.9028888568448279, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.0799430977788722, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.7866231937114249, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.2774048730954, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.425366159740429, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 50.32515384710014, 
+    "YEAR": 2003, 
+    "ACCESS1": 37.49355627864213, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.5974824332650418, 
+    "YEAR": 2003, 
+    "ACCESS1": 5.887390035598324, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.01879341921433092, 
+    "YEAR": 2003, 
+    "ACCESS1": 0.386004141697302, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 4.761607050239868, 
+    "YEAR": 2003, 
+    "ACCESS1": 9.07782872685785, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 2.0742622302306546, 
+    "YEAR": 2003, 
+    "ACCESS1": 5.400773487715887, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 6.713928202892068, 
+    "YEAR": 2003, 
+    "ACCESS1": 18.59628310798555, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.32380345575030894, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.4775335726249024, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.5378376666499688, 
+    "YEAR": 2003, 
+    "ACCESS1": 6.319408404216086, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.24452510240648012, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.575981113794292, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.17763376516077845, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.212589250209103, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.12358865910017082, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.9753181121966508, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.06810261747127425, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.2709017543045245, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.3613634894121978, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.939533045158986, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.15748963386868278, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.2290242963157367, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.1325874672700713, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.4420599795731106, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.08567994978939875, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.5411972017873095, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.4886231470531042, 
+    "YEAR": 2003, 
+    "ACCESS1": 4.355096113686194, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.2898408557075041, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.3652312222996796, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.26730069489171143, 
+    "YEAR": 2003, 
+    "ACCESS1": 3.546661356899959, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.6688551026480021, 
+    "YEAR": 2003, 
+    "ACCESS1": 6.647887261708817, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.29677659418166563, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.1427044579304835, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.1301396081242556, 
+    "YEAR": 2003, 
+    "ACCESS1": 1.2257051343131697, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 3.939738053086843, 
+    "YEAR": 2003, 
+    "ACCESS1": 18.420639913288603, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 0.28244599163976764, 
+    "YEAR": 2003, 
+    "ACCESS1": 2.9723837600779266, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Private Booting Operation", 
+    "ACCESS2": 13.372670007086036, 
+    "YEAR": 2003, 
+    "ACCESS1": 37.56755396998294, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

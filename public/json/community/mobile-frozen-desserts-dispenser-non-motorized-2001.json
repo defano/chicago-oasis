@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.07922305332954536, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.05915568031175, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.5382457729817212, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.871756991188777, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 13.121264957725106, 
+    "YEAR": 2001, 
+    "ACCESS1": 17.47560725360909, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 6.533139883662714, 
+    "YEAR": 2001, 
+    "ACCESS1": 13.377609603345082, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.21849806952730572, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.916008800527354, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.6757928418732122, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.1521697363560035, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.299120143527568, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.5620279991467108, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.5435981284737947, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.8754408119843347, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.31055877046883745, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.069810174635066, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.36622194812773784, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.502932389546926, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.046388841601913, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.8915556577010566, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.016674590578119194, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.31096823237016913, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.1501404421743651, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.073709643248548, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.5029973881490188, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.54700846146281, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.13284769564388085, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.586394696875594, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.932804295506885, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.659727595061026, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 9.113532344168444, 
+    "YEAR": 2001, 
+    "ACCESS1": 14.557363673228872, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.03680246260286809, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.4551040873818781, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.016897729236068693, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.21783794715620652, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.4210211233343297, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.209333591095354, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 52.138289421805936, 
+    "YEAR": 2001, 
+    "ACCESS1": 28.896005485615877, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.0584389914842485, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.688265309729209, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 36.08299580500377, 
+    "YEAR": 2001, 
+    "ACCESS1": 27.315243434548282, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.04065422171240207, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.5869855330169214, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.3410031852333181, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.2499633589792962, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.8816400219423114, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.747465011734698, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.4157010207040065, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.051921054774099, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 9.44718219879824, 
+    "YEAR": 2001, 
+    "ACCESS1": 28.24212986671848, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 2.87483208158303, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.23591699237749, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.8682689833590482, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.052589270552636, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.6487453038869052, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.7554098909319347, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 2.1273929006361882, 
+    "YEAR": 2001, 
+    "ACCESS1": 8.313665182874493, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 8.868404800369694, 
+    "YEAR": 2001, 
+    "ACCESS1": 25.196352581698502, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.8770701195587236, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.6345305690642, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.04918158129894471, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.7501938698004257, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.20764633394358, 
+    "YEAR": 2001, 
+    "ACCESS1": 13.247956530633711, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.107815975957618, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.11822288443452, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.603491092639117, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.318819214529865, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.20376466063765866, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.3720782576106823, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.40159076197326926, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.3333259162128153, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.525554627429826, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.781724508103178, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 2.3570027624124994, 
+    "YEAR": 2001, 
+    "ACCESS1": 11.540324721370922, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.45651193431916104, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.58486321459255, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 12.953804178159794, 
+    "YEAR": 2001, 
+    "ACCESS1": 19.96081079697489, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.2246882263436703, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.902498559287004, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.17831463861637223, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.2416182081784457, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.3334465981356327, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.905981130785915, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.0938328338630264, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.4556633327472592, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.7183509719230219, 
+    "YEAR": 2001, 
+    "ACCESS1": 10.092570975749767, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.06663109432062116, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.852411757635216, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.10651486447597482, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.7466617467548802, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.19455751428354778, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.0649070408432215, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 103.49155540449343, 
+    "YEAR": 2001, 
+    "ACCESS1": 47.420846845489386, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.694542944496896, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.30181953012871, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.01926426787771045, 
+    "YEAR": 2001, 
+    "ACCESS1": 0.3319997467183617, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.8048517933482668, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.39828874679171, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 2.3420073105117827, 
+    "YEAR": 2001, 
+    "ACCESS1": 4.6125934355062235, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.31660494031382, 
+    "YEAR": 2001, 
+    "ACCESS1": 12.397717299400387, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.33905601766609006, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.1472978639098943, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.9766710915618578, 
+    "YEAR": 2001, 
+    "ACCESS1": 6.728900198999546, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.24492751576308272, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.189361859056422, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.4260737124246738, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.6289582524719535, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.15588094714208825, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.8414699817295366, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.06396699970089165, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.053885271627543, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.6266407012478072, 
+    "YEAR": 2001, 
+    "ACCESS1": 5.731150860316468, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.26817559404966684, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.329902958003041, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.5065578211739746, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.0298896355435985, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.10330093259764174, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.4145520311216893, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.1091440628061155, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.287601190166058, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.7887617183490111, 
+    "YEAR": 2001, 
+    "ACCESS1": 2.910852355243605, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.3271621470814536, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.2613141985238157, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 1.3696624633250365, 
+    "YEAR": 2001, 
+    "ACCESS1": 7.367219051519965, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.21147065160213108, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.5369505648160433, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.12305743146435505, 
+    "YEAR": 2001, 
+    "ACCESS1": 1.018620307588657, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 3.371080475233532, 
+    "YEAR": 2001, 
+    "ACCESS1": 15.224967415877734, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 0.8908366966153288, 
+    "YEAR": 2001, 
+    "ACCESS1": 3.8824729794300517, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Mobile Frozen Desserts Dispenser - Non-Motorized", 
+    "ACCESS2": 4.9688903513910185, 
+    "YEAR": 2001, 
+    "ACCESS1": 21.204432341900265, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

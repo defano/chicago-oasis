@@ -1,3 +1,98 @@
 [
-{"STATE":"IL","ZIP":60647,"LATTITUDE":41.93012611532404,"ADDRESS":"2657 N KEDZIE AVE 2ND ","YEAR":2014,"DOING_BUSINESS_AS_NAME":"LONGMAN & EAGLE","POP_AT_RISK":1482390,"BUSINESS_TYPE":"Bed-And-Breakfast Establishment","LEGAL_NAME":"LOGAN B&B, LLC","LONGITUDE":-87.7072308071835},
-{}]
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "ELIZABETH GREGORY SERRITELLA", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "OLD TOWN CHICAGO BED & BREAKFAST", 
+    "POP_AT_RISK": 65953, 
+    "ZIP": 60610, 
+    "ADDRESS": "1442 N NORTH PARK AVE", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.636739377, 
+    "LATTITUDE": 41.908809054
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "LOGAN B&B, LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "LONGMAN & EAGLE", 
+    "POP_AT_RISK": 70590, 
+    "ZIP": 60647, 
+    "ADDRESS": "2657 N KEDZIE AVE 2ND", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.707230807, 
+    "LATTITUDE": 41.930126115
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "SALLY J. BAKER", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "GOLD COAST GUEST HOUSE B & B", 
+    "POP_AT_RISK": 79339, 
+    "ZIP": 60610, 
+    "ADDRESS": "113 W ELM ST", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.63199155, 
+    "LATTITUDE": 41.903018996
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "WELCOME INN MANOR INC.", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "WELCOME INN MANOR INC.", 
+    "POP_AT_RISK": 30702, 
+    "ZIP": 60653, 
+    "ADDRESS": "4563 S MICHIGAN AVE 2ND", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.622741793, 
+    "LATTITUDE": 41.811258707
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "ANDERS AND MYRA NYBERG", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "NYBERG B & B", 
+    "POP_AT_RISK": 81988, 
+    "ZIP": 60613, 
+    "ADDRESS": "3924 N JANSSEN AVE", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.665965828, 
+    "LATTITUDE": 41.95327823
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "BARNES & HENLEY LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "NINA'S BED AND BREAKFAST", 
+    "POP_AT_RISK": 70131, 
+    "ZIP": 60640, 
+    "ADDRESS": "1303 W WINONA ST 2 2", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.662647992, 
+    "LATTITUDE": 41.975276153
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "HUTCHINS HOUSE LTD", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "HUTCHINS HOUSE LTD", 
+    "POP_AT_RISK": 39605, 
+    "ZIP": 60615, 
+    "ADDRESS": "4810 S ELLIS AVE", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.601804876, 
+    "LATTITUDE": 41.807395667
+  }, 
+  {
+    "BUSINESS_TYPE": "Bed-And-Breakfast Establishment", 
+    "LEGAL_NAME": "CAT'S CRADLE LLC", 
+    "STATE": "IL", 
+    "DOING_BUSINESS_AS_NAME": "THE LANG HOUSE B&B ON SHERIDAN", 
+    "POP_AT_RISK": 40073, 
+    "ZIP": 60626, 
+    "ADDRESS": "7421 N SHERIDAN RD", 
+    "YEAR": 2014, 
+    "LONGITUDE": -87.6651582, 
+    "LATTITUDE": 42.016815597
+  }
+]

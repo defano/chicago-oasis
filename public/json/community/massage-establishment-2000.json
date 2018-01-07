@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.08306108269546371, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9109865749159196, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.30872753520570867, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.718605763440804, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.49967016836646194, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.3068013342025653, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.4514043589206158, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.517372614392395, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.18771690801900748, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.2860607983722834, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.3152115066233133, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.6285746951562112, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.37340014960709306, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.3422380930615323, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.594921287122553, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.611806513750045, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.39673709902504756, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.9522603651952717, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.5799728065108474, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.725526523409296, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.11736671098242965, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1810970660000055, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.015322094294704196, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.24756139548870096, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.17323584948878604, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8592604249172582, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.18847124594978162, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3695586896603305, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.09283769929803079, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.1386191288711607, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.7202518382795045, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.146569933663003, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6606464298470963, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.621141578199256, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.039842662908911204, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.3991291005956996, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.0165960136939581, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.18218676763820513, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 3.1001972495077, 
+    "YEAR": 2000, 
+    "ACCESS1": 8.117062841118331, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.4502884255162933, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.157704136670346, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.22306195927827743, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.208467849482356, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.41006225821335823, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.998759092155185, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.0370794819087214, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.47098610480816205, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 52.93085504403579, 
+    "YEAR": 2000, 
+    "ACCESS1": 18.279087133015775, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.715106404723816, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.8241906612047405, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.31290742648582776, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.059610994877381, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 3.83501735212902, 
+    "YEAR": 2000, 
+    "ACCESS1": 16.02942250232588, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.3790261750381598, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.388082631055722, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.7471066718112851, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.85610640052938, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.12427650484972504, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.4077668190123522, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.5567249487656438, 
+    "YEAR": 2000, 
+    "ACCESS1": 6.073528074740288, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 2.858849415820517, 
+    "YEAR": 2000, 
+    "ACCESS1": 12.247430456248262, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.4116729007075016, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.383191897089999, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.049408965496463696, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6274858556654117, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 5.360019296701602, 
+    "YEAR": 2000, 
+    "ACCESS1": 14.392108864376853, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.1298869978669327, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2470327198562798, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6556585248744468, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.7137770596640705, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.19583314345102298, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.977098522569364, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.14528490555309545, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3182485525215741, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.3776705240507086, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.24457884699561, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 18.498934062587754, 
+    "YEAR": 2000, 
+    "ACCESS1": 23.008866657638542, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.39950415840201914, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.951807325906652, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.1364181422095958, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.615187895042474, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.27833035006040613, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.8246368269372804, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.5166380630139662, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.9548413153517856, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.09454177097779465, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.2931996006496416, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.07531441458587866, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0972188095614133, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 49.913048396442804, 
+    "YEAR": 2000, 
+    "ACCESS1": 41.09432098688095, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.04262921759144571, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.5836341802814642, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.14829988632671087, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.7666993969090531, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.047074266527813484, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.43378151285640715, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6674009160037976, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.459958179663644, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.1786705615590969, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.9271507427591175, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.016319190495523113, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.25531529355570726, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.3325415586547676, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.994187062195323, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.11618203747336225, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9632710106915281, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6209440889884946, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.574571724916759, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.0884919167935716, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.2487706736670243, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6602939423754479, 
+    "YEAR": 2000, 
+    "ACCESS1": 4.990507525204395, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.4571737607414964, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.5256472266461074, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.1364131796139517, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3782426462865198, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.12086066829899397, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.3889916647157898, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.06672470796942351, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.8936389472123858, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.2807888910514989, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.469775435744086, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.14374805767492127, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.5146435006943013, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.12514190810729886, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.9995869071152853, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.07443008183212002, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.0201785639538872, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.6016470112323581, 
+    "YEAR": 2000, 
+    "ACCESS1": 3.4587903592911777, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.49708603545758984, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.223690448935962, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.33537996401968867, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.8319010399404423, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.0119310522847917, 
+    "YEAR": 2000, 
+    "ACCESS1": 5.8456028118880985, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.04880973191157506, 
+    "YEAR": 2000, 
+    "ACCESS1": 0.6246643326559465, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.3018371651932005, 
+    "YEAR": 2000, 
+    "ACCESS1": 1.342221154866503, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 1.071457547207309, 
+    "YEAR": 2000, 
+    "ACCESS1": 7.1387787925842705, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 0.32251323868232784, 
+    "YEAR": 2000, 
+    "ACCESS1": 2.2675466231880717, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Massage Establishment", 
+    "ACCESS2": 9.480465567885725, 
+    "YEAR": 2000, 
+    "ACCESS1": 23.110101156133368, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

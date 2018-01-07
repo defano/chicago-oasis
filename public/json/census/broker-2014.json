@@ -1,0 +1,8062 @@
+[
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 46.72072911675062, 
+    "TRACT": "0814.01", 
+    "ACCESS2": 49.92729287525335, 
+    "YEAR": 2014, 
+    "ONE_MILE": 15, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.563877497165635, 
+    "TRACT": "4003", 
+    "ACCESS2": 2.6134732959220246, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 43.3221206658627, 
+    "TRACT": "0814.03", 
+    "ACCESS2": 35.49506889977291, 
+    "YEAR": 2014, 
+    "ONE_MILE": 14, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 41.140060613435885, 
+    "TRACT": "0814.02", 
+    "ACCESS2": 30.770343111775873, 
+    "YEAR": 2014, 
+    "ONE_MILE": 12, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.59517522330775, 
+    "TRACT": "4603.02", 
+    "ACCESS2": 2.775917593878923, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.496144722620482, 
+    "TRACT": "4603.01", 
+    "ACCESS2": 3.1957126438778527, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 31.49159210529061, 
+    "TRACT": "0705", 
+    "ACCESS2": 18.98143606081919, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 18.59839153775409, 
+    "TRACT": "8387", 
+    "ACCESS2": 3.8490305714376802, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.555128994648854, 
+    "TRACT": "4406", 
+    "ACCESS2": 1.585776697835826, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.67976478203252, 
+    "TRACT": "7113", 
+    "ACCESS2": 1.8485584184728119, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 34.15892300195619, 
+    "TRACT": "3301", 
+    "ACCESS2": 18.895314868856136, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.62659114753704, 
+    "TRACT": "1906.02", 
+    "ACCESS2": 6.33628048526272, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.656041675801312, 
+    "TRACT": "8343", 
+    "ACCESS2": 4.6640904806621695, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.751109165095775, 
+    "TRACT": "6708", 
+    "ACCESS2": 2.8961905073125553, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.367881442901616, 
+    "TRACT": "1202", 
+    "ACCESS2": 3.1903220713644425, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.993186576817207, 
+    "TRACT": "7102", 
+    "ACCESS2": 1.8908317118542026, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.716076433547624, 
+    "TRACT": "4107", 
+    "ACCESS2": 2.6574774090907884, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.776608962907417, 
+    "TRACT": "1002", 
+    "ACCESS2": 19.258770081415616, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 31.48813757343739, 
+    "TRACT": "0712", 
+    "ACCESS2": 17.361005144786134, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 40.62684326440011, 
+    "TRACT": "8331", 
+    "ACCESS2": 30.19471841282792, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 21.961641414858995, 
+    "TRACT": "0401", 
+    "ACCESS2": 9.668066940209824, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.423443315451944, 
+    "TRACT": "1702", 
+    "ACCESS2": 5.684060927343501, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.442339809459632, 
+    "TRACT": "7304", 
+    "ACCESS2": 1.1270167870892427, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 29.431224091605113, 
+    "TRACT": "8382", 
+    "ACCESS2": 12.475621049119365, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 17.654447131797586, 
+    "TRACT": "1404", 
+    "ACCESS2": 4.762222092951904, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.904215790865683, 
+    "TRACT": "6903", 
+    "ACCESS2": 2.0645232238407014, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 31.72949799207269, 
+    "TRACT": "3108", 
+    "ACCESS2": 28.791368810931356, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.454357857459797, 
+    "TRACT": "4208", 
+    "ACCESS2": 2.4727000232843075, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 29.44612026287805, 
+    "TRACT": "0609", 
+    "ACCESS2": 19.12555704368636, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.069549062062048, 
+    "TRACT": "6914", 
+    "ACCESS2": 2.129153043453788, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.32011154941389, 
+    "TRACT": "6309", 
+    "ACCESS2": 3.7964089176399543, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 13.965249887163637, 
+    "TRACT": "6408", 
+    "ACCESS2": 4.390267115903899, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.723071255140837, 
+    "TRACT": "4606", 
+    "ACCESS2": 4.049134202637105, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.680780439014983, 
+    "TRACT": "6809", 
+    "ACCESS2": 2.303697297316326, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 7.894827266572939, 
+    "TRACT": "9800", 
+    "ACCESS2": 0.843653494971495, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.107004258173879, 
+    "TRACT": "5206", 
+    "ACCESS2": 2.6800703428369532, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.914948178361666, 
+    "TRACT": "4004", 
+    "ACCESS2": 2.7355935266288993, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 16.600510579372592, 
+    "TRACT": "8434", 
+    "ACCESS2": 3.0368844095163636, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.52386994437244, 
+    "TRACT": "4802", 
+    "ACCESS2": 12.224768906733381, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.968930888430576, 
+    "TRACT": "6702", 
+    "ACCESS2": 3.7300518322586225, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.77754666815361, 
+    "TRACT": "1704", 
+    "ACCESS2": 5.118094913585169, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 24.913696015801115, 
+    "TRACT": "2203", 
+    "ACCESS2": 8.75721289334633, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 13.157339591311851, 
+    "TRACT": "1007", 
+    "ACCESS2": 2.629849510218185, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 47.2123316531847, 
+    "TRACT": "0622", 
+    "ACCESS2": 88.87597588636658, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.620870296464473, 
+    "TRACT": "5303", 
+    "ACCESS2": 0.6781239967204997, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 22.874825003991262, 
+    "TRACT": "0205", 
+    "ACCESS2": 28.273487954074078, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 28.68879069148069, 
+    "TRACT": "0608", 
+    "ACCESS2": 17.66336874421886, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.498022993040454, 
+    "TRACT": "4409", 
+    "ACCESS2": 1.7802082493516345, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 22.26487355582138, 
+    "TRACT": "3511", 
+    "ACCESS2": 7.667348940416354, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.008478352096462, 
+    "TRACT": "5305.03", 
+    "ACCESS2": 0.5701279817641369, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.097900899382994, 
+    "TRACT": "5305.02", 
+    "ACCESS2": 0.5970360644731239, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.393864280673494, 
+    "TRACT": "5305.01", 
+    "ACCESS2": 0.6484362851329463, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 28.424602200923783, 
+    "TRACT": "8400", 
+    "ACCESS2": 18.89110942136481, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 26.061799547289617, 
+    "TRACT": "0510", 
+    "ACCESS2": 10.173825561429185, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.847832055631192, 
+    "TRACT": "4109", 
+    "ACCESS2": 2.4020294037271688, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.615765236492127, 
+    "TRACT": "2506", 
+    "ACCESS2": 3.1159591753367883, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.96695307603194, 
+    "TRACT": "4307", 
+    "ACCESS2": 7.471114949345941, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 21.91360441350621, 
+    "TRACT": "8403", 
+    "ACCESS2": 7.084408507574863, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 22.93984863430223, 
+    "TRACT": "0305", 
+    "ACCESS2": 15.267897576604923, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 29.967523420153704, 
+    "TRACT": "8420", 
+    "ACCESS2": 22.559775062552525, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.119952271835109, 
+    "TRACT": "7303", 
+    "ACCESS2": 1.4462032411841017, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.9845798372961445, 
+    "TRACT": "4912", 
+    "ACCESS2": 0.7665271673648965, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.320010937218843, 
+    "TRACT": "0206.02", 
+    "ACCESS2": 8.512629919509804, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 18.926817105794132, 
+    "TRACT": "0105.02", 
+    "ACCESS2": 9.153180747845715, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 18.852324812753196, 
+    "TRACT": "0206.01", 
+    "ACCESS2": 7.866585591893454, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 26.260565037310386, 
+    "TRACT": "2828", 
+    "ACCESS2": 9.310536653889155, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 31.915763218877043, 
+    "TRACT": "2422", 
+    "ACCESS2": 21.48042766132175, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.78317858120964, 
+    "TRACT": "6401", 
+    "ACCESS2": 4.99594856589282, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 13.482347170758217, 
+    "TRACT": "6605", 
+    "ACCESS2": 2.5383928726718232, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.352400572253604, 
+    "TRACT": "8431", 
+    "ACCESS2": 5.381082842172503, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.755773647842972, 
+    "TRACT": "5002", 
+    "ACCESS2": 1.0790429691778316, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 15.196196943922633, 
+    "TRACT": "2521.02", 
+    "ACCESS2": 2.5190456128777936, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 14.282746624616088, 
+    "TRACT": "2521.01", 
+    "ACCESS2": 2.2013601276240533, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.84642552797678, 
+    "TRACT": "4204", 
+    "ACCESS2": 2.480178534859404, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.132094191402384, 
+    "TRACT": "5201", 
+    "ACCESS2": 2.7204466276829185, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.24729961307666, 
+    "TRACT": "1004", 
+    "ACCESS2": 1.9891057908475203, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.44801535153024, 
+    "TRACT": "1506", 
+    "ACCESS2": 6.540328154638558, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 23.360168152896662, 
+    "TRACT": "0208.01", 
+    "ACCESS2": 16.218415496508598, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 19.404364046479074, 
+    "TRACT": "1908", 
+    "ACCESS2": 6.8759098578242615, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.459052564308804, 
+    "TRACT": "7108", 
+    "ACCESS2": 1.7440815106669205, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 32.67968717466543, 
+    "TRACT": "0703", 
+    "ACCESS2": 25.832322777340018, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 69.13494535527751, 
+    "TRACT": "5607", 
+    "ACCESS2": 3034.526766567157, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 40.5651363532078, 
+    "TRACT": "0802.01", 
+    "ACCESS2": 49.4535140069636, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 25
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.246972073282453, 
+    "TRACT": "4403", 
+    "ACCESS2": 1.7710465566188438, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 28.03901415802986, 
+    "TRACT": "2809", 
+    "ACCESS2": 13.123998139921913, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 21.929002102546985, 
+    "TRACT": "3012", 
+    "ACCESS2": 6.018907903431252, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.551208823836191, 
+    "TRACT": "6719", 
+    "ACCESS2": 2.1255522790652197, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.113023264424394, 
+    "TRACT": "8340", 
+    "ACCESS2": 1.3472860783017353, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.579934504964934, 
+    "TRACT": "5401.01", 
+    "ACCESS2": 0.5208130143393718, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.173022590201515, 
+    "TRACT": "5401.02", 
+    "ACCESS2": 0.6369473789867032, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.355659235643188, 
+    "TRACT": "6813", 
+    "ACCESS2": 1.9040610084602323, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.274402045825187, 
+    "TRACT": "5204", 
+    "ACCESS2": 49.92214544306731, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 29.340638499173586, 
+    "TRACT": "8378", 
+    "ACCESS2": 15.449018331834692, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 34.57581447488073, 
+    "TRACT": "0604", 
+    "ACCESS2": 31.80295191484809, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 23.29442145858965, 
+    "TRACT": "3510", 
+    "ACCESS2": 8.3809670792263, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.01480761279747, 
+    "TRACT": "8356", 
+    "ACCESS2": 3.784932497535521, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.414494665033644, 
+    "TRACT": "0101", 
+    "ACCESS2": 14.762053886984306, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.491461512687978, 
+    "TRACT": "4108", 
+    "ACCESS2": 2.5844258405238865, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 24.516216238555405, 
+    "TRACT": "8367", 
+    "ACCESS2": 9.885048553964413, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 32, 
+    "ACCESS1": 29.88506311344987, 
+    "TRACT": "8432", 
+    "ACCESS2": 15.185968825387512, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 19.581390880926207, 
+    "TRACT": "1301", 
+    "ACCESS2": 11.093797407378272, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.276377977033352, 
+    "TRACT": "4304", 
+    "ACCESS2": 3.841493196609565, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.017118997540955, 
+    "TRACT": "2306", 
+    "ACCESS2": 9.632319912557685, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.948700700071894, 
+    "TRACT": "8339", 
+    "ACCESS2": 12.259357244275492, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 27.12194001259036, 
+    "TRACT": "0501", 
+    "ACCESS2": 14.107037635934889, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.359439347005628, 
+    "TRACT": "4605", 
+    "ACCESS2": 3.708632576164859, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 20.256039582498857, 
+    "TRACT": "1406.02", 
+    "ACCESS2": 6.6304373510833505, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 18.292882396624307, 
+    "TRACT": "2510", 
+    "ACCESS2": 4.949362729376787, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 20.637696268994517, 
+    "TRACT": "3011", 
+    "ACCESS2": 5.142053104624828, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.126548794118873, 
+    "TRACT": "5003", 
+    "ACCESS2": 0.8693347550242447, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.689014560052186, 
+    "TRACT": "8351", 
+    "ACCESS2": 3.6490646541848535, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.620797771788098, 
+    "TRACT": "0102.01", 
+    "ACCESS2": 14.217927238583341, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.689484883605157, 
+    "TRACT": "5608", 
+    "ACCESS2": 12.754602268594056, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.671092893455823, 
+    "TRACT": "6806", 
+    "ACCESS2": 2.7833927263616616, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.159091443084346, 
+    "TRACT": "3602", 
+    "ACCESS2": 6.533011922076846, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 34.13995695838058, 
+    "TRACT": "2804", 
+    "ACCESS2": 22.44588164898605, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 21.339237662092454, 
+    "TRACT": "1609", 
+    "ACCESS2": 7.385649313297919, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 19.34585528819875, 
+    "TRACT": "3801", 
+    "ACCESS2": 5.103539483804439, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.3987844532894, 
+    "TRACT": "1505.02", 
+    "ACCESS2": 4.016020813017356, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 18.17884258905199, 
+    "TRACT": "4301.01", 
+    "ACCESS2": 26.757911590547554, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.199086634074105, 
+    "TRACT": "4301.02", 
+    "ACCESS2": 11.704154310563927, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.05557750138027, 
+    "TRACT": "5610", 
+    "ACCESS2": 19.09542889917558, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.794642854832784, 
+    "TRACT": "7101", 
+    "ACCESS2": 1.771996886835146, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 24.5541137471822, 
+    "TRACT": "5907", 
+    "ACCESS2": 11.931097953720052, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.46252382157427, 
+    "TRACT": "6504", 
+    "ACCESS2": 2.1946796174159866, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.541853917153489, 
+    "TRACT": "7709.02", 
+    "ACCESS2": 1.4549387289050277, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 25.425981434413487, 
+    "TRACT": "3406", 
+    "ACCESS2": 12.748964247329782, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.83805695982956, 
+    "TRACT": "6114", 
+    "ACCESS2": 24.98394258537963, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.803657135778064, 
+    "TRACT": "1405", 
+    "ACCESS2": 5.312264821753449, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.992308715768077, 
+    "TRACT": "4111", 
+    "ACCESS2": 2.539319932140998, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.234251213464507, 
+    "TRACT": "0208.02", 
+    "ACCESS2": 11.465663258161728, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.0929401296449, 
+    "TRACT": "6603.01", 
+    "ACCESS2": 2.7463434452360205, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 25.462070602831083, 
+    "TRACT": "2215", 
+    "ACCESS2": 8.680898055684601, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.256252505803783, 
+    "TRACT": "2513", 
+    "ACCESS2": 2.8095009949751835, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.43759095378763, 
+    "TRACT": "1302", 
+    "ACCESS2": 4.738850431465352, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 25.486620311737347, 
+    "TRACT": "0314", 
+    "ACCESS2": 11.895012275353539, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 30.66712455399196, 
+    "TRACT": "0625", 
+    "ACCESS2": 17.97930573459966, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 40.38191116551378, 
+    "TRACT": "8392", 
+    "ACCESS2": 108.7856999524006, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 19.771542156216142, 
+    "TRACT": "5807", 
+    "ACCESS2": 6.363167440315019, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 25.472078700895104, 
+    "TRACT": "0502", 
+    "ACCESS2": 10.969255637817845, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 13.495798591886583, 
+    "TRACT": "6503.01", 
+    "ACCESS2": 3.067329486814381, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 20.042765407823143, 
+    "TRACT": "3802", 
+    "ACCESS2": 5.659609452169035, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.163685254543308, 
+    "TRACT": "7708", 
+    "ACCESS2": 1.0103101073930372, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 35.917257109698305, 
+    "TRACT": "2433", 
+    "ACCESS2": 23.856202528581242, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 18.107774627966382, 
+    "TRACT": "8360", 
+    "ACCESS2": 4.2906851570785065, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 57.62367248824976, 
+    "TRACT": "2819", 
+    "ACCESS2": 74.73562044120135, 
+    "YEAR": 2014, 
+    "ONE_MILE": 23, 
+    "TWO_MILE": 39
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.92224858269685, 
+    "TRACT": "6913", 
+    "ACCESS2": 1.9015854378377373, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 15.063843087085177, 
+    "TRACT": "4102", 
+    "ACCESS2": 2.7663486379871105, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.593090098912644, 
+    "TRACT": "2714", 
+    "ACCESS2": 4.9528430636938, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 25.617411008906117, 
+    "TRACT": "8308", 
+    "ACCESS2": 12.754072855241535, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 37.722898438839884, 
+    "TRACT": "0801", 
+    "ACCESS2": 28.686253807668844, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 25
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.47380751455784, 
+    "TRACT": "2303", 
+    "ACCESS2": 7.105372457443207, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.746813716060705, 
+    "TRACT": "4202", 
+    "ACCESS2": 2.624308834315367, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.476636593640556, 
+    "TRACT": "3817", 
+    "ACCESS2": 3.9914658408011787, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.056225775367132, 
+    "TRACT": "9801", 
+    "ACCESS2": 8.191109457708365, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 29.04438874155815, 
+    "TRACT": "2414", 
+    "ACCESS2": 11.778153551429277, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.325536874760614, 
+    "TRACT": "6611", 
+    "ACCESS2": 2.193307631348444, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.945765507548485, 
+    "TRACT": "1703", 
+    "ACCESS2": 4.847560837645648, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 22.70096289500999, 
+    "TRACT": "2309", 
+    "ACCESS2": 6.76260868708337, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 20.798587004018234, 
+    "TRACT": "1402", 
+    "ACCESS2": 7.310408406200754, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.731940111076938, 
+    "TRACT": "5603", 
+    "ACCESS2": 5.463587970237576, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.979063213562748, 
+    "TRACT": "8418", 
+    "ACCESS2": 2.709275317013726, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.135821976637507, 
+    "TRACT": "7203", 
+    "ACCESS2": 1.0658815586117756, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 27.031242100971955, 
+    "TRACT": "0508", 
+    "ACCESS2": 11.69504952809063, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 18.232153951127593, 
+    "TRACT": "3016", 
+    "ACCESS2": 3.8747518041586395, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 16.164349672353115, 
+    "TRACT": "3901", 
+    "ACCESS2": 3.1972501463083236, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 33.229312704842634, 
+    "TRACT": "0718", 
+    "ACCESS2": 18.038194286601485, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 26.82963498681352, 
+    "TRACT": "8395", 
+    "ACCESS2": 14.455735998740378, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 18.208773630382478, 
+    "TRACT": "5804", 
+    "ACCESS2": 6.5800943489891575, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 16.14246680052457, 
+    "TRACT": "1204", 
+    "ACCESS2": 4.058636246486901, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 15.884794407359863, 
+    "TRACT": "2522.01", 
+    "ACCESS2": 2.7653527433612606, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.757926902858122, 
+    "TRACT": "8439", 
+    "ACCESS2": 3.9121984225277284, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 33.250366387120394, 
+    "TRACT": "0628", 
+    "ACCESS2": 23.336929931901185, 
+    "YEAR": 2014, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.60851897344844, 
+    "TRACT": "2522.02", 
+    "ACCESS2": 3.0376064541971233, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.882002957707694, 
+    "TRACT": "6117", 
+    "ACCESS2": 6.257854694967631, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 29.421788406208158, 
+    "TRACT": "2428", 
+    "ACCESS2": 23.1650966896211, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.069941962329771, 
+    "TRACT": "5103", 
+    "ACCESS2": 2.0022410345781982, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.644190538330474, 
+    "TRACT": "6202", 
+    "ACCESS2": 8.102638179933313, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 24.660564936656968, 
+    "TRACT": "2204", 
+    "ACCESS2": 9.26787740258474, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 23.559035852539672, 
+    "TRACT": "2001", 
+    "ACCESS2": 23.783984256411127, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 18.429740006931027, 
+    "TRACT": "2508", 
+    "ACCESS2": 6.228734375789728, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 21.15365206933514, 
+    "TRACT": "5905", 
+    "ACCESS2": 6.798758590758546, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 28.286065430470618, 
+    "TRACT": "0317", 
+    "ACCESS2": 22.03244018011996, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 22.78957906246923, 
+    "TRACT": "2916", 
+    "ACCESS2": 6.419826110165473, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 27.26021206821452, 
+    "TRACT": "0633.03", 
+    "ACCESS2": 11.246931760100429, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 30.14598367398539, 
+    "TRACT": "0633.01", 
+    "ACCESS2": 16.274921823933123, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.238101817207653, 
+    "TRACT": "6501", 
+    "ACCESS2": 3.148726770962615, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.923305138241078, 
+    "TRACT": "4407", 
+    "ACCESS2": 1.981510683144729, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 18.2800559926744, 
+    "TRACT": "2603", 
+    "ACCESS2": 3.8291907029154126, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.257964137336023, 
+    "TRACT": "6705", 
+    "ACCESS2": 3.2966263048996978, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.695203873657702, 
+    "TRACT": "7706.02", 
+    "ACCESS2": 3.7094099961959417, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 24.417431757550336, 
+    "TRACT": "2101", 
+    "ACCESS2": 9.787143250964956, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.889535671291522, 
+    "TRACT": "7110", 
+    "ACCESS2": 1.5835135452511513, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 24.09294329533996, 
+    "TRACT": "2212", 
+    "ACCESS2": 8.638102652371186, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 26.223098433011632, 
+    "TRACT": "0505", 
+    "ACCESS2": 11.20411569219855, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 33, 
+    "ACCESS1": 34.07558628828355, 
+    "TRACT": "6004", 
+    "ACCESS2": 25.02143505724595, 
+    "YEAR": 2014, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 23.15203835874469, 
+    "TRACT": "2002", 
+    "ACCESS2": 16.832696567894967, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 17.537183866713015, 
+    "TRACT": "3814", 
+    "ACCESS2": 3.9886414375471064, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 30.54484699940513, 
+    "TRACT": "0603", 
+    "ACCESS2": 19.538737996702547, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.155346452355523, 
+    "TRACT": "3904", 
+    "ACCESS2": 3.2278450134234276, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.620916780032598, 
+    "TRACT": "4610", 
+    "ACCESS2": 17.849821288699225, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.462125769751188, 
+    "TRACT": "7004.02", 
+    "ACCESS2": 1.5655664589669478, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.300573720465263, 
+    "TRACT": "6406", 
+    "ACCESS2": 17.945139929027594, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 21.45718088119088, 
+    "TRACT": "2713", 
+    "ACCESS2": 5.499258743797389, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.278976495598, 
+    "TRACT": "8415", 
+    "ACCESS2": 4.7282273640778225, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.08532465687498, 
+    "TRACT": "7503", 
+    "ACCESS2": 0.7683175401203952, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 21.29427147037704, 
+    "TRACT": "1909", 
+    "ACCESS2": 11.935849406593869, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.88451480480101, 
+    "TRACT": "2606", 
+    "ACCESS2": 3.5619248912873447, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 31.426798648094017, 
+    "TRACT": "8307", 
+    "ACCESS2": 25.2101464604658, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.745745145848646, 
+    "TRACT": "6706", 
+    "ACCESS2": 2.949889261518207, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 20.803809042689753, 
+    "TRACT": "1604", 
+    "ACCESS2": 7.225929699376671, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.92904210640707, 
+    "TRACT": "5604", 
+    "ACCESS2": 5.217970931124186, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.612967312103027, 
+    "TRACT": "1102", 
+    "ACCESS2": 3.493597623804316, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.706696038317421, 
+    "TRACT": "4402.01", 
+    "ACCESS2": 2.112559800735315, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.317042368314544, 
+    "TRACT": "4402.02", 
+    "ACCESS2": 2.104158476714172, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.273985168102177, 
+    "TRACT": "5203", 
+    "ACCESS2": 22.83753397132942, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.792355332053425, 
+    "TRACT": "6805", 
+    "ACCESS2": 3.4322384729664037, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 49.26174629278982, 
+    "TRACT": "0810", 
+    "ACCESS2": 60.888627647767606, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 20.00390506290439, 
+    "TRACT": "5801", 
+    "ACCESS2": 5.456694519762665, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 28.971424358166416, 
+    "TRACT": "0633.02", 
+    "ACCESS2": 13.998326045943646, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.660981911037254, 
+    "TRACT": "6110", 
+    "ACCESS2": 5.602439634239727, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 17.373800316049433, 
+    "TRACT": "8438", 
+    "ACCESS2": 4.142891297362076, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.001393835346278, 
+    "TRACT": "6121", 
+    "ACCESS2": 4.14759464666687, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 21.433169988956916, 
+    "TRACT": "0107.01", 
+    "ACCESS2": 22.55090088816199, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.972317474068877, 
+    "TRACT": "6305", 
+    "ACCESS2": 4.83767301818699, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.929917262911167, 
+    "TRACT": "7506", 
+    "ACCESS2": 0.7419503052797815, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.687979703030887, 
+    "TRACT": "8412", 
+    "ACCESS2": 8.202111144324155, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 27.196883777424603, 
+    "TRACT": "2412", 
+    "ACCESS2": 10.337318399555365, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 35.36731283051672, 
+    "TRACT": "0630", 
+    "ACCESS2": 36.05959735172386, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 48.47377363725098, 
+    "TRACT": "8383", 
+    "ACCESS2": 72.62375719069426, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.623833627122838, 
+    "TRACT": "7307", 
+    "ACCESS2": 0.9026156731568852, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 25.160994470978196, 
+    "TRACT": "3501", 
+    "ACCESS2": 10.293512382246341, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 27.41624049085044, 
+    "TRACT": "0619.02", 
+    "ACCESS2": 13.201997934179253, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.494210239229284, 
+    "TRACT": "0202", 
+    "ACCESS2": 4.387791370561588, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.091862065489366, 
+    "TRACT": "4904", 
+    "ACCESS2": 1.5344068874743497, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.46606992160191, 
+    "TRACT": "3907", 
+    "ACCESS2": 2.52490690610548, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.270310832745311, 
+    "TRACT": "7001", 
+    "ACCESS2": 2.945278376647743, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 21.356588491902706, 
+    "TRACT": "2307", 
+    "ACCESS2": 6.256698418761813, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 24.537632389124354, 
+    "TRACT": "8371", 
+    "ACCESS2": 8.587029837347743, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.61738925439242, 
+    "TRACT": "8347", 
+    "ACCESS2": 3.214003192564481, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 32.660448723675024, 
+    "TRACT": "2430", 
+    "ACCESS2": 27.89073474726125, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.502403602590735, 
+    "TRACT": "7404", 
+    "ACCESS2": 0.6412996362653444, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.500780358711474, 
+    "TRACT": "4911", 
+    "ACCESS2": 0.8848676156550797, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 30.024122089583383, 
+    "TRACT": "8398", 
+    "ACCESS2": 18.610519130373614, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 23.85275534008658, 
+    "TRACT": "0307.06", 
+    "ACCESS2": 17.955291306194482, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.751924493992215, 
+    "TRACT": "1708", 
+    "ACCESS2": 15.144602299096668, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 33.27095305898843, 
+    "TRACT": "0716", 
+    "ACCESS2": 20.078160426208633, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.570835934097314, 
+    "TRACT": "7207", 
+    "ACCESS2": 0.8870534471257205, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.604284904020368, 
+    "TRACT": "4201", 
+    "ACCESS2": 3.0777891654942384, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 26.321979163863993, 
+    "TRACT": "2411", 
+    "ACCESS2": 9.738152973890633, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.607737528067421, 
+    "TRACT": "1706", 
+    "ACCESS2": 2.08727189511446, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.401256211609393, 
+    "TRACT": "6910", 
+    "ACCESS2": 1.9998547749158284, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.066411758025776, 
+    "TRACT": "3807", 
+    "ACCESS2": 4.966344649092108, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.15315151604152, 
+    "TRACT": "8428", 
+    "ACCESS2": 16.411821757675025, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 21.868846810258365, 
+    "TRACT": "8407", 
+    "ACCESS2": 5.846056044086373, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.039917074626896, 
+    "TRACT": "1104", 
+    "ACCESS2": 3.6261306897975745, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 23.731615370782134, 
+    "TRACT": "1608", 
+    "ACCESS2": 12.356480473223929, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 29.942203195558278, 
+    "TRACT": "8380", 
+    "ACCESS2": 17.850447586019452, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 32.96062628754423, 
+    "TRACT": "8319", 
+    "ACCESS2": 24.817348438567087, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.998351276729876, 
+    "TRACT": "6703", 
+    "ACCESS2": 3.8201644670189268, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 43.73020676704914, 
+    "TRACT": "3302", 
+    "ACCESS2": 37.7277419668171, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 35
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 22.15506446072159, 
+    "TRACT": "8313", 
+    "ACCESS2": 24.436138487036093, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 24.589194240423634, 
+    "TRACT": "8374", 
+    "ACCESS2": 7.945163776977051, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 27.7306378758758, 
+    "TRACT": "2209.02", 
+    "ACCESS2": 47.65665194698314, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 23.74142068146047, 
+    "TRACT": "2209.01", 
+    "ACCESS2": 13.298943354134392, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.226272984938703, 
+    "TRACT": "1910", 
+    "ACCESS2": 7.642316319138842, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.50419342958053, 
+    "TRACT": "8344", 
+    "ACCESS2": 2.7238569579074197, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 38.310594634975516, 
+    "TRACT": "3504", 
+    "ACCESS2": 46.31417963128495, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.21049027205553, 
+    "TRACT": "4313.01", 
+    "ACCESS2": 3.413319385150589, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.234778585272297, 
+    "TRACT": "4313.02", 
+    "ACCESS2": 5.422995011055262, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.111207270130018, 
+    "TRACT": "6505", 
+    "ACCESS2": 2.254512403654564, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.0584893780053, 
+    "TRACT": "4602", 
+    "ACCESS2": 2.7213692733373365, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 15.486832482530463, 
+    "TRACT": "2519", 
+    "ACCESS2": 2.688964527168482, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 42.43161289403173, 
+    "TRACT": "8330", 
+    "ACCESS2": 39.344490969077, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 34
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.086931689263082, 
+    "TRACT": "4008", 
+    "ACCESS2": 2.443893975584527, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 32.76363502326082, 
+    "TRACT": "0711", 
+    "ACCESS2": 25.43108178491124, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 31.622534482196546, 
+    "TRACT": "8326", 
+    "ACCESS2": 14.646980798140358, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.495782633770753, 
+    "TRACT": "7114", 
+    "ACCESS2": 1.4841265066483391, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.219431422296996, 
+    "TRACT": "2715", 
+    "ACCESS2": 4.695624083286478, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 20.180420671492858, 
+    "TRACT": "8417", 
+    "ACCESS2": 4.746753551280614, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.259078809315609, 
+    "TRACT": "7501", 
+    "ACCESS2": 0.8147512648866156, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 30.044062140988565, 
+    "TRACT": "2207.01", 
+    "ACCESS2": 76.00745379695647, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.64506598520105, 
+    "TRACT": "1003", 
+    "ACCESS2": 3.370375890916643, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 24.3962518852021, 
+    "TRACT": "2207.02", 
+    "ACCESS2": 15.805500239949904, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 20.72241868612938, 
+    "TRACT": "2315", 
+    "ACCESS2": 5.251960269478872, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.004925100233878, 
+    "TRACT": "7004.01", 
+    "ACCESS2": 1.76353026965873, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 22.336502482252087, 
+    "TRACT": "2104", 
+    "ACCESS2": 10.537221257508524, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 18.84768968344204, 
+    "TRACT": "1510.01", 
+    "ACCESS2": 6.355783123633061, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 16.90306413813405, 
+    "TRACT": "0201", 
+    "ACCESS2": 7.156375659010698, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.614100476988204, 
+    "TRACT": "4601", 
+    "ACCESS2": 1.9740098246666353, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.070865560384993, 
+    "TRACT": "4914", 
+    "ACCESS2": 0.8221495974597622, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 28.413682328688616, 
+    "TRACT": "8404", 
+    "ACCESS2": 31.38325553952612, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.891128467893871, 
+    "TRACT": "4308", 
+    "ACCESS2": 14.835651864654832, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.576071668188774, 
+    "TRACT": "8312", 
+    "ACCESS2": 8.817214764245655, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 20.03570511436209, 
+    "TRACT": "8435", 
+    "ACCESS2": 5.0012600033149415, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.017144588411945, 
+    "TRACT": "2502", 
+    "ACCESS2": 7.160995592511136, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.548799867706514, 
+    "TRACT": "0301.04", 
+    "ACCESS2": 9.740129414589658, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.537320816064087, 
+    "TRACT": "6603.02", 
+    "ACCESS2": 2.9949544795010343, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 22.280499508871824, 
+    "TRACT": "0301.01", 
+    "ACCESS2": 20.50980798838123, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 21.518798487186327, 
+    "TRACT": "0301.02", 
+    "ACCESS2": 17.347755039350698, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 20.177808102038846, 
+    "TRACT": "0301.03", 
+    "ACCESS2": 11.763142343707594, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 19.006637010159565, 
+    "TRACT": "1911", 
+    "ACCESS2": 6.068882453449544, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 18.774145713769833, 
+    "TRACT": "2609", 
+    "ACCESS2": 3.937483949608683, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 14, 
+    "ACCESS1": 22.853313299333394, 
+    "TRACT": "0403", 
+    "ACCESS2": 12.42248646842383, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 27.388703627491783, 
+    "TRACT": "2426", 
+    "ACCESS2": 16.836049433720035, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.050604911135894, 
+    "TRACT": "6405", 
+    "ACCESS2": 3.2702578649574847, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 38.6338172265656, 
+    "TRACT": "0812.02", 
+    "ACCESS2": 28.298397792982435, 
+    "YEAR": 2014, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.12365973508478, 
+    "TRACT": "0204", 
+    "ACCESS2": 10.745117394253569, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.953037806918486, 
+    "TRACT": "4408", 
+    "ACCESS2": 2.3144792824150886, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.64725271127586, 
+    "TRACT": "6713", 
+    "ACCESS2": 2.4346532580915365, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.15795921784886, 
+    "TRACT": "1904.01", 
+    "ACCESS2": 16.169211829538302, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 21.635847263270044, 
+    "TRACT": "1904.02", 
+    "ACCESS2": 26.12446977518033, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 20.919012797962978, 
+    "TRACT": "1613", 
+    "ACCESS2": 7.165536015375955, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.427727163334286, 
+    "TRACT": "2712", 
+    "ACCESS2": 6.177750620439541, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 32.75872015443506, 
+    "TRACT": "0704", 
+    "ACCESS2": 25.65132197222283, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 19.335107489625575, 
+    "TRACT": "1510.02", 
+    "ACCESS2": 6.342274214773995, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.313839041774544, 
+    "TRACT": "4101", 
+    "ACCESS2": 2.4912955051158043, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 23.261411069487746, 
+    "TRACT": "2227", 
+    "ACCESS2": 7.842373657514184, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.334939584365128, 
+    "TRACT": "5304", 
+    "ACCESS2": 0.6224018938272132, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 28.672256292417682, 
+    "TRACT": "0513", 
+    "ACCESS2": 14.097189255990843, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 47.121600029061796, 
+    "TRACT": "0819", 
+    "ACCESS2": 47.342635623251525, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 45.68954789830972, 
+    "TRACT": "0621", 
+    "ACCESS2": 85.68927180962488, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 23.126422284668365, 
+    "TRACT": "0306.03", 
+    "ACCESS2": 15.372718940489547, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 22.313066941721694, 
+    "TRACT": "0306.01", 
+    "ACCESS2": 17.01597319312686, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.039946324932048, 
+    "TRACT": "7302.01", 
+    "ACCESS2": 1.3539665495009203, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 21.90201428843475, 
+    "TRACT": "0306.04", 
+    "ACCESS2": 11.928721739701668, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.208386669680767, 
+    "TRACT": "4801", 
+    "ACCESS2": 5.045570811258089, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 20.820132463544287, 
+    "TRACT": "2312", 
+    "ACCESS2": 5.522902680785225, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 18.15701532304861, 
+    "TRACT": "3815", 
+    "ACCESS2": 4.363157286110958, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.321096774909638, 
+    "TRACT": "7002", 
+    "ACCESS2": 1.7859656497148924, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 31.961308747669868, 
+    "TRACT": "2421", 
+    "ACCESS2": 16.26572528883119, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 40.093207560101426, 
+    "TRACT": "8321", 
+    "ACCESS2": 57.305392027253646, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 14.304517597337641, 
+    "TRACT": "6604", 
+    "ACCESS2": 2.9900047875638136, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 23.258701279822162, 
+    "TRACT": "1408", 
+    "ACCESS2": 10.630132595932835, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.77777651852282, 
+    "TRACT": "2507", 
+    "ACCESS2": 3.916088199904162, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 22.622371200170782, 
+    "TRACT": "2229", 
+    "ACCESS2": 8.614408137246055, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 30.32391847166958, 
+    "TRACT": "0321", 
+    "ACCESS2": 21.355066829190463, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.800153100775736, 
+    "TRACT": "4604", 
+    "ACCESS2": 3.0595345114976995, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.618673182812895, 
+    "TRACT": "2108", 
+    "ACCESS2": 9.24977424348416, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 16.689408727421867, 
+    "TRACT": "1105.02", 
+    "ACCESS2": 5.700534994379025, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.93597506434416, 
+    "TRACT": "0902", 
+    "ACCESS2": 2.101400607545756, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.198671231777018, 
+    "TRACT": "6716", 
+    "ACCESS2": 2.238270965295217, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.63601798107086, 
+    "TRACT": "1912", 
+    "ACCESS2": 4.777814578531688, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 47.66696630392636, 
+    "TRACT": "0811", 
+    "ACCESS2": 53.36495858536146, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.595765684894825, 
+    "TRACT": "8436", 
+    "ACCESS2": 3.447757264091109, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 26.48721498273319, 
+    "TRACT": "2808", 
+    "ACCESS2": 10.291019775550827, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.50121303321846, 
+    "TRACT": "6718", 
+    "ACCESS2": 2.043135567350244, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 11.372315160491508, 
+    "TRACT": "1005", 
+    "ACCESS2": 1.843305438036589, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 15.887569535795944, 
+    "TRACT": "1203", 
+    "ACCESS2": 4.017688000003691, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 41.402515067417205, 
+    "TRACT": "0804", 
+    "ACCESS2": 45.22671048803277, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.739835404158196, 
+    "TRACT": "6108", 
+    "ACCESS2": 5.607570040828576, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 16.7383473399542, 
+    "TRACT": "2516", 
+    "ACCESS2": 3.383109510031126, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.76601191365798, 
+    "TRACT": "6810", 
+    "ACCESS2": 2.370863596384456, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 74.1424960451224, 
+    "TRACT": "3201", 
+    "ACCESS2": 167.59400099589908, 
+    "YEAR": 2014, 
+    "ONE_MILE": 23, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.92584965791388, 
+    "TRACT": "2718", 
+    "ACCESS2": 6.448847446289109, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.92255578406642, 
+    "TRACT": "7301", 
+    "ACCESS2": 1.264110589054139, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.323418510747496, 
+    "TRACT": "7105", 
+    "ACCESS2": 3.8520908532118594, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.84399904258677, 
+    "TRACT": "6609", 
+    "ACCESS2": 2.2795372471071533, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 20.42061674061497, 
+    "TRACT": "8355", 
+    "ACCESS2": 6.051123744506355, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 39.83503799377939, 
+    "TRACT": "8402", 
+    "ACCESS2": 90.74608684554565, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 19.414161425859337, 
+    "TRACT": "5808", 
+    "ACCESS2": 7.270943052931778, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.225358997146802, 
+    "TRACT": "3812", 
+    "ACCESS2": 3.7877452070896083, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.875976559805213, 
+    "TRACT": "6119", 
+    "ACCESS2": 5.749414356101582, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 23.395613766264947, 
+    "TRACT": "8433", 
+    "ACCESS2": 6.775897497189574, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.544041670111849, 
+    "TRACT": "2504", 
+    "ACCESS2": 3.254114833866476, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 18.81524002347231, 
+    "TRACT": "8408", 
+    "ACCESS2": 4.1812430023694755, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.288876029021297, 
+    "TRACT": "4305", 
+    "ACCESS2": 10.724447531123891, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.539644486030937, 
+    "TRACT": "4910", 
+    "ACCESS2": 0.9118570191492855, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 16.45458461335757, 
+    "TRACT": "3819", 
+    "ACCESS2": 3.3907843527229353, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.95480235395383, 
+    "TRACT": "0102.02", 
+    "ACCESS2": 23.55889560081895, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 28.191299231880443, 
+    "TRACT": "0506", 
+    "ACCESS2": 14.32833903581542, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 35.44705172720652, 
+    "TRACT": "3104", 
+    "ACCESS2": 21.07800810009935, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 107.36029982564142, 
+    "TRACT": "8320", 
+    "ACCESS2": 1164.9756163577076, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.609693695331204, 
+    "TRACT": "6607", 
+    "ACCESS2": 2.462357642728834, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 17.22627045204217, 
+    "TRACT": "8364", 
+    "ACCESS2": 3.725929099168366, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.50953935677435, 
+    "TRACT": "1105.01", 
+    "ACCESS2": 3.8259840301263184, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 24.917896984866328, 
+    "TRACT": "2407", 
+    "ACCESS2": 8.043257244282495, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.798891517512963, 
+    "TRACT": "0310", 
+    "ACCESS2": 12.61341793699303, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.492873987972105, 
+    "TRACT": "8104", 
+    "ACCESS2": 1.5304499267168497, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.792753833393348, 
+    "TRACT": "1504.01", 
+    "ACCESS2": 4.382605060952522, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.459727272242098, 
+    "TRACT": "1504.02", 
+    "ACCESS2": 4.941354705497187, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 19.29752346871201, 
+    "TRACT": "3008", 
+    "ACCESS2": 4.315676988678562, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 31.558621165189244, 
+    "TRACT": "0627", 
+    "ACCESS2": 19.02536065847644, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.034851344842899, 
+    "TRACT": "1201", 
+    "ACCESS2": 5.103539938468041, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 22.767369920128253, 
+    "TRACT": "5906", 
+    "ACCESS2": 8.698540192754853, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.753061332837804, 
+    "TRACT": "1710", 
+    "ACCESS2": 6.773943429737173, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 14.597596801752857, 
+    "TRACT": "8350", 
+    "ACCESS2": 2.9292722577492745, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 49, 
+    "ACCESS1": 38.667850334916274, 
+    "TRACT": "8333", 
+    "ACCESS2": 23.32170031549004, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 37
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.04606869073709, 
+    "TRACT": "4212", 
+    "ACCESS2": 2.304629378731156, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.04338747553476, 
+    "TRACT": "5609", 
+    "ACCESS2": 17.668958086775085, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 31.084941904717102, 
+    "TRACT": "0706", 
+    "ACCESS2": 19.362496213942837, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.549810479188377, 
+    "TRACT": "4110", 
+    "ACCESS2": 2.5582419655725146, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 23.02217379596091, 
+    "TRACT": "6113", 
+    "ACCESS2": 25.358635249491414, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 19.542526005467092, 
+    "TRACT": "1406.01", 
+    "ACCESS2": 5.859116541126105, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 17.52631191610671, 
+    "TRACT": "2517", 
+    "ACCESS2": 3.7549005904565864, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.673056470160857, 
+    "TRACT": "6720", 
+    "ACCESS2": 2.372257053758726, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.290119297749897, 
+    "TRACT": "1601", 
+    "ACCESS2": 5.990446992037023, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 40.71173691259594, 
+    "TRACT": "3206", 
+    "ACCESS2": 28.290355483046017, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 36
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 33.80059524599359, 
+    "TRACT": "0624", 
+    "ACCESS2": 26.133431763171696, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 23.482992834601546, 
+    "TRACT": "0313", 
+    "ACCESS2": 12.928366227632948, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 120.58548740988775, 
+    "TRACT": "8391", 
+    "ACCESS2": 782.0126414091361, 
+    "YEAR": 2014, 
+    "ONE_MILE": 24, 
+    "TWO_MILE": 36
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.86762941202311, 
+    "TRACT": "5703", 
+    "ACCESS2": 12.549808477452727, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 33.47262857239888, 
+    "TRACT": "3107", 
+    "ACCESS2": 35.13147381599688, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.065877284296473, 
+    "TRACT": "8361", 
+    "ACCESS2": 3.220767153269025, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.204473143972775, 
+    "TRACT": "4908", 
+    "ACCESS2": 1.145217294840625, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 37.93159711211206, 
+    "TRACT": "2434", 
+    "ACCESS2": 26.73127304625197, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 34
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 24.202933117480498, 
+    "TRACT": "2225", 
+    "ACCESS2": 7.676169032102808, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.070007308534372, 
+    "TRACT": "4302", 
+    "ACCESS2": 8.837732503533813, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 34, 
+    "ACCESS1": 46.60224721672796, 
+    "TRACT": "0813", 
+    "ACCESS2": 74.54830637724844, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 30
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.68486878526024, 
+    "TRACT": "5001", 
+    "ACCESS2": 1.5111212986072162, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 19.015245973116528, 
+    "TRACT": "1511", 
+    "ACCESS2": 8.54694576173084, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.91002470036253, 
+    "TRACT": "4205", 
+    "ACCESS2": 2.448035426160971, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 29.334995350106997, 
+    "TRACT": "2415", 
+    "ACCESS2": 11.452453467084876, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 25.130265874641793, 
+    "TRACT": "0503", 
+    "ACCESS2": 12.171963057497482, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 44.49760274567141, 
+    "TRACT": "8419", 
+    "ACCESS2": 38.749504512540234, 
+    "YEAR": 2014, 
+    "ONE_MILE": 6, 
+    "TWO_MILE": 38
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 26.012507409533765, 
+    "TRACT": "0509", 
+    "ACCESS2": 10.434202606114829, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.572103479975288, 
+    "TRACT": "8315", 
+    "ACCESS2": 4.475359812844137, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.840713129940182, 
+    "TRACT": "7204", 
+    "ACCESS2": 0.9727498868329615, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 20.180732860617027, 
+    "TRACT": "1610", 
+    "ACCESS2": 6.171622463609491, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.2873981572797, 
+    "TRACT": "2512", 
+    "ACCESS2": 3.3729433215893363, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 22.88733294160034, 
+    "TRACT": "2105.01", 
+    "ACCESS2": 9.999862102042302, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 23.834043542574932, 
+    "TRACT": "2105.02", 
+    "ACCESS2": 12.843306594676347, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 31.282431059562303, 
+    "TRACT": "8423", 
+    "ACCESS2": 13.25691215461444, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.124056754739964, 
+    "TRACT": "6715", 
+    "ACCESS2": 2.2872112385305483, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 24.51767618358771, 
+    "TRACT": "2409", 
+    "ACCESS2": 8.308697665867506, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 19.099570457435753, 
+    "TRACT": "1403.02", 
+    "ACCESS2": 5.6647093440938034, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 45.810736709242725, 
+    "TRACT": "0615", 
+    "ACCESS2": 83.08778457354428, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.454268865709537, 
+    "TRACT": "1403.01", 
+    "ACCESS2": 5.85290601431688, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 18.857748770781154, 
+    "TRACT": "1602", 
+    "ACCESS2": 5.625741969795176, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 23.903685579744796, 
+    "TRACT": "0404.02", 
+    "ACCESS2": 10.612283154695271, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.06840321191892, 
+    "TRACT": "0404.01", 
+    "ACCESS2": 12.5458302347208, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 31.38243114442365, 
+    "TRACT": "0601", 
+    "ACCESS2": 27.948308853067303, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 19.81535046483594, 
+    "TRACT": "2705", 
+    "ACCESS2": 4.4981255758155205, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 26.494176510601857, 
+    "TRACT": "8309", 
+    "ACCESS2": 10.708116804346258, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.78341751403705, 
+    "TRACT": "0308", 
+    "ACCESS2": 17.558581436324715, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.311373273889396, 
+    "TRACT": "6502", 
+    "ACCESS2": 3.613367807580708, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 18.884848202436554, 
+    "TRACT": "2602", 
+    "ACCESS2": 4.106424056793137, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.989096650611787, 
+    "TRACT": "7302.02", 
+    "ACCESS2": 1.291060278614756, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.660888394874277, 
+    "TRACT": "6116", 
+    "ACCESS2": 5.843761196471245, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.342269408624102, 
+    "TRACT": "8362", 
+    "ACCESS2": 2.5711093934637748, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.396798698623194, 
+    "TRACT": "5102", 
+    "ACCESS2": 2.7678503319198127, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 20.681949430331297, 
+    "TRACT": "8359", 
+    "ACCESS2": 6.233546375962744, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 17.262990502441205, 
+    "TRACT": "6201", 
+    "ACCESS2": 8.501480126125069, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.010214159442208, 
+    "TRACT": "7111", 
+    "ACCESS2": 1.797179086218602, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 24.34645270112544, 
+    "TRACT": "2213", 
+    "ACCESS2": 8.156255789282826, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 15.843467704840295, 
+    "TRACT": "2515", 
+    "ACCESS2": 2.9527249924841246, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.977005607109826, 
+    "TRACT": "4314", 
+    "ACCESS2": 2.0458741358698895, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 27.25518451440717, 
+    "TRACT": "0701.01", 
+    "ACCESS2": 10.521431720318978, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 29.599860975915412, 
+    "TRACT": "0701.02", 
+    "ACCESS2": 14.28360770883137, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 30.028586127523212, 
+    "TRACT": "0701.03", 
+    "ACCESS2": 14.665382390152406, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 18.710226128534014, 
+    "TRACT": "5805.01", 
+    "ACCESS2": 5.390849942800571, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.05143865018268, 
+    "TRACT": "5805.02", 
+    "ACCESS2": 7.6443229290062025, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 18.929248196998728, 
+    "TRACT": "1711", 
+    "ACCESS2": 15.054527111727273, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 25.34839912186188, 
+    "TRACT": "2827", 
+    "ACCESS2": 8.489362094743536, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 29.17570167112016, 
+    "TRACT": "0602", 
+    "ACCESS2": 20.62587008227995, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 24.076268176364973, 
+    "TRACT": "3514", 
+    "ACCESS2": 10.193172682587404, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 17.38036554040807, 
+    "TRACT": "0103", 
+    "ACCESS2": 9.36527749919152, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.789582291232243, 
+    "TRACT": "6301", 
+    "ACCESS2": 5.87535251778922, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 27.330509763662626, 
+    "TRACT": "8322", 
+    "ACCESS2": 11.017827444438499, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 21.5060550749001, 
+    "TRACT": "8426", 
+    "ACCESS2": 7.7110359400072035, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.762687731556499, 
+    "TRACT": "7707", 
+    "ACCESS2": 0.9657477682035503, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.174507177602237, 
+    "TRACT": "7502", 
+    "ACCESS2": 0.7897425434172458, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 19.840098593159183, 
+    "TRACT": "8416", 
+    "ACCESS2": 4.526864772686817, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 30.755937647889382, 
+    "TRACT": "2416", 
+    "ACCESS2": 12.710274329395325, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.617820527135217, 
+    "TRACT": "1705", 
+    "ACCESS2": 2.0823543845393018, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 31.70604547813367, 
+    "TRACT": "0634", 
+    "ACCESS2": 20.175348862897593, 
+    "YEAR": 2014, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.786611995898438, 
+    "TRACT": "4401.02", 
+    "ACCESS2": 3.074520772856017, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 12.030495025693831, 
+    "TRACT": "4401.01", 
+    "ACCESS2": 2.644145953098798, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.181804146359193, 
+    "TRACT": "7201", 
+    "ACCESS2": 1.5905305162606813, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.76811245436637, 
+    "TRACT": "7005.02", 
+    "ACCESS2": 4.190776152700751, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.298280822042724, 
+    "TRACT": "3903", 
+    "ACCESS2": 3.799464834316157, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 13.134332738152668, 
+    "TRACT": "7005.01", 
+    "ACCESS2": 8.09428158385097, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 37.185916728943425, 
+    "TRACT": "3403", 
+    "ACCESS2": 32.4731829679863, 
+    "YEAR": 2014, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 31.278088803181635, 
+    "TRACT": "8397", 
+    "ACCESS2": 39.21920957055195, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.897263583716587, 
+    "TRACT": "5802", 
+    "ACCESS2": 4.763943963489187, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.34972964930551, 
+    "TRACT": "1303", 
+    "ACCESS2": 12.976125736661377, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 30.04527261559067, 
+    "TRACT": "6007", 
+    "ACCESS2": 20.557476009683345, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 24.919340148903373, 
+    "TRACT": "1605.02", 
+    "ACCESS2": 21.78976082818938, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 23.683040919372306, 
+    "TRACT": "1605.01", 
+    "ACCESS2": 15.637647214778728, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 17.346805041525734, 
+    "TRACT": "0104", 
+    "ACCESS2": 6.193705716966931, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 16.209686781474616, 
+    "TRACT": "5702", 
+    "ACCESS2": 4.273370091896338, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 18.05853387083461, 
+    "TRACT": "6302", 
+    "ACCESS2": 6.762452109432086, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 35.35197286606189, 
+    "TRACT": "8329", 
+    "ACCESS2": 18.857702555756514, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 26
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 24.616278737249, 
+    "TRACT": "2210", 
+    "ACCESS2": 14.618083737928101, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.468040093349703, 
+    "TRACT": "1503", 
+    "ACCESS2": 11.618483727637296, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.32986901868695, 
+    "TRACT": "7402", 
+    "ACCESS2": 0.8259197890369728, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 27.850646349255527, 
+    "TRACT": "2413", 
+    "ACCESS2": 10.793454253328711, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.306829401952424, 
+    "TRACT": "8316", 
+    "ACCESS2": 3.3128330891954683, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 33.8450997284194, 
+    "TRACT": "0631", 
+    "ACCESS2": 29.06337420507969, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.025294480954758, 
+    "TRACT": "7306", 
+    "ACCESS2": 1.0062510780991483, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 28.787440308344237, 
+    "TRACT": "8323", 
+    "ACCESS2": 12.40569247645549, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 17.31541426097173, 
+    "TRACT": "2605", 
+    "ACCESS2": 3.3179000218311625, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.75933183011201, 
+    "TRACT": "6707", 
+    "ACCESS2": 2.9319028183970675, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 12.378953716399975, 
+    "TRACT": "4805", 
+    "ACCESS2": 8.120233010549317, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.536915429380851, 
+    "TRACT": "3906", 
+    "ACCESS2": 2.941932476851395, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 23.626131162627253, 
+    "TRACT": "8370", 
+    "ACCESS2": 7.15127773587823, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.898802134427886, 
+    "TRACT": "2304", 
+    "ACCESS2": 7.17164951639325, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.570270558587607, 
+    "TRACT": "8425", 
+    "ACCESS2": 2.2762345494062526, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 22.930697351504563, 
+    "TRACT": "8413", 
+    "ACCESS2": 7.110576612937783, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 28.598279980586476, 
+    "TRACT": "0507", 
+    "ACCESS2": 14.308862706982445, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 19.43984721582872, 
+    "TRACT": "1611", 
+    "ACCESS2": 5.7741972645148865, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 21.724525824073893, 
+    "TRACT": "2311", 
+    "ACCESS2": 6.053111142062572, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 31.878517113249583, 
+    "TRACT": "0715", 
+    "ACCESS2": 17.51287173008473, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.609638370021528, 
+    "TRACT": "8348", 
+    "ACCESS2": 2.7057721699298827, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.67069769861265, 
+    "TRACT": "4905", 
+    "ACCESS2": 1.3258200871103845, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 56.335177002116616, 
+    "TRACT": "2801", 
+    "ACCESS2": 65.95869146938475, 
+    "YEAR": 2014, 
+    "ONE_MILE": 27, 
+    "TWO_MILE": 34
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 33.502976957963796, 
+    "TRACT": "2431", 
+    "ACCESS2": 25.09362009580346, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 34.17351989137535, 
+    "TRACT": "3105", 
+    "ACCESS2": 19.62037177926051, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 25.130130305370567, 
+    "TRACT": "8324", 
+    "ACCESS2": 8.136569353435217, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.897215274470085, 
+    "TRACT": "7403", 
+    "ACCESS2": 0.7242607977272677, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 33.19095181710484, 
+    "TRACT": "2831", 
+    "ACCESS2": 16.2312429338373, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 21
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 19.110755948488617, 
+    "TRACT": "2608", 
+    "ACCESS2": 4.13479171419587, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.320154325626145, 
+    "TRACT": "4312", 
+    "ACCESS2": 5.267923867625395, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 24.68861934513142, 
+    "TRACT": "0409", 
+    "ACCESS2": 10.434550799054847, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.671689230342626, 
+    "TRACT": "2518", 
+    "ACCESS2": 3.158198266483148, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.35673119002646, 
+    "TRACT": "6112", 
+    "ACCESS2": 15.682495413470646, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 19.973131089958994, 
+    "TRACT": "8318", 
+    "ACCESS2": 7.271838934305795, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 29.771917667754288, 
+    "TRACT": "0319", 
+    "ACCESS2": 34.91630646359322, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.382029448873809, 
+    "TRACT": "7115", 
+    "ACCESS2": 1.396041516216879, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 37.123944711455216, 
+    "TRACT": "3404", 
+    "ACCESS2": 35.09841771760903, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 24.674745774209125, 
+    "TRACT": "3515", 
+    "ACCESS2": 11.314589788149664, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 9.907563080623362, 
+    "TRACT": "8056", 
+    "ACCESS2": 1.373220646777162, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.737065553805355, 
+    "TRACT": "5101", 
+    "ACCESS2": 3.7016935630105148, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.288612695497598, 
+    "TRACT": "6204", 
+    "ACCESS2": 4.19384369199907, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 25.68011699933464, 
+    "TRACT": "2206.01", 
+    "ACCESS2": 17.540629611364373, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 27.839938873551024, 
+    "TRACT": "2206.02", 
+    "ACCESS2": 35.05116758673936, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 17.897930783888754, 
+    "TRACT": "2924", 
+    "ACCESS2": 3.5516029619808562, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 29, 
+    "ACCESS1": 32.482999327713, 
+    "TRACT": "0710", 
+    "ACCESS2": 24.734026849543582, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 23.565590375515036, 
+    "TRACT": "0407", 
+    "ACCESS2": 10.194244444385918, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.86356378502431, 
+    "TRACT": "6905", 
+    "ACCESS2": 2.210376731742321, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 10.602677676363522, 
+    "TRACT": "7003.01", 
+    "ACCESS2": 1.529244720931665, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 39, 
+    "ACCESS1": 32.80554076854399, 
+    "TRACT": "2420", 
+    "ACCESS2": 15.662553938547767, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 16
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.513858604308558, 
+    "TRACT": "8345", 
+    "ACCESS2": 2.59164283436472, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 6.746872835076257, 
+    "TRACT": "7705", 
+    "ACCESS2": 0.8156387735148154, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.688026080286947, 
+    "TRACT": "5302", 
+    "ACCESS2": 0.7086945783609132, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 9.842628305519598, 
+    "TRACT": "5205", 
+    "ACCESS2": 4.438037880952198, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 25, 
+    "ACCESS1": 26.30054382066641, 
+    "TRACT": "2216", 
+    "ACCESS2": 9.61100162286405, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.431687654996308, 
+    "TRACT": "7205", 
+    "ACCESS2": 0.8544560452691861, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 25.687557323156337, 
+    "TRACT": "0107.02", 
+    "ACCESS2": 76.87896004243846, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 6.686721656756305, 
+    "TRACT": "5502", 
+    "ACCESS2": 0.5896787891622228, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 28.094895714128086, 
+    "TRACT": "2403", 
+    "ACCESS2": 10.373330481483691, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.725851822489627, 
+    "TRACT": "6912", 
+    "ACCESS2": 1.7630129501769574, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 21.762158649762164, 
+    "TRACT": "0302", 
+    "ACCESS2": 15.265197900268406, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 46, 
+    "ACCESS1": 36.163883773949294, 
+    "TRACT": "2838", 
+    "ACCESS2": 20.447691201610173, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.538288325695568, 
+    "TRACT": "0402.01", 
+    "ACCESS2": 17.853779301948546, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 25.606076441515683, 
+    "TRACT": "0402.02", 
+    "ACCESS2": 28.730386206469912, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 10
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.88949605398644, 
+    "TRACT": "8368", 
+    "ACCESS2": 5.2517427476766025, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 12.91132095797905, 
+    "TRACT": "6404", 
+    "ACCESS2": 4.635880217477934, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 28.7826167010404, 
+    "TRACT": "2425", 
+    "ACCESS2": 18.704013886282915, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.339942139513443, 
+    "TRACT": "4309", 
+    "ACCESS2": 7.381895948625933, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.685703896186107, 
+    "TRACT": "7505", 
+    "ACCESS2": 0.6832758061983668, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.210276549238838, 
+    "TRACT": "2503", 
+    "ACCESS2": 4.344016543855147, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 22.644760345403125, 
+    "TRACT": "8311", 
+    "ACCESS2": 8.653656584667925, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.104380004689105, 
+    "TRACT": "1907.02", 
+    "ACCESS2": 5.573361193669997, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 18.48520358917586, 
+    "TRACT": "1907.01", 
+    "ACCESS2": 6.49828118603684, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.127759284673619, 
+    "TRACT": "8342", 
+    "ACCESS2": 4.245412653869089, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.047442500631387, 
+    "TRACT": "6811", 
+    "ACCESS2": 2.1236905730833544, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.542759301135163, 
+    "TRACT": "1101", 
+    "ACCESS2": 3.7326858941024894, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 40, 
+    "ACCESS1": 30.795318640093768, 
+    "TRACT": "0713", 
+    "ACCESS2": 14.993588097314356, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 6.881814891625341, 
+    "TRACT": "5501", 
+    "ACCESS2": 0.7109102948423321, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 36.97255698631672, 
+    "TRACT": "0620", 
+    "ACCESS2": 40.37465500773537, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.563326538521837, 
+    "TRACT": "7112", 
+    "ACCESS2": 2.9200968700485106, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 30.208484697044298, 
+    "TRACT": "8325", 
+    "ACCESS2": 14.963839043286562, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.944841626323411, 
+    "TRACT": "6712", 
+    "ACCESS2": 2.5261347843707473, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 18.547364568653812, 
+    "TRACT": "1508", 
+    "ACCESS2": 5.969125186406204, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.088344541908144, 
+    "TRACT": "7103", 
+    "ACCESS2": 2.1515536397161834, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 23.71350063314545, 
+    "TRACT": "2226", 
+    "ACCESS2": 7.621757837051299, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.269324384040335, 
+    "TRACT": "1001", 
+    "ACCESS2": 7.981357245770181, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.931137299895726, 
+    "TRACT": "4106", 
+    "ACCESS2": 2.7321419141006777, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 28.586211560033824, 
+    "TRACT": "0512", 
+    "ACCESS2": 13.840599354585818, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 28.439391434263495, 
+    "TRACT": "8410", 
+    "ACCESS2": 13.612443891834562, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 22.947827250159452, 
+    "TRACT": "2228", 
+    "ACCESS2": 8.248890207928968, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.443597801932833, 
+    "TRACT": "6814", 
+    "ACCESS2": 1.9620248832634832, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 25.251028366208146, 
+    "TRACT": "0307.02", 
+    "ACCESS2": 23.693901746017875, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 28.34393126281124, 
+    "TRACT": "0307.03", 
+    "ACCESS2": 41.522376900711805, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 23.897543486909342, 
+    "TRACT": "0307.01", 
+    "ACCESS2": 16.352934264810376, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 33.62815465516906, 
+    "TRACT": "8381", 
+    "ACCESS2": 23.227106561823422, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.271886019007322, 
+    "TRACT": "7305", 
+    "ACCESS2": 1.0818806621597452, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 25.03861426441264, 
+    "TRACT": "2109", 
+    "ACCESS2": 9.01673952259364, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.687510160405761, 
+    "TRACT": "4607", 
+    "ACCESS2": 4.904064516806893, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.131570199498519, 
+    "TRACT": "4112", 
+    "ACCESS2": 2.5474799158301518, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 30, 
+    "ACCESS1": 27.75428276824363, 
+    "TRACT": "3109", 
+    "ACCESS2": 12.97882798023279, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 15.220663740090203, 
+    "TRACT": "8314", 
+    "ACCESS2": 2.4944980757114066, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 25.35383628513019, 
+    "TRACT": "8437", 
+    "ACCESS2": 10.025453019331339, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.938348513485638, 
+    "TRACT": "6711", 
+    "ACCESS2": 2.498745597176327, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 48.990668453283256, 
+    "TRACT": "0812.01", 
+    "ACCESS2": 68.02121475663924, 
+    "YEAR": 2014, 
+    "ONE_MILE": 8, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 15.048382753730339, 
+    "TRACT": "4005", 
+    "ACCESS2": 2.795207135439109, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.340130034747162, 
+    "TRACT": "6915", 
+    "ACCESS2": 2.5764605007294197, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.444033257918695, 
+    "TRACT": "6308", 
+    "ACCESS2": 3.6391076857124864, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 18.803106265597666, 
+    "TRACT": "2922", 
+    "ACCESS2": 3.9722150707153627, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.10958316518346, 
+    "TRACT": "1006", 
+    "ACCESS2": 2.923747265848372, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 53.161092683044025, 
+    "TRACT": "0803", 
+    "ACCESS2": 242.80089923505815, 
+    "YEAR": 2014, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 29
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.31721769199788, 
+    "TRACT": "1701", 
+    "ACCESS2": 3.490512450471157, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 18.069897152315885, 
+    "TRACT": "3006", 
+    "ACCESS2": 3.6896043394605704, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.190497377974737, 
+    "TRACT": "6403", 
+    "ACCESS2": 12.77000346568513, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.56954346154325, 
+    "TRACT": "1906.01", 
+    "ACCESS2": 5.565908440723117, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.070545844018287, 
+    "TRACT": "8386", 
+    "ACCESS2": 5.820883934409332, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.107329474877014, 
+    "TRACT": "1801", 
+    "ACCESS2": 5.20066457595043, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.44250426965962, 
+    "TRACT": "7104", 
+    "ACCESS2": 2.9649162054524587, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.830103068584577, 
+    "TRACT": "8317", 
+    "ACCESS2": 5.910426942445346, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.493041479993469, 
+    "TRACT": "4803", 
+    "ACCESS2": 3.917836495393157, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 9.773232578900528, 
+    "TRACT": "7608.01", 
+    "ACCESS2": 1.2244187660475478, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 71.4799904317033, 
+    "TRACT": "0817", 
+    "ACCESS2": 219.79829322933466, 
+    "YEAR": 2014, 
+    "ONE_MILE": 26, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.988609086508287, 
+    "TRACT": "7608.03", 
+    "ACCESS2": 1.2715287456709028, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.46495828532034, 
+    "TRACT": "7608.02", 
+    "ACCESS2": 1.4272069436409143, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 28.93893956237067, 
+    "TRACT": "6104", 
+    "ACCESS2": 79.29271911515708, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 13.89105485563637, 
+    "TRACT": "8079", 
+    "ACCESS2": 2.89746943692329, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 36, 
+    "ACCESS1": 35.160521619325436, 
+    "TRACT": "8401", 
+    "ACCESS2": 26.704553772200974, 
+    "YEAR": 2014, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.932174806583614, 
+    "TRACT": "6118", 
+    "ACCESS2": 6.2589287159056735, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 26.670212912504223, 
+    "TRACT": "2405", 
+    "ACCESS2": 9.269846163364555, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 32.73944594242127, 
+    "TRACT": "0619.01", 
+    "ACCESS2": 25.68129556922382, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 38.646070350975364, 
+    "TRACT": "0623", 
+    "ACCESS2": 43.391002879212415, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 47, 
+    "ACCESS1": 51.81840649683884, 
+    "TRACT": "8390", 
+    "ACCESS2": 52.98818563518036, 
+    "YEAR": 2014, 
+    "ONE_MILE": 20, 
+    "TWO_MILE": 38
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 12.20079863550192, 
+    "TRACT": "8081", 
+    "ACCESS2": 3.3889505503373676, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 21.897529525998632, 
+    "TRACT": "0304", 
+    "ACCESS2": 9.95041484070643, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 63.102483971441266, 
+    "TRACT": "0818", 
+    "ACCESS2": 155.22762495558612, 
+    "YEAR": 2014, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.021690129619413, 
+    "TRACT": "4913", 
+    "ACCESS2": 0.7884177105714896, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.480764042077537, 
+    "TRACT": "6608", 
+    "ACCESS2": 2.4518449884537876, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.258272901386155, 
+    "TRACT": "5306", 
+    "ACCESS2": 0.6355905045311139, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.666980711576684, 
+    "TRACT": "2610", 
+    "ACCESS2": 3.4343962006681137, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 35, 
+    "ACCESS1": 31.4065831090737, 
+    "TRACT": "2423", 
+    "ACCESS2": 24.27419122549347, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 13.850629722016787, 
+    "TRACT": "6606", 
+    "ACCESS2": 2.5978146138518072, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 37.149931184822194, 
+    "TRACT": "3103", 
+    "ACCESS2": 24.49540987178206, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 24
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 19.20814136661761, 
+    "TRACT": "8365", 
+    "ACCESS2": 4.917323391683255, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.6966692156915, 
+    "TRACT": "2505", 
+    "ACCESS2": 2.4756533633932447, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 23.508106888709328, 
+    "TRACT": "4306", 
+    "ACCESS2": 82.06478656171744, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 25.664329763457058, 
+    "TRACT": "2406", 
+    "ACCESS2": 8.536253336705428, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 10.927295323702003, 
+    "TRACT": "4701", 
+    "ACCESS2": 2.6111380505763537, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 19.47771715063316, 
+    "TRACT": "1902", 
+    "ACCESS2": 7.156124902686598, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.833861740159772, 
+    "TRACT": "3818", 
+    "ACCESS2": 3.6062111742125635, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 21.14100729532828, 
+    "TRACT": "0207.02", 
+    "ACCESS2": 13.643376080499731, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 43.34543579155539, 
+    "TRACT": "0207.01", 
+    "ACCESS2": 324.7976489339669, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 30.074797268118914, 
+    "TRACT": "0626", 
+    "ACCESS2": 16.395723858436114, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.01901569608625, 
+    "TRACT": "7109", 
+    "ACCESS2": 1.5729368611919479, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.627502687393878, 
+    "TRACT": "6714", 
+    "ACCESS2": 2.4502107253370573, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 18.594453608721402, 
+    "TRACT": "8430", 
+    "ACCESS2": 3.844897017543774, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 14.636628579490363, 
+    "TRACT": "2520", 
+    "ACCESS2": 2.3767646437801506, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 19.099209503759784, 
+    "TRACT": "8357", 
+    "ACCESS2": 5.0097617226946705, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.9994050469503, 
+    "TRACT": "3009", 
+    "ACCESS2": 4.717118878581347, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 18.025298446610865, 
+    "TRACT": "1507", 
+    "ACCESS2": 6.253270416286118, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.025826434641534, 
+    "TRACT": "8305", 
+    "ACCESS2": 3.59823692702808, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 13.004912787567887, 
+    "TRACT": "6812", 
+    "ACCESS2": 2.083514589357609, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 25.72995629645203, 
+    "TRACT": "1606.01", 
+    "ACCESS2": 19.53846609070209, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 30.731451461077555, 
+    "TRACT": "1606.02", 
+    "ACCESS2": 64.44476671594302, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.923267910951315, 
+    "TRACT": "6904", 
+    "ACCESS2": 2.118610315392474, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.53706240791088, 
+    "TRACT": "7107", 
+    "ACCESS2": 1.935259689707324, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 26, 
+    "ACCESS1": 26.44241274004568, 
+    "TRACT": "2222", 
+    "ACCESS2": 9.16526849073129, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 64.45522982570759, 
+    "TRACT": "0816", 
+    "ACCESS2": 121.47479731679813, 
+    "YEAR": 2014, 
+    "ONE_MILE": 25, 
+    "TWO_MILE": 32
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 36.76829600799007, 
+    "TRACT": "0707", 
+    "ACCESS2": 110.00439042653329, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 11.688304223049066, 
+    "TRACT": "7106", 
+    "ACCESS2": 2.1540180426737088, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 18.13257055449322, 
+    "TRACT": "5704", 
+    "ACCESS2": 10.219339839481625, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 21.864375297621702, 
+    "TRACT": "1407.02", 
+    "ACCESS2": 9.172436214372071, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 82.71697782740532, 
+    "TRACT": "0611", 
+    "ACCESS2": 560.2690495126692, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 21.299378040066173, 
+    "TRACT": "1407.01", 
+    "ACCESS2": 7.894380037442823, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.689016158651164, 
+    "TRACT": "4303", 
+    "ACCESS2": 4.05402598840934, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 21.127131511809193, 
+    "TRACT": "2004.01", 
+    "ACCESS2": 8.380235608851988, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 22.214538125315723, 
+    "TRACT": "2004.02", 
+    "ACCESS2": 9.533644204122636, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 39.741787154789826, 
+    "TRACT": "0605", 
+    "ACCESS2": 56.008777830350866, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.01193125204999, 
+    "TRACT": "5705", 
+    "ACCESS2": 9.328782587578381, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 21.652490311409, 
+    "TRACT": "6103", 
+    "ACCESS2": 10.336809710445607, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 33.25702092570662, 
+    "TRACT": "3106", 
+    "ACCESS2": 20.822640627727598, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 17
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 22.890771322522642, 
+    "TRACT": "8366", 
+    "ACCESS2": 7.172817104293214, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.212022171556699, 
+    "TRACT": "0901", 
+    "ACCESS2": 1.6019963770066763, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 30.279342914765547, 
+    "TRACT": "6009", 
+    "ACCESS2": 21.109307278817703, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 16, 
+    "ACCESS1": 24.582243749423867, 
+    "TRACT": "2106.01", 
+    "ACCESS2": 13.87191437506013, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 17.348249498144604, 
+    "TRACT": "2511", 
+    "ACCESS2": 4.149827827665306, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 23.602062461584534, 
+    "TRACT": "2301", 
+    "ACCESS2": 7.3364781783372806, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 19.170490731895818, 
+    "TRACT": "1903", 
+    "ACCESS2": 8.634712293075003, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 29.249624492735236, 
+    "TRACT": "0312", 
+    "ACCESS2": 39.748036629937765, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.038090917202354, 
+    "TRACT": "3018.01", 
+    "ACCESS2": 2.8884342471167814, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 16.83188985652282, 
+    "TRACT": "3018.02", 
+    "ACCESS2": 3.1676841336928545, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 16.59526051635399, 
+    "TRACT": "3018.03", 
+    "ACCESS2": 3.1408199543364623, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 13, 
+    "ACCESS1": 20.92372573112683, 
+    "TRACT": "0209.01", 
+    "ACCESS2": 10.284305606757243, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 47.5387603124177, 
+    "TRACT": "0612", 
+    "ACCESS2": 102.83327693302415, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.358340611064198, 
+    "TRACT": "5601", 
+    "ACCESS2": 3.4967384228211293, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 21.177225186571352, 
+    "TRACT": "0209.02", 
+    "ACCESS2": 10.654635509585454, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 48.174864647447265, 
+    "TRACT": "3204", 
+    "ACCESS2": 46.45102430045506, 
+    "YEAR": 2014, 
+    "ONE_MILE": 18, 
+    "TWO_MILE": 35
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 16.348063701659015, 
+    "TRACT": "5611", 
+    "ACCESS2": 10.929697126182116, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 23.228943180425997, 
+    "TRACT": "0309", 
+    "ACCESS2": 11.00540536550278, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 124.21540036741989, 
+    "TRACT": "3405", 
+    "ACCESS2": 9368.936783598967, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.0130040664853, 
+    "TRACT": "8352", 
+    "ACCESS2": 6.463821461596515, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 19.611658558781368, 
+    "TRACT": "0105.03", 
+    "ACCESS2": 9.384003493918708, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 18.219851121847938, 
+    "TRACT": "0105.01", 
+    "ACCESS2": 9.180055591064104, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.49903303491279, 
+    "TRACT": "6909", 
+    "ACCESS2": 2.1861434822136747, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.457001223315201, 
+    "TRACT": "8363", 
+    "ACCESS2": 2.9263670684810186, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 18.49070421316182, 
+    "TRACT": "8358", 
+    "ACCESS2": 4.557096500859447, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 20.53035898446917, 
+    "TRACT": "6115", 
+    "ACCESS2": 12.70141683629561, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 19.593494474452516, 
+    "TRACT": "1603", 
+    "ACCESS2": 5.8061559533060185, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 18.660489611767865, 
+    "TRACT": "3007", 
+    "ACCESS2": 3.979224654633518, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 26.67803860488737, 
+    "TRACT": "0315.02", 
+    "ACCESS2": 14.265924712329426, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 25.727729139173917, 
+    "TRACT": "0315.01", 
+    "ACCESS2": 13.885802912264724, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 30.880757033071287, 
+    "TRACT": "0702", 
+    "ACCESS2": 17.4719335429635, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 13.157694502610482, 
+    "TRACT": "4503", 
+    "ACCESS2": 7.518878361273929, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 19.263451563156835, 
+    "TRACT": "5806", 
+    "ACCESS2": 5.972114121735389, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 13.411371189513602, 
+    "TRACT": "6503.02", 
+    "ACCESS2": 2.6395800722872798, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 27.174521271276053, 
+    "TRACT": "0311", 
+    "ACCESS2": 24.18157975204716, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 24.22608708064058, 
+    "TRACT": "2408", 
+    "ACCESS2": 7.633687721391486, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 19.541655750508234, 
+    "TRACT": "2601", 
+    "ACCESS2": 4.436390723345821, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 14.377173874033932, 
+    "TRACT": "1709", 
+    "ACCESS2": 6.654838679369471, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 14.923322028890393, 
+    "TRACT": "2514", 
+    "ACCESS2": 2.5591408508598232, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 24.83552423677386, 
+    "TRACT": "2214", 
+    "ACCESS2": 8.172901201485685, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 20.19752781303041, 
+    "TRACT": "1612", 
+    "ACCESS2": 6.950774014697897, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 22.957789310836745, 
+    "TRACT": "2302", 
+    "ACCESS2": 7.146132560462652, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.790212509788427, 
+    "TRACT": "4203", 
+    "ACCESS2": 2.536802130088247, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.393300832817417, 
+    "TRACT": "8233.04", 
+    "ACCESS2": 0.6207111268145671, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.290398669390417, 
+    "TRACT": "1512", 
+    "ACCESS2": 24.02060204591914, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 21.30151157443674, 
+    "TRACT": "3805", 
+    "ACCESS2": 6.828806098147233, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.528127928849514, 
+    "TRACT": "3005", 
+    "ACCESS2": 3.445604717442979, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.12273501721791, 
+    "TRACT": "7202", 
+    "ACCESS2": 1.0459282187767043, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 16.861716621641296, 
+    "TRACT": "3902", 
+    "ACCESS2": 3.5566422065134944, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.357822239944902, 
+    "TRACT": "3017.02", 
+    "ACCESS2": 3.488090797905019, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 17.52197307212831, 
+    "TRACT": "3017.01", 
+    "ACCESS2": 3.5031010833900886, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 10.079629121828415, 
+    "TRACT": "4903", 
+    "ACCESS2": 1.420234448229765, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.088412371033854, 
+    "TRACT": "8421", 
+    "ACCESS2": 4.684830479628124, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 43.00609132408979, 
+    "TRACT": "0802.02", 
+    "ACCESS2": 51.4351101840409, 
+    "YEAR": 2014, 
+    "ONE_MILE": 7, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 29.531745199722103, 
+    "TRACT": "8429", 
+    "ACCESS2": 14.650542703352842, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.787810138387353, 
+    "TRACT": "4909.02", 
+    "ACCESS2": 1.0172225872300342, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 32.852227999048395, 
+    "TRACT": "6006", 
+    "ACCESS2": 30.73967018511064, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.407575186695464, 
+    "TRACT": "4909.01", 
+    "ACCESS2": 0.9089522395461592, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 8.003195563601272, 
+    "TRACT": "8388", 
+    "ACCESS2": 0.9992007587686996, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 35.0390048489776, 
+    "TRACT": "0629", 
+    "ACCESS2": 31.171144268548282, 
+    "YEAR": 2014, 
+    "ONE_MILE": 10, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 21.899828575508092, 
+    "TRACT": "1401", 
+    "ACCESS2": 8.757396563168047, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 12.739610742559753, 
+    "TRACT": "6610", 
+    "ACCESS2": 2.5399562615631504, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 22.047778140164407, 
+    "TRACT": "2308", 
+    "ACCESS2": 6.381723970002932, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 15.161851767071845, 
+    "TRACT": "5602", 
+    "ACCESS2": 3.792547815071393, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 24.118354745233514, 
+    "TRACT": "2211", 
+    "ACCESS2": 10.321192760394878, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 21.656581602300534, 
+    "TRACT": "1502", 
+    "ACCESS2": 32.274006403059694, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 13.978510576032164, 
+    "TRACT": "4206", 
+    "ACCESS2": 2.4353460231917112, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 15, 
+    "ACCESS1": 23.144913926430235, 
+    "TRACT": "8396", 
+    "ACCESS2": 8.778222611028117, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.892047040717802, 
+    "TRACT": "5803", 
+    "ACCESS2": 4.290407160658318, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 18, 
+    "ACCESS1": 38.88925497369933, 
+    "TRACT": "0618", 
+    "ACCESS2": 50.092773303828295, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 44, 
+    "ACCESS1": 40.929957687693914, 
+    "TRACT": "2435", 
+    "ACCESS2": 27.570702204366377, 
+    "YEAR": 2014, 
+    "ONE_MILE": 5, 
+    "TWO_MILE": 33
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 8.092018452705547, 
+    "TRACT": "7401", 
+    "ACCESS2": 0.7694452121042132, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 17.71537076854741, 
+    "TRACT": "2604", 
+    "ACCESS2": 3.586114586316402, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 15.134756792821435, 
+    "TRACT": "4105", 
+    "ACCESS2": 2.8077770440082888, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 11.287133515083031, 
+    "TRACT": "4804", 
+    "ACCESS2": 3.2491020232749945, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.974638452944848, 
+    "TRACT": "6704", 
+    "ACCESS2": 3.8391507997515903, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 15.61189452273136, 
+    "TRACT": "1913.01", 
+    "ACCESS2": 3.7014434668968903, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 16.59748290793945, 
+    "TRACT": "1913.02", 
+    "ACCESS2": 4.212318137426194, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 28, 
+    "ACCESS1": 30.212637623826797, 
+    "TRACT": "2429", 
+    "ACCESS2": 18.516318341091083, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 15.23045855887484, 
+    "TRACT": "6203", 
+    "ACCESS2": 4.546100441425536, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 16.836576261428537, 
+    "TRACT": "2925", 
+    "ACCESS2": 3.098302492001829, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 24.91961288371811, 
+    "TRACT": "2205", 
+    "ACCESS2": 11.666869591544451, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.060125704066406, 
+    "TRACT": "8424", 
+    "ACCESS2": 1.6049255740170596, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.536154015442932, 
+    "TRACT": "4906", 
+    "ACCESS2": 1.1827745412906547, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 18.753250407148897, 
+    "TRACT": "8414", 
+    "ACCESS2": 3.971590747500301, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 5, 
+    "ACCESS1": 17.093168401671445, 
+    "TRACT": "5701", 
+    "ACCESS2": 4.735957697970807, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 11.0181063964699, 
+    "TRACT": "0903", 
+    "ACCESS2": 2.061407853308812, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 43, 
+    "ACCESS1": 40.957371158917965, 
+    "TRACT": "3102", 
+    "ACCESS2": 34.738871724170046, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 28
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 27.088758507365295, 
+    "TRACT": "0632", 
+    "ACCESS2": 11.78868799520056, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 11
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.433676193431568, 
+    "TRACT": "8349", 
+    "ACCESS2": 2.2823908872439067, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 27.119719479490445, 
+    "TRACT": "0511", 
+    "ACCESS2": 11.513040939270075, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 19, 
+    "ACCESS1": 54.66504802962928, 
+    "TRACT": "0610", 
+    "ACCESS2": 159.0759762412969, 
+    "YEAR": 2014, 
+    "ONE_MILE": 9, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.081923552145394, 
+    "TRACT": "6303", 
+    "ACCESS2": 6.303390254139486, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 14.719967002253757, 
+    "TRACT": "6709", 
+    "ACCESS2": 2.8443844227592936, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 21.8095013448561, 
+    "TRACT": "2305", 
+    "ACCESS2": 11.794182189623173, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 21.512264559357796, 
+    "TRACT": "8373", 
+    "ACCESS2": 5.4735967767408695, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 38, 
+    "ACCESS1": 34.04406031122244, 
+    "TRACT": "2432", 
+    "ACCESS2": 20.571815913941425, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 20, 
+    "ACCESS1": 24.652768906896636, 
+    "TRACT": "2107", 
+    "ACCESS2": 10.810706089972316, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 21.9745321836599, 
+    "TRACT": "2003", 
+    "ACCESS2": 9.805892480281972, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 37, 
+    "ACCESS1": 28.609821604636323, 
+    "TRACT": "0714", 
+    "ACCESS2": 12.016711218372006, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 21.16419081392175, 
+    "TRACT": "1901", 
+    "ACCESS2": 11.959159841729, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 48, 
+    "ACCESS1": 35.265844193331674, 
+    "TRACT": "2832", 
+    "ACCESS2": 18.482397564045293, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 22.315764733737566, 
+    "TRACT": "8369", 
+    "ACCESS2": 6.217727303274661, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 15.848650955517297, 
+    "TRACT": "3905", 
+    "ACCESS2": 3.0820224867139077, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 24, 
+    "ACCESS1": 29.512353151910407, 
+    "TRACT": "2424", 
+    "ACCESS2": 17.21689573076039, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 19.487263277160274, 
+    "TRACT": "6407", 
+    "ACCESS2": 44.12700802930038, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 19.60284849521229, 
+    "TRACT": "2912", 
+    "ACCESS2": 4.354037842580978, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 42, 
+    "ACCESS1": 58.22811129781008, 
+    "TRACT": "0815", 
+    "ACCESS2": 79.00848034611447, 
+    "YEAR": 2014, 
+    "ONE_MILE": 21, 
+    "TWO_MILE": 31
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 26.534958407897218, 
+    "TRACT": "0318", 
+    "ACCESS2": 16.27435011179596, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 14
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 7, 
+    "ACCESS1": 19.837614826778196, 
+    "TRACT": "6111", 
+    "ACCESS2": 8.804697773901724, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 18.468550561518235, 
+    "TRACT": "2607", 
+    "ACCESS2": 3.8240675385463443, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 15.894796003277342, 
+    "TRACT": "6701", 
+    "ACCESS2": 3.589848362997972, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 22.219903874122405, 
+    "TRACT": "8306", 
+    "ACCESS2": 20.22608395378609, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 21, 
+    "ACCESS1": 27.07867000321573, 
+    "TRACT": "1607", 
+    "ACCESS2": 25.153710717157217, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 20.410031425639634, 
+    "TRACT": "0106", 
+    "ACCESS2": 16.428901321442936, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 16.80336544627319, 
+    "TRACT": "6304", 
+    "ACCESS2": 5.188254459099295, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 4, 
+    "ACCESS1": 11.247986790032492, 
+    "TRACT": "5202", 
+    "ACCESS2": 5.371528768453968, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 24.07219204794238, 
+    "TRACT": "0408", 
+    "ACCESS2": 10.326550462345446, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 7
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 13.450726123628282, 
+    "TRACT": "4207", 
+    "ACCESS2": 2.3370148768588916, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 23, 
+    "ACCESS1": 24.219483747518268, 
+    "TRACT": "0406", 
+    "ACCESS2": 10.297401195381791, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 13
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 36.17013349446512, 
+    "TRACT": "0717", 
+    "ACCESS2": 28.551240731773312, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 12
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.145662125922707, 
+    "TRACT": "1103", 
+    "ACCESS2": 3.190219504445575, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 10.069382017300946, 
+    "TRACT": "7003.02", 
+    "ACCESS2": 1.3348363374184333, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 17.245965889690044, 
+    "TRACT": "6120", 
+    "ACCESS2": 4.564815433121481, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 2
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 26.38384394429144, 
+    "TRACT": "2427", 
+    "ACCESS2": 16.40917524781195, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 2, 
+    "ACCESS1": 14.860465729760929, 
+    "TRACT": "8346", 
+    "ACCESS2": 2.756189796297022, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 41, 
+    "ACCESS1": 73.78382838486543, 
+    "TRACT": "8411", 
+    "ACCESS2": 335.2242773681017, 
+    "YEAR": 2014, 
+    "ONE_MILE": 11, 
+    "TWO_MILE": 19
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 6, 
+    "ACCESS1": 14.76860658699056, 
+    "TRACT": "1505.01", 
+    "ACCESS2": 3.4274860852547158, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 3
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.741041005445057, 
+    "TRACT": "5301", 
+    "ACCESS2": 0.7420456118196693, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 33, 
+    "ACCESS1": 28.931526837582602, 
+    "TRACT": "2402", 
+    "ACCESS2": 11.066380414259543, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 8
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 8.499213844955282, 
+    "TRACT": "7206", 
+    "ACCESS2": 0.87067532068133, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 22, 
+    "ACCESS1": 27.266453880079453, 
+    "TRACT": "0514", 
+    "ACCESS2": 11.739201149864655, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 1, 
+    "ACCESS1": 9.120338989998993, 
+    "TRACT": "4907", 
+    "ACCESS2": 1.0642144898955928, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 9, 
+    "ACCESS1": 17.468281875180722, 
+    "TRACT": "0203.02", 
+    "ACCESS2": 6.402918243724882, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 8, 
+    "ACCESS1": 17.010659516310955, 
+    "TRACT": "0203.01", 
+    "ACCESS2": 5.682477054693948, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 6
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 10, 
+    "ACCESS1": 28.99691937431901, 
+    "TRACT": "2106.02", 
+    "ACCESS2": 54.143577612861726, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 45, 
+    "ACCESS1": 36.576546536609406, 
+    "TRACT": "8422", 
+    "ACCESS2": 21.899471954241317, 
+    "YEAR": 2014, 
+    "ONE_MILE": 4, 
+    "TWO_MILE": 27
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 17, 
+    "ACCESS1": 26.473422984253663, 
+    "TRACT": "8399", 
+    "ACCESS2": 16.984612873132285, 
+    "YEAR": 2014, 
+    "ONE_MILE": 2, 
+    "TWO_MILE": 15
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 7.663946369962548, 
+    "TRACT": "7504", 
+    "ACCESS2": 0.6763328374781343, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 27, 
+    "ACCESS1": 27.63793618174544, 
+    "TRACT": "8310", 
+    "ACCESS2": 10.145320256934946, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 4
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 0, 
+    "ACCESS1": 17.15945424017586, 
+    "TRACT": "2909", 
+    "ACCESS2": 3.2106110201593094, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 12, 
+    "ACCESS1": 25.250809332541575, 
+    "TRACT": "2410", 
+    "ACCESS2": 8.65853447386475, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 5
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.637600302103683, 
+    "TRACT": "1707", 
+    "ACCESS2": 3.27629743870283, 
+    "YEAR": 2014, 
+    "ONE_MILE": 1, 
+    "TWO_MILE": 1
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 11, 
+    "ACCESS1": 21.12393362468484, 
+    "TRACT": "0303", 
+    "ACCESS2": 10.572965698197045, 
+    "YEAR": 2014, 
+    "ONE_MILE": 3, 
+    "TWO_MILE": 9
+  }, 
+  {
+    "BUSINESS_TYPE": "Broker", 
+    "THREE_MILE": 3, 
+    "ACCESS1": 12.36697697533203, 
+    "TRACT": "6911", 
+    "ACCESS2": 1.919827901197998, 
+    "YEAR": 2014, 
+    "ONE_MILE": 0, 
+    "TWO_MILE": 0
+  }
+]

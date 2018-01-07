@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.0341676392129826, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.5841663055556429, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.6498116642359608, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.9233524823309947, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.862048332677309, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.223449405585687, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.7980172623389274, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.881258679074737, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.09112726720678946, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.5953255398659245, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.1529643750247206, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.8324830064055448, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.12586199309211785, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.940888888136151, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.19819531912738286, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.9864004271509945, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.11781777977921784, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.6084055733768234, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.1427757517324439, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.8487137791809125, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.9257382787298563, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.2366257649089842, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.00814367126864821, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.18045606435192832, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.0671276363926753, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.1576400878424304, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.11157934723726926, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.0551358930295205, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.05130539059728616, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.8469623560387727, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.111999197992752, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.063707123513689, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 13.022135913151992, 
+    "YEAR": 2014, 
+    "ACCESS1": 13.579619535886652, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.015340477996872628, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.2475849623682536, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.007069916749977841, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.11887964340548002, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.3844055388354211, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.8993991789681917, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.7031591286284016, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.023494157332673, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 5.827758416112788, 
+    "YEAR": 2014, 
+    "ACCESS1": 9.507437338437377, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 4.790376997797073, 
+    "YEAR": 2014, 
+    "ACCESS1": 9.874452365092308, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.01778423202090841, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.32644722505573626, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.16339354304192627, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.2715851645726897, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.2502883619811369, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.2318862290641577, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.14171669411392285, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.0601265697718523, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 3.341760199705765, 
+    "YEAR": 2014, 
+    "ACCESS1": 14.687633061931278, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 3.1045758957616485, 
+    "YEAR": 2014, 
+    "ACCESS1": 9.458420050410462, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.9368101368969136, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.31421134775698, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.04320902613972, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.9901392315853257, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.933208978682746, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.7107697976923495, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 9.203054222961141, 
+    "YEAR": 2014, 
+    "ACCESS1": 20.757612404964018, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 53.80735419085964, 
+    "YEAR": 2014, 
+    "ACCESS1": 29.69735822906292, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.022410184286241773, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.4230039211034036, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.578533425153012, 
+    "YEAR": 2014, 
+    "ACCESS1": 7.7648199329340155, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.7888119927680761, 
+    "YEAR": 2014, 
+    "ACCESS1": 4.550971459323592, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.2009689234747865, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.310926027087919, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.08032704506691729, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.2666212052547907, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.08620122579070962, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.0160740956658583, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.2474193235235327, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.822058145983804, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 1.031998046955124, 
+    "YEAR": 2014, 
+    "ACCESS1": 6.366792858144235, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.1376502545010924, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.737098152077699, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 2.8485011309603645, 
+    "YEAR": 2014, 
+    "ACCESS1": 8.610306504501956, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.0767449246602048, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.9587565648185604, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.07548458171289667, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.6698705535046292, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.4945708919878815, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.8562457631463007, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.04192491682141654, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.8187023185908232, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.9033574027813922, 
+    "YEAR": 2014, 
+    "ACCESS1": 5.951143952779514, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.026991715223747693, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.46454716313552896, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.03289167434529921, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.36213545812595194, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.7345926420465607, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.6330929498196372, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 151.76248571584026, 
+    "YEAR": 2014, 
+    "ACCESS1": 34.15909703289753, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.23713958974188176, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.66305902520609, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.009039958032261621, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.19006449104052253, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 5.766720450510581, 
+    "YEAR": 2014, 
+    "ACCESS1": 7.608419976532132, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.8113720241037048, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.509450862607968, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 20.61239890886959, 
+    "YEAR": 2014, 
+    "ACCESS1": 24.100204035370723, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.11657205081241304, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.0764785618231876, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.2551321668892024, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.108433868154114, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.0948166928969625, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.1504229432295905, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.10559188690556992, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.215566986076552, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.060137561298261484, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.9801507483297388, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.030372290899097362, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.6032648323406405, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.218279113113317, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.1863300778593597, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.08293788060390797, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.151423770520321, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.07266704148995479, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.7622204940266913, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.04328638614955541, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.7782960257524671, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.24386458899698443, 
+    "YEAR": 2014, 
+    "ACCESS1": 2.2049056157484928, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.1282950225792478, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.1312451255998406, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.11907497499783086, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.6886485418462178, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.30134436538087855, 
+    "YEAR": 2014, 
+    "ACCESS1": 3.196127273742095, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.2597984888159676, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.4324357097624119, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.04795516866682944, 
+    "YEAR": 2014, 
+    "ACCESS1": 0.5353624550192567, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 4.431877967379733, 
+    "YEAR": 2014, 
+    "ACCESS1": 14.116754555017156, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 0.14250513779203286, 
+    "YEAR": 2014, 
+    "ACCESS1": 1.5090678457288398, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Secondhand Dealer - Children's Products", 
+    "ACCESS2": 3.3154668442942055, 
+    "YEAR": 2014, 
+    "ACCESS1": 14.007882084483978, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]

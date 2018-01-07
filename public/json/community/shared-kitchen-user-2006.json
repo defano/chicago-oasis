@@ -1,0 +1,541 @@
+[
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.0465642560709638, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.4822759159314995, 
+    "COMMUNITY_AREA": "CALUMET HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.13505761987603718, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.2716666639313083, 
+    "COMMUNITY_AREA": "ROGERS PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.21213950782960414, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.5242304456259357, 
+    "COMMUNITY_AREA": "LINCOLN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.7894446523482096, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.3989393200873566, 
+    "COMMUNITY_AREA": "NORTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.10438783716092159, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.2050620963554461, 
+    "COMMUNITY_AREA": "ROSELAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.18125598897040368, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.4093204564699993, 
+    "COMMUNITY_AREA": "CHICAGO LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.21425173997105282, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.7897471067483417, 
+    "COMMUNITY_AREA": "SOUTH SHORE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.1854081488727686, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.410126779729456, 
+    "COMMUNITY_AREA": "DOUGLAS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.2356978049712855, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.6087914158930836, 
+    "COMMUNITY_AREA": "WOODLAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.35298711950806017, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.0544832740331618, 
+    "COMMUNITY_AREA": "HYDE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.053396042117780505, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.5635931422657551, 
+    "COMMUNITY_AREA": "FOREST GLEN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.00827008600750953, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.12860709140398663, 
+    "COMMUNITY_AREA": "HEGEWISCH"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.09691938921877509, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.9832214111298433, 
+    "COMMUNITY_AREA": "SOUTH CHICAGO"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.10654161248300728, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.7282327867583247, 
+    "COMMUNITY_AREA": "ARCHER HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.05143351004099426, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.5992042720426644, 
+    "COMMUNITY_AREA": "BEVERLY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.29496868228626005, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.8773669100511539, 
+    "COMMUNITY_AREA": "UPTOWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.28308405867064806, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.6780959570781628, 
+    "COMMUNITY_AREA": "AVONDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.02260017635406665, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.21255146568204758, 
+    "COMMUNITY_AREA": "AVALON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.009322321047472043, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.0965521674923564, 
+    "COMMUNITY_AREA": "BURNSIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 2.3550481980424287, 
+    "YEAR": 2006, 
+    "ACCESS1": 4.9507086926574555, 
+    "COMMUNITY_AREA": "LOWER WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.8246800996987534, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.815084894679098, 
+    "COMMUNITY_AREA": "SOUTH LAWNDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.10522662700699215, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.073110411232838, 
+    "COMMUNITY_AREA": "DUNNING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.17955536124962698, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.4036877747465446, 
+    "COMMUNITY_AREA": "ALBANY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.020507658339573506, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.24763989844457124, 
+    "COMMUNITY_AREA": "PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 20.21730697054031, 
+    "YEAR": 2006, 
+    "ACCESS1": 9.596070733944991, 
+    "COMMUNITY_AREA": "LOOP"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.2603269780005673, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.52420549641349, 
+    "COMMUNITY_AREA": "BRIDGEPORT"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.17835533991826236, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.633123306553192, 
+    "COMMUNITY_AREA": "AUBURN GRESHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.466528789969794, 
+    "YEAR": 2006, 
+    "ACCESS1": 7.0223638779677655, 
+    "COMMUNITY_AREA": "LAKE VIEW"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.6271796347423172, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.050278528854719, 
+    "COMMUNITY_AREA": "HUMBOLDT PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.37287850652139803, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.9282101898480426, 
+    "COMMUNITY_AREA": "WEST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.05798985313838334, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.6801439114535371, 
+    "COMMUNITY_AREA": "NORWOOD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.7816382972834525, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.0485543485580133, 
+    "COMMUNITY_AREA": "EAST GARFIELD PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.1882587881629016, 
+    "YEAR": 2006, 
+    "ACCESS1": 5.60725790603562, 
+    "COMMUNITY_AREA": "LOGAN SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.18829314929984184, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.6186884956909626, 
+    "COMMUNITY_AREA": "PORTAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.027245469519428644, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.3294278342161548, 
+    "COMMUNITY_AREA": "SOUTH DEERING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.7917304065166235, 
+    "YEAR": 2006, 
+    "ACCESS1": 5.921108657932108, 
+    "COMMUNITY_AREA": "LINCOLN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.0594966884984117, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.5969223277257057, 
+    "COMMUNITY_AREA": "JEFFERSON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.2785997252389445, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.1732539188214264, 
+    "COMMUNITY_AREA": "EDGEWATER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.11129321777832599, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.0537761998695734, 
+    "COMMUNITY_AREA": "CHATHAM"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.08164950216700653, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.6988055139870588, 
+    "COMMUNITY_AREA": "WEST LAWN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.16570438680625876, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.5200841331822572, 
+    "COMMUNITY_AREA": "WEST RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 8.539999497394518, 
+    "YEAR": 2006, 
+    "ACCESS1": 11.77947986080064, 
+    "COMMUNITY_AREA": "NEAR WEST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.23857035810247718, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.6117517847907838, 
+    "COMMUNITY_AREA": "ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.4620911225715934, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.534095133637117, 
+    "COMMUNITY_AREA": "NORTH CENTER"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.17030665606479, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.008880510872149, 
+    "COMMUNITY_AREA": "WASHINGTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 1.7020271397966784, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.16759827052527, 
+    "COMMUNITY_AREA": "NEAR SOUTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.04516636572333507, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.6323023320960909, 
+    "COMMUNITY_AREA": "OHARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.04111761528880276, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.573240758309411, 
+    "COMMUNITY_AREA": "WEST PULLMAN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 8.476173952848972, 
+    "YEAR": 2006, 
+    "ACCESS1": 12.62180197800007, 
+    "COMMUNITY_AREA": "NEAR NORTH SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.02328826825854869, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.3050225649666178, 
+    "COMMUNITY_AREA": "MOUNT GREENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.09639806548399406, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.43654447725527123, 
+    "COMMUNITY_AREA": "FULLER PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.02236185805897073, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.21145488000813256, 
+    "COMMUNITY_AREA": "MONTCLARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.29179450566774456, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.0868971149041484, 
+    "COMMUNITY_AREA": "IRVING PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.7704956736008595, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.3852712760446937, 
+    "COMMUNITY_AREA": "GRAND BOULEVARD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.008853649148282045, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.13296829321626794, 
+    "COMMUNITY_AREA": "RIVERDALE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.15044711850797435, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.948887173694697, 
+    "COMMUNITY_AREA": "HERMOSA"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.051388073762019995, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.45307085908317507, 
+    "COMMUNITY_AREA": "NORTH PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.28785694230374376, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.2041359581154287, 
+    "COMMUNITY_AREA": "BELMONT CRAGIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.891896876437932, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.061504499357245, 
+    "COMMUNITY_AREA": "ARMOUR SQUARE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.3903238095547272, 
+    "YEAR": 2006, 
+    "ACCESS1": 2.7117521711127504, 
+    "COMMUNITY_AREA": "WEST ENGLEWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.28769822666455735, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.4160467722387584, 
+    "COMMUNITY_AREA": "KENWOOD"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.0746513577403237, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.7207229981733425, 
+    "COMMUNITY_AREA": "CLEARING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.06756990817981384, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.7342967069806869, 
+    "COMMUNITY_AREA": "WASHINGTON HEIGHTS"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.03647951107586446, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.46718406313927124, 
+    "COMMUNITY_AREA": "EAST SIDE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.15404590544815797, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.2931147558281437, 
+    "COMMUNITY_AREA": "GARFIELD RIDGE"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.08032317016531298, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.8005026179644663, 
+    "COMMUNITY_AREA": "ASHBURN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.0708114478012779, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.5317562675688245, 
+    "COMMUNITY_AREA": "WEST ELSDON"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.04079909825249077, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.5340600879426004, 
+    "COMMUNITY_AREA": "MORGAN PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.35744795488315895, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.8853249231460867, 
+    "COMMUNITY_AREA": "BRIGHTON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.3187643539641347, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.2589275712062076, 
+    "COMMUNITY_AREA": "MCKINLEY PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.19573974062519925, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.5293168154913408, 
+    "COMMUNITY_AREA": "GREATER GRAND CROSSING"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.6297780191384038, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.258362649385001, 
+    "COMMUNITY_AREA": "NEW CITY"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.022877004053419043, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.30242292241593366, 
+    "COMMUNITY_AREA": "EDISON PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.20171141522603642, 
+    "YEAR": 2006, 
+    "ACCESS1": 0.775089096847168, 
+    "COMMUNITY_AREA": "OAKLAND"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.5206016298976937, 
+    "YEAR": 2006, 
+    "ACCESS1": 3.5202719676975427, 
+    "COMMUNITY_AREA": "AUSTIN"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 0.1890449412647953, 
+    "YEAR": 2006, 
+    "ACCESS1": 1.2274376400960887, 
+    "COMMUNITY_AREA": "GAGE PARK"
+  }, 
+  {
+    "BUSINESS_TYPE": "Shared Kitchen User", 
+    "ACCESS2": 3.5783588501531893, 
+    "YEAR": 2006, 
+    "ACCESS1": 10.21037461151488, 
+    "COMMUNITY_AREA": "WEST TOWN"
+  }
+]
